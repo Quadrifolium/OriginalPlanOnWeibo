@@ -8,13 +8,13 @@ categories: [ 'original-plan' ]
 <div class="weibo-info">
   <a href="http://weibo.com/5626539553/EuzCZC6cJ">2017-02-08 13:14</a>
 </div>
-#跨次元偶像# “R”计划一期生暨易安音乐社第二名成员@易安音乐社-林墨 今日二次元形象公开。别看林墨平时性格大大咧咧，可是他也是个心思缜密的人。2月14日@易安音乐社 全漫画平台上线，届时敬请关注订阅哦[耶]
+[#TransdimensionalIdol](http://weibo.com/p/100808fab985aab0bfb2724bf4d29856cf6ee7) Member of the first session of “Plan R” and of the Music Club of Yi An – [@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042) now has the virtual character published. Though seemed careless all the time, he is also a thoughtful man. The weekly manga about [@YiAnMusicClub](http://weibo.com/u/6094546964) will be released from 14th Feb., don't forget to follow and subscribe. ![yeah](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/ye_org.gif)
 
 <!-- more -->
 
 *Image*  
 ![Image](http://wx3.sinaimg.cn/mw690/0068MnXXgy1fcizj1bbhtj31kw1cqqv5.jpg)  
 *Words on image:*  
-易安中学  
-林墨（初二7班学生）  
-顽皮毒舌，跟死党在一起可以闹翻天，表面上嘻嘻哈哈，却总是用笑容去掩饰心声。一个人的时候会很安静，会去思考更多更复杂的东西。
+Yi An Middle School  
+LIN Mo (Student in Class 7, Junior Grade 2)  
+Naughty, tart in words, easy to raise a rumpus with sworn friends. Seems jovial, but the smile covers the thoughts in mind. Become quiet and start to think many complicated matters when staying alone.

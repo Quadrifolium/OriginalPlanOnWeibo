@@ -8,13 +8,13 @@ categories: [ 'original-plan' ]
 <div class="weibo-info">
   <a href="http://weibo.com/5626539553/EuSyoDrUn">2017-02-10 13:25</a>
 </div>
-#跨次元偶像#“R”计划一期生暨易安音乐社第四名成员@易安音乐社-池忆 公布。作为一所足球特色学校，一名小小年纪便获得国家足球一级运动员称号的足球队队员加入音乐社便也不足为奇了。不过隔行如隔山，究竟@易安音乐社 会如何接纳他，2月14日逐渐揭晓答案！
+[#TransdimensionalIdol](http://weibo.com/p/100808fab985aab0bfb2724bf4d29856cf6ee7) Member of the first session of “Plan R” and of the Music Club of Yi An – [@YiAnMusicClub-ChiYi](http://weibo.com/u/6117581836) published. Yi An is a school featured in football, therefore it's nothing strange for a young National Class-1 football player and the member of the Football Team join the Music Club. But difference in profession makes huge gaps, will [@YiAnMusicClub](http://weibo.com/u/6094546964) take him in? Find out the answer from 14th Feb.!
 
 <!-- more -->
 
 *Image*  
 ![Image](http://wx1.sinaimg.cn/mw690/0068MnXXgy1fclb31zzc1j31kw1cq4qq.jpg)  
 *Words on image:*  
-易安中学  
-池忆（初一2班学生）  
-乖宝宝一个，学习、运动两不误的三好学生。对待谁都是彬彬有礼，让人感觉有些内向。明明胆子很小，却总是能坚持到最后的人。
+Yi An Middle School  
+CHI Yi (Student in Class 2, Junior Grade 1)  
+Well-behaved, a merit student good in both study and sports. Courteous to everyone, seems introverted. Timid but can always hold out till the end.

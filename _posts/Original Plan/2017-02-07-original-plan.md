@@ -8,13 +8,13 @@ categories: [ 'original-plan' ]
 <div class="weibo-info">
   <a href="http://weibo.com/5626539553/EuqmJeklg">2017-02-07 13:39</a>
 </div>
-#跨次元偶像# “R”计划一期生暨易安音乐社成员@易安音乐社-何洛洛 今日二次元形象公开，由一期生首发6人参与人设讨论设定的长期连载周更漫画作品@易安音乐社 也将于2月14日正式全网上线。三月底一期生媒体发布会后将陆续公开相关音乐作品及合作节目。
+[#TransdimensionalIdol](http://weibo.com/p/100808fab985aab0bfb2724bf4d29856cf6ee7) Member of the first session of “Plan R” and of the Music Club of Yi An – [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574) now has the virtual character published. The weekly manga about [@YiAnMusicClub](http://weibo.com/u/6094546964) with characters about the Six will be released from 14th Feb. Related music works and programmes will be published after the press conference at the end of March.
 
 <!-- more -->
 
 *Image*  
 ![Image](http://wx4.sinaimg.cn/mw690/0068MnXXgy1fchun0km9vj31kw1cqnpd.jpg)  
 *Words on image:*  
-易安中学  
-何洛洛（初二7班学生）  
-外向，胆子大、有想法，很重感情。做事冲动、不在意细节，直来直去，为人很纯粹。作为音乐社的社长，大家似乎很愿意围在他身边。
+Yi An Middle School  
+HE Luo-luo (Student in Class 7, Junior Grade 2)  
+Extroverted, courageous, quick-witted, affectionate. Impetuous in acting, conscious on details, forthright and pure in behaving. As the president of the Music Club, it seems people like to stay around him.

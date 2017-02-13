@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 >   <a href="http://weibo.com/1708288824/DzyXNBSZW">1970-01-01 12:00</a>
 > </div>  
 > “Lorem ipsum dolor sit amet.”  
-> <small>* View multimedia content(s) in the original page.</small>
+> <small>* View multimedia content(s) on the original page.</small>
 
 *Image 1*  
 ![Image 1](http://ww1.sinaimg.cn/mw690/0068MnXXgw1fap32sz5crj31kw0sg41a.jpg)  

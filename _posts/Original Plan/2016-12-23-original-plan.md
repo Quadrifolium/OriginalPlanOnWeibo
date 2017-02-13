@@ -8,7 +8,7 @@ categories: [ 'original-plan' ]
 <div class="weibo-info">
   <a href="http://weibo.com/5626539553/Enrwb6Lzp">2016-12-23 15:43</a>
 </div>
-昨日下午，原际画传媒CEO黄锐联合投资方如川基金王肇辉先生、上海索乐互娱沈烨先生以及资深文化产业投资人陈悦天先生在众多合作方见证下共同开启了原际画全新企划#跨次元偶像#的大幕，通过漫画&amp;动画&amp;艺人养成联动的方式进行的跨次元偶像企划，将为国内带来全新颠覆偶像定义的跨次元文化。
+Last afternoon, CEO of Original Plan – HUANG Rui (黄锐), and joint investers including WANG Zhao-hui (王肇辉) from Ruchuan Investment Fund (如川基金), SHEN Ye (沈烨) from Shanghai Soco Game (上海索乐互娱), and the senior invester in cultural industry – CHEN Yue-tian (陈悦天) opened the curtain of Original Plan's brand-new project – [#TransdimensionalIdol](http://weibo.com/p/100808fab985aab0bfb2724bf4d29856cf6ee7), before numerous partners. The project of transdimensional idol fused with mangas, animations, and entertainers is bound to bring about transdimensional culture in China, and overturn the the definition of “idol”.
 
 <!-- more -->
 
