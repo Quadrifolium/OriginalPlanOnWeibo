@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This site translates the posts and articles of Sina Weibo accounts of Original Plan (原际画).
+This site translates the posts of Sina Weibo accounts of Original Plan (原际画).
 
 **Note:**
 
