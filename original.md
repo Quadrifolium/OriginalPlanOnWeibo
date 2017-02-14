@@ -6,8 +6,7 @@ permalink: /original/
 
 # Online resources and accounts of and related to Original Plan
 
-Note:  
-1. Unless otherwise mentioned, all the links in this page is in Chinese.
+Note: Unless otherwise mentioned, all the links in this page are in Chinese.
 
 ## Official website
 
@@ -16,9 +15,7 @@ Note:
 
 ## Official accounts
 
-### On SNS
-
-**Sina Weibo**
+**On SNS: Sina Weibo**
 
 [原际画传媒的微博](http://weibo.com/satosan) - Original Plan  
 [易安中学的微博](http://weibo.com/yianschool) - Yi An Middle School, where the story happens.  

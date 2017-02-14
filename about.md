@@ -6,9 +6,7 @@ permalink: /about/
 
 This site translates the posts of Sina Weibo accounts of Original Plan (原际画).
 
-**Note:**
-
-1. This site uses Beijing Time (UTC+08:00).
+Note: This site uses Beijing Time (UTC+08:00).
 
 ---
 
