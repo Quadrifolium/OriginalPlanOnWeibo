@@ -8,14 +8,18 @@ categories: [ 'yi-an-middle-school' ]
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/ElKqOE6M9">2016-12-12 12:11</a>
 </div>
-最受欢迎班级表演前三名出炉！第三名：初三（1）班套马的班级最摇摆；第二名：高三（6）班-种太阳；第一名：初二（7）班-极乐净土。恭喜以上三个班级在同学们的投票中脱颖而出，请以上三个班级来校教务处领取奖品和奖状。
+The top three of the most popular performances come out! 3rd: *The Class Lassoing Horse Is the Most Complacent* of Class 1, Junior Grade 3; 2nd: *Plant Suns* of Class 6, Senior Grade 3; 1st: *Gokuraku Jyoudo* of Class 7, Junior Grade 2. Congratulations! You stand out in the vote. Please get your prize and certificate from the Office of Teaching Affairs.
 
 <!-- more -->
 
+Note:
+1. *The Class Lassoing Horse Is the Most Complacent* (套马的班级最摇摆) is a name mixed up with lyrics of several viral songs in China.
+1. *Plant Suns* (种太阳) is a children's song, while it was performed by those in their last year in middle school.
+1. *Gokuraku Jyoudo* (極楽浄土) is a song with otaku dance (宅舞). This is a style in otaku culture (オタク文化).
+
 ---
 
-<br />
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/ElJWsnQ7a">2016-12-12 10:57</a>
 </div>
-今天国旗下的讲话，值周班级高一（6）班带来了上周运动会现场的观察报告。大家在运动会现场的热情洋溢，让青春的汗水挥洒在赛场上，加之运动会期间的晴好天气，让大家沐浴在初冬暖阳下的身影更加动人。稍后我们也将公布运动会各项奖项，请大家注意通知哦[坏笑]
+Today, the Speech Under the National Flag made by Class 6 Senior Grade 1 is about observations of the sports meeting held last week. The students were jubilant and enthusiastic in the competitions, sweat spiritedly on the sport fields. With the bright and serene sky, the figures bathing in the warm sunshine of the early winter were more beautiful and charming. Later, the awards of the sports meeting will be published. Please pay attention to the notification. ![pleased](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/50/pcmoren_huaixiao_org.png)

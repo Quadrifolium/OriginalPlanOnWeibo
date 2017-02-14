@@ -8,14 +8,13 @@ categories: [ 'yi-an-middle-school' ]
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/EmPTVb6RG">2016-12-19 15:57</a>
 </div>
-上周有同学反映的社团活动教室不够用的问题，刚刚学校领导已经开会讨论了这个问题并已经达成初步方案，原旧校区的三栋教学楼将开放给各个社团使用，这周内学校将公布所有旧教学楼平面图，有场地需求的社团请向后勤部申请[嘻嘻]怎么样，官博这次速度够快吧[可怜]
+Last week, some student appealed that rooms for club activities are not enough. After discussion, school leaders have reached preliminary agreement that the three teaching buildings in the old campus will be open for clubs. The plan of all the old teaching buildings will be published within this week. Clubs having request may apply through Logistics Department. ![pleased](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif) How about that? Am I fast this time? ![pitiful](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/af/kl_org.gif)
 
 <!-- more -->
 
 ---
 
-<br />
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/EmNX9nwWo">2016-12-19 11:00</a>
 </div>
-今天值周班级高一（7）班带来的国旗下讲话题目是：毋忘国耻，少年中国强。上周二是国家公祭日，这一天中华儿女都在哀悼南京大屠杀中惨遭杀害的中国同胞，记住历史并不是宣扬民族仇恨，而是希望大家牢记这段惨痛的岁月，奋发图强，以自强振兴国强，东方巨龙才能真正强大！
+The class on duty, Class 7 Senior Grade 1, made the Speech Under the National Flag with the topic of “Stick national humiliation in mind, be a might teenager of China”. The last Tuesday is the National Memorial Day, all Chinese people were lamenting the death of our compatriots murdered in Nanking Massacre. Memorising the history is not to advocate hatred between nations, but in the hope that everyone should bear the agonising days in mind, strive to be strong, strive for a prosperous and strong nation. Only in this way can the oriental dragon be great again!

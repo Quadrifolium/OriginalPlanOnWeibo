@@ -29,7 +29,7 @@ Lorem ipsum dolor sit amet.
 *Image 2*  
 ![Image 2](http://ww1.sinaimg.cn/mw690/0068MnXXgw1fap331p7rbj31kw0sgtcs.jpg)
 
-Note:  
+Note:
 1. Lorem ipsum: Lorem ipsum.
 1. Quote: Another Weibo post.
 
@@ -44,7 +44,6 @@ Note:
 
 ---
 
-<br />
 <div class="weibo-info">
   <a href="http://weibo.com/5109034566/DzvqO5dZv">1970-01-01 00:42</a>
 </div>

@@ -8,4 +8,4 @@ categories: [ 'yi-an-middle-school' ]
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/Evk78i0lp">2017-02-13 11:34</a>
 </div>
-今天上午，易安中学召开了2016-2017学年度下学期的开学典礼，在开学典礼上，刘校长首先就新学期发表了“历史易安，焕然新生”的讲话，希望大家能够继续继承易安传统，开创易安新篇章。本周值周班级高二（1）班也带来了“进击的新学期”国旗下讲话，希望大家新学期都带着进击精神，勇往直前！[good]
+This morning, Yi An Middle School held the New Term Ceremony of the Second Term of the School Year of 2016–2017. At the ceremony, Principal Liu made the speech entitled “Historical Yi An, vivacious new life”, hoping that everyone in the school inherit the traditions and open up a new passage of Yi An. The class on duty – Class 1, Senior Grade 2 – made the Speech Under the National Flag with the topic of “Forge Ahead in the New Term”, hoping that everyone march forward courageously! ![thumb up](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif)

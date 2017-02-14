@@ -8,4 +8,4 @@ categories: [ 'yi-an-middle-school' ]
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/Emeu016UV">2016-12-15 16:42</a>
 </div>
-关于有社团同学反映的因为社团扩招和新社团设立，目前公用活动场地不够用的问题。学校已经将问题提交学校领导组了，具体解决措施将在下周向同学们进行答复，谢谢大家提出的问题，能让我们学校发展的更好[嘻嘻]
+On the appeal that rooms for club activities are not enough, since the expansion of clubs and the founding of new clubs, the issue has been submitted to the leading group. The relevant solution will return to all students in next week. Thank you for the proposal for making the school develop better. ![pleased](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif)

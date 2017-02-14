@@ -8,14 +8,13 @@ categories: [ 'yi-an-middle-school' ]
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/EkH3vki7R">2016-12-05 13:45</a>
 </div>
-由于今天上海气象局发布雾霾黄色预警，今明两天有体育课的班级已经通知体育组老师将相关课程安排到室内篮球馆及课堂进行，有相关室外活动安排的教师及社团请调整内容，避免外出。有运动会训练安排的同学请将训练地点改到篮球馆内，上学放学请同学们注意佩戴口罩，避免呼吸道疾病的发生。
+Shanghai Meteorological Bureau announced Yellow Alert on Haze. Teachers of P.E. section have been informed that related courses will be held in indoor basketball stadium or classroom today and tomorrow. Classes and clubs with outdoor activities should adjust the arrangement, avoid been exposed. Training for the sports meeting should change the place to the basketball stadium. Please put on a mask on your way to and from school to prevent respiratory disease.
 
 <!-- more -->
 
 ---
 
-<br />
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/EkG1UzENR">2016-12-05 11:09</a>
 </div>
-今天的国旗下讲话，值周班级高一（5）班带来的的主题内容是：律动的青春。进入12月，大家的热情没有随着气温降低而冷却，反而渐渐高涨起来。本周即将迎来易安中学的秋季运动会，又将看到同学拼搏赛场的身影。青春需要律动，青春需要拼搏！[耶]
+Today, Class 5 Senior Grade 1 made the Speech Under the National Flag with the topic of “Youth in rhythm”. Though it's December, your enthusiasm doesn't cool down with the lowering temperature, but are rising high. This week, Yi An Middle School will hold the Autumn Sports Meeting. We will see the striving figures on the fields again. Youth is in rhythm, youth needs striving! ![yeah](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/ye_org.gif)

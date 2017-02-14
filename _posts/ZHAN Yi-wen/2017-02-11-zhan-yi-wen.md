@@ -17,7 +17,6 @@ Happy Lantern Festival 🏮
 
 ---
 
-<br />
 <div class="weibo-info">
   <a href="http://weibo.com/6108090526/Ev1FqslwU">2017-02-11 12:37</a>
 </div>  

@@ -8,14 +8,13 @@ categories: [ 'yi-an-middle-school' ]
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/El1O04Z7c">2016-12-07 18:35</a>
 </div>
-看了今天下午的入场式彩排，官博越来越期待大家明天的运动会了呢[抱抱_旧]明早9点30运动会入场式正式开始，今天大家存入场式服装的教室明早8点开门，请大家提前前往拿取。体育组老师们请8点准时各岗位到位哈[偷笑]其他的就不多说什么了，祝大家运动会都能取得好成绩，同学们，加嘞个油哦！！[good]
+Having watching the rehearsal of the parade in the afternoon, I am greatly expecting the formal performance held tomorrow. ![huge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/27/bba_org.gif) The room storing your costumes will be open at 8 a.m. tomorrow. Please take yours back on time. Teachers of P.E. section, please get to your position at 8 sharp. ![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif) No need to be verbose, we wish you achieve good results in the sports meeting. Dear students, fighting! ![thumb up](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif)
 
 <!-- more -->
 
 ---
 
-<br />
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/EkYQ4qQZO">2016-12-07 11:02</a>
 </div>
-注意注意，下午四点半的运动会入场式彩排不需要带妆的。今天上午进校门的时候，门卫发现很多同学都带了奇装异服来，还有同学带了一只熊装扮进来[抓狂]值周老师反映大家都把这些大件服装放学校走廊！后勤部已经开放旧校区2栋1楼一间教室给大家存放这些服装，请大家休息时间都存到那啊！！！！
+Attention! Attention! Don't dress for the rehearsal of the parade of the sports meeting. This morning, the guard found many students coming with bizarre dresses, and even a student in bear costume. ![going crazy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/62/crazya_org.gif) The teacher on duty said the costumes are piling up in the corridor! A room on the first floor of Building No. 2 in the old campus is open for storing. Please put your costumes there in breaks!

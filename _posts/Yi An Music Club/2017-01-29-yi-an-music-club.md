@@ -15,7 +15,7 @@ The Music Club members are too dawdling. Just the greeting were lagged from the 
 *Image*  
 ![Image](http://wx2.sinaimg.cn/mw690/006Es64Agy1fc6s1d8angj31501lwgwc.jpg)
 
-Note:  
+Note:
 1. The Chinese New Year in 2017 starts from 28th Jan.
 1. Scrabling for red envelope is an action done via WeChat.
 1. Lantern Festival is on the 15th day of a new Chinese year.

@@ -8,4 +8,4 @@ categories: [ 'yi-an-middle-school' ]
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/EoGlhdo9v">2016-12-31 19:18</a>
 </div>
-同学们，值此新年来临之际，学校官博祝大家新年快乐，2017更上一层楼。今晚校园几个社团合作的新年音乐会也会在校操场举行，有空得同学记得带着家长一块参加哦
+Dear students, with the arrivial of the new year, the official account of the school wish you a happy new year ![smile](http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8196.png) and go further in 2017. The joint New Year Concert organised by several clubs will be held on the sports ground tonight. Students and their parents are welcome to join them. ![smile](http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8196.png)

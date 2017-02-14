@@ -8,4 +8,4 @@ categories: [ 'yi-an-middle-school' ]
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/En8YLgiVK">2016-12-21 16:31</a>
 </div>
-今天是冬至，以地理学来讲是一年北半球夜晚最长，白天最短的一天，以24节气来说，则代表开始进入了一年最冷的时候。今天下午放学时学校食堂开始供应羊肉汤，同学们记得去喝一碗哦
+It is *Dongzhi* (Winter Solstice) today. Geographically, this is the day with the longest night and shortest daytime for the Northern Hemisphere. While in the 24 solar terms, it represents that the coldest period of a year has come. The canteen will provide mutton soup after school today, please have a taste for supper. ![smile](http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8196.png)

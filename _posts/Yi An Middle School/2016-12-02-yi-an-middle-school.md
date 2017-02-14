@@ -8,22 +8,20 @@ categories: [ 'yi-an-middle-school' ]
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/Ekgikz4r6">2016-12-02 17:38</a>
 </div>
-又到了周末，同学们是不是很桑心难过呢？又有两天见不到我们可爱的老师了[泪]官博也是，又见不到我们可爱的学生了[可怜]进入了12月，天气也越来越凉了，大家记得周末外出增加衣物，别感冒咯~下周就要运动会了，官博提前帮大家看了天气，周末会很晴朗[太开心]可以提前为运动会热身啦！[威武]
+Weekend again, do you feel sad? That's two days without seeing our dear teachers. ![shed tears](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/sada_org.gif) So do I, since I can't see my dear students. ![pitiful](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/af/kl_org.gif) Entering December, the weather is getting cooler. Remember to put on more clothes before going out. Don't get cold~ Besides, We will hold the sports meeting in the coming week. I've checked the weather for you, it's a sunny weekend. ![very happy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif) Do your warm-up for the sports meeting! ![mighty](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/vw_org.gif)
 
 <!-- more -->
 
 ---
 
-<br />
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/EkfOptNqI">2016-12-02 16:24</a>
 </div>
-为了深入贯彻校长在本学年初提出的“多元化建校”方针，各年级主任，各班级班主任在近三个月来积极引导学生自建社团并取得了丰硕的成果，截止11月底，全校新增学生自建社团23个，希望同学们能在丰富的学生社团活动中能够品味不一样的学习生活[鼓掌][鼓掌]
+Notice: As the sports meeting will be held in the coming Thursday and Friday, after the flag-raising ceremony on Monday, the class on duty, Class 5 Senior Grade 1, should submit the guide list for the opening ceremony of the sports meeting. This notice is also delivered via bulletin board and grade deans. Please make the personnel assignment ready in advance.
 
 ---
 
-<br />
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/Ekdogi7jd">2016-12-02 10:14</a>
 </div>
-为了深入贯彻校长在本学年初提出的“多元化建校”方针，各年级主任，各班级班主任在近三个月来积极引导学生自建社团并取得了丰硕的成果，截止11月底，全校新增学生自建社团23个，希望同学们能在丰富的学生社团活动中能够品味不一样的学习生活[鼓掌][鼓掌]
+During the thoroughly applying of the policy of “diversify campus” proposed by the principal in the beginning of this school year, grade deans and teachers-in-charge actively guide students to set up clubs. The result is fruitful, that by the end of Nov., 23 new clubs were found by students. We hope our students savour different school life amid club activities. ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)

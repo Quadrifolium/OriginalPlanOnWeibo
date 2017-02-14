@@ -8,40 +8,38 @@ categories: [ 'yi-an-middle-school' ]
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/EkRHN5Pul">2016-12-06 16:52</a>
 </div>
-科学社、美术社的同学们，快来用你们眼力，帮官博看看这张图太阳的笑脸到底在哪啊？是官博脸盲吗？[污]
+Members of Science Club and Arts Club, use your sharp eyes. Help me to find the smile of the sun. Do I have face blindness? ![cover eyes](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3c/pcmoren_wu_org.png)
 
 <!-- more -->
 
 > <div class="weibo-post-name">
->  <a href="http://weibo.com/renminwang">@人民网</a>
+>  <a href="http://weibo.com/renminwang">@PeoplesDailyOnline</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/2286908003/EkPN50Lor">2016-12-06 12:00</a>
 > </div>  
-> 【NASA公布最新照片：太阳面带笑容】…  
+> [NASA photos: Solar smile] …  
 > <small>* View multimedia content(s) on the original page.</small>
 
 ---
 
-<br />
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/EkRwprygC">2016-12-06 16:24</a>
 </div>
-这都是教育的缺失，我们易安人的校训便是安以养德，做学问前先要修养品德。咱易安人都是最靠谱的人！[good][good][good]
+This is the result of absence of education. The school moto of Yi An is “Cultivate virtue via peace and comfortable environment”, that virtue cultivation is prior to engaging in scholarship. People of Yi An are those of reliance! ![thumb up](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif)![thumb up](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif)![thumb up](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif)
 
 > <div class="weibo-post-name">
->  <a href="http://weibo.com/renminwang">@人民网</a>
+>  <a href="http://weibo.com/renminwang">@PeoplesDailyOnline</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/2286908003/EkQHTxQEI">2016-12-06 14:20</a>
 > </div>  
-> 【调查：98.9%受访者认为身边有不靠谱的人】…  
+> [Survey: 98.9% interviewees think there's people unreliable around] …  
 > <small>* View multimedia content(s) on the original page.</small>
 
 ---
 
-<br />
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/EkPuDrISW">2016-12-06 11:14</a>
 </div>
-今天开始上海空气质量已经开始好转，于周三下午4点半开始的运动会入场仪式彩排按照原定安排在学校足球场进行，请各年级主任，班主任相互转告并及时通知到各班级。
+Air quality in Shanghai is improving today. The rehearsal of the parade of the sports meeting will begin at 4:30 p.m. Wednesday, on the football pitch, as per original arrangement. Grade deans and teachers-in charge, please inform each other and every class.

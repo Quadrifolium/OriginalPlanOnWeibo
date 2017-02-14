@@ -8,14 +8,13 @@ categories: [ 'yi-an-middle-school' ]
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/EmopC6RO2">2016-12-16 17:58</a>
 </div>
-同学们，又到周末了，周末愉快哦~虽然官博知道还有一个月就要期末考试了，不过！周末千万不要被学习给捆绑了，我们易安强调的是劳逸结合！写完作业，复习完，请外出休息吧！因为官博也要出门放松放松，这样下周才能继续能量满满的战斗，不是么[坏笑]
+Dear students, another weekend! Wish you have happy days~ I know the final examinition is only one month ahead, but, don't tie yourself to the school study. Yi An always stresses alternating study with rest! If homework and course review are done, do go out for a rest! I am also going to relax, for reviving full spirit and energy for the coming weekdays. Right? ![grin](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/50/pcmoren_huaixiao_org.png)
 
 <!-- more -->
 
 ---
 
-<br />
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/Emluiq6CH">2016-12-16 10:32</a>
 </div>
-最近早晚放学天气较冷，进出校门的时候值周老师反映很多同学走在路上脸上裹满了围巾口罩，耳罩，帽子的，只剩眼睛一条缝。希望大家在防寒保暖的同时注意观察路况，平平安安上学放学才是最重要的[good]
+It's quite cold at dawn and dusk these days. The teacher on duty found that many students are covered in scarf, mask, earmuff, and hats, with only a crack on the eyes. Keeping warm is essential, while at the same time, please watch the traffic carefully. Be in safety and peace is the most important matter. ![thumb up](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif)

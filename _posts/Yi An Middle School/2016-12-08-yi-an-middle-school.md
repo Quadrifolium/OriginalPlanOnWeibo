@@ -8,22 +8,28 @@ categories: [ 'yi-an-middle-school' ]
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/ElbkU5btJ">2016-12-08 18:51</a>
 </div>
-<失物招领>今天运动会第一天同学们都奋勇拼搏，各项比赛煞是好看，而且各班级在下午比赛结束时都主动清洁了本班观看区域垃圾，让清洁阿姨连连称赞，不过清洁阿姨刚在看台区找到了很多遗留物：钥匙、饭卡、作业本、钱包。请丢失的同学明天在门卫处认领[二哈]
+[Advertise for the losts] The students are exerting great efforts on the first day of the sports meetings, which shows wonderful competition. And every class had the rubbish in the certain area cleared after the last match today, which is repeatedly praised by the cleaner aunties. However, the aunties found many belongings in the stands area: keys, meal cards, exercise books, and wallets. Please claim your lost articles at the gatehouse tomorrow. ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)
 
 <!-- more -->
 
 ---
 
-<br />
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/El88l1hTh">2016-12-08 10:41</a>
 </div>
-接上，高一（3）班-悟空；高二（4）班-为了联盟！；高三（1）班-我班和太阳肩并肩；高三（6）班-种太阳。以上10个班级名单已经公布在赛场旁的公告栏旁，大家即刻便可以前往投票，下周一将评选出最受欢迎班级表演前三名！大家记得投票哦！[舔屏]
+cont. *Wukong* of Class 3, Senior Grade 1; *For the Alliance!* of Class 4, Senior Grade 2; *My Class, Keep Pace With the Sun* of Class 1, Senior Grade 3; *Plant Suns* of Class 6, Senior Grade 3. The list is posted on the bulletin board. Please go there and vote. The top three will be announced  on Monday! Vote now! ![heart eyes](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/pcmoren_tian_org.png)
+
+Note:
+1. *Plant Suns* (种太阳) is a children's song, while it was performed by those in their last year in middle school.
 
 ---
 
-<br />
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/El863vCUJ">2016-12-08 10:36</a>
 </div>
-坐在看台上助威的各位，有事做咯~~本届运动会最受欢迎入场十个班级表演分别为：高一（9）班-壮我大F；初三（1）班-套马的班级最摇摆；初二（7）班-极乐净土；初一（1）班-熊熊的乐园；初一（3）班-从我最好的班级班级路过；初二（5）班-吸口欧气来比赛，接下
+Students cheering on the stands, a ballot for you~ 10 candidates of the most popular parade of the sports meeting: *Mighty Big F* of Class 9, Senior Grade 1; *The Class Lassoing Horse Is the Most Complacent* of Class 1, Junior Grade 3; *Gokuraku Jyoudo* of Class 7, Junior Grade 2; *Baby Bear's Fairyland* of Class 1, Junior Grade 1; *The Best Class is Passing By* of Class 3, Junior Grade 1; *Gain Luck From SSR Before Competition* of Class 5, Junior Grade 2; tbc
+
+Note:
+1. *The Class Lassoing Horse Is the Most Complacent* (套马的班级最摇摆) is a name mixed up with lyrics of several viral songs in China.
+1. *Gokuraku Jyoudo* (極楽浄土) is a song with otaku dance (宅舞). This is a style in otaku culture (オタク文化).
+1. “SSR” is a concept in the mobile game *Onmyoji* (阴阳师).

@@ -13,5 +13,5 @@ About the school moto:
 Cultivate virtue via peace and comfortable environment  
 The four simple characters have the education concept of the founder of former Yi An Xue Tang (易安学堂), Householder YI An (易安居士), concentrated in; and express the historical deposits of the school. Despite confusion outside, they ask the students in campus to calm down, acquire knowledge, and cultivate virtue.
 
-Note:  
+Note:
 1. “Householder” is a title in Buddhism.

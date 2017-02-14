@@ -14,7 +14,6 @@ categories: [ 'fang-xiang-rui' ]
 
 ---
 
-<br />
 <div class="weibo-info">
   <a href="http://weibo.com/6117583008/Evb5QfjpA">2017-02-12 12:37</a>
 </div>

@@ -8,23 +8,22 @@ categories: [ 'yi-an-middle-school' ]
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/EqDsGo3gt">2017-01-13 15:38</a>
 </div>
-先给你们打个预防针[怒骂]
+“This is the vaccine for you in advance ![scold](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif)”
 
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/renminwang">@人民网</a>
+>   <a href="http://weibo.com/renminwang">@PeoplesDailyOnline</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/2286908003/EqB54pGsf">2017-01-13 09:35</a>
 > </div>  
-> 一人一句班主任的名言接下去[摊手]  
+> What are commonly heard remarks your teacher says? ![shrug](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/09/pcmoren_tanshou_org.png)  
 > <small>* View multimedia content(s) on the original page.</small>
 
 ---
 
-<br />
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/EqDqqkV4j">2017-01-13 15:33</a>
 </div>
-今天期末考试完毕后同学们也将迎来期盼已久的寒假，本学期寒假的放假时间是1月14日~2月11日，2月12日开学报到，2月13日正式行课。请同学们留意班主任相关通知。同时部分社团会在春节前在学校里举行各种迎春活动，同学们可以在公告栏查阅具体活动时间，也欢迎大家积极参加哦~预祝大家春节愉快[发红包]
+Today, the final examination reaches the end, while the long-waited winter vacation is just in front. The vacation goes from 14th Jan. to 11th Feb. Register on 12th Feb. Class begin from 13th Feb. Please pay attention to the notification from your teacher-in-charge. Meanwhile, some clubs will hold various activities in the campus before the New Year. Please check the timetable posted on the bulletin board, and participate in them~ We wish you a happy new year. ![red envelope](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/ca/fahongbao_org.gif)

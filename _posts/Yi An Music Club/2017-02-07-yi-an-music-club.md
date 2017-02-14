@@ -8,7 +8,7 @@ categories: [ 'yi-an-music-club' ]
 <div class="weibo-info">
   <a href="http://weibo.com/6094546964/EupIjqYma">2017-02-07 11:59</a>
 </div>
-HE Luo-luo in Class 7, Junior Grade 2, courageous and quick-witted. Following the club promotion plan “Diversified Campus” proposed by the new principal, as the president of the Music Club, what will [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574) do to revive the abandoned club in this new term? On 14th Feb., the new term will see it.
+HE Luo-luo in Class 7, Junior Grade 2, courageous and quick-witted. Following the club promotion plan “Diversify Campus” proposed by the new principal, as the president of the Music Club, what will [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574) do to revive the abandoned club in this new term? On 14th Feb., the new term will see it.
 
 <!-- more -->
 

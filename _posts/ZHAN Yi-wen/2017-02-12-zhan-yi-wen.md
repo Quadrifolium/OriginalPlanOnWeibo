@@ -26,7 +26,6 @@ Note:
 
 ---
 
-<br />
 <div class="weibo-info">
   <a href="http://weibo.com/6108090526/EvcTlfXlU">2017-02-12 17:11</a>
 </div>  
@@ -37,7 +36,6 @@ Bored :unamused::unamused:
 
 ---
 
-<br />
 <div class="weibo-info">
   <a href="http://weibo.com/6108090526/EvclYfhRr">2017-02-12 15:49</a>
 </div>  

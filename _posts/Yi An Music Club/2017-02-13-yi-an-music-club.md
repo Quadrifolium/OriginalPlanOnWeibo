@@ -13,7 +13,7 @@ New term starts, the story of Yi An Music Club will be on tomorrow. At 12 sharp,
 <!-- more -->
 
 *Image*  
-![Image](http://wx1.sinaimg.cn/mw690/006Es64Agy1fcon7uyn6oj319y1yukjm.jpg)
+![Image](http://wx1.sinaimg.cn/mw690/006Es64Agy1fcon7uyn6oj319y1yukjm.jpg)  
 *Words on image:*  
 Yi An Music Club  
 First manga of transdimensional idol of Original Plan  

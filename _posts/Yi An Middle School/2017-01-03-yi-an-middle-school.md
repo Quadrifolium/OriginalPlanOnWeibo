@@ -8,4 +8,4 @@ categories: [ 'yi-an-middle-school' ]
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/Ep5y3mzlf">2017-01-03 11:28</a>
 </div>
-本周因为新年假期原因，是周二开始行课。但本周值周班级高一（9班）班委向学校表达了抗议，原因是其准备了国旗下讲话但本周却没有升旗仪式。为表达歉意，高一（9）班的国旗下讲话内容将于明天早上课间操时间进行，谢谢同学们的配合[微笑]
+School day of this week start from Tuesday due to the new year holidays. But the class committee of Class 9 Senior Grade 1 complained that the Speech Under the National Flag they prepared are not read under the flag. As the remedy of apology, the Speech of Class 9 Senior Grade 1 will take place during the exercise break tomorrow morning. Thank you for your cooperation. ![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif)

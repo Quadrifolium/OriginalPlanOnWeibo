@@ -22,7 +22,6 @@ categories: [ 'yi-an-music-club' ]
 
 ---
 
-<br />
 <div class="weibo-info">
   <a href="http://weibo.com/6094546964/EvaQQkDqA">2017-02-12 12:00</a>
 </div>

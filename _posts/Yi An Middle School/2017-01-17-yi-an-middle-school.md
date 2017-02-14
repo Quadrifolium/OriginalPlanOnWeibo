@@ -8,7 +8,7 @@ categories: [ 'yi-an-middle-school' ]
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/ErekL0aEn">2017-01-17 13:30</a>
 </div>
-公开课期间今天恰好是市教委教研会，教务处的招生老师今天都在教研会学习，早上教研会上接了很多家长的电话已经让这几位老师在会上被市教委领导当众批评了[泪]，教务处通知各位家长入学咨询及报名年后开学后统一咨询，由此带来的不便请大家谅解。另外今天公开课后有活动的社团在老教学楼一号如图所示。
+The teaching seminar held by Shanghai Education Commission is just on the day for open classes. Some teachers were criticised by the leader of the Commission this morning for answering phone calls from parents of students ![shed tears](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/sada_org.gif). Office of Teaching Affairs has informed parents that consultation for enrollment and registration is arranged after the New Year. Please pardon us for any possible inconvenience. Besides, the place for club activities after the open classes today is shown in the picture.
 
 <!-- more -->
 

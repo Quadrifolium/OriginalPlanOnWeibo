@@ -8,14 +8,14 @@ categories: [ 'yi-an-middle-school' ]
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/EuASoaSqH">2017-02-08 16:24</a>
 </div>
-有的，本校有初中预备班、初中、高中以及国际高中部，每学期末均有易安公开课，同学如果有兴趣的话可以通过官网查阅公开课报名信息，先了解了解易安教学形式，欢迎报考或转进易安中学哦[太开心]也祝你开学快乐！//@王凯华KyleW: 易安中学有没有高中部，我可以转过来吗@易安中学
+Yes. We have junior school prep class, junior/senior middle school, and int'l sector of senior school. Open classes are held at the end of each term. Students interested could look up the applying info on the official website and the model of teaching of Yi An in advance. You are welcome to applay for or transfer to Yi An ![very happy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif) We wish you a happy new term! //[@王凯华KyleW](http://weibo.com/n/%E7%8E%8B%E5%87%AF%E5%8D%8EKyleW): Does Yi An have senior middle school sector? May I transfer there? [@YiAnMiddleSchool](http://weibo.com/yianschool)
 
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/yianschool">@易安中学</a>
+>   <a href="http://weibo.com/yianschool">@YiAnMiddleSchool</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6074218720/EugZaFFV6">2017-02-06 13:46</a>
 > </div>  
-> 【教师通知】2月10日上午9点各年级组组长召开新学期工作开展会议，下午1点各教研组组织开展本学科教研会。请全校教师务必做好新学期开学准备工作，以饱满的工作热情迎接新学期的到来。2月11日晚全校教师将组织元宵团拜暨新学期动员会，请教职工准时参加。
+> [Notice for teachers] Meeting on the new term for leaders of each grade to hold at 9 a.m., meetings on teaching of each course for each teaching group to hold at 1 p.m., 10th Feb. Please get every aspect ready and welcome the new term with huge enthusiam. Lantern Festival Reception and Mobilization Meeting to hold in the evening of 11th Feb., all staff expected.

@@ -8,4 +8,4 @@ categories: [ 'yi-an-middle-school' ]
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/EvbwixQ2I">2017-02-12 13:42</a>
 </div>
-易安喜迎开学季！周日的沪城洒下冬日暖阳，今天的易安迎来了一年一度的开学报到季。一大早官博便在校门口迎接着学子们的回来，看着各位脸上都洋溢着幸福的微笑，这个寒假一定过得很快乐，对于新学期的来到，大家一定怀揣着更美好的憧憬吧！[耶]明天正式上课了，让青春的风帆，载着易安学子奋发向前！
+New Term for Yi An! Warm sun pours light to the city of Shanghai in the winter, and it's time for students to register. In the early morning, I welcome students to come back. From your faces permeated with happiness, it's clear that you had a satisfied winter vacation. For the coming term, I can tell that you bear greater visions in mind! ![yeah](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/ye_org.gif) Class will start tomorrow. Let the sailing boat of youth carry all students of Yi An towards the bright future!

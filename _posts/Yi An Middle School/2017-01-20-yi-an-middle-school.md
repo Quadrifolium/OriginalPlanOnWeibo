@@ -8,7 +8,8 @@ categories: [ 'yi-an-middle-school' ]
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/ErG7y0Ag9">2017-01-20 12:15</a>
 </div>
-农历腊月二十三、四，是中国民间传统的祭灶日，又称“小年”。俗话说，过了小年便是年。官博帮大家打探到今明两天的社团活动也是精彩纷呈，文学社和美术社下午开始送春联，音乐、合唱、动漫及街舞社团联合举行的小年汇演今晚也将在篮球馆上演。而明天上午足球社的友谊赛也将在球场举行，记得围观哦[红包飞]
+
+The 23rd and 24th of the twelfth month in Chinese calendar are the days for honouring the Kitchen God, in the tradition of China, which are also called *Xiao Nian* (小年, the minor New Year). As the saying goes, “after *Xiao Nian*, the new year is coming”. I have verified that the club activities during the two days are unusually brilliant: Literature Club and Arts Clubs will present couplets; the joint performance of Music Club, Chorus Club, Anime Club, and Street Dance Club tonight will be on stage in the basketball stadium; while an exhibition game of Football Club will be played on the football pitch tomorrow morning. Please join them. ![red envelope](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e0/hongbao1_org.gif)
 
 <!-- more -->
 
