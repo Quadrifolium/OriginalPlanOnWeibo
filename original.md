@@ -8,7 +8,7 @@ permalink: /original/
 
 Note: Unless otherwise mentioned, all the links in this page are in Chinese.
 
-## Official website
+## Official websites
 
 [原际画文化传媒](http://www.op-media.cn/) - Official website of Original Plan (原际画)  
 [易安中学](http://www.yianschool.com/) - Official website of Yi An Middle School (易安中学)
