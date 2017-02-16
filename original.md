@@ -29,3 +29,6 @@ Virtual characters:
 [易安音乐社-池忆的微博](http://weibo.com/u/6117581836) - CHI Yi (池忆); student of Class 2, Junior Grade 1; member of Music Club.  
 [易安音乐社-展逸文的微博](http://weibo.com/u/6108090526) - ZHAN Yi-wen (展逸文); student of Class 2, Junior Grade 1; member of Music Club.  
 [易安音乐社-方翔锐的微博](http://weibo.com/u/6117583008) - FANG Xiang-rui (方翔锐); student of Class 8, Junior Grade 3; member of Music Club.  
+
+Others:  
+[哈维森蛋黄酱的微博](http://weibo.com/havison) - HUANG Rui (黄锐, Havison); CEO of Original Plan

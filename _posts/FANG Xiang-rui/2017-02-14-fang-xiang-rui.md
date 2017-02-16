@@ -15,6 +15,13 @@ Happy Valentine's Day. Good night.
 *Image*  
 ![Image](http://wx3.sinaimg.cn/mw690/006G0KNGgy1fcqdtdj9owj30qo0zkjz7.jpg)
 
+**Comments**
+
+<div class="weibo-info">2017-02-15 20:56</div>
+[@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): You and CHI Yi were both at Occidental Pearl? In a fret.
+> <div class="weibo-info">2017-02-15 21:31</div>
+> [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): With legs exhausted. [Image](http://wx3.sinaimg.cn/mw1024/006G0KNGgy1fcrh84qbr2j30ku0kutd2.jpg)
+
 ---
 
 <div class="weibo-info">

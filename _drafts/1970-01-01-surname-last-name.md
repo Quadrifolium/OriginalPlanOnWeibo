@@ -33,14 +33,15 @@ Note:
 1. Lorem ipsum: Lorem ipsum.
 1. Quote: Another Weibo post.
 
-#### Comments
+**Comments**
 
-1970-01-01 23:59  
+<div class="weibo-post-name">1970-01-01 23:59</div>
 [@WeiboAccountName](http://weibo.com/satosan): Lorem ipsum
 
-1970-01-01 23:59  
+<div class="weibo-post-name">1970-01-01 23:59</div>
 [@WeiboAccountName](http://weibo.com/satosan): Lorem ipsum
-
+> <div class="weibo-post-name">1970-01-01 23:59</div>
+> [@WeiboAccountName](http://weibo.com/satosan): Lorem ipsum
 
 ---
 

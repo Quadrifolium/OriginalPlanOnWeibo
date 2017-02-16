@@ -34,6 +34,25 @@ Bored :unamused::unamused:
 *Image*  
 ![Image](http://wx3.sinaimg.cn/mw690/006FmVn8ly1fcnsvlmir7j30qo0zk48r.jpg)
 
+**Comments**
+
+<div class="weibo-info">2017-02-12 18:21</div>
+[@YiAnMusicClub-ChiYi](http://weibo.com/u/6117581836): passing by
+> <div class="weibo-info">2017-02-12 18:50</div>
+> [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Also bored?
+
+<div class="weibo-info">2017-02-12 18:10</div>
+[@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Oh?
+> <div class="weibo-info">2017-02-12 19:00</div>
+> [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Re [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): ![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)
+> <div class="weibo-info">2017-02-12 18:16</div>
+> [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Re [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Rejected.
+> <div class="weibo-info">2017-02-12 18:15</div>
+> [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Ugly photos deleted? →\_→ →\_→
+
+<div class="weibo-info">2017-02-12 17:11</div>
+[@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): front
+
 ---
 
 <div class="weibo-info">
