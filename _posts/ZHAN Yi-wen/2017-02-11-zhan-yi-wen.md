@@ -7,7 +7,7 @@ categories: [ 'zhan-yi-wen' ]
 
 <div class="weibo-info">
   <a href="http://weibo.com/6108090526/Ev1FqslwU">2017-02-11 20:13</a>
-</div>  
+</div>
 Happy Lantern Festival 🏮
 
 <!-- more -->
@@ -19,7 +19,7 @@ Happy Lantern Festival 🏮
 
 <div class="weibo-info">
   <a href="http://weibo.com/6108090526/Ev1FqslwU">2017-02-11 12:37</a>
-</div>  
+</div>
 Hi, this is ZHAN Yi-wen. Mm, in Junior Grade 1.
 
 > <div class="weibo-post-name">

@@ -7,7 +7,7 @@ categories: [ 'zhan-yi-wen' ]
 
 <div class="weibo-info">
   <a href="http://weibo.com/6108090526/EvjXmcrG6">2017-02-13 11:10</a>
-</div>  
+</div>
 ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)
 
 <!-- more -->

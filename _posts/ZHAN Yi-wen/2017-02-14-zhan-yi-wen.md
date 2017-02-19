@@ -7,7 +7,7 @@ categories: [ 'zhan-yi-wen' ]
 
 <div class="weibo-info">
   <a href="http://weibo.com/6108090526/Evwa7ym3h">2017-02-14 18:15</a>
-</div>  
+</div>
 In fact, I'm cool and solemn.
 
 <!-- more -->
