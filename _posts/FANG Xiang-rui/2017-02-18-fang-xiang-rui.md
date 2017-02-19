@@ -20,7 +20,7 @@ Tomorrow is another new day. Good night.
 <div class="weibo-info">
   <a href="http://weibo.com/6117583008/Ew80YiCfO">2017-02-18 18:37</a>
 </div>
-Have to job again …
+Have to jog again …
 
 *Image*  
 ![Image](http://wx4.sinaimg.cn/mw690/006G0KNGgy1fcut1r55zzj30fq0j3td0.jpg)
