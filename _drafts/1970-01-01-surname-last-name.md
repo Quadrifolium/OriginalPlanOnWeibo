@@ -35,12 +35,12 @@ Note:
 
 **Comments**
 
-<div class="weibo-post-name">1970-01-01 23:59</div>
+<div class="weibo-info">1970-01-01 23:59</div>
 [@WeiboAccountName](http://weibo.com/satosan): Lorem ipsum
 
-<div class="weibo-post-name">1970-01-01 23:59</div>
+<div class="weibo-info">1970-01-01 23:59</div>
 [@WeiboAccountName](http://weibo.com/satosan): Lorem ipsum
-> <div class="weibo-post-name">1970-01-01 23:59</div>
+> <div class="weibo-info">1970-01-01 23:59</div>
 > [@WeiboAccountName](http://weibo.com/satosan): Lorem ipsum
 
 ---
