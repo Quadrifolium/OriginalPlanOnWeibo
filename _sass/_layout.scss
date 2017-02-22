@@ -261,10 +261,17 @@
 
 .weibo-post-name-index {
   margin-top: $spacing-unit / 2;
-  color: $brand-color;
   font-weight: bold;
 
   a {
     color: $brand-color;
+
+    &:visited {
+      color: darken($brand-color, 15%);
+    }
+
+    &:hover {
+      color: darken($brand-color, 5%);
+    }
   }
 }
