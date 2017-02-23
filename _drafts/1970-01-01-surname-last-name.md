@@ -21,12 +21,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 > “Lorem ipsum dolor sit amet.”  
 > <small>* View multimedia content(s) on the original page.</small>
 
-*Image 1*  
 ![Image 1](http://ww1.sinaimg.cn/mw690/0068MnXXgw1fap32sz5crj31kw0sg41a.jpg)  
 *Words on image:*  
 Lorem ipsum dolor sit amet.
 
-*Image 2*  
 ![Image 2](http://ww1.sinaimg.cn/mw690/0068MnXXgw1fap331p7rbj31kw0sgtcs.jpg)
 
 Note:
