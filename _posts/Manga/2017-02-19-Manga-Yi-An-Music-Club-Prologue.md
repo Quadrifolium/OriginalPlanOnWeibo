@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Eng) Manga “Yi An Music Club” (易安音乐社) Episode 001
+title: (Eng) Manga “Yi An Music Club” (易安音乐社) Prologue
 date: 2017-02-19 16:30
 categories: [ 'manga' ]
 ---
