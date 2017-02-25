@@ -1,8 +1,20 @@
 ---
 layout: post
 title: FANG Xiang-rui (方翔锐)
-date: 2017-02-24 16:21
+date: 2017-02-24 22:24
 categories: [ 'fang-xiang-rui' ]
+---
+
+<div class="weibo-info">
+  <a href="http://weibo.com/6117583008/Ex44ouUK0">2017-02-24 22:24</a>
+</div>
+
+Sleep. ![moon](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b9/moon.gif)
+
+<!-- more -->
+
+![Image](http://wx1.sinaimg.cn/mw690/006G0KNGgy1fd1xd20turj30ko0kdtay.jpg)
+
 ---
 
 <div class="weibo-info">
@@ -10,8 +22,6 @@ categories: [ 'fang-xiang-rui' ]
 </div>
 
 Am I really stupid?
-
-<!-- more -->
 
 > <div class="weibo-post-name">
 >   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
