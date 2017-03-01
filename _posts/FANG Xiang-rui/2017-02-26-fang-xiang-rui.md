@@ -6,7 +6,7 @@ categories: [ 'fang-xiang-rui' ]
 ---
 
 <div class="weibo-info">
-  <a href="http://weibo.com/6117583008/ExnpWBVZI ">2017-02-26 23:40</a>
+  <a href="http://weibo.com/6117583008/ExnpWBVZI">2017-02-26 23:40</a>
 </div>
 
 Secret. ![shush](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a6/x_org.gif) Good night.
