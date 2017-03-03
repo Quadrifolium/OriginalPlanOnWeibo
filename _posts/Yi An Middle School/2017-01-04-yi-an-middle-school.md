@@ -26,7 +26,7 @@ People all over the world yearn for peace … When will humankind have less stri
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/Epf1udgS4">2017-01-04 11:35</a>
 </div>
-During the exercise break in the morning, Class 9 Senior Grade 1 made the Speech Under the National Flag with the topic of “Love Yi An, unit as one in 2017”. The New Year is close by, and the time for examination is coming. In the middle of this month, Yi An will see the final examination of this term. In the coming year, may the students of Yi An be brimming with the outlook of the school, keep making efforts with the school, develop personal specialties, and be a better person! ![red envelope](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/ca/fahongbao_org.gif) All students, go for it!
+During the exercise break in the morning, Class 9 Senior Grade 1 made the Speech Under the National Flag with the topic of “Love Yi An, unit as one in 2017”. The New Year is close by, and the time for examination is coming. In the middle of this month, Yi An will see the final examination of this term. In the coming year, may the students of Yi An be brimming with the outlook of the school, keep making efforts with the school, develop personal specialties, and be a better person! ![red packet](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/ca/fahongbao_org.gif) All students, go for it!
 
 Note:
 1. A “new year” may refer to the period of time in Gregorian calendar or Chinese calendar. It depends.
