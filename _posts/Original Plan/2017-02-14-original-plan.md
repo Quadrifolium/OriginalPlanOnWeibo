@@ -8,7 +8,7 @@ categories: [ 'original-plan' ]
 <div class="weibo-info">
   <a href="http://weibo.com/5626539553/Evbo6yCbz">2017-02-14 13:16</a>
 </div>
-[#TransdimensionalIdol](http://weibo.com/p/100808fab985aab0bfb2724bf4d29856cf6ee7) [#AsiaMangaChart](http://weibo.com/p/10080853749b797703d2d251a740d8723d47cd) Prologue of [@YiAnMusicClub](http://weibo.com/u/6094546964) is now published on various manga platforms~ Please watch on apps of iQiyi.com, u17.com, kuaikanmanhua.com, ikanman.com, manhua.163.com, manhua.weibo.com, dmzj.com, yingqidm.com, manhuadao.cn, mkzhan.com, maimengjun.com, comic.sina.com.cn, manhuaren.com, migudm.cn, and kidstone.cn! The manga will serialise weekly from the next Friday. Please subscribe~ ![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)
+[#TransdimensionalIdol](http://weibo.com/p/100808fab985aab0bfb2724bf4d29856cf6ee7) [#AsiaMangaChart](http://weibo.com/p/10080853749b797703d2d251a740d8723d47cd) Prologue of [@YiAnMusicClub](http://weibo.com/u/6094546964) is now published on various manga platforms~ Please read on apps of iQiyi.com, u17.com, kuaikanmanhua.com, ikanman.com, manhua.163.com, manhua.weibo.com, dmzj.com, yingqidm.com, manhuadao.cn, mkzhan.com, maimengjun.com, comic.sina.com.cn, manhuaren.com, migudm.cn, and kidstone.cn! The manga will serialise weekly from the next Friday. Please subscribe~ ![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)
 
 <!-- more -->
 

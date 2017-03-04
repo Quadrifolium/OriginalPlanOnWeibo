@@ -9,7 +9,7 @@ categories: [ 'sun-yi-hang' ]
   <a href="http://weibo.com/6108316220/Ex1TMiJ2S">2017-02-24 16:53</a>
 </div>
 
-All right. Please watch.
+All right. Please read.
 
 <!-- more -->
 
