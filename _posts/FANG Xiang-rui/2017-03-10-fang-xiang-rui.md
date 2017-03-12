@@ -9,7 +9,7 @@ categories: [ 'fang-xiang-rui' ]
   <a href="http://weibo.com/6117583008/Ezc5iFRQh">2017-03-10 22:29</a>
 </div>
 
-People hardly understands my singing.
+People hardly understand my singing.
 
 <!-- more -->
 

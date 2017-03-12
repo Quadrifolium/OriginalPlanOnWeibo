@@ -11,4 +11,6 @@ categories: [ 'yi-an-music-club' ]
 
 [#AsiaMangaChart](http://weibo.com/p/10080853749b797703d2d251a740d8723d47cd) Episode 3 released. [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008) is clingy, while the Music Club is in an awkward situation. How will [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574) make his choice? But facing the club that nobody cares, there seems to be something hard to touch in his heart. By the way, it's only three weeks left before the Open Day of our club. ![very happy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif)
 
+<!-- more -->
+
 <small>* View multimedia content(s) on the original page.</small>
