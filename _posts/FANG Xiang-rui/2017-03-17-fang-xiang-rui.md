@@ -9,7 +9,7 @@ categories: [ 'fang-xiang-rui' ]
   <a href="http://weibo.com/6117583008/EAggeFwo1">2017-03-17 22:57</a>
 </div>
 
-Found this toy of a big shot painter. ![hush](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a6/x_org.gif)
+Found this toy from a big shot painter. ![hush](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a6/x_org.gif)
 
 <!-- more -->
 
