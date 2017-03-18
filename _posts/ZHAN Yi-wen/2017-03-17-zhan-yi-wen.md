@@ -1,0 +1,23 @@
+---
+layout: post
+title: ZHAN Yi-wen (展逸文)
+date: 2017-03-17 19:00
+categories: [ 'zhan-yi-wen' ]
+---
+
+<div class="weibo-info">
+  <a href="http://weibo.com/6108090526/EAeHLiXpp">2017-03-17 19:00</a>
+</div>
+
+In what occasion will I interact with the club?
+
+<!-- more -->
+
+> <div class="weibo-post-name">
+>   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+> </div>
+> <div class="weibo-info">
+>   <a href="http://weibo.com/6094546964/EAc2Xdfwg">2017-03-17 12:14</a>
+> </div>
+> [#AsiaMangaChart](http://weibo.com/p/10080853749b797703d2d251a740d8723d47cd) *Yi An Music Club* Episode 4 released. [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526) had seen the members of the Music Club by accident last week. In what occasion will the solemn boy interact with the club? And, it seems that [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008) has done another stupid thing …  
+> <small>* View multimedia content(s) on the original page.</small>
