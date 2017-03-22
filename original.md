@@ -23,12 +23,12 @@ Note: Unless otherwise mentioned, all the links in this page are in Chinese.
 
 Virtual characters:  
 (Ordered by the time of the first post)  
-[易安音乐社-何洛洛的微博](http://weibo.com/u/6117570574) - HE Luo-luo (何洛洛); student of Class 7, Junior Grade 2; member of Music Club.  
-[易安音乐社-林墨的微博](http://weibo.com/u/6108312042) - LIN Mo (林墨); student of Class 7, Junior Grade 2; member of Music Club.  
-[易安音乐社-孙亦航的微博](http://weibo.com/u/6108316220) - SUN Yi-hang (孙亦航); student of Class 7, Junior Grade 2; member of Music Club.  
-[易安音乐社-池忆的微博](http://weibo.com/u/6117581836) - CHI Yi (池忆); student of Class 2, Junior Grade 1; member of Music Club.  
-[易安音乐社-展逸文的微博](http://weibo.com/u/6108090526) - ZHAN Yi-wen (展逸文); student of Class 2, Junior Grade 1; member of Music Club.  
-[易安音乐社-方翔锐的微博](http://weibo.com/u/6117583008) - FANG Xiang-rui (方翔锐); student of Class 8, Junior Grade 3; member of Music Club.  
+[易安音乐社-何洛洛的微博](http://weibo.com/u/6117570574) - HE Luo-luo (何洛洛); student in Class 7, Junior Grade 2; member of Music Club.  
+[易安音乐社-林墨的微博](http://weibo.com/u/6108312042) - LIN Mo (林墨); student in Class 7, Junior Grade 2; member of Music Club.  
+[易安音乐社-孙亦航的微博](http://weibo.com/u/6108316220) - SUN Yi-hang (孙亦航); student in Class 7, Junior Grade 2; member of Music Club.  
+[易安音乐社-池忆的微博](http://weibo.com/u/6117581836) - CHI Yi (池忆); student in Class 2, Junior Grade 1; member of Music Club.  
+[易安音乐社-展逸文的微博](http://weibo.com/u/6108090526) - ZHAN Yi-wen (展逸文); student in Class 2, Junior Grade 1; member of Music Club.  
+[易安音乐社-方翔锐的微博](http://weibo.com/u/6117583008) - FANG Xiang-rui (方翔锐); student in Class 8, Junior Grade 3; member of Music Club.  
 
 Others:  
 [哈维森蛋黄酱的微博](http://weibo.com/havison) - HUANG Rui (黄锐, Havison); CEO of Original Plan
