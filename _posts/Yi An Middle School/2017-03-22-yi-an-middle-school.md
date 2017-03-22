@@ -9,7 +9,7 @@ categories: [ 'yi-an-middle-school' ]
   <a href="http://weibo.com/6074218720/EAVScrX10">2017-03-22 18:01</a>
 </div>
 
-Yi An Arts Club submitted an exquisite poster after school, and made a revision specially for this post. Thank you for your hard work! The Open Day of Yi An Music Club will come on stage on 30th March. In the coming days, relevant departments will cooperate to exhibit our campus culture to the public. Please wait.
+Yi An Arts Club submitted an exquisite poster after school, and made a revision specially for this post. Thank you for your hard work! The Open Day of Yi An Music Club will come on stage on 30th March. In the coming days, relevant departments will cooperate to exhibit our campus culture to the public in succession. Please wait.
 
 <!-- more -->
 
