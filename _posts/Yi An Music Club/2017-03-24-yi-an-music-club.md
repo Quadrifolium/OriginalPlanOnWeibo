@@ -15,6 +15,9 @@ categories: [ 'yi-an-music-club' ]
 
 <small>* View multimedia content(s) on the original page.</small>
 
+Note:
+1. “Shocking! In broad daylight, club leader encountered such a matter!” is imitating the news title which aims at tempting readers.
+
 ---
 
 <div class="weibo-info">
