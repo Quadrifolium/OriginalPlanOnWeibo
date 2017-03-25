@@ -13,8 +13,6 @@ When he came to the Office of Teaching and Discipline for the first time, I thou
 
 <!-- more -->
 
-<!-- more -->
-
 > <div class="weibo-post-name">
 >   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
 > </div>
