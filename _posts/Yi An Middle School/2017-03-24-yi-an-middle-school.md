@@ -17,7 +17,7 @@ When he came to the Office of Teaching and Discipline for the first time, I thou
 >   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
->   <a href="http://weibo.com/6094546964/EBfKwnNhN">2017-03-24 11:30</a>
+>   <a href="http://weibo.com/6094546964/EBg4Ps737">2017-03-24 11:30</a>
 > </div>
 > I gradually find out that the dream is close to you and me — 6 days left till the Open Day of Yi An Music Club.  
 > <small>* View multimedia content(s) on the original page.</small>
