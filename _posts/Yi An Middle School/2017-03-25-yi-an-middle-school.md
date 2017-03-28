@@ -19,5 +19,5 @@ Teachers say you dance very well, your expression shows more steadiness than del
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/EBpb1ws4d">2017-03-25 11:30</a>
 > </div>
-> One day, all the dreams will come true — 5 days left till the Open Day of Yi An Music Club.  
+> One day, all the dreams will come true – 5 days left till the Open Day of Yi An Music Club.  
 > <small>* View multimedia content(s) on the original page.</small>

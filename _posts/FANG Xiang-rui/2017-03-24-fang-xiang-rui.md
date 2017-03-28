@@ -36,5 +36,5 @@ Not as what we agreed. What's that on my head? ![smile](http://img.t.sinajs.cn/t
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/EBfKwnNhN">2017-03-24 11:30</a>
 > </div>
-> I gradually find out that the dream is close to you and me — 6 days left till the Open Day of Yi An Music Club.  
+> I gradually find out that the dream is close to you and me – 6 days left till the Open Day of Yi An Music Club.  
 > <small>* View multimedia content(s) on the original page.</small>

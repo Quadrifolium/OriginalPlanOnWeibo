@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/EByBw64sI">2017-03-26 11:30</a>
 </div>
 
-The world is vast, but we honour our promise forever — 4 days left till the Open Day of Yi An Music Club.
+The world is vast, but we honour our promise forever – 4 days left till the Open Day of Yi An Music Club.
 
 <!-- more -->
 

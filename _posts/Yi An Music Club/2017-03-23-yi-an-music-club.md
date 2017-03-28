@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/EB6k0oqAi">2017-03-23 11:30</a>
 </div>
 
-With you by my side, the happy moment is surrounding you and me — 7 days left till the Open Day of Yi An Music Club.
+With you by my side, the happy moment is surrounding you and me – 7 days left till the Open Day of Yi An Music Club.
 
 <!-- more -->
 

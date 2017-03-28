@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/EBI20EoFG">2017-03-27 11:30</a>
 </div>
 
-Spread the wings to greet the bright future — 3 days left till the Open Day of Yi An Music Club.
+Spread the wings to greet the bright future – 3 days left till the Open Day of Yi An Music Club.
 
 <!-- more -->
 

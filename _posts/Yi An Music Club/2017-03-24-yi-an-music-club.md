@@ -24,7 +24,7 @@ Note:
   <a href="http://weibo.com/6094546964/EBfKwnNhN">2017-03-24 11:30</a>
 </div>
 
-I gradually find out that the dream is close to you and me — 6 days left till the Open Day of Yi An Music Club.
+I gradually find out that the dream is close to you and me – 6 days left till the Open Day of Yi An Music Club.
 
 ![Image](http://wx2.sinaimg.cn/mw690/006Es64Agy1fdxqvcxubyj30u01hcb17.jpg)  
 *Words on image:*  
