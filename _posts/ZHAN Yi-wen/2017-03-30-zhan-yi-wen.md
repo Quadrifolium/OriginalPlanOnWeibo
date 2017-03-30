@@ -11,6 +11,8 @@ categories: [ 'zhan-yi-wen' ]
 
 Holding too long. Here are the old photos, though a little fuzzy.
 
+<small>This post has been deleted.</small>
+
 <!-- more -->
 
 ![Image](http://wx4.sinaimg.cn/mw690/006FmVn8gy1fe4ylc6nk4j30k00zktco.jpg)
