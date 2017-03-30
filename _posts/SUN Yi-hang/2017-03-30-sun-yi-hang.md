@@ -11,8 +11,6 @@ categories: [ 'sun-yi-hang' ]
 
 Hi, this is SUN Yi-hang. The road ahead, let's walk together. ![love you](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/lovea_org.gif)
 
-<small>This post has been deleted.</small>
-
 <!-- more -->
 
 ![Image](http://wx3.sinaimg.cn/mw690/006FnS5mly1fe4yapahzmj30qo13zdjv.jpg)  
