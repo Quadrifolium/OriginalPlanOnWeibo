@@ -10,7 +10,6 @@ categories: [ 'sun-yi-hang' ]
 </div>
 
 Please have an early sleep, ![love you](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/lovea_org.gif) and get ready for tomorrow. Night ~
-今天大家早点休息哦[爱你]  期待明天的到来        安～
 
 <!-- more -->
 
