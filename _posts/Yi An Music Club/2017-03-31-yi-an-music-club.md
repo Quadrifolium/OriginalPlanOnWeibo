@@ -6,7 +6,7 @@ categories: [ 'yi-an-music-club' ]
 ---
 
 <div class="weibo-info">
-  <a href="http://weibo.com/6094546964/ECjh219pP">2017-03-31 10:18</a>
+  <a href="http://weibo.com/6094546964/ECjYdeuI1">2017-03-31 12:05</a>
 </div>
 
 [#AsiaMangaChart](http://weibo.com/p/10080853749b797703d2d251a740d8723d47cd) [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) Episode 6 released ~ So, [@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220) has a fishy purpose on transferring to Yi An. And, [@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042) has another side which seldom people knows … It seems that a big show has one corner lift. ![pitiful](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/af/kl_org.gif)
