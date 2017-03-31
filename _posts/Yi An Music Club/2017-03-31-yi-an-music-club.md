@@ -1,8 +1,27 @@
 ---
 layout: post
 title: Yi An Music Club (易安音乐社)
-date: 2017-03-31 12:05
+date: 2017-03-31 23:23
 categories: [ 'yi-an-music-club' ]
+---
+
+<div class="weibo-info">
+  <a href="http://weibo.com/6094546964/ECopr0Svp">2017-03-31 23:23</a>
+</div>
+
+Seeing you are boisterous … I feel relieved. ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png) April's coming. :smile: Everything will be all right. Good night. :heart:
+
+<!-- more -->
+
+> <div class="weibo-post-name">
+>   <a href="http://weibo.com/u/6108312042">@YiAnMusicClub-LinMo</a>
+> </div>
+> <div class="weibo-info">
+>   <a href="http://weibo.com/6108312042/ECo1F3Y2h">2017-03-31 22:24</a>
+> </div>
+> Fang *-rui, fine. From tomorrow – you will be regretful for your behaviour today. ![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif) SUN Yi-hang, I should explain: I was just taking selfies, didn't notice they were also in. I didn't do that on purpose … Hahahaha  
+> <small>* View multimedia content(s) on the original page.</small>
+
 ---
 
 <div class="weibo-info">
@@ -10,8 +29,6 @@ categories: [ 'yi-an-music-club' ]
 </div>
 
 [#AsiaMangaChart](http://weibo.com/p/10080853749b797703d2d251a740d8723d47cd) [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) Episode 6 released ~ So, [@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220) has a fishy purpose on transferring to Yi An. And, [@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042) has another side which seldom people knows … It seems that a big show has one corner lift. ![pitiful](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/af/kl_org.gif)
-
-<!-- more -->
 
 <small>* View multimedia content(s) on the original page.</small>
 
