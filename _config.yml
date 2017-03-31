@@ -11,7 +11,7 @@
 # Outputting
 permalink: /posts/:categories/:year:month:day.html
 timezone: Asia/Shanghai
-paginate: 25
+paginate: 40
 paginate_path: "./p:num/"
 excerpt_separator: <!-- more -->
 
