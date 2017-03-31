@@ -9,9 +9,24 @@ categories: [ 'original-plan' ]
   <a href="http://weibo.com/5626539553/ECjlQbnLT">2017-03-31 10:30</a>
 </div>
 
-Still not contented after the conference yesterday? Want to know the story behind Original Plan and the six boys? Everything you are wondering is unveiled by Pear. ![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)
+Pictures shared.
 
 <!-- more -->
+
+![Image](http://wx2.sinaimg.cn/mw690/0068MnXXgy1fe60ancoi4j30xu1c545o.jpg)
+
+![Image](http://wx2.sinaimg.cn/mw690/0068MnXXgy1fe60ancoi4j30xu1c545o.jpg)
+
+*Words on images:*  
+Please read on [LOFTER](http://quadrifolium.lofter.com/post/1d4edd3a_ef36700).
+
+---
+
+<div class="weibo-info">
+  <a href="http://weibo.com/5626539553/ECjlQbnLT">2017-03-31 10:30</a>
+</div>
+
+Still not contented after the conference yesterday? Want to know the story behind Original Plan and the six boys? Everything you are wondering is unveiled by Pear. ![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)
 
 > <div class="weibo-post-name">
 >   <a href="http://weibo.com/pearvideo">@PearVideo</a>
