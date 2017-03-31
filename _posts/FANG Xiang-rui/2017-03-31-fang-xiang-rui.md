@@ -15,6 +15,11 @@ Xiao Huang Ge told me to post this. :ok_hand:
 
 ![Image](http://wx2.sinaimg.cn/mw690/006G0KNGgy1fe6cn8v74aj30zk0qotcs.jpg)
 
+**Comments**
+
+<div class="weibo-post">2017-03-31 22:35</div>
+[@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): Mm, fine. ^_^
+
 Note:
 1. “Xiao Huang Ge” (literally: Little Brother Huang) refers to the CEO of Original Plan – HUANG Rui.
 
