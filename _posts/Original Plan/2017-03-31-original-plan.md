@@ -15,7 +15,7 @@ Pictures shared.
 
 ![Image](http://wx2.sinaimg.cn/mw690/0068MnXXgy1fe60ancoi4j30xu1c545o.jpg)
 
-![Image](http://wx2.sinaimg.cn/mw690/0068MnXXgy1fe60ancoi4j30xu1c545o.jpg)
+![Image](http://wx2.sinaimg.cn/mw690/0068MnXXgy1fe60aq9ujfj30y51bijz8.jpg)
 
 *Words on images:*  
 Please read on [LOFTER](http://quadrifolium.lofter.com/post/1d4edd3a_ef36700).
@@ -34,7 +34,7 @@ Still not contented after the conference yesterday? Want to know the story behin
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6004281123/ECjtZuWgA">2017-03-31 10:50</a>
 > </div>
-> [How does the manga boys step into the real world?] Yesterday, the hot manga *Yi An Music Club* had the real images of the six characters in it publicised, which drew hundreds of thousands of fans for the live of the press conference. Why does a manga cause such a sensation? It is actually the gigantic project of the cultivation of trans-dimensional idols. Pear Video uncovers the story of the project and the six boys with [@Pokerface](http://weibo.com/u/5985174762). [◉ Miaopai Video](http://www.pearvideo.com/video_1056562)
+> [How does the manga boys step into the real world?] Yesterday, the hot manga *Yi An Music Club* had the real images of the six characters in it publicised, which drew hundreds of thousands of fans for the live of the press conference. Why does a manga cause such a sensation? It is actually the gigantic project of the cultivation of trans-dimensional idols. Pear Video uncovers the story of the project and the six boys with [@Pokerface](http://weibo.com/u/5985174762). [◉ Video](http://www.pearvideo.com/video_1056562)
 
 ---
 
