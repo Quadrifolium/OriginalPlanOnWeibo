@@ -14,3 +14,6 @@ I am all right. ![rabbit](http://img.t.sinajs.cn/t4/appstyle/expression/ext/norm
 <!-- more -->
 
 ![Image](http://wx2.sinaimg.cn/mw690/006G0KNGgy1fe790bwrelj30d60m70ug.jpg)
+
+Note:
+1. Considering the posts yesterday, many fans joked that the other members must have beated FANG Xiang-rui.

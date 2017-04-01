@@ -10,7 +10,7 @@ categories: [ 'yi-an-music-club' ]
 </div>
 
 Is it real? Rumours are speading these days, please distinguish on your own.
-1. What on earth is the mystical “Plan R”? It is said that the answer is in the summer cultural festival of Yi An Middle School in August.
+1. What on earth is the mystical “Plan R”? It is said that the answer is in the Summer Cultural Festival of Yi An Middle School in August.
 2. Not just Yi An Radio, there is also Yi An TV. Will the Music Club set up a programme on Yi An TV?
 3. Interactive quiz is mounted in the mystical programme *Triple Kill*. A correct answer is worth a big bonus?
 4. The Music Club received commercial endorsement, will be published in May?
