@@ -12,11 +12,11 @@ categories: [ 'yi-an-music-club' ]
 Is it real? Rumours are speading these days, please distinguish on your own.
 1. What on earth is the mystical “Plan R”? It is said that the answer is in the summer cultural festival of Yi An Middle School in August.
 2. Not just Yi An Radio, there is also Yi An TV. Will the Music Club set up a programme on Yi An TV?
-3. Interactive quiz is mounted in the mystical programme “Triple Kill”. A correct answer is worth a big bonus?
+3. Interactive quiz is mounted in the mystical programme *Triple Kill*. A correct answer is worth a big bonus?
 4. The Music Club received commercial endorsement, will be published in May?
-5. Besides the members of the club, the programme “Yi An Fun Time After School” has permanent comedian joined?
+5. Besides the members of the club, the programme *Yi An Fun Time After School* has permanent comedian joined?
 6. VR contents of Yi An Music Club will be released, to stay with you all the time?
-7. The song “To the Youth” produced by the Music Club has been reviewed by the board of the school, will officially become the new school anthem?
+7. The song *To the Youth* produced by the Music Club has been reviewed by the board of the school, will officially become the new school anthem?
 
 <!-- more -->
 
