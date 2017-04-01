@@ -70,3 +70,6 @@ Repost
 > </div>
 > The first song from the six members of Yi An Music Club is finally unveiled! The motivational song “Chitty Bang Bang Bang” is the anthem of the Music Club, extends its consistent style with the rhythm vivacious and amusing but positive and animated. From the premiere at the conference yesterday, it has captured the ears of many fans. Please click [❏ Link](http://t.cn/R6pHFtE) to hear. We hope the positive mind of the six boys chasing dream bring you a good mood for a whole day.  
 > <small>* View multimedia content(s) on the original page.</small>
+
+Note:
+1. The link in the post is currently unavailable. Please listen on [163 music](http://music.163.com/#/song?id=469073322).
