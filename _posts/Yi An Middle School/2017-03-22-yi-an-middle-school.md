@@ -29,9 +29,9 @@ Presented by Yi An Middle School
 Long post  
 *Metro*
 
-<small>* View the picture on the original page.</small>
+<small>* View the image on the original page.</small>
 
-**Words on the picture:**
+**Words on the image:**
 
 At 5 a.m.,  
 to get to school on time, I have to use versatile skills,  
