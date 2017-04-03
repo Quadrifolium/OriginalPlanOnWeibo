@@ -77,11 +77,11 @@ Just experienced cold bath in Shangsi Festival, and had cold food for several da
 
 So, people moved their sight to the day which was simply a solar term, not a festival but very close to the Cold Food Festival.
 
-The general meaning is: I didn't get to the end, but you have started. It is too hard to accept the fact. So on the day of Qingming, our ancestors flew their minds away – twinks play cuju (蹴鞠), compete with game fouls, eat in restaurants; beauties are busy watching operas and gentlemen; people do whatever they can on the day.
+The general meaning is: I didn't get to the end, but you have started already. It is too hard to accept the fact. So on the day of Qingming, our ancestors flew their minds away – twinks play cuju (蹴鞠), compete with game fouls, eat in restaurants; beauties are busy watching operas and gentlemen; people do whatever they can on the day.
 
 (Image)
 
-The time got to Tang dynasty (618 – 907), which was the era DU Mu lived.
+The time got to Tang dynasty (618–907), which was the era DU Mu lived.
 
 The people at that time were somewhat like the Americans at present.
 
@@ -97,4 +97,34 @@ That means, after crying hard in front of ancestors, they would quickly turn the
 
 So, disco at tomb is not an invention of modern people.
 
-(CHATTERED TOO LONG, I NEED SLEEP)
+Though the official had prevented such twisted practice: “Isn't your conscience aching?”
+
+Nobody can stop the playful ancestors.
+
+(Image)
+
+What is the most critical, with the popularisation of Qingming Festival, people were celebrating it longer and longer – play cuju, compete with game fouls, walking, … with great joy. In Song dynasty (960–1279), due to some political reasons, it took over the place of Shangsi Festival and Cold Food Festival.
+
+If you still cannot understand why they like to see it happen, just consider like this:
+
+Will you be happy if you have a long vacation?
+
+Now get back to that poem.
+
+Just asking for tavern didn't mean that he's going to drown his sorrows in wine.
+
+He had no sorrow at all!
+
+After gnawing cold buns for two days,
+
+he should get a sequence number there for his friends,
+
+and maybe there was a cuju game after the dinner.
+
+(Image)
+
+I don't know whether all these are the solemn nonsense from the History teacher.
+
+But I can imagine the muddled expression when the students get their papers back.
+
+Anyway, Happy Qingming Festival …
