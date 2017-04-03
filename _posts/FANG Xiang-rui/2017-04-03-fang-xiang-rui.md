@@ -15,7 +15,7 @@ Express way towards “guru guru”. You are welcome. :ok_hand: [◉ Miaopai Vid
 
 **Comments**
 
-<div class="weibo-info">2017-04-03 19:01</div>
+<div class="weibo-info">2017-04-03 19:00</div>
 [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): I was just standing there and watching you.
 
 <div class="weibo-info">2017-04-03 19:04</div>
