@@ -156,6 +156,6 @@ Trousers: H&M
 
 > Grey hoodie + powder blue coat
 
-That's all for today~ Please forgive me if there's defects. I will try to do better!!!
+That's all for today~ Please forgive me if there are defects. I will try to do better!!!
 
 > The new song of Yi An Music Club <i>Chitty Bang Bang Bang</i> released!!!<br />Follow the rhythm and guru guru guru guru gu~
