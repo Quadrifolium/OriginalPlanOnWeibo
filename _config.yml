@@ -27,8 +27,8 @@ description: > # this means to ignore newlines until "baseurl:"
   This site translates the posts of Sina Weibo accounts of Original Plan (原际画).
 baseurl: "/originalplan" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: quadrifoliumtf
-github_username:  quadrifolium
+twitter_username: QuadrifoliumW
+github_username:  Quadrifolium
 
 # Build settings
 markdown: kramdown
