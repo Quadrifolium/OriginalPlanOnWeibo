@@ -9,7 +9,7 @@ categories: [ 'yi-an-middle-school' ]
   <a href="http://weibo.com/6074218720/EDihRCxhF">2017-04-06 21:38</a>
 </div>
 
-[#YiAnGoodNight](http://weibo.com/p/10080892b104a59bff303ca883e7931b5b916e) will land on Ximalaya FM exclusively from 12th April, on Wedesndays, at 20:00. Parents and teachers, don't miss it if you like campus radio.
+[#YiAnGoodNight](http://weibo.com/p/10080892b104a59bff303ca883e7931b5b916e) will land on Ximalaya FM exclusively from 12th April, on Wednesdays, at 20:00. Parents and teachers, don't miss it if you like campus radio.
 
 <!-- more -->
 
