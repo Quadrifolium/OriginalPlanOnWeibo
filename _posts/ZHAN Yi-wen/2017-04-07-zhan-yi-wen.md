@@ -1,8 +1,22 @@
 ---
 layout: post
 title: ZHAN Yi-wen (展逸文)
-date: 2017-04-07 23:05
+date: 2017-04-07 23:18
 categories: [ 'zhan-yi-wen' ]
+---
+
+<div class="weibo-info">
+  <a href="http://weibo.com/6108090526/EDsmWgHDt">2017-04-07 23:18</a>
+</div>
+
+Strike at night. Selfies I regard as nice, taken after woke up.
+
+<!-- more -->
+
+![Image](http://wx1.sinaimg.cn/mw690/006FmVn8ly1feeixme9cnj30qo1bfwnw.jpg)
+
+![Image](http://wx2.sinaimg.cn/mw690/006FmVn8ly1feeixn9615j30qo1bfqbz.jpg)
+
 ---
 
 <div class="weibo-info">
@@ -10,8 +24,6 @@ categories: [ 'zhan-yi-wen' ]
 </div>
 
 Forgot the password of this account. Just called it to mind.
-
-<!-- more -->
 
 > <div class="weibo-post-name">
 >   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
