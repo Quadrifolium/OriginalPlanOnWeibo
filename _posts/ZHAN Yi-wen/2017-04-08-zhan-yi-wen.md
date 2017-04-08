@@ -14,3 +14,8 @@ This is absolutely not a candid photo. [@YiAnMusicClub-SunYiHang](http://weibo.c
 <!-- more -->
 
 ![Image](http://wx2.sinaimg.cn/mw690/006FmVn8ly1fefao7x16lj30qo0zkjzp.jpg)
+
+**Comments**
+
+<div class="weibo-info">2017-04-08 19:22</div>
+[@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220): That's right. You were taking it fair and square.
