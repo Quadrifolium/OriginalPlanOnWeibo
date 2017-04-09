@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yi An Music Club (易安音乐社)
-date: 2017-04-09 22:16
+date: 2017-04-09 23:16
 categories: [ 'yi-an-music-club' ]
 ---
 
@@ -9,9 +9,19 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/EDKOLdJuk">2017-04-09 22:16</a>
 </div>
 
-Thank you for giving us the opportunity for the first performance. This excellent Annual Festival of Top Chinese Music made the boys grow a lot.
+In an earnest team, there's always someone ____. ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)
 
 <!-- more -->
+
+![Image](http://wx3.sinaimg.cn/mw690/006Es64Agy1fegu2vnwczj31hc0zkh83.jpg)
+
+---
+
+<div class="weibo-info">
+  <a href="http://weibo.com/6094546964/EDKOLdJuk">2017-04-09 22:16</a>
+</div>
+
+Thank you for giving us the opportunity for the first performance. This excellent Annual Festival of Top Chinese Music made the boys grow a lot.
 
 > <div class="weibo-post-name">
 >   <a href="http://weibo.com/yinyuefengyunbang">@TopChineseMusic</a>
