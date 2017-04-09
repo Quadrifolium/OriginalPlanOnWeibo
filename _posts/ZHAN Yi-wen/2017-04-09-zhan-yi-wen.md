@@ -16,3 +16,8 @@ Admit it: When did you sleep last night?
 ![Image](http://wx4.sinaimg.cn/mw690/006FmVn8ly1fegk6o63f7j30ku112gpn.jpg)
 
 ![Image](http://wx4.sinaimg.cn/mw690/006FmVn8ly1fegk6p39cmj30ku112af2.jpg)
+
+**Comments**
+
+<div class="weibo-info">2017-04-09 18:13</div>
+[@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): FANG Xiang-rui, when did you accept the apprentice?
