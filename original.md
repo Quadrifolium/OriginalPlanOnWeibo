@@ -4,16 +4,16 @@ title: Original
 permalink: /original/
 ---
 
-# Online resources and accounts of and related to Original Plan
+## Online resources and accounts of and related to Original Plan
 
 Note: Unless otherwise mentioned, all the links in this page are in Chinese.
 
-## Official websites
+### Official websites
 
 [原际画文化传媒](http://www.op-media.cn/) - Official website of Original Plan (原际画)  
 [易安中学](http://www.yianschool.com/) - Official website of Yi An Middle School (易安中学)
 
-## Official accounts
+### Official accounts
 
 **On SNS: Sina Weibo**
 
