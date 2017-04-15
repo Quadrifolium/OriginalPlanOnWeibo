@@ -4,7 +4,7 @@ title: Original
 permalink: /original/
 ---
 
-## Online resources and accounts of and related to Original Plan
+**Online resources and accounts of and related to Original Plan**
 
 Note: Unless otherwise mentioned, all the links in this page are in Chinese.
 
