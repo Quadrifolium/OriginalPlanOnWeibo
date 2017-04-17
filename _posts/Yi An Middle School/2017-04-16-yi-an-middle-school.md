@@ -19,8 +19,8 @@ Don't catch the meaning of idioms too literally! The teachers have once talked i
 > <div class="weibo-info">
 >   <a href="http://weibo.com/1835812695/ECWfvzIyf">2017-04-04 13:32</a>
 > </div>
-> [100 error-prone idioms easy to be taken literally. Are you using them correctly?]  
-> <small>* View multimedia content(s) on the original page.</small>
+> [100 error-prone idioms easy to be taken literally. Are you using them correctly?] …  
+> <small>* View content(s) on the original page.</small>
 
 Note:
 1. In Chinese, Andromeda (仙女座) literally means “Constellation of Fairy”.
