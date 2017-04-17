@@ -9,7 +9,7 @@ categories: [ 'fang-xiang-rui' ]
   <a href="http://weibo.com/6117583008/ECOY3nxIf">2017-04-03 18:59</a>
 </div>
 
-Express way towards “guru guru”. You are welcome. :ok_hand: [◉ Miaopai Video](http://www.miaopai.com/show/WOeeIyeS3TUQqBSla~RYZuPEl-X~Oluv.htm)
+Express way towards “guru guru”. You are welcome. :ok_hand: [◉ Flash Show Video](http://www.miaopai.com/show/WOeeIyeS3TUQqBSla~RYZuPEl-X~Oluv.htm)
 
 <!-- more -->
 

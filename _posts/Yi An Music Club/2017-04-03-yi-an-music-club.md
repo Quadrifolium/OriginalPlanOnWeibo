@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/ECPtCpUPC">2017-04-03 20:17</a>
 </div>
 
-“What is stature and age be inversely proportional to combat effectiveness? You will find out in this video.” [◉ Miaopai Video](http://www.miaopai.com/show/D-cib2GOAS71gQGWBdnCdQlJdwVy5UGj.html)
+“What is stature and age be inversely proportional to combat effectiveness? You will find out in this video.” [◉ Flash Show Video](http://www.miaopai.com/show/D-cib2GOAS71gQGWBdnCdQlJdwVy5UGj.html)
 
 <!-- more -->
 

@@ -9,7 +9,7 @@ categories: [ 'sun-yi-hang' ]
   <a href="http://weibo.com/6108316220/ECDFiDSn4">2017-04-02 14:13</a>
 </div>
 
-“Come here, let me teach you how to guru guru guru guru gu.” [◉ Miaopai Video](http://www.miaopai.com/show/kF-L8ZhzxN6MiYFfwVCXW5GyeouOSzmB.htm)
+“Come here, let me teach you how to guru guru guru guru gu.” [◉ Flash Show Video](http://www.miaopai.com/show/kF-L8ZhzxN6MiYFfwVCXW5GyeouOSzmB.htm)
 
 <!-- more -->
 

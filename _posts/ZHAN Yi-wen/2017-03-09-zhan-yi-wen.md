@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/Ez2J339mj">2017-03-09 22:40</a>
 </div>
 
-Another post. Hilarious. ![hihi](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif)![hihi](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif) [◉ Miaopai Video](http://weibo.com/tv/v/Ez2MF2250)
+Another post. Hilarious. ![hihi](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif)![hihi](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif) [◉ Flash Show Video](http://weibo.com/tv/v/Ez2MF2250)
 
 <!-- more -->
 

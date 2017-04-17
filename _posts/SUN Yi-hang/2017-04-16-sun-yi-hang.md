@@ -9,7 +9,7 @@ categories: [ 'sun-yi-hang' ]
   <a href="http://weibo.com/6108316220/EEJk6cCWZ">2017-04-16 08:18</a>
 </div>
 
-Everybody, get up now. :grin: [◉ Miaopai Video](http://www.miaopai.com/show/t1kknqttjW0MQO6T9~zA6g3sSabcRgwk.htm)
+Everybody, get up now. :grin: [◉ Flash Show Video](http://www.miaopai.com/show/t1kknqttjW0MQO6T9~zA6g3sSabcRgwk.htm)
 
 <!-- more -->
 

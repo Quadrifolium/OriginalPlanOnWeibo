@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/ExtWDojTh">2017-02-27 16:17</a>
 </div>
 
-I have special trick to amuse cat. [◉ Miaopai Video](http://weibo.com/tv/v/ExtWDojTh)
+I have special trick to amuse cat. [◉ Flash Show Video](http://weibo.com/tv/v/ExtWDojTh)
 
 <!-- more -->
 

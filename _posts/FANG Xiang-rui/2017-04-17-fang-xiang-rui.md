@@ -9,7 +9,7 @@ categories: [ 'fang-xiang-rui' ]
   <a href="http://weibo.com/6117583008/EEYcWAeAd">2017-04-17 22:11</a>
 </div>
 
-A gift for you. [◉ Miaopai Video](http://weibo.com/tv/v/EEYcWAeAd)
+A gift for you. [◉ Flash Show Video](http://weibo.com/tv/v/EEYcWAeAd)
 
 <!-- more -->
 

@@ -29,7 +29,7 @@ Note:
   <a href="http://weibo.com/6117583008/ECntI05FH">2017-03-31 21:36</a>
 </div>
 
-![rabbit](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/81/rabbit_org.gif) [◉ Miaopai Video](http://weibo.com/tv/v/ECnBxqKag)
+![rabbit](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/81/rabbit_org.gif) [◉ Flash Show Video](http://weibo.com/tv/v/ECnBxqKag)
 
 Note:
 1. The music in the video is *Gokuraku Jyoudo* (極楽浄土).
