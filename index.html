@@ -15,24 +15,25 @@ layout: home
 
 <!-- Pagination links -->
 <div class="content">
-<table class="pagination" border="0" width="100%">
+<table class="pagination" border="0" width="100%" style="border-spacing:0">
   <tr>
-    <td align="left">
+    <td align="left" width="20%">
       {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous">Newer posts</a>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous">Newer</a>
       {% else %}
-        <span class="previous">Newer posts</span>
+        <span class="previous"></span>
       {% endif %}
     </td>
-    <td align="center">
-      <span class="page_number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    <td align="center" width="40%">
+      <span class="page_number">{{ paginator.page }} / {{ paginator.total_pages }}</span>
     </td>
-    <td align="right">
+    <td align="right" width="20%">
       {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">Older posts</a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">Older</a>
       {% else %}
-        <span class="next">Older posts</span>
+        <span class="next"></span>
       {% endif %}
     </td>
+  </tr>
 </table>
 </div>

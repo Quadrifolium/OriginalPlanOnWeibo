@@ -11,6 +11,8 @@ dl, dd, ol, ul, figure {
 hr {
   margin: $spacing-unit/2 0 $spacing-unit/2 0;
   padding: 0;
+  border: 0;
+  border-top: 1px solid $grey-color-light;
 }
 
 /**
