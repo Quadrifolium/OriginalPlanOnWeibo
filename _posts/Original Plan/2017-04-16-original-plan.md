@@ -9,7 +9,7 @@ categories: [ 'original-plan' ]
   <a href="http://weibo.com/5626539553/EEN466G1X">2017-04-16 17:49</a>
 </div>
 
-[#TransdimensionalIdol](http://weibo.com/p/100808fab985aab0bfb2724bf4d29856cf6ee7) [@YiAnMusicClub](http://weibo.com/u/6094546964) The assignment in *Triple Kill* is: 3 Werewolves + 3 Clergies (a Fortune Teller, a Witch, and a Hunter) + 4 Ordinary Townsfolks. Each round lasts about 30 minutes, hence all three rounds use up to 90 minutes. At 20:00, on Fridays, from 21st April, come to Panda TV and rack your brains. The poster of [@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042) is released today.
+[#TransdimensionalIdol](http://weibo.com/p/100808fab985aab0bfb2724bf4d29856cf6ee7) [@YiAnMusicClub](http://weibo.com/u/6094546964) The assignment in *Triple Kill* is: 3 Werewolves + 3 Clergies (a Seer, a Witch, and a Hunter) + 4 Ordinary Townsfolks. Each round lasts about 30 minutes, hence all three rounds use up to 90 minutes. At 20:00, on Fridays, from 21st April, come to Panda TV and rack your brains. The poster of [@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042) is released today.
 
 <!-- more -->
 
