@@ -246,6 +246,10 @@
 
   a {
     color: $grey-color-dark;
+
+    &:hover {
+      color: darken($brand-color, 5%);
+    }
   }
 }
 
