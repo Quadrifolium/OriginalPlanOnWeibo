@@ -6,7 +6,7 @@ categories: [ 'yi-an-music-club' ]
 ---
 
 <div class="weibo-info">
-  <a href="http://weibo.com/6094546964/EFgdN1Osd">2017-04-20 20:03</a>
+  <a href="http://weibo.com/6094546964/EFgdN1Osd">2017-04-19 20:03</a>
 </div>
 
 [#YiAnGoodNight](http://weibo.com/p/10080892b104a59bff303ca883e7931b5b916e) No.002 arrived in time, please listen on Ximalaya FM with your phone. Remember to follow and subscribe to the account of Yi An Music Club, and you will get reminded when the show updates~ [❏ Link](http://m.ximalaya.com/78339006/sound/35823287)
