@@ -9,7 +9,7 @@ categories: [ 'original-plan' ]
   <a href="http://weibo.com/5626539553/EFpxRwMbd">2017-04-20 19:47</a>
 </div>
 
-[#TransdimensionalIdol](http://weibo.com/p/100808fab985aab0bfb2724bf4d29856cf6ee7) In [@YiAnMusicClub](http://weibo.com/u/6094546964)'s *Triple Kill* live on Panda TV at eight p.m. tomorrow, the real-time interactive quiz will be postponed to the next week, since the platform is still developing and testing the system. Please pardon for the change. Meanwhile, on-screen comments are welcome during the first episode.
+[#TransdimensionalIdol](http://weibo.com/p/100808fab985aab0bfb2724bf4d29856cf6ee7) In [@YiAnMusicClub](http://weibo.com/u/6094546964)'s *Triple Kill* live on Panda TV at eight p.m. tomorrow, the real-time interactive quiz will be postponed to the next week, since the platform is still developing and testing the system. Please pardon for the change. Meanwhile, on-screen comments are welcome during the first episode. :smile:
 
 <!-- more -->
 
