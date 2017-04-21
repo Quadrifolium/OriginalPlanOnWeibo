@@ -9,7 +9,7 @@ categories: [ 'original-plan' ]
   <a href="http://weibo.com/5626539553/EFfFfiS51">2017-04-19 18:38</a>
 </div>
 
-[#TransdimensionalIdol](http://weibo.com/p/100808fab985aab0bfb2724bf4d29856cf6ee7) After trials, the members of [@YiAnMusicClub](http://weibo.com/u/6094546964) may use some terms, such as golden liquid, villain checked, kill, withdraw, defect, etc., in *Triple Kill*. If you are not familiar with the terms and rules, please search and learn a little bit. The poster of [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574) is released today.
+[#TransdimensionalIdol](http://weibo.com/p/100808fab985aab0bfb2724bf4d29856cf6ee7) After trials, the members of [@YiAnMusicClub](http://weibo.com/u/6094546964) may use some terms, such as goldwater, probed evil, kill, withdraw, defect, etc., in *Triple Kill*. If you are not familiar with the terms and rules, please search and learn a little bit. The poster of [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574) is released today.
 
 <!-- more -->
 
