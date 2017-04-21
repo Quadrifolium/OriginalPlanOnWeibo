@@ -18,8 +18,9 @@ Note: Unless otherwise mentioned, all the links in this page are in Chinese.
 **On SNS: Sina Weibo**
 
 [@OriginalPlan](http://weibo.com/satosan) - Original Plan  
-[@YiAnMiddleSchool](http://weibo.com/yianschool) - Yi An Middle School, where the story happens.  
+[@YiAnMiddleSchool](http://weibo.com/yianschool) - Yi An Middle School, where the story happens  
 [@YiAnMusicClub](http://weibo.com/u/6094546964) - Music Club of Yi An Middle School  
+[@YiAnMultimediaCentre](http://weibo.com/u/6196825252) - The Multimedia Centre of Yi An Middle School  
 
 Virtual characters:  
 (Ordered by the time of the first post)  

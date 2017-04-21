@@ -1,8 +1,23 @@
 ---
 layout: post
 title: ZHAN Yi-wen (展逸文)
-date: 2017-04-21 19:34
+date: 2017-04-21 23:25
 categories: [ 'zhan-yi-wen' ]
+---
+
+<div class="weibo-info">
+  <a href="http://weibo.com/6108090526/EFAoZlefY">2017-04-21 23:25</a>
+</div>
+
+One more post before sleep. Thank you, [@LOLUniversalBigCousin](http://weibo.com/yuzhoujieshuo) and [@WittyCrazyPup](http://weibo.com/u/5706219726), for your instruction to the green hands of the game. Let's wait for the next episode!
+
+<!-- more -->
+
+**Comments**
+
+<div class="weibo-info">2017-04-21 23:33</div>
+[@WittyCrazyPup](http://weibo.com/u/5706219726): So cool. I'll be on your side next time. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)
+
 ---
 
 <div class="weibo-info">
@@ -10,8 +25,6 @@ categories: [ 'zhan-yi-wen' ]
 </div>
 
 Remember to watch *Triple Kill*, see how I carry the whole game.
-
-<!-- more -->
 
 ![Image](http://wx2.sinaimg.cn/mw690/006FmVn8ly1feuj5432ndj30qo0zkqaa.jpg)
 

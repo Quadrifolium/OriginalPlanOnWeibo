@@ -1,17 +1,33 @@
 ---
 layout: post
 title: FANG Xiang-rui (方翔锐)
-date: 2017-04-21 19:20
+date: 2017-04-21 23:28
 categories: [ 'fang-xiang-rui' ]
 ---
 
 <div class="weibo-info">
-  <a href="http://weibo.com/6117583008/EFyo3mY43">2017-04-21 18:18</a>
+  <a href="http://weibo.com/6117583008/EFyo3mY43">2017-04-21 23:28</a>
+</div>
+
+Let me be the Seer, and I'll seize the victory. :v::yum:
+
+<!-- more -->
+
+**Comments**
+
+<div class="weibo-info">2017-04-21 23:36</div>
+[@WittyCrazyPup](http://weibo.com/u/5706219726): Guy, if you probe me next time, I won't teach you any more. :joy::joy::joy:
+
+<div class="weibo-info">2017-04-21 23:29</div>
+[@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Good night. 😴
+
+---
+
+<div class="weibo-info">
+  <a href="http://weibo.com/6117583008/EFyNxE6Fy">2017-04-21 19:20</a>
 </div>
 
 Hope I won't be killed in the first vote. ![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif)
-
-<!-- more -->
 
 ![Image](http://wx1.sinaimg.cn/mw690/006G0KNGgy1feuiqnkxp4j30qo0zkwk8.jpg)
 
