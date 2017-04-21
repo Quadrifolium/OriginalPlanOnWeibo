@@ -1,29 +1,32 @@
 ---
 layout: post
-title: FANG Xiang-rui (方翔锐)
-date: 2017-04-21 19:20
-categories: [ 'fang-xiang-rui' ]
+title: ZHAN Yi-wen (展逸文)
+date: 2017-04-21 19:34
+categories: [ 'zhan-yi-wen' ]
 ---
 
 <div class="weibo-info">
-  <a href="http://weibo.com/6117583008/EFyo3mY43">2017-04-21 18:18</a>
+  <a href="http://weibo.com/6108090526/EFyT45mbS">2017-04-21 19:34</a>
 </div>
 
-Hope I won't be killed in the first vote. ![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif)
+Remember to watch *Triple Kill*, see how I carry the whole game.
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006G0KNGgy1feuiqnkxp4j30qo0zkwk8.jpg)
+![Image](http://wx2.sinaimg.cn/mw690/006FmVn8ly1feuj5432ndj30qo0zkqaa.jpg)
 
-![Image](http://wx2.sinaimg.cn/mw690/006G0KNGgy1feuiqfapg2j30qo0zjgpo.jpg)
+**Comments**
+
+<div class="weibo-info">2017-04-21 19:34</div>
+[@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Guess which one is 6, which is 9.
 
 ---
 
 <div class="weibo-info">
-  <a href="http://weibo.com/6117583008/EFyo3mY43">2017-04-21 18:18</a>
+  <a href="http://weibo.com/6108090526/EFgWMrr9v">2017-04-21 19:16</a>
 </div>
 
-As usual …
+I bought that ice cream.
 
 > <div class="weibo-post-name">
 >   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
