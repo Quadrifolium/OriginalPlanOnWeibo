@@ -13,7 +13,7 @@ categories: [ 'yi-an-middle-school' ]
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/renminwang">@PeoplesDailyOnline</a>
+>   <a href="http://weibo.com/renminwang">PeoplesDailyOnline</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/2286908003/EqB54pGsf">2017-01-13 09:35</a>

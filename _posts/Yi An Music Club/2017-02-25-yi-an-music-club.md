@@ -14,7 +14,7 @@ The scorpion is just the beginning. We will introduce spider, centipede, snake, 
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6108316220">@YiAnMusicClub-SunYiHang</a>
+>   <a href="http://weibo.com/u/6108316220">YiAnMusicClub-SunYiHang</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6108316220/ExbsWmjaU">2017-02-25 17:14</a>

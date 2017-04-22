@@ -14,7 +14,7 @@ Don't catch the meaning of idioms too literally! The teachers have once talked i
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/jkshbd">@SuperPracticalMicropaedia</a>
+>   <a href="http://weibo.com/jkshbd">SuperPracticalMicropaedia</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/1835812695/ECWfvzIyf">2017-04-04 13:32</a>

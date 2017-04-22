@@ -14,7 +14,7 @@ At eight tonight, [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63e
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/PandaTV">@PandaTV</a>
+>   <a href="http://weibo.com/PandaTV">PandaTV</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/5700092581/EFynDDdgQ">2017-04-21 18:17</a>

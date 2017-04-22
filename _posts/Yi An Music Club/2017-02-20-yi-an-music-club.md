@@ -13,7 +13,7 @@ Look how much you are suppressed~ Only one month left. ![think](http://img.t.sin
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6108312042">@YiAnMusicClub-LinMo</a>
+>   <a href="http://weibo.com/u/6108312042">YiAnMusicClub-LinMo</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6108312042/EwhpxtNpd">2017-02-19 18:32</a>

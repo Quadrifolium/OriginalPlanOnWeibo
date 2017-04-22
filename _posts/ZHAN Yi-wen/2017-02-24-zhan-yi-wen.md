@@ -14,7 +14,7 @@ If I knew only idiots join, I won't be in Music Club.
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/Ex02e5UkU">2017-02-24 12:08</a>

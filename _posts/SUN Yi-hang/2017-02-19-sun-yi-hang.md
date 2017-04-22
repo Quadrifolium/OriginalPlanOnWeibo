@@ -18,12 +18,12 @@ Here comes the question: Is this the moon or the sun? ![doge](http://img.t.sinaj
 **Comments**
 
 <div class="weibo-info">2017-02-19 18:06</div>
-[@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): Whatever, the heaven's arrangement is in the first place …
+[YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): Whatever, the heaven's arrangement is in the first place …
 
 <div class="weibo-info">2017-02-19 18:02</div>
-[@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Why I can't be in the hot comments?
+[YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Why I can't be in the hot comments?
 > <div class="weibo-info">2017-02-19 18:02</div>
-> [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): [@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220)
+> [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): [@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220)
 
 Note:
 1. [@Havison](http://weibo.com/havison) is the CEO of Original Plan in real world.

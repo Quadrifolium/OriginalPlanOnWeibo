@@ -13,7 +13,7 @@ Hi, this is SUN Yi-hang, transferred from another school. I want to join the Mus
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/EuIzlw2Uj">2017-02-09 12:00</a>

@@ -14,7 +14,7 @@ When he came to the Office of Teaching and Discipline for the first time, I thou
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/EBg4Ps737">2017-03-24 11:30</a>

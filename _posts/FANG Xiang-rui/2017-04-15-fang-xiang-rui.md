@@ -18,4 +18,4 @@ Well, time to sleep. ![moon](http://img.t.sinajs.cn/t4/appstyle/expression/ext/n
 **Comments**
 
 <div class="weibo-info">2017-04-15 22:31</div>
-[@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): Humph, posted a selfie but didn't call me.
+[YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): Humph, posted a selfie but didn't call me.

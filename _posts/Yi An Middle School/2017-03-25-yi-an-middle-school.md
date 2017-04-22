@@ -14,7 +14,7 @@ Teachers say you dance very well, your expression shows more steadiness than del
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/EBpb1ws4d">2017-03-25 11:30</a>

@@ -14,7 +14,7 @@ categories: [ 'original-plan' ]
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/cctvwish">@CCTVWish</a>
+>   <a href="http://weibo.com/cctvwish">CCTVWish</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/3802580928/ECbKDbcMr">2017-03-30 15:09</a>
@@ -31,7 +31,7 @@ categories: [ 'original-plan' ]
 Waiting for you. ![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/huajiaozhibo">@HuaJiaoLive</a>
+>   <a href="http://weibo.com/huajiaozhibo">HuaJiaoLive</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/5586100914/ECanktNk1">2017-03-30 11:39</a>

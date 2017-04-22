@@ -19,4 +19,4 @@ Why you like to sit near me when I'm doing homework?
 **Comments**
 
 <div class="weibo-info">2017-02-20 21:52</div>
-[@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Because you are the ![feces](http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee819a.png) cleaner.
+[YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Because you are the ![feces](http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee819a.png) cleaner.

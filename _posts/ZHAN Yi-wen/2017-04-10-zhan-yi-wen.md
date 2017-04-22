@@ -18,4 +18,4 @@ No selfie this time. Guess what it is.
 **Comments**
 
 <div class="weibo-info">2017-04-10 16:42</div>
-[@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): The answer: Silver mic reflecting light and failed focusing in close range, hence here comes the photo.
+[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): The answer: Silver mic reflecting light and failed focusing in close range, hence here comes the photo.

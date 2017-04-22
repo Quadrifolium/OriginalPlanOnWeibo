@@ -14,7 +14,7 @@ categories: [ 'original-plan' ]
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/inkeapp">@inke</a>
+>   <a href="http://weibo.com/inkeapp">inke</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/5582998111/EC42KwLNS">2017-03-29 19:32</a>

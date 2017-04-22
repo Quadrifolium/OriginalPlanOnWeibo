@@ -13,7 +13,7 @@ The plan of “Diversify Campus” is indeed gradually reviving the club culture
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/Es8p7zAsY">2017-01-23 12:15</a>

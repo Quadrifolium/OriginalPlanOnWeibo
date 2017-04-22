@@ -20,10 +20,10 @@ Break time again. ![greedy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/no
 **Comments**
 
 <div class="weibo-info">2017-03-06 14:16</div>
-[@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220): +2
+[YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220): +2
 
 <div class="weibo-info">2017-03-06 14:09</div>
-[@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): +1
+[YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): +1
 
 Note:
 1. The Chinese characters in the pictures mean “bark”.

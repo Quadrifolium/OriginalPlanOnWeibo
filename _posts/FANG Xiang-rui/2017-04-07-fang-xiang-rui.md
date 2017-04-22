@@ -14,7 +14,7 @@ Good night, everybody. ![moon](http://img.t.sinajs.cn/t4/appstyle/expression/ext
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/EDnJtos2S">2017-04-07 12:24</a>

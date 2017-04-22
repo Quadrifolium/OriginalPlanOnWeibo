@@ -16,7 +16,7 @@ categories: [ 'sun-yi-hang' ]
 **Comments**
 
 <div class="weibo-info">2017-02-25 18:16</div>
-[@YiAnMusicClub](http://weibo.com/u/6094546964): The scorpion is just the beginning. We will introduce spider, centipede, snake, lizard, and other reptiles in the future. We welcome the students interested in reptile pets to join the Music Club. ![yeah](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/ye_org.gif)
+[YiAnMusicClub](http://weibo.com/u/6094546964): The scorpion is just the beginning. We will introduce spider, centipede, snake, lizard, and other reptiles in the future. We welcome the students interested in reptile pets to join the Music Club. ![yeah](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/ye_org.gif)
 
 <div class="weibo-info">2017-02-25 17:15</div>
-[@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): The mascot.
+[YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): The mascot.

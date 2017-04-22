@@ -14,7 +14,7 @@ Have a good rest in these days~ Don't be so naughty in P.E. lessons. ![pitiful](
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6117570574">@YiAnMusicClub-HeLuoLuo</a>
+>   <a href="http://weibo.com/u/6117570574">YiAnMusicClub-HeLuoLuo</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6117570574/Ex1tP2PzW">2017-02-24 15:49</a>

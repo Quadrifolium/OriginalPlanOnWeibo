@@ -13,7 +13,7 @@ In fact, I'm cool and solemn.
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/EvtOT4vfV">2017-02-14 12:17</a>
@@ -24,6 +24,6 @@ In fact, I'm cool and solemn.
 **Comments**
 
 <div class="weibo-info">2017-02-14 18:19</div>
-[@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): Any guy cool and solemn won't have that hairstyle.
+[YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): Any guy cool and solemn won't have that hairstyle.
 > <div class="weibo-info">2017-02-14 20:15</div>
-> [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): You … ![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)
+> [YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): You … ![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)

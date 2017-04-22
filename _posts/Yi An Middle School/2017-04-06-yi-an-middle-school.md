@@ -18,4 +18,4 @@ categories: [ 'yi-an-middle-school' ]
 **Comments**
 
 <div class="weibo-info">2017-04-06 21:43</div>
-[@YiAnMiddleSchool](http://weibo.com/yianschool): Want to know the long-spreading quirk in Yi An Middle School? Please follow. ![cat doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif)
+[YiAnMiddleSchool](http://weibo.com/yianschool): Want to know the long-spreading quirk in Yi An Middle School? Please follow. ![cat doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif)

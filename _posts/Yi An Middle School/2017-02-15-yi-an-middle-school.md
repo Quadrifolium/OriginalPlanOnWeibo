@@ -13,7 +13,7 @@ Re [@跨次元粉丝](http://weibo.com/n/%E8%B7%A8%E6%AC%A1%E5%85%83%E7%B2%89%E4
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/yianschool">@YiAnMiddleSchool</a>
+>   <a href="http://weibo.com/yianschool">YiAnMiddleSchool</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6074218720/EvFkoAfWH">2017-02-15 17:35</a>

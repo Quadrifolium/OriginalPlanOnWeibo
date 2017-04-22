@@ -18,9 +18,9 @@ Happy Valentine's Day. Good night.
 **Comments**
 
 <div class="weibo-info">2017-02-15 20:56</div>
-[@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): You and CHI Yi were both at Occidental Pearl? In a fret.
+[YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): You and CHI Yi were both at Occidental Pearl? In a fret.
 > <div class="weibo-info">2017-02-15 21:31</div>
-> [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): With legs exhausted. [Image](http://wx3.sinaimg.cn/mw1024/006G0KNGgy1fcrh84qbr2j30ku0kutd2.jpg)
+> [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): With legs exhausted. [Image](http://wx3.sinaimg.cn/mw1024/006G0KNGgy1fcrh84qbr2j30ku0kutd2.jpg)
 
 ---
 
@@ -30,7 +30,7 @@ Happy Valentine's Day. Good night.
 I'm taking selfies.
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/EvtOT4vfV">2017-02-14 12:17</a>

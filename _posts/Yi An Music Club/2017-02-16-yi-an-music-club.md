@@ -13,7 +13,7 @@ Oh? Why? ![doubt](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/yw
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6117570574">@YiAnMusicClub-HeLuoLuo</a>
+>   <a href="http://weibo.com/u/6117570574">YiAnMusicClub-HeLuoLuo</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6117570574/EvOKoqBrE">2017-02-16 17:34</a>

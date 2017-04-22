@@ -22,6 +22,6 @@ Everybody, repost, thanks.
 **Comments**
 
 <div class="weibo-info">2017-03-10 22:55</div>
-[@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220): Good night. ![moon](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b9/moon.gif)
+[YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220): Good night. ![moon](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b9/moon.gif)
 > <div class="weibo-info">2017-03-10 22:23</div>
-> [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Good night, friends at the right.
+> [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Good night, friends at the right.

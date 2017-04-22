@@ -13,7 +13,7 @@ So you don't have reviewing lessons in evening? ![doge](http://img.t.sinajs.cn/t
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6108090526">@YiAnMusicClub-ZhanYiWen</a>
+>   <a href="http://weibo.com/u/6108090526">YiAnMusicClub-ZhanYiWen</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6108090526/EvGP803Pi">2017-02-15 21:23</a>

@@ -14,7 +14,7 @@ Thank you for your patient instruction of the rules and techniques during the st
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/5706219726">@WittyCrazyPup</a>
+>   <a href="http://weibo.com/u/5706219726">WittyCrazyPup</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/5706219726/EFzOKbdVW">2017-04-21 21:56</a>
@@ -31,7 +31,7 @@ Thank you for your patient instruction of the rules and techniques during the st
 Thank you, Big Cousin … To play well with these boys, you are exactly their peer. :blush: //[@LOLUniversalBigCousin](http://weibo.com/yuzhoujieshuo): Well down, guys. I believe you will make it better and better. And the boys are very charming, very cute. :heart_eyes: This is a process of growing and improving. I'm happy to play the game with you, and I hope *Triple Kill* be better and better.
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6196825252">@YiAnMultimediaCentre</a>
+>   <a href="http://weibo.com/u/6196825252">YiAnMultimediaCentre</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6196825252/EFzQ2gZzK">2017-04-21 21:59</a>

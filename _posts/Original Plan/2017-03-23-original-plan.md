@@ -14,7 +14,7 @@ New channel for the entrance of the Open Day. :grin: Have time but no ticket? Hu
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/funforfans">@FunForFans</a>
+>   <a href="http://weibo.com/funforfans">FunForFans</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/5590124843/EvoZA9evT">2017-03-23 17:38</a>

@@ -23,7 +23,7 @@ Happy Lantern Festival 🏮
 Hi, this is ZHAN Yi-wen. Mm, in Junior Grade 1.
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/Ev1qkyPtk">2017-02-11 12:00</a>

@@ -16,7 +16,7 @@ Express way towards “guru guru”. You are welcome. :ok_hand: [◉ Flash Show 
 **Comments**
 
 <div class="weibo-info">2017-04-03 19:00</div>
-[@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): I was just standing there and watching you.
+[YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): I was just standing there and watching you.
 
 <div class="weibo-info">2017-04-03 19:04</div>
-[@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220): Someone imitates my face, someone imitates my “guru guru gu”. ![think](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif)
+[YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220): Someone imitates my face, someone imitates my “guru guru gu”. ![think](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif)

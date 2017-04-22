@@ -20,7 +20,7 @@ categories: [ 'fang-xiang-rui' ]
 Mm, OK.
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/EuRZQkOXt">2017-02-10 12:00</a>

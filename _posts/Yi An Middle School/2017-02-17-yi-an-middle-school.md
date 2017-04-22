@@ -20,7 +20,7 @@ For the class committee of Class 2 Senior Grade 2: Please attend the meeting for
 Since applying institution is the established practice abroad, why not implement it domestic? Experts' brains are hard to guess, when you talk about status quo, they stress on int'l convention. Yi An cannot change the current situation, but is striving towards the goal. And we hope more schools take part in quality-oriented education whole-heartedly. Only in this way can our students be more competitive. Exam score can never be the primary element for a student!
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/renminwang">@PeoplesDailyOnline</a>
+>   <a href="http://weibo.com/renminwang">PeoplesDailyOnline</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/2286908003/EvW7ImL1R">2017-02-17 12:20</a>

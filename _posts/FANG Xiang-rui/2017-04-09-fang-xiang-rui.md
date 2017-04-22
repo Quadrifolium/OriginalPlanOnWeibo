@@ -26,4 +26,4 @@ I have the worst sense of direction. :mask:
 **Comments**
 
 <div class="weibo-info">2017-04-09 17:38</div>
-[@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): I can tell. :joy:
+[YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): I can tell. :joy:

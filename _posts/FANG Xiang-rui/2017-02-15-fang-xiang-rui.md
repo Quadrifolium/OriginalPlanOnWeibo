@@ -18,7 +18,7 @@ Exhausted legs.
 **Comments**
 
 <div class="weibo-info">2017-02-16 14:19</div>
-[@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): Are you in trousers, bro?
+[YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): Are you in trousers, bro?
 
 <div class="weibo-info">2017-02-16 14:19</div>
-[@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): So slim.
+[YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): So slim.

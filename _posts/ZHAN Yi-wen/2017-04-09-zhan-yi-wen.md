@@ -32,4 +32,4 @@ Admit it: When did you sleep last night?
 **Comments**
 
 <div class="weibo-info">2017-04-09 18:13</div>
-[@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): FANG Xiang-rui, when did you accept the apprentice?
+[YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): FANG Xiang-rui, when did you accept the apprentice?

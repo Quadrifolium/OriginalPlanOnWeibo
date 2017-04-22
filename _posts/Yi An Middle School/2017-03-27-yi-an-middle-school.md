@@ -30,7 +30,7 @@ From this, you will know the meaning of life.
 When came to the Office of Teaching and Discipline for the first time, he seemed solemn and reserved. But it soon became clear that you just didn't know how to express the feelings, hence hided your mind deep. You are kind-hearted and generous in friendship. When getting familiar with you, everyone would like to say: Nice to meet you again.
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/EBI20EoFG">2017-03-27 11:30</a>

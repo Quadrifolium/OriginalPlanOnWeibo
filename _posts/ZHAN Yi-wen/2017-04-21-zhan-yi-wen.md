@@ -16,7 +16,7 @@ One more post before sleep. Thank you, [@LOLUniversalBigCousin](http://weibo.com
 **Comments**
 
 <div class="weibo-info">2017-04-21 23:33</div>
-[@WittyCrazyPup](http://weibo.com/u/5706219726): So cool. I'll be on your side next time. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)
+[WittyCrazyPup](http://weibo.com/u/5706219726): So cool. I'll be on your side next time. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)
 
 ---
 
@@ -31,7 +31,7 @@ Remember to watch *Triple Kill*, see how I carry the whole game.
 **Comments**
 
 <div class="weibo-info">2017-04-21 19:34</div>
-[@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Guess which one is 6, which is 9.
+[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Guess which one is 6, which is 9.
 
 ---
 
@@ -42,7 +42,7 @@ Remember to watch *Triple Kill*, see how I carry the whole game.
 I bought that ice cream.
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/EFw0j4RVY">2017-04-21 12:14</a>

@@ -14,7 +14,7 @@ Seeing you are boisterous … I feel relieved. ![Husky](http://img.t.sinajs.cn/t
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6108312042">@YiAnMusicClub-LinMo</a>
+>   <a href="http://weibo.com/u/6108312042">YiAnMusicClub-LinMo</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6108312042/ECo1F3Y2h">2017-03-31 22:24</a>

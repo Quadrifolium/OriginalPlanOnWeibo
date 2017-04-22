@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/satosan">@WeiboAccountName</a>
+>   <a href="http://weibo.com/satosan">WeiboAccountName</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/1708288824/DzyXNBSZW">1970-01-01 12:00</a>
@@ -31,16 +31,17 @@ Lorem ipsum dolor sit amet.
 Note:
 1. Lorem ipsum: Lorem ipsum.
 1. Quote: Another Weibo post.
+1. [@Havison](http://weibo.com/havison) is the CEO of Original Plan.
 
 **Comments**
 
 <div class="weibo-info">1970-01-01 23:59</div>
-[@WeiboAccountName](http://weibo.com/satosan): Lorem ipsum
+[WeiboAccountName](http://weibo.com/satosan): Lorem ipsum
 
 <div class="weibo-info">1970-01-01 23:59</div>
-[@WeiboAccountName](http://weibo.com/satosan): Lorem ipsum
+[WeiboAccountName](http://weibo.com/satosan): Lorem ipsum
 > <div class="weibo-info">1970-01-01 23:59</div>
-> [@WeiboAccountName](http://weibo.com/satosan): Lorem ipsum
+> [WeiboAccountName](http://weibo.com/satosan): Lorem ipsum
 
 ---
 

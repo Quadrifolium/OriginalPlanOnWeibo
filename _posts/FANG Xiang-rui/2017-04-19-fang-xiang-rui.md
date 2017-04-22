@@ -14,7 +14,7 @@ It's time for today's *Yi An Stay Awake*!
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/EFgdN1Osd">2017-04-19 20:03</a>

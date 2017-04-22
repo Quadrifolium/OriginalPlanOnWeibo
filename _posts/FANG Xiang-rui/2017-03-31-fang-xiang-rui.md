@@ -18,7 +18,7 @@ Xiao Huang Ge told me to post this. :ok_hand:
 **Comments**
 
 <div class="weibo-post">2017-03-31 22:35</div>
-[@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): Mm, fine. ^_^
+[YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): Mm, fine. ^_^
 
 Note:
 1. “Xiao Huang Ge” (literally: Little Brother Huang) refers to the CEO of Original Plan – HUANG Rui.
@@ -47,7 +47,7 @@ I've said I won't let off your ugly photos.
 **Comments**
 
 <div class="weibo-post">2017-03-31 22:11</div>
-[@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Look at the sticker. [Image](http://wx4.sinaimg.cn/bmiddle/006FmVn8ly1fe6dobvl1ej30k00iz0tj.jpg)
+[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Look at the sticker. [Image](http://wx4.sinaimg.cn/bmiddle/006FmVn8ly1fe6dobvl1ej30k00iz0tj.jpg)
 
 Note:
 1. Words on the image in the comment of ZHAN Yi-wen: With genial smile.
@@ -63,7 +63,7 @@ Repost
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/ECjh219pP">2017-03-31 10:18</a>

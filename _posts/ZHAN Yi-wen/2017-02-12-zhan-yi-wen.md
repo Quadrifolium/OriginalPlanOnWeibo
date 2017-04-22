@@ -14,7 +14,7 @@ Never ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_o
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://www.weibo.com/u/6117583008">@YiAnMusicClub-FangXiangRui</a>
+>   <a href="http://www.weibo.com/u/6117583008">YiAnMusicClub-FangXiangRui</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://www.weibo.com/6117583008/Evcc87fXL">2017-02-12 15:25</a>
@@ -37,21 +37,21 @@ Bored :unamused::unamused:
 **Comments**
 
 <div class="weibo-info">2017-02-12 18:21</div>
-[@YiAnMusicClub-ChiYi](http://weibo.com/u/6117581836): passing by
+[YiAnMusicClub-ChiYi](http://weibo.com/u/6117581836): passing by
 > <div class="weibo-info">2017-02-12 18:50</div>
-> [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Also bored?
+> [YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Also bored?
 
 <div class="weibo-info">2017-02-12 18:10</div>
-[@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Oh?
+[YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Oh?
 > <div class="weibo-info">2017-02-12 19:00</div>
-> [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Re [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): ![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)
+> [YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Re [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): ![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)
 > <div class="weibo-info">2017-02-12 18:16</div>
-> [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Re [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Rejected.
+> [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Re [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Rejected.
 > <div class="weibo-info">2017-02-12 18:15</div>
-> [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Ugly photos deleted? →\_→ →\_→
+> [YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Ugly photos deleted? →\_→ →\_→
 
 <div class="weibo-info">2017-02-12 17:11</div>
-[@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): front
+[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): front
 
 ---
 
@@ -61,7 +61,7 @@ Bored :unamused::unamused:
 No +2 //[@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220): No +1 ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif) //[@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): No ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)
 
 > <div class="weibo-post-name">
->   <a href="http://www.weibo.com/u/6117583008">@YiAnMusicClub-FangXiangRui</a>
+>   <a href="http://www.weibo.com/u/6117583008">YiAnMusicClub-FangXiangRui</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://www.weibo.com/6117583008/Evcc87fXL">2017-02-12 15:25</a>

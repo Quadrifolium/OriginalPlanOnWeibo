@@ -14,7 +14,7 @@ Grandpa, it's not a shame at all! Every time I see an old man or woman selling g
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/renminwang">@PeoplesDailyOnline</a>
+>   <a href="http://weibo.com/renminwang">PeoplesDailyOnline</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/2286908003/EEY8mArHe">2017-04-17 22:00</a>

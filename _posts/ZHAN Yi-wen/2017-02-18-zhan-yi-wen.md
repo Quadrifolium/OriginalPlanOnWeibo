@@ -21,4 +21,4 @@ Awkward, just made a typo. Post this again.
 **Comments**
 
 <div class="weibo-info">2017-02-18 18:35</div>
-[@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220): Very cute. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)
+[YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220): Very cute. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)

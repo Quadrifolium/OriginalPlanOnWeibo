@@ -14,7 +14,7 @@ Look. :blush:
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/sfantuan">@SuperStarFanGroup</a>
+>   <a href="http://weibo.com/sfantuan">SuperStarFanGroup</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/5590124843/EvoZA9evT">2017-03-21 16:55</a>

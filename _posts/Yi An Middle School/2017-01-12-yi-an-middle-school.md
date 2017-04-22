@@ -13,7 +13,7 @@ We strongly remind parents, don't exert too much learning stress on your child. 
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/renminwang">@PeoplesDailyOnline</a>
+>   <a href="http://weibo.com/renminwang">PeoplesDailyOnline</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/2286908003/Eqke05fI8">2017-01-11 14:40</a>

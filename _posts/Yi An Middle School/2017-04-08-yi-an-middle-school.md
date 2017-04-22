@@ -14,7 +14,7 @@ Thank you for your bearing and advising. Wish you safe on the road.
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/yinyuefengyunbang">@TopChineseMusic</a>
+>   <a href="http://weibo.com/yinyuefengyunbang">TopChineseMusic</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/1642605821/EDwAECTLu">2017-04-08 10:03</a>

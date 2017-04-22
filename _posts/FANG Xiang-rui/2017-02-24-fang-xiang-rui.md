@@ -24,7 +24,7 @@ Sleep. ![moon](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b9/moon.
 Am I really stupid?
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/Ex02e5UkU">2017-02-24 12:08</a>

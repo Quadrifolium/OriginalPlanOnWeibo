@@ -14,7 +14,7 @@ Win! The first time the Chinese team wins the South Korean! Yi An Football Club 
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/zhongchaobaodao">@ChinaFootballReport</a>
+>   <a href="http://weibo.com/zhongchaobaodao">ChinaFootballReport</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/2060903445/EBafk4Us6">2017-03-23 21:29</a>

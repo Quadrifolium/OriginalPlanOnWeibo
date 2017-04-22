@@ -13,7 +13,7 @@ Members of Science Club and Arts Club, use your sharp eyes. Help me to find the 
 <!-- more -->
 
 > <div class="weibo-post-name">
->  <a href="http://weibo.com/renminwang">@PeoplesDailyOnline</a>
+>  <a href="http://weibo.com/renminwang">PeoplesDailyOnline</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/2286908003/EkPN50Lor">2016-12-06 12:00</a>
@@ -29,7 +29,7 @@ Members of Science Club and Arts Club, use your sharp eyes. Help me to find the 
 This is the result of absence of education. The school moto of Yi An is “Cultivate virtue via peace and comfortable environment”, that virtue cultivation is prior to engaging in scholarship. People of Yi An are those of reliance! ![thumb up](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif)![thumb up](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif)![thumb up](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif)
 
 > <div class="weibo-post-name">
->  <a href="http://weibo.com/renminwang">@PeoplesDailyOnline</a>
+>  <a href="http://weibo.com/renminwang">PeoplesDailyOnline</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/2286908003/EkQHTxQEI">2016-12-06 14:20</a>

@@ -22,7 +22,7 @@ What's this account for? To post songs and videos for students and their parents
 Could you give some sidelights next time? ![yawn](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/cc/haqianv2_org.gif)![yawn](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/cc/haqianv2_org.gif)![yawn](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/cc/haqianv2_org.gif)
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/EEce43WSt">2017-04-12 20:02</a>
@@ -39,7 +39,7 @@ Could you give some sidelights next time? ![yawn](http://img.t.sinajs.cn/t4/apps
 Close your eyes when it gets dark. Take your ears to a journey. *Yi An Good Night* to fill your Wednesday night … What if poetic creation is urging? ![embarrassed](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/landeln_org.gif)
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/EE8RXlgGX">2017-04-12 11:30</a>

@@ -14,7 +14,7 @@ The ballet in spring. :musical_note: ~
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/EEs3gbTH6">2017-04-14 12:20</a>
@@ -31,7 +31,7 @@ The ballet in spring. :musical_note: ~
 Still have some time. What about telling me your understanding of “The more one says, the deeper s/he gets into trouble. It is better to keep silent and keep the words in the mind.” The most thoughtful “Writing Star” before 11 o'clock will have the chance to get my answer of a question in private message … For those who copy and paste – ![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6196825252">@YiAnMultimediaCentre</a>
+>   <a href="http://weibo.com/u/6196825252">YiAnMultimediaCentre</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6196825252/EEqkva3d9">2017-04-14 07:57</a>

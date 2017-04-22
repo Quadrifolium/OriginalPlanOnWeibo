@@ -13,7 +13,7 @@ We hope parents don't exert too much pressure on children. To alleviate burdens 
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/renminwang">@PeoplesDailyOnline</a>
+>   <a href="http://weibo.com/renminwang">PeoplesDailyOnline</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/2286908003/EvMqZBRU5">2017-02-16 11:40</a>

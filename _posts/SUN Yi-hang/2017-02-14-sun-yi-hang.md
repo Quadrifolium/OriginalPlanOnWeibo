@@ -13,7 +13,7 @@ Hi! Need help?
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/EvtOT4vfV">2017-02-14 12:17</a>
@@ -24,4 +24,4 @@ Hi! Need help?
 **Comments**
 
 <div class="weibo-info">2017-02-15 20:58</div>
-[@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): No. You led to the torn poster.
+[YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): No. You led to the torn poster.

@@ -14,7 +14,7 @@ Would be punished if I repost later. ![snort](http://img.t.sinajs.cn/t4/appstyle
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/EBg4Ps737">2017-03-24 11:30</a>
@@ -31,7 +31,7 @@ Would be punished if I repost later. ![snort](http://img.t.sinajs.cn/t4/appstyle
 Not as what we agreed. What's that on my head? ![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif)
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/EBfKwnNhN">2017-03-24 11:30</a>

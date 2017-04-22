@@ -14,7 +14,7 @@ Can't watch the live. But I think, to win is the major thing. :v::v:
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/fcbayern">@FCBayernMunich</a>
+>   <a href="http://weibo.com/fcbayern">FCBayernMunich</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/2971183691/EEXRscNHJ">2017-04-17 21:18</a>
@@ -39,8 +39,8 @@ No word.
 **Comments**
 
 <div class="weibo-info">2017-04-17 21:38</div>
-[@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Uglier than mine. Hahahaha.
+[YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Uglier than mine. Hahahaha.
 > <div class="weibo-info">2017-04-17 21:38</div>
-> [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Dare to post yours or not?
+> [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Dare to post yours or not?
 > <div class="weibo-info">2017-04-17 21:38</div>
-> [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Hehe.
+> [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Hehe.

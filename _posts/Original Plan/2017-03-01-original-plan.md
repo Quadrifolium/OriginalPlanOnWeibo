@@ -14,7 +14,7 @@ That reservation app drove the boss mad, so he decided to make an exclusive app 
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/ExKUptQcH">2017-03-01 11:28</a>

@@ -20,4 +20,4 @@ Bright sunshine. ![sun](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal
 **Comments**
 
 <div class="weibo-info">2017-02-28 15:40</div>
-[@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): safe landing
+[YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): safe landing

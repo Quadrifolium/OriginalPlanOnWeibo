@@ -24,7 +24,7 @@ categories: [ 'original-plan' ]
 29th April – 1st May, [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) Comics Fair Tour in Xiamen! Are you ready? ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/caccarniral">@CACCGoldenDragonAwardInternationalComicFestival</a>
+>   <a href="http://weibo.com/caccarniral">CACCGoldenDragonAwardInternationalComicFestival</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/5478837352/EFfI8DyLR">2017-04-19 18:45</a>

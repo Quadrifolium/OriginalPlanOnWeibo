@@ -18,4 +18,4 @@ Hi, this is FANG Xiang-rui. Let's strive together.
 **Comments**
 
 <div class="weibo-info">2017-03-30 18:26</div>
-[@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): Fighting.
+[YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): Fighting.

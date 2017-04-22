@@ -13,7 +13,7 @@ Oh~ So, what's the words you wanted to say? Delete and post once again?
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6108090526">@YiAnMusicClub-ZhanYiWen</a>
+>   <a href="http://weibo.com/u/6108090526">YiAnMusicClub-ZhanYiWen</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6108090526/Ew7ZPpTn1">2017-02-18 18:34</a>
@@ -29,7 +29,7 @@ Oh~ So, what's the words you wanted to say? Delete and post once again?
 You are so thin as bamboo. Don't you need to take more exercise? 10-km jogging every day!
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6117583008">@YiAnMusicClub-FangXiangRui</a>
+>   <a href="http://weibo.com/u/6117583008">YiAnMusicClub-FangXiangRui</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6117583008/Ew80YiCfO">2017-02-18 18:37</a>

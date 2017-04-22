@@ -17,7 +17,7 @@ Voila~ A selfie. ![sun](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal
 **Comments**
 
 <div class="weibo-info">2017-02-23 12:49</div>
-[@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): Push me to the front. I'll damp down FANG Xiang-rui's comment. Thanks.
+[YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): Push me to the front. I'll damp down FANG Xiang-rui's comment. Thanks.
 
 <div class="weibo-info">2017-02-23 12:16</div>
-[@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): front
+[YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): front

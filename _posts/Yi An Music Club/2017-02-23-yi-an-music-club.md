@@ -13,7 +13,7 @@ Feel great about mentioning yourself in the post? Should I clap hands for you? !
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6144614176">@YiAnMusicClubFanClub</a>
+>   <a href="http://weibo.com/u/6144614176">YiAnMusicClubFanClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6144614176/EwSzyBEzp">2017-02-23 17:08</a>

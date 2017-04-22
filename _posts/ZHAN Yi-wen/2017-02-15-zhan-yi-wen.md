@@ -13,7 +13,7 @@ You guess. ![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6108090526">@YiAnMusicClub-ZhanYiWen</a>
+>   <a href="http://weibo.com/u/6108090526">YiAnMusicClub-ZhanYiWen</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6108090526/EvGP803Pi">2017-02-15 21:23</a>
@@ -34,4 +34,4 @@ No word, see photo … ![football](http://img.t.sinajs.cn/t4/appstyle/expression
 **Comments**
 
 <div class="weibo-info">2017-02-15 21:23</div>
-[@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): front
+[YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): front

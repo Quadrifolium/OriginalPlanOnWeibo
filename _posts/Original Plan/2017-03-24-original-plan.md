@@ -14,7 +14,7 @@ Alumni and parents ~~ Come on ~~ Once more ~~
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/owhat">@Owhat</a>
+>   <a href="http://weibo.com/owhat">Owhat</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/5144671472/EBjboxvPT">2017-03-24 20:14</a>
@@ -31,7 +31,7 @@ Alumni and parents ~~ Come on ~~ Once more ~~
 One more channel, one more chance, right? :grin:
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/douyu2014">@DouYu</a>
+>   <a href="http://weibo.com/douyu2014">DouYu</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/3982726153/EBiiP98SI">2017-03-24 18:00</a>

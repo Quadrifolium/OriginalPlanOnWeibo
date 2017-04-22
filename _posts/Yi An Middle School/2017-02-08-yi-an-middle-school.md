@@ -13,7 +13,7 @@ Yes. We have junior school prep class, junior/senior middle school, and int'l se
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/yianschool">@YiAnMiddleSchool</a>
+>   <a href="http://weibo.com/yianschool">YiAnMiddleSchool</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6074218720/EugZaFFV6">2017-02-06 13:46</a>

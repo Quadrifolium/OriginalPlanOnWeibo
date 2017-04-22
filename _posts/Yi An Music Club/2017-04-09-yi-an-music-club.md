@@ -24,7 +24,7 @@ In an earnest team, there's always someone ____. ![Husky](http://img.t.sinajs.cn
 Thank you for giving us the opportunity for the first performance. This excellent Annual Festival of Top Chinese Music made the boys grow a lot.
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/yinyuefengyunbang">@TopChineseMusic</a>
+>   <a href="http://weibo.com/yinyuefengyunbang">TopChineseMusic</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/1642605821/EDKLIFNqL">2017-04-09 22:08</a>

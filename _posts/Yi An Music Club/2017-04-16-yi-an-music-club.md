@@ -14,7 +14,7 @@ Congratulation. With recommending with photo, you get a 5-yuan coupon in the can
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6117581836">@YiAnMusicClub-ChiYi</a>
+>   <a href="http://weibo.com/u/6117581836">YiAnMusicClub-ChiYi</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6117581836/EEOd71jur">2017-04-16 20:44</a>
@@ -27,7 +27,7 @@ Congratulation. With recommending with photo, you get a 5-yuan coupon in the can
 **Comments**
 
 <div class="weibo-info">2017-04-16 21:57</div>
-[@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Sa zi o.
+[YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Sa zi o.
 
 Note:
 1. The comment of FANG Xiang-rui is “What?” in Chongqing dialect.

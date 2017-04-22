@@ -14,7 +14,7 @@ The reservation for the Open Day of Yi An Music Club has started. We are looking
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/satosan">@OriginalPlan</a>
+>   <a href="http://weibo.com/satosan">OriginalPlan</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/5626539553/EzBDtvScg">2017-03-13 15:32</a>

@@ -14,7 +14,7 @@ The song *See My Comrade-in-arms Off* (送战友) came to my mind. Good luck to 
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/yinyuefengyunbang">@TopChineseMusic</a>
+>   <a href="http://weibo.com/yinyuefengyunbang">TopChineseMusic</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/1642605821/EDKLIFNqL">2017-04-09 22:08</a>
@@ -30,7 +30,7 @@ The song *See My Comrade-in-arms Off* (送战友) came to my mind. Good luck to 
 This is in your prime, exert yourselves to stride. :fist::fist::fist:
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/EDIjXAGTZ">2017-04-09 15:54</a>

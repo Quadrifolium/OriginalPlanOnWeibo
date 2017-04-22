@@ -13,7 +13,7 @@ People all over the world yearn for peace … When will humankind have less stri
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/renminwang">@PeoplesDailyOnline</a>
+>   <a href="http://weibo.com/renminwang">PeoplesDailyOnline</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/2286908003/EpgSSkIgQ">2017-01-04 16:19</a>

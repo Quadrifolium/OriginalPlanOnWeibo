@@ -23,7 +23,7 @@ categories: [ 'original-plan' ]
 You posted really fast. ![huge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/27/bba_org.gif)
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/iqiyianime">@iQiYiAnime</a>
+>   <a href="http://weibo.com/iqiyianime">iQiYiAnime</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/3547773772/EvsXiwefl">2017-02-14 10:05</a>
@@ -39,7 +39,7 @@ You posted really fast. ![huge](http://img.t.sinajs.cn/t4/appstyle/expression/ex
 Thank you, Super Star Fan Group. Welcome to visit *Yi An Music Club* ![yeah](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/ye_org.gif)
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/sfantuan">@SuperStarFanGroup</a>
+>   <a href="http://weibo.com/sfantuan">SuperStarFanGroup</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/5590124843/EvoZA9evT">2017-02-14 00:00</a>

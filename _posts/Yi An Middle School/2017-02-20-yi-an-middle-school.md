@@ -13,7 +13,7 @@ For Yi An students laying emphasis on literary attainment, these honorific title
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/renminwang">@PeoplesDailyOnline</a>
+>   <a href="http://weibo.com/renminwang">PeoplesDailyOnline</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/2286908003/Ewklyk2Oh">2017-02-20 02:00</a>

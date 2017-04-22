@@ -20,7 +20,7 @@ A post specially for this: After the (very democratic) vote of all the members o
 Not bad. Sharing music won't make others mistake we are a photography club. Anyhow, it's related to music. ![cute](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/14/tza_org.gif)
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6108316220">@YiAnMusicClub-SunYiHang</a>
+>   <a href="http://weibo.com/u/6108316220">YiAnMusicClub-SunYiHang</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6108316220/EwAJybNKr">2017-02-21 19:43</a>

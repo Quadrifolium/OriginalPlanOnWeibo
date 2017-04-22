@@ -14,7 +14,7 @@ An aspiring and pure boy. When met for the first time, you were smiling and stro
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/EBRsvwoph">2017-03-28 11:30</a>

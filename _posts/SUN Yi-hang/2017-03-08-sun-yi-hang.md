@@ -20,4 +20,4 @@ School emblem – GET ![greedy](http://img.t.sinajs.cn/t4/appstyle/expression/ex
 **Comments**
 
 <div class="weibo-info">2017-03-08 19:43</div>
-[@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): … ugly
+[YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): … ugly

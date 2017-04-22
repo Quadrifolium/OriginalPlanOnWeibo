@@ -24,7 +24,7 @@ The daily life of a student cannot be only the study~ Especially in Yi An! Besid
 Thank you for inviting this fledgling club to the Annual Festival of Top Chinese Music, which gives the members of the Music Club a chance to learn from the seniors in music. Thank you.
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/yinyuefengyunbang">@TopChineseMusic</a>
+>   <a href="http://weibo.com/yinyuefengyunbang">TopChineseMusic</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/1642605821/EDwAECTLu">2017-04-08 10:03</a>

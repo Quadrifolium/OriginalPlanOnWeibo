@@ -14,7 +14,7 @@ The Music Club goes on the right track at last, starts to do the business. (Grat
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6108316220">@YiAnMusicClub-SunYiHang</a>
+>   <a href="http://weibo.com/u/6108316220">YiAnMusicClub-SunYiHang</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6108316220/EAuD0b39O">2017-03-19 11:32</a>

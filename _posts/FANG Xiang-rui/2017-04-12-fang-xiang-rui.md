@@ -14,7 +14,7 @@ Isn't it an evening show? ![question](http://img.t.sinajs.cn/t4/appstyle/express
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/EEce43WSt">2017-04-12 20:02</a>

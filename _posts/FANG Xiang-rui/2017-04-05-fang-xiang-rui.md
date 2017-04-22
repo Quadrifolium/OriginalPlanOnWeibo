@@ -18,6 +18,6 @@ Only the way to learning instruments is the most relaxed. [@YiAnMusicClub-SunYiH
 **Comments**
 
 <div class="weibo-info">2017-04-05 14:53</div>
-[@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220): Focus on your violin. ![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif)
+[YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220): Focus on your violin. ![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif)
 > <div class="weibo-info">2017-04-05 16:41</div>
-> [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Focus on your drums.
+> [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Focus on your drums.

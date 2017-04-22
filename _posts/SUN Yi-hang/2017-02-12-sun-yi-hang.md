@@ -13,7 +13,7 @@ No +1 ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_o
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://www.weibo.com/u/6117583008">@YiAnMusicClub-FangXiangRui</a>
+>   <a href="http://www.weibo.com/u/6117583008">YiAnMusicClub-FangXiangRui</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://www.weibo.com/6117583008/Evcc87fXL">2017-02-12 15:25</a>

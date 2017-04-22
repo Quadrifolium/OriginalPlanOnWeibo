@@ -13,7 +13,7 @@ There are a thousand Hamlets in a thousand people's eyes. It may be a gloomy sun
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6108316220">@YiAnMusicClub-SunYiHang</a>
+>   <a href="http://weibo.com/u/6108316220">YiAnMusicClub-SunYiHang</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6108316220/EwhbXm3l2">2017-02-19 17:58</a>

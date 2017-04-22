@@ -13,7 +13,7 @@ Though we don't approve of suspending the schooling, the educational method of h
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/renminwang">@PeoplesDailyOnline</a>
+>   <a href="http://weibo.com/renminwang">PeoplesDailyOnline</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/2286908003/EwGRMc6A4">2017-02-22 11:20</a>

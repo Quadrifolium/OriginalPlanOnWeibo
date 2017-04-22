@@ -13,7 +13,7 @@ In the History Reading Party each year, in the Speech Under the National Flag ea
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/renminwang">@PeoplesDailyOnline</a>
+>   <a href="http://weibo.com/renminwang">PeoplesDailyOnline</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/2286908003/EruLs1O9i">2017-01-19 07:20</a>

@@ -18,7 +18,7 @@ Hi, this is SUN Yi-hang. I won't post anything for a year. :smiley:
 **Comments**
 
 <div class="weibo-info">2017-04-01 12:44</div>
-[@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220): Oh, all of you are clear-headed. ![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)
+[YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220): Oh, all of you are clear-headed. ![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)
 
 <div class="weibo-info">2017-04-01 12:43</div>
-[@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Isn't your conscience aching?
+[YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Isn't your conscience aching?

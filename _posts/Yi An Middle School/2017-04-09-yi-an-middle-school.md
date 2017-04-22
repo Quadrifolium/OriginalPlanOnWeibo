@@ -14,7 +14,7 @@ Quite bold, guys! The etiquette teacher should come to my office tomorrow! :rage
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/yinyuefengyunbang">@TopChineseMusic</a>
+>   <a href="http://weibo.com/yinyuefengyunbang">TopChineseMusic</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/1642605821/EDKLIFNqL">2017-04-09 22:08</a>

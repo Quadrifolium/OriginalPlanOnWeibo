@@ -14,7 +14,7 @@ Everyday urging from the boss. ![smile](http://img.t.sinajs.cn/t4/appstyle/expre
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6094546964">@YiAnMusicClub</a>
+>   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/Ey40M82op">2017-03-03 12:06</a>
@@ -35,4 +35,4 @@ Nnna, jogged 50 laps on rooftop.
 **Comments**
 
 <div class="weibo-info">2017-03-03 11:45</div>
-[@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): ![pig](http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee848b.png) villa on rooftop.
+[YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): ![pig](http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee848b.png) villa on rooftop.
