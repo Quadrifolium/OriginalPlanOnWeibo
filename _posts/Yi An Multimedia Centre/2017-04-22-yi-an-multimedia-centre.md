@@ -13,4 +13,6 @@ categories: [ 'yi-an-multimedia-centre' ]
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/006Lnfkoly1fevu20fijxj30fg0fggm8.jpg)
+![Image](http://wx3.sinaimg.cn/mw690/006Lnfkoly1fevu20fijxj30fg0fggm8.jpg)  
+*Words on image:*  
+“墨” (mò): ink, writting. This character is also in the name of LIN Mo (林墨).
