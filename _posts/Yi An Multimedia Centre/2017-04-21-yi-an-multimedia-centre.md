@@ -55,7 +55,7 @@ Two MVPs of tonight! LI Zi-xin with accurate sixth sense, LIN Jia-hao with logic
   <a href="http://weibo.com/6196825252/EFzyYEpry">2017-04-21 21:17</a>
 </div>
 
-[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) Familiar countering between SUN Yi-hang and LIN Mo. What do you mean by saying “water's dropping from the face”? Hahaha~ ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif) (Jargons: brazon jump: a werewolf reveal himself/herself as the Sheriff; commit: werewolves kill a player at night; self-expose: a werewolf reveal his/her identity, be out, and the night comes with no vote.)
+[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) Familiar countering between SUN Yi-hang and LIN Mo. What do you mean by saying “water's dropping from the face”? Hahaha~ ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif) (Jargons: brazen jump: a werewolf reveal himself/herself as the Sheriff; commit: werewolves kill a player at night; self-expose: a werewolf reveal his/her identity, be out, and the night comes with no vote.)
 
 ![Image](http://wx1.sinaimg.cn/mw690/006Lnfkogy1feulrf89trj31kw2dcak7.jpg)
 
