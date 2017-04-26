@@ -6,7 +6,7 @@ categories: [ 'yi-an-music-club' ]
 ---
 
 <div class="weibo-info">
-  <a href="http://weibo.com/6094546964/F0kXwlfNr">2017-04-26 15:28</a>
+  <a href="http://weibo.com/6094546964/F0mM0fcnJ">2017-04-26 20:05</a>
 </div>
 
 [#YiAnGoodNight](http://weibo.com/p/10080892b104a59bff303ca883e7931b5b916e) No.003 is here. Come and check what peculiar news do the members share. :smile: Well, a show originally aimed at saying good night becomes so boisterous … this may be an unexpected result for the school. [❏ Link](http://m.ximalaya.com/78339006/sound/36426937)
