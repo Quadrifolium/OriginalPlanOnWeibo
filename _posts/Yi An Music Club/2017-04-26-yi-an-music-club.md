@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yi An Music Club (易安音乐社)
-date: 2017-04-26 15:28
+date: 2017-04-26 20:05
 categories: [ 'yi-an-music-club' ]
 ---
 
@@ -9,9 +9,17 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/F0kXwlfNr">2017-04-26 15:28</a>
 </div>
 
-![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)
+[#YiAnGoodNight](http://weibo.com/p/10080892b104a59bff303ca883e7931b5b916e) No.003 is here. Come and check what peculiar news do the members share. :smile: Well, a show originally aimed at saying good night becomes so boisterous … this may be an unexpected result for the school. [❏ Link](http://m.ximalaya.com/78339006/sound/36426937)
 
 <!-- more -->
+
+---
+
+<div class="weibo-info">
+  <a href="http://weibo.com/6094546964/F0kXwlfNr">2017-04-26 15:28</a>
+</div>
+
+![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)
 
 > <div class="weibo-post-name">
 >   <a href="http://weibo.com/satosan">OriginalPlan</a>
