@@ -13,13 +13,20 @@ The weather's just fine. ![sun](http://img.t.sinajs.cn/t4/appstyle/expression/ex
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006G0KNGgy1fevhlgb6xkj31zk1ho7wh.jpg)
-
-![Image](http://wx1.sinaimg.cn/mw690/006G0KNGgy1fevhlj9x3bj31zk1hob29.jpg)
-
-![Image](http://wx4.sinaimg.cn/mw690/006G0KNGgy1fevhlcpt4kj31zk1ho1l0.jpg)
-
-![Image](http://wx3.sinaimg.cn/mw690/006G0KNGgy1fevhlkc6d9j30zk0qo79b.jpg)
+<ul class="weibo-pic-list-2">
+  <li class="weibo-pic">
+    <a href="http://wx1.sinaimg.cn/mw690/006G0KNGgy1fevhlgb6xkj31zk1ho7wh.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006G0KNGgy1fevhlgb6xkj31zk1ho7wh.jpg" /></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="http://wx1.sinaimg.cn/mw690/006G0KNGgy1fevhlj9x3bj31zk1hob29.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006G0KNGgy1fevhlj9x3bj31zk1hob29.jpg" /></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="http://wx4.sinaimg.cn/mw690/006G0KNGgy1fevhlcpt4kj31zk1ho1l0.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006G0KNGgy1fevhlcpt4kj31zk1ho1l0.jpg" /></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="http://wx3.sinaimg.cn/mw690/006G0KNGgy1fevhlkc6d9j30zk0qo79b.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006G0KNGgy1fevhlkc6d9j30zk0qo79b.jpg" /></a>
+  </li>
+</ul>
 
 **Comments**
 

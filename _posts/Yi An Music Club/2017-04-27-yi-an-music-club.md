@@ -13,7 +13,7 @@ categories: [ 'yi-an-music-club' ]
 
 <!-- more -->
 
-<ul class="weibo-pic-list" style="height:308px">
+<ul class="weibo-pic-list-2">
   <li class="weibo-pic">
     <a href="http://wx3.sinaimg.cn/mw690/006Es64Agy1ff1k59yal8j3244355b1l.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Agy1ff1k59yal8j3244355b1l.jpg" /></a>
   </li>

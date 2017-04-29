@@ -50,3 +50,23 @@ Note:
 </div>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+<a href="">
+  <img class="weibo-pic-preview" src="" />
+</a>
+
+<a href="">
+  <img class="weibo-pic-preview-h" src="" />
+</a>
+
+<ul class="weibo-pic-list-1">
+  <li class="weibo-pic">
+    <a href=""><img src="" /></a>
+  </li>
+  <li class="weibo-pic">
+    <a href=""><img src="" /></a>
+  </li>
+  <li class="weibo-pic">
+    <a href=""><img src="" /></a>
+  </li>
+</ul>

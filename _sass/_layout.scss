@@ -270,11 +270,29 @@
   }
 }
 
-ul.weibo-pic-list {
+ul.weibo-pic-list, ul.weibo-pic-list-3 {
   list-style: none;
   width: 462px;
   height: 462px;
-  margin: -4px 0 0 -4px;
+  margin: -4px 0 $spacing-unit/2 -4px;
+  display: block;
+}
+
+/* 2 lines */
+ul.weibo-pic-list-2 {
+  list-style: none;
+  width: 462px;
+  height: 308px;
+  margin: -4px 0 $spacing-unit/2 -4px;
+  display: block;
+}
+
+/* 1 lines */
+ul.weibo-pic-list-1 {
+  list-style: none;
+  width: 462px;
+  height: 154px;
+  margin: -4px 0 $spacing-unit/2 -4px;
   display: block;
 }
 
@@ -283,4 +301,14 @@ li.weibo-pic {
   height: 150px;
   margin: 4px 0 0 4px;
   float: left;
+}
+
+img.weibo-pic-preview, img.weibo-pic-preview-v {
+  width: 150px;
+  height: auto;
+}
+
+img.weibo-pic-preview-h {
+  width: auto;
+  height: 150px;
 }

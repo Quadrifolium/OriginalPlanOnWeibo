@@ -10,6 +10,9 @@ categories: [ 'yi-an-music-club' ]
 </div>
 
 Is it real? Rumours are speading these days, please distinguish on your own.
+
+<!-- more -->
+
 1. What on earth is the mystical “Plan R”? It is said that the answer is in the Summer Cultural Festival of Yi An Middle School in August.
 2. Not just Yi An Radio, there is also Yi An TV. Will the Music Club set up a programme on Yi An TV?
 3. Interactive quiz is mounted in the mystical programme *Triple Kill*. A correct answer is worth a big bonus?
@@ -18,19 +21,26 @@ Is it real? Rumours are speading these days, please distinguish on your own.
 6. VR contents of Yi An Music Club will be released, to stay with you all the time?
 7. The song *To the Youth* produced by the Music Club has been reviewed by the board of the school, will officially become the new school anthem?
 
-<!-- more -->
-
-![Image](http://wx4.sinaimg.cn/mw690/006Es64Agy1fe77v99kjtj31kw2dcdn4.jpg)
-
-![Image](http://wx1.sinaimg.cn/mw690/006Es64Agy1fe77vd2u1zj31kw2dctjo.jpg)
-
-![Image](http://wx2.sinaimg.cn/mw690/006Es64Agy1fe77vge2efj31kw11xq8u.jpg)
-
-![Image](http://wx4.sinaimg.cn/mw690/006Es64Agy1fe77vj0w09j31kw11r42g.jpg)
-
-![Image](http://wx2.sinaimg.cn/mw690/006Es64Agy1fe77vn7ya7j31kw2dc154.jpg)
-
-![Image](http://wx1.sinaimg.cn/mw690/006Es64Agy1fe77vs3yf3j31kw2e9gxw.jpg)
+<ul class="weibo-pic-list-2">
+  <li class="weibo-pic">
+    <a href="http://wx4.sinaimg.cn/mw690/006Es64Agy1fe77v99kjtj31kw2dcdn4.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Agy1fe77v99kjtj31kw2dcdn4.jpg" /></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="http://wx1.sinaimg.cn/mw690/006Es64Agy1fe77vd2u1zj31kw2dctjo.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Agy1fe77vd2u1zj31kw2dctjo.jpg" /></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="http://wx2.sinaimg.cn/mw690/006Es64Agy1fe77vge2efj31kw11xq8u.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Agy1fe77vge2efj31kw11xq8u.jpg" /></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="http://wx4.sinaimg.cn/mw690/006Es64Agy1fe77vj0w09j31kw11r42g.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Agy1fe77vj0w09j31kw11r42g.jpg" /></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="http://wx2.sinaimg.cn/mw690/006Es64Agy1fe77vn7ya7j31kw2dc154.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Agy1fe77vn7ya7j31kw2dc154.jpg" /></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="http://wx1.sinaimg.cn/mw690/006Es64Agy1fe77vs3yf3j31kw2e9gxw.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Agy1fe77vs3yf3j31kw2e9gxw.jpg" /></a>
+  </li>
+</ul>
 
 **Comments**
 

@@ -13,7 +13,7 @@ When [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2)
 
 <!-- more -->
 
-<ul class="weibo-pic-list" style="height:308px">
+<ul class="weibo-pic-list-2">
   <li class="weibo-pic">
     <a href="http://wx1.sinaimg.cn/mw690/006Es64Aly1fesdr01ndpj31kw28ekju.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Aly1fesdr01ndpj31kw28ekju.jpg" /></a>
   </li>
