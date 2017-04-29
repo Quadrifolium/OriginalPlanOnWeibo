@@ -9,7 +9,7 @@ categories: [ 'fang-xiang-rui' ]
   <a href="http://weibo.com/6117583008/F0McSa99l">2017-04-29 12:50</a>
 </div>
 
-Raining in the morning, but still shining bright. [⊕ Japan](http://weibo.com/p/1001018008100000000000000)
+Raining in the morning, shining bright in the afternoon. [⊕ Japan](http://weibo.com/p/1001018008100000000000000)
 
 <!-- more -->
 
