@@ -16,6 +16,8 @@ This article is published on WeChat Official Account at 2017-05-04 18:30. Read [
 > How did the members of Yi An Music Club exhibit the charm of cool guys?  
 > Come and take a look!
 
+---
+
 ## On 21st April (Episode 01)
 
 ### HE Luo-luo
@@ -70,6 +72,8 @@ Shirt: CHOCOOLATE
 T-shirt: UNIQLO  
 Trousers: H&M  
 Shoes: Vans
+
+---
 
 ## On 28st April (Episode 02)
 
