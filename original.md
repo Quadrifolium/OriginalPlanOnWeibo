@@ -33,3 +33,7 @@ Virtual characters:
 
 Others:  
 [Havison](http://weibo.com/havison) - HUANG Rui (黄锐, Havison); CEO of Original Plan
+
+**On video sites**
+
+[Space of OriginalPlan](http://space.bilibili.com/41417787/) - Original Plan on Bilibili
