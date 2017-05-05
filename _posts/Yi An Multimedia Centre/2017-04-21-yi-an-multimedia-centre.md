@@ -48,7 +48,7 @@ Two MVPs of tonight! LI Zi-xin with accurate sixth sense, LIN Jia-hao with logic
 [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) *Gokuraku Jyoudo* dancer – baby CHI Yi's stutter means he is a werewolf? ![haha](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif)
 
 <a href="http://wx2.sinaimg.cn/mw690/006Lnfkogy1feumua96aaj31kw2dcgy7.jpg">
-  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/mw690/006Lnfkogy1feumua96aaj31kw2dcgy7.jpg" />
+  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006Lnfkogy1feumua96aaj31kw2dcgy7.jpg" />
 </a>
 
 ---
@@ -60,7 +60,7 @@ Two MVPs of tonight! LI Zi-xin with accurate sixth sense, LIN Jia-hao with logic
 [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) Among the three punished, someone is enjoying it? Is it funny to see it snow? Mm? ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif) (Jargons: barb wolf: A werewolf lurking among the good side; self-commit: to confuse the good side, the werewolves kill one of themselves after it is dark.)
 
 <a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1feumhur6vhj31kw11x7bt.jpg">
-  <img class="weibo-pic-preview-h" src="http://wx1.sinaimg.cn/mw690/006Lnfkogy1feumhur6vhj31kw11x7bt.jpg" />
+  <img class="weibo-pic-preview-h" src="http://wx1.sinaimg.cn/orj360/006Lnfkogy1feumhur6vhj31kw11x7bt.jpg" />
 </a>
 
 ---
@@ -106,7 +106,7 @@ Two MVPs of tonight! LI Zi-xin with accurate sixth sense, LIN Jia-hao with logic
 SUN Yi-hang plays a good role as the Witch! A correct poisoning! (Jargons: probed evil: after probing, the Seer confirms one is evil; backout: one jumped out as a certain identity but admits s/he's not.)
 
 <a href="http://wx3.sinaimg.cn/mw690/006Lnfkogy1feul0mzu4wj31kw2dck2e.jpg">
-  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/mw690/006Lnfkogy1feul0mzu4wj31kw2dck2e.jpg" />
+  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006Lnfkogy1feul0mzu4wj31kw2dck2e.jpg" />
 </a>
 
 ---
@@ -163,7 +163,7 @@ The werewolves are the two footballer and “the Universal Big Cousin”! Let's 
 The punishment is so high! Please exert yourselves to avoid being punished! :grimacing::grimacing::grimacing:
 
 <a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1feuk2v24nzj31kw11xqdc.jpg">
-  <img class="weibo-pic-preview-h" src="http://wx1.sinaimg.cn/mw690/006Lnfkogy1feuk2v24nzj31kw11xqdc.jpg" />
+  <img class="weibo-pic-preview-h" src="http://wx1.sinaimg.cn/orj360/006Lnfkogy1feuk2v24nzj31kw11xqdc.jpg" />
 </a>
 
 ---
@@ -175,7 +175,7 @@ The punishment is so high! Please exert yourselves to avoid being punished! :gri
 [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) will start soon! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif) Does the studio look familiar? :grimacing: Sit up and get in the live room of Panda TV! (Room 943033)
 
 <a href="http://wx4.sinaimg.cn/mw690/006Lnfkogy1feujs585z4j31kw11xtjb.jpg">
-  <img class="weibo-pic-preview-h" src="http://wx4.sinaimg.cn/mw690/006Lnfkogy1feujs585z4j31kw11xtjb.jpg" />
+  <img class="weibo-pic-preview-h" src="http://wx4.sinaimg.cn/orj360/006Lnfkogy1feujs585z4j31kw11xtjb.jpg" />
 </a>
 
 ---
@@ -195,7 +195,7 @@ Have I told you there's a half-an-hour warm-up before the live? Who can remind m
 I'm not coming because of your urging … Now be clever and get to work … Later, I'll be a decent offcial account! :fist::fist::fist:
 
 <a href="http://wx4.sinaimg.cn/mw690/006Lnfkogy1feu7qec45oj30qo14yww5.jpg">
-  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/mw690/006Lnfkogy1feu7qec45oj30qo14yww5.jpg" />
+  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006Lnfkogy1feu7qec45oj30qo14yww5.jpg" />
 </a>
 
 ---
@@ -207,7 +207,7 @@ I'm not coming because of your urging … Now be clever and get to work … Late
 I have HD photo. ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)
 
 <a href="http://wx4.sinaimg.cn/mw690/006Lnfkogy1feu5w2rqeij31kw0lbwqv.jpg">
-  <img class="weibo-pic-preview-h" src="http://wx4.sinaimg.cn/mw690/006Lnfkogy1feu5w2rqeij31kw0lbwqv.jpg" />
+  <img class="weibo-pic-preview-h" src="http://wx4.sinaimg.cn/orj360/006Lnfkogy1feu5w2rqeij31kw0lbwqv.jpg" />
 </a>
 
 ---
@@ -219,7 +219,7 @@ I have HD photo. ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/norm
 [#AskMeToBeADecentAccount?](http://weibo.com/p/1008082b6d0d6e9bc67a89f41bfd0bcee1a858) Never!
 
 <a href="http://wx1.sinaimg.cn/mw690/006Lnfkoly1feu1h2z3sfj30ku0kumzh.jpg">
-  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/mw690/006Lnfkoly1feu1h2z3sfj30ku0kumzh.jpg" />
+  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/006Lnfkoly1feu1h2z3sfj30ku0kumzh.jpg" />
 </a>  
 *Words on image:*  
 You, get out
