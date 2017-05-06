@@ -9,7 +9,7 @@ categories: [ 'yi-an-middle-school' ]
   <a href="http://weibo.com/6074218720/F1CvCAP6H">2017-05-05 01:59</a>
 </div>
 
-Another peaceful day. Shall I repost People's Daily, or something else? ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)
+Another peaceful day. Shall I repost *People's Daily*, or something else? ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)
 
 <!-- more -->
 
