@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/F2DGP1f4O">2017-05-11 18:50</a>
 </div>
 
-Congratulations! [very happy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif)
+Congratulations! ![very happy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif)
 
 <!-- more -->
 
