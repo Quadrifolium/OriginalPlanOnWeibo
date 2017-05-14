@@ -1,8 +1,25 @@
 ---
 layout: post
 title: ZHAN Yi-wen (展逸文)
-date: 2017-05-12 15:44
+date: 2017-05-12 22:48
 categories: [ 'zhan-yi-wen' ]
+---
+
+<div class="weibo-info">
+  <a href="http://weibo.com/6108090526/F2OFVrVO8">2017-05-12 22:48</a>
+</div>
+
+Very happy today. Before the sleep, here I post a selfie with Big Cousin before the show.
+
+<!-- more -->
+
+![Image](http://wx3.sinaimg.cn/mw690/006FmVn8ly1ffiyrhe6e3j30k00zkafj.jpg)
+
+**Comments**
+
+<div class="weibo-info">2017-05-12 22:48</div>
+[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Forgot to [@LOLUniversalBigCousin](http://weibo.com/yuzhoujieshuo)
+
 ---
 
 <div class="weibo-info">
@@ -10,8 +27,6 @@ categories: [ 'zhan-yi-wen' ]
 </div>
 
 Time to read.
-
-<!-- more -->
 
 > <div class="weibo-post-name">
 >   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
