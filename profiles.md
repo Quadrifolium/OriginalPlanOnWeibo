@@ -60,7 +60,7 @@ Weibo: [YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574)
 Weibo: [YiAnMusicClub-LinMo](http://weibo.com/u/6108312042)
 
 | Age:          | 15  
-| Birthday:     | 6th Jan.  
+| Birthday:     | 21st Nov.  
 | Zodiac:       | ♑ Capricorn  
 | Stature:      | 174cm  
 | Class:        | Class 7, Junior Grade 2
