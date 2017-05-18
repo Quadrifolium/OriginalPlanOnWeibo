@@ -33,7 +33,7 @@ Weibo: [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008)
 
 | Age:          | 15  
 | Birthday:     | 22nd Nov.  
-| Zodiac:       | ♐ Sagittarius  
+| Zodiac:       | ♏ Scorpio  
 | Stature:      | 178cm  
 | Class:        | Class 8, Junior Grade 3
 
@@ -60,8 +60,8 @@ Weibo: [YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574)
 Weibo: [YiAnMusicClub-LinMo](http://weibo.com/u/6108312042)
 
 | Age:          | 15  
-| Birthday:     | 21st Nov.  
-| Zodiac:       | ♑ Capricorn  
+| Birthday:     | 21st Dec.  
+| Zodiac:       | ♐ Sagittarius  
 | Stature:      | 174cm  
 | Class:        | Class 7, Junior Grade 2
 
