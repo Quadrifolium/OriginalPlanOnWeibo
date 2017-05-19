@@ -14,5 +14,5 @@ I wish my mum never be defeated by the time, and be healthy and happy forever. H
 <!-- more -->
 
 ![Image](http://wx4.sinaimg.cn/mw690/006G0KNGgy1ffkt4bgzgzj30wk0qo7ed.jpg)  
-*Words on image:*  
+*Words in image:*  
 Me  Mummy

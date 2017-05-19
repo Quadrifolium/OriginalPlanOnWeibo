@@ -14,5 +14,5 @@ The time chasing the dream – 2 days left till the Open Day of Yi An Music Club
 <!-- more -->
 
 ![Image](http://wx1.sinaimg.cn/mw690/006Es64Agy1fe2djauiyej30u01hc1kx.jpg)  
-*Words on image:*  
+*Words in image:*  
 The time chasing the dream

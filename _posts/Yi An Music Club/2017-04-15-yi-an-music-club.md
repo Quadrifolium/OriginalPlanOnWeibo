@@ -14,7 +14,7 @@ categories: [ 'yi-an-music-club' ]
 <!-- more -->
 
 ![Image](http://wx4.sinaimg.cn/mw690/006Es64Agy1fenef9yvpoj31jk2bce86.jpg)  
-*Words on image:*  
+*Words in image:*  
 **Triple Kill**  
 At 8 p.m. Fridays, from 21st April  
 Live on Panda TV

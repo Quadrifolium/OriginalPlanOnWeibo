@@ -15,7 +15,7 @@ categories: [ 'yi-an-middle-school' ]
 
 *Image*  
 ![Image](http://wx4.sinaimg.cn/mw690/006D4NLGgy1fc4h63rl9qj30j60x1n3y.jpg)  
-*Words on image:*  
+*Words in image:*  
 May you bring in wealth and treasure
 
 Note:

@@ -14,7 +14,7 @@ categories: [ 'original-plan' ]
 
 *Image*  
 ![Image](http://wx2.sinaimg.cn/mw690/0068MnXXgy1fcmhbkxij4j31hc19odoe.jpg)  
-*Words on image:*  
+*Words in image:*  
 Yi An Middle School  
 ZHAN Yi-wen (Top student in Class 2, Junior Grade 1)  
 Aloof and detached, always keep a distance away from others, but is extremely longing for friendship in the heart. Perfect student in teachers' eyes, but is actually brisk in mind – full of scheming and resourceful ideas.

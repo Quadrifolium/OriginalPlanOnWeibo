@@ -14,5 +14,5 @@ The world is vast, but we honour our promise forever – 4 days left till the Op
 <!-- more -->
 
 ![Image](http://wx1.sinaimg.cn/mw690/006Es64Agy1fdy6vph8fjj30u01hc1kx.jpg)  
-*Words on image:*  
+*Words in image:*  
 The world is vast, but we honour our promise forever.

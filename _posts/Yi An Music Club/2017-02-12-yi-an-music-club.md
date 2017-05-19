@@ -29,7 +29,7 @@ categories: [ 'yi-an-music-club' ]
 
 *Image*  
 ![Image](http://wx2.sinaimg.cn/mw690/006Es64Agy1fcnir98abij31kw1cpakz.jpg)  
-*Words on image:*  
+*Words in image:*  
 Yi An Middle School  
 FANG Xiang-rui (Student in Class 8, Junior Grade 3)  
 Reserved and taciturn. Looks like a cool guy, but is actually an actionist with one-track mind. The foolish side exposes once his mouth opens. Poor in word expression, has many things buried in mind.

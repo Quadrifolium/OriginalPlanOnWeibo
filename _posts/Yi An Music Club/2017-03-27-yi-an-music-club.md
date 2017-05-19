@@ -14,5 +14,5 @@ Spread the wings to greet the bright future – 3 days left till the Open Day of
 <!-- more -->
 
 ![Image](http://wx3.sinaimg.cn/mw690/006Es64Agy1fe18b5lts2j30u01hc4qp.jpg)  
-*Words on image:*  
+*Words in image:*  
 Spread the wings to greet the bright future.

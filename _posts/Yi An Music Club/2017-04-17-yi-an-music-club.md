@@ -14,7 +14,7 @@ In the night with strong wind and no moonlight, werewolves are coming out. At 20
 <!-- more -->
 
 ![Image](http://wx3.sinaimg.cn/mw690/006Es64Agy1feprgw7gq8j31jk2bce88.jpg)  
-*Words on image:*  
+*Words in image:*  
 **Triple Kill**  
 At 8 p.m. Fridays, from 21st April  
 Live on Panda TV

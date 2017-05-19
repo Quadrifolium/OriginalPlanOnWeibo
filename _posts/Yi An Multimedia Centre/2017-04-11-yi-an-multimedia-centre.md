@@ -14,6 +14,6 @@ Good morning. :kissing_heart:
 <!-- more -->
 
 ![Image](http://wx2.sinaimg.cn/mw690/006Lnfkoly1feienh6cppj30qo0qoabr.jpg)  
-*Words on image:*  
+*Words in image:*  
 One who does not exert himself in youth can only blame Mercury's retrograde in old age.  
 (This is adapted from a poem in *Yuefu* (乐府). The original phrase is “One who does not exert himself in youth can only regret in old age.”)

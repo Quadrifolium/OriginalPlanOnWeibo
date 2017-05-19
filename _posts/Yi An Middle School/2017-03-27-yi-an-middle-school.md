@@ -14,7 +14,7 @@ It is sunny today, the Speech Under the National Flag resumed after two weeks. T
 <!-- more -->
 
 ![image](http://wx1.sinaimg.cn/mw690/006D4NLGgy1fe1coze9fsj30f50c1mz0.jpg)  
-*Words on image:*  
+*Words in image:*  
 The difference between “like” and “love”  
 — An answer from the Buddha  
 When you like a flower, you would pick it off.  

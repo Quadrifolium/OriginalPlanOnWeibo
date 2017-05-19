@@ -14,7 +14,7 @@ categories: [ 'yi-an-music-club' ]
 
 *Image*  
 ![Image](http://wx3.sinaimg.cn/mw690/006Es64Agy1fcht77lfkij31kw1cqx6p.jpg)  
-*Words on image:*  
+*Words in image:*  
 Yi An Middle School  
 SUN Yi-hang (Student in Class 7, Junior Grade 2)  
 Considerate, quickly-acquainted with anyone. Always smiling, but deliberate in the heart. High in E.Q., is able to see through the thoughts of the others is always an easy task. Doesn't talk much, but is unexpectedly adept at controling the situation.

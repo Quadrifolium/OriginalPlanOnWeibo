@@ -14,7 +14,7 @@ categories: [ 'yi-an-music-club' ]
 
 *Image*  
 ![Image](http://wx2.sinaimg.cn/mw690/006Es64Agy1fchsxqma7dj31kw1cqnpd.jpg)  
-*Words on image:*  
+*Words in image:*  
 Yi An Middle School  
 LIN Mo (Student in Class 7, Junior Grade 2)  
 Naughty, tart in words, easy to raise a rumpus with sworn friends. Seems jovial, but the smile covers the thoughts in mind. Become quiet and start to think many complicated matters when staying alone.

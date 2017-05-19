@@ -14,7 +14,7 @@ categories: [ 'original-plan' ]
 
 *Image*  
 ![Image](http://wx1.sinaimg.cn/mw690/0068MnXXgy1fclb31zzc1j31kw1cq4qq.jpg)  
-*Words on image:*  
+*Words in image:*  
 Yi An Middle School  
 CHI Yi (Student in Class 2, Junior Grade 1)  
 Well-behaved, a merit student good in both study and sports. Courteous to everyone, seems introverted. Timid but can always hold out till the end.

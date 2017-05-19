@@ -14,7 +14,7 @@ Extra! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gz
 <!-- more -->
 
 <small>* View multimedia content(s) on the original page.</small>  
-*Words on image:*
+*Words in image:*
 
 **3 steps for joining the speculation in *Triple Kill***
 

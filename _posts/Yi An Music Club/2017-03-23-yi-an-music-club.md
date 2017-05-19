@@ -14,5 +14,5 @@ With you by my side, the happy moment is surrounding you and me – 7 days left 
 <!-- more -->
 
 ![Image](http://wx3.sinaimg.cn/mw690/006Es64Agy1fdwlpk3595j30u01hc4qp.jpg)  
-*Words on image:*  
+*Words in image:*  
 With you by my side, the happy moment is surrounding you and me.

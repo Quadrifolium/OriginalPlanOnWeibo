@@ -14,7 +14,7 @@ Our manga, *Yi An Music Club*, released, you're welcome ![smile](http://img.t.si
 <!-- more -->
 
 ![Image](http://wx1.sinaimg.cn/mw690/006FnS5mgy1fdi4tcdr5nj30ku112td6.jpg)  
-*Words on image:*  
+*Words in image:*  
 **Yi An Middle School Group**  
 Everybody, repost, thanks.  
 (Button:) Confirmed

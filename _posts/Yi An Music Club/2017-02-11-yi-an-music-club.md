@@ -14,7 +14,7 @@ categories: [ 'yi-an-music-club' ]
 
 *Image*  
 ![Image](http://wx4.sinaimg.cn/mw690/006Es64Agy1fck4tc3r38j31kw1cq4qq.jpg)  
-*Words on image:*  
+*Words in image:*  
 Yi An Middle School  
 ZHAN Yi-wen (Top student in Class 2, Junior Grade 1)  
 Aloof and detached, always keep a distance away from others, but is extremely longing for friendship in the heart. Perfect student in teachers' eyes, but is actually brisk in mind – full of scheming and resourceful ideas.

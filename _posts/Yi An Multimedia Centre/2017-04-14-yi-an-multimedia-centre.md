@@ -48,7 +48,7 @@ Still have some time. What about telling me your understanding of “The more on
 [#YouShouldUnderstandTheStubbornnessOfALovelyOldGuy](http://weibo.com/p/100808cdb9f140bbe2f9ddd35a7ff18e052da8) Two sentences from the depth of my heart: 1. Have something want to listen or watch, just suggest; 2. What is “hr”? I don't know, am not familiar, have nothing to declare … Good morning. :kissing_heart:
 
 ![Image](http://wx2.sinaimg.cn/mw690/006Lnfkoly1felvmq15e4j30qo0qon0k.jpg)  
-*Words on image:*  
+*Words in image:*  
 The more one says, the deeper s/he gets into trouble. It is better to keep silent and keep the words in the mind.  
 (This is an excerpt from *Tao Te Ching* (道德经))
 

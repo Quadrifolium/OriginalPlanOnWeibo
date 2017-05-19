@@ -14,5 +14,5 @@ One day, all the dreams will come true – 5 days left till the Open Day of Yi A
 <!-- more -->
 
 ![Image](http://wx1.sinaimg.cn/mw690/006Es64Agy1fdy6uh2qinj30u01hc4qp.jpg)  
-*Words on image:*  
+*Words in image:*  
 One day, all the dreams will come true.

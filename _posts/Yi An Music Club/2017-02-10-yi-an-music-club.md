@@ -14,7 +14,7 @@ categories: [ 'yi-an-music-club' ]
 
 *Image*  
 ![Image](http://wx2.sinaimg.cn/mw690/006Es64Agy1fck1sn8g4hj31kw1cq4qq.jpg)  
-*Words on image:*  
+*Words in image:*  
 Yi An Middle School  
 CHI Yi (Student in Class 2, Junior Grade 1)  
 Well-behaved, a merit student good in both study and sports. Courteous to everyone, seems introverted. Timid but can always hold out till the end.

@@ -221,7 +221,7 @@ I have HD photo. ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/norm
 <a href="http://wx1.sinaimg.cn/mw690/006Lnfkoly1feu1h2z3sfj30ku0kumzh.jpg">
   <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/006Lnfkoly1feu1h2z3sfj30ku0kumzh.jpg" />
 </a>  
-*Words on image:*  
+*Words in image:*  
 You, get out
 
 Note:

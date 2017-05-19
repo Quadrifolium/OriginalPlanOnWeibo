@@ -14,7 +14,7 @@ On 22nd Dec., overturn the definition of “idol” — Press conference for the
 
 *Image*  
 ![Image](http://ww3.sinaimg.cn/mw690/0068MnXXjw1fayjpt5v2ej31cq0ygazx.jpg)  
-*Words on image:*  
+*Words in image:*  
 Original Plan  
 22nd Dec.  
 Overturn the definition of “idol”

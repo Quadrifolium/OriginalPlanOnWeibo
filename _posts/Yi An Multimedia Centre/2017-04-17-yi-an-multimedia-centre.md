@@ -14,5 +14,5 @@ categories: [ 'yi-an-multimedia-centre' ]
 <!-- more -->
 
 ![Image](http://wx1.sinaimg.cn/mw690/006Lnfkoly1fepciwi8ohj310p0qo0v5.jpg)  
-*Words on image:*  
+*Words in image:*  
 Rite (A concept in Confusianism)

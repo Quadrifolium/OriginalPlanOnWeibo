@@ -15,7 +15,7 @@ categories: [ 'original-plan' ]
 *Image*  
 ![Image](http://wx2.sinaimg.cn/mw690/0068MnXXly1faznxmpolrj32fh62qkjm0.jpg)
 
-*Words on image:*
+*Words in image:*
 
 **Original Plan**  
 Plan R – First session recruit & recommendation

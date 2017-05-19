@@ -14,7 +14,7 @@ What is necessary in *Triple Kill*? A) Wit, B) Eloquence, C) Intuition, D) Blind
 <!-- more -->
 
 ![Image](http://wx3.sinaimg.cn/mw690/006Es64Aly1fepya6x8v8j31jk2bc4qv.jpg)  
-*Words on image:*  
+*Words in image:*  
 **Triple Kill**  
 At 8 p.m. Fridays, from 21st April  
 Live on Panda TV

@@ -14,5 +14,5 @@ Please have an early sleep, ![love you](http://img.t.sinajs.cn/t4/appstyle/expre
 <!-- more -->
 
 ![Image](http://wx2.sinaimg.cn/mw690/006FnS5mgy1fe40qgqipyj305i01yglh.jpg)  
-*Words on image:*  
+*Words in image:*  
 Sorry, my mobile has only 98% battery left, better stop here.

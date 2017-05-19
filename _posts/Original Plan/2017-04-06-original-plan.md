@@ -15,7 +15,7 @@ Bang Bang Bang~ New Easter Egg! Besides excellent variety shows with real images
 
 ![Image](http://wx3.sinaimg.cn/mw690/0068MnXXgy1fed8buq04pj31sn5gvhdz.jpg)
 
-*Words on image:*
+*Words in image:*
 
 2017 All Year Round!!!
 

@@ -14,7 +14,7 @@ categories: [ 'original-plan' ]
 
 *Image*  
 ![Image](http://wx4.sinaimg.cn/mw690/0068MnXXgy1fchun0km9vj31kw1cqnpd.jpg)  
-*Words on image:*  
+*Words in image:*  
 Yi An Middle School  
 HE Luo-luo (Student in Class 7, Junior Grade 2)  
 Extroverted, courageous, quick-witted, affectionate. Impetuous in acting, conscious on details, forthright and pure in behaving. As the president of the Music Club, it seems people like to stay around him.

@@ -14,7 +14,7 @@ categories: [ 'original-plan' ]
 
 *Image*  
 ![Image](http://wx3.sinaimg.cn/mw690/0068MnXXgy1fcizj1bbhtj31kw1cqqv5.jpg)  
-*Words on image:*  
+*Words in image:*  
 Yi An Middle School  
 LIN Mo (Student in Class 7, Junior Grade 2)  
 Naughty, tart in words, easy to raise a rumpus with sworn friends. Seems jovial, but the smile covers the thoughts in mind. Become quiet and start to think many complicated matters when staying alone.
