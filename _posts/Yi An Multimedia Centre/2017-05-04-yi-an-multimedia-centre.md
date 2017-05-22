@@ -39,6 +39,9 @@ The guide for 9 o'clock: Tap Ximalaya App, search "易安音乐社" → find the
 <div class="weibo-info">2017-05-04 08:49</div>
 [YiAnMultimediaCentre](http://weibo.com/u/6196825252): Many things are in the working note, parents would be busy … “The gaze from the good boy” does not come from the praise … but as always. ![cat doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif)
 
+Note:
+1. Watch the translated video on YouTube: [❏ Link](https://www.youtube.com/watch?v=9i8cFpONX4U)
+
 ---
 
 <div class="weibo-info">
