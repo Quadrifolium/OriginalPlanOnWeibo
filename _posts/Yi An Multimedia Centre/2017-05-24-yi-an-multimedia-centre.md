@@ -15,6 +15,11 @@ Many people are asking for [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090
 
 ![Image](http://wx2.sinaimg.cn/mw690/006Lnfkogy1ffwqx8ltpcj30qo14010o.jpg)
 
+**Comments**
+
+<div class="weibo-info">2017-05-24 21:12</div>
+[YiAnMultimediaCentre](http://weibo.com/u/6196825252): About the reading and sharing, it's short but shows their minds … It can also be taken as a practice of Mandarin, to let the students of Yi An progress gradually. ![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif)
+
 ---
 
 <div class="weibo-info">
