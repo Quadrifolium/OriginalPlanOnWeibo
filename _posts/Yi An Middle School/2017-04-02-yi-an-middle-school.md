@@ -33,7 +33,7 @@ The P.E. teachers' expression:
 
 (Image)
 
-The question is about a poem of DU Mu (杜牧) – Qingming Festival (清明):
+The question is about a poem of DU Mu (杜牧, 803–852) – Qingming Festival (清明):
 
 “It drizzles endless during the rainy season in spring,  
 Travelers along the road look gloomy and miserable.  
