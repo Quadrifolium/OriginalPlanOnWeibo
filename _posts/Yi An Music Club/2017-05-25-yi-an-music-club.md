@@ -12,6 +12,7 @@ categories: [ 'yi-an-music-club' ]
 “The school of Yi An standing erect over a thousand years masters the strength of being firm. Cultivate virtue via peace and comfortable environment, every small action bursts forth the elegance of life.” From 29th May to 2nd June, at 1 p.m. in the noon break, as the delegates of the students of Yi An, the members of the Music Club will tell you about the past and the present of Yi An Middle School on iQiyi, to let you be familiar with the many aspects of the school before the release of the anime *Yi An Music Club*.
 
 <!-- more -->
+
 ![Image](http://wx4.sinaimg.cn/mw690/006Es64Agy1ffxinr30ldj31kw2dc7wj.jpg)  
 *Words in image:*  
 **Our Yi An**  
