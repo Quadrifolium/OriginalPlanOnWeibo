@@ -14,3 +14,6 @@ categories: [ 'yi-an-music-club' ]
 <!-- more -->
 
 <small>* View multimedia content(s) on the original page.</small>
+
+Note:
+1. “The wind sweeping heralds a rising storm in the mountains” (山雨欲来风满楼) is from a poem written by XU Hun (许浑, 788 – ca. 860).
