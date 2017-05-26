@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (WeChat) Early summer in Yi An Music Club – T-shirt show in Triple Kill
-date: 2017-05-26 08:40
+date: 2017-05-26 18:30
 categories: [ 'wechat' ]
 ---
 
