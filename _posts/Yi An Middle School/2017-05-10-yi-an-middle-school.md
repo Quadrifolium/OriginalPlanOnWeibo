@@ -9,4 +9,4 @@ categories: [ 'yi-an-middle-school' ]
   <a href="http://weibo.com/6074218720/F2mSMkF2W">2017-05-10 00:03</a>
 </div>
 
-Take a look. It will be updated continuously at any time. Fight for the future! [◉ Music Club Jotting E01](http://www.bilibili.com/video/av10441174/)
+Take a look. It will be updated continuously at any time. Fight for the future! [◉ Music Club Jottings E01](http://www.bilibili.com/video/av10441174/)
