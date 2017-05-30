@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Yi An Middle School (易安中学)
-date: 2017-05-30 22:13
+date: 2017-05-30 14:00
 categories: [ 'yi-an-middle-school' ]
 ---
 
 <div class="weibo-info">
-  <a href="http://weibo.com/6074218720/F5oHYlQGa">2017-05-30 22:13</a>
+  <a href="http://weibo.com/6074218720/F5uUp2Mmf">2017-05-30 14:00</a>
 </div>
 
-I'd like to thank the students from the Music Club for singing the school anthem *To the Juveniles*. On the occassion of the Dragon Boat Festival, we wish all the students grow sturdily and turn into excellent men in the society; we wish the students in guaduating classes show your real ability and gain outstanding score in the entrance examinations! [◉ Flash Show Video](http://www.miaopai.com/show/DJKjKeDtcuaQb~isAKOhnRWKHVRmBo5t.htm)
+Have you watched Episode 2? The philosophy and the strength of the faculty of Yi An Middle School is in it. And there's the seventh member of the Music Club only the people of Yi An can find. [◉ Our Yi An E02](http://www.iqiyi.com/v_19rr72bgbg.html)
