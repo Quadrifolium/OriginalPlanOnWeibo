@@ -1,8 +1,18 @@
 ---
 layout: post
 title: Yi An Music Club (易安音乐社)
-date: 2017-06-09 12:03
+date: 2017-06-09 15:38
 categories: [ 'yi-an-music-club' ]
+---
+
+<div class="weibo-info">
+  <a href="http://weibo.com/6094546964/F71P7nioC">2017-06-09 15:38</a>
+</div>
+
+Can't wait to spoil! The fresh and hot trailor of [#YiAnFunTimeAfterSchool](http://weibo.com/p/100808bad46130a6c7f06116b4183fd352744b) is here. :point_down:🏻:point_down:🏻:point_down:🏻 For more surprises, please stay tuned! [◉ Trailor of Yi An Fun Time After School](https://v.qq.com/x/page/z0512frwi2n.html)
+
+<!-- more -->
+
 ---
 
 <div class="weibo-info">
@@ -10,8 +20,6 @@ categories: [ 'yi-an-music-club' ]
 </div>
 
 New episode of the manga *Yi An Music Club* released. [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526)'s absence of the club activity brought the sense of crisis to the Music Club: the Football Club is demanding, and a member is absent. Now, the members finally decided to pay a visit to [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526)'s home … What are the secret words ZHAN Yi-wen doesn't tell them?
-
-<!-- more -->
 
 <small>* View multimedia content(s) on the original page.</small>
 
