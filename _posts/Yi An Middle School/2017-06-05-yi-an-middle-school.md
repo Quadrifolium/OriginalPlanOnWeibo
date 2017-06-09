@@ -16,4 +16,4 @@ It's another cloudy Monday. Since *Gaokao* is near, the Speech Under the Nationa
 ![Image](http://wx3.sinaimg.cn/mw690/006D4NLGgy1fg9qm9t6rkj30dj0hl7g7.jpg)
 
 Note:
-1. *Gaokai* (高考) is the National College Entrance Examination.
+1. *Gaokao* (高考) is the National College Entrance Examination.
