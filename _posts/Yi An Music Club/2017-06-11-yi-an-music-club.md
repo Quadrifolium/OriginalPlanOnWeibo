@@ -33,6 +33,12 @@ Tomorrow, our [@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042) and [@YiAnMu
 
 Note:
 1. *Zhongkao* (中考) is the Senior High School Entrance Examination.
+1. Words in images: 1) 2B pencil; 2) Be confident; 3) Cool down; 4) Admission card.
+
+**Comments**
+
+<div class="weibo-info">2017-06-11 19:48</div>
+[YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): Yep. The exam starts tomorrow. I have prepared many 2B pencils; my teacher's taking my admission card, it's not in my hand; it's easy to cool down, because there's air-con in the room; and confidence is in my fist. Just focus on your training, guys. ^_^
 
 ---
 
