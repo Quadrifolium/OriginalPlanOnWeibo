@@ -47,7 +47,7 @@ I've said I won't let off your ugly photos.
 **Comments**
 
 <div class="weibo-post">2017-03-31 22:11</div>
-[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Look at the sticker. [Image](http://wx4.sinaimg.cn/bmiddle/006FmVn8ly1fe6dobvl1ej30k00iz0tj.jpg)
+[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Look at the sticker. [▨ Image](http://wx4.sinaimg.cn/bmiddle/006FmVn8ly1fe6dobvl1ej30k00iz0tj.jpg)
 
 Note:
 1. Words on the image in the comment of ZHAN Yi-wen: With genial smile.

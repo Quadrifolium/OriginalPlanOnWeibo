@@ -77,4 +77,4 @@ Remember the school admission card you filled in at the comics affair in Hangzho
 **Comments**
 
 <div class="weibo-info">2017-05-10 13:07</div>
-[JVCChinaOfficial](http://weibo.com/everio): Congratulations for getting this comfortable hit JVC product! Don't forget to share your joy! :stuck_out_tongue_winking_eye: [Image](http://wx1.sinaimg.cn/mw690/97628667ly1ffg6on26tkj20qo0zkgt6.jpg)
+[JVCChinaOfficial](http://weibo.com/everio): Congratulations for getting this comfortable hit JVC product! Don't forget to share your joy! :stuck_out_tongue_winking_eye: [▨ Image](http://wx1.sinaimg.cn/mw690/97628667ly1ffg6on26tkj20qo0zkgt6.jpg)

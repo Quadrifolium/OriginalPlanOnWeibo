@@ -18,7 +18,7 @@ Terrific weather. ![sun](http://img.t.sinajs.cn/t4/appstyle/expression/ext/norma
 **Comments**
 
 <div class="weibo-info">2017-03-01 21:59</div>
-[YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): [Image](http://wx2.sinaimg.cn/bmiddle/006G0KNGgy1fd7oqheutnj30qo1bfgzu.jpg)
+[YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): [▨ Image](http://wx2.sinaimg.cn/bmiddle/006G0KNGgy1fd7oqheutnj30qo1bfgzu.jpg)
 
 Note:
 1. The weather in Shanghai changed at dusk, so FANG Xiang-rui posted another photo as a comment.

@@ -31,7 +31,7 @@ categories: [ 'yi-an-multimedia-centre' ]
 **Comments**
 
 <div class="weibo-info">2017-05-12 21:59</div>
-易安中学教务处主任: Brother Pup's so sleepy. [Image](http://wx1.sinaimg.cn/mw690/006CvnV1ly1ffixckgkyfj30fa0ce0u5.jpg)
+易安中学教务处主任: Brother Pup's so sleepy. [▨ Image](http://wx1.sinaimg.cn/mw690/006CvnV1ly1ffixckgkyfj30fa0ce0u5.jpg)
 > <div class="weibo-info">2017-05-12 22:24</div>
 > [YiAnMultimediaCentre](http://weibo.com/u/6196825252): [@WittyCrazyPup](http://weibo.com/u/5706219726) ![pick nose](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif)![pick nose](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif)![pick nose](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif)
 > <div class="weibo-info">2017-05-12 22:30</div>

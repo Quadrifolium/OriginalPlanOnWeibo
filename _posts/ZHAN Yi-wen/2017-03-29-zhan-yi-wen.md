@@ -20,7 +20,7 @@ Like the feeling of looking down, but I'm in fear of height.
 **Comments**
 
 <div class="weibo-info">2017-03-29 19:34</div>
-[YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Good night, *didi* on the left. [Image](http://wx1.sinaimg.cn/bmiddle/006G0KNGly1fe3xvy1xfvj30qo0zkk10.jpg)
+[YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Good night, *didi* on the left. [▨ Image](http://wx1.sinaimg.cn/bmiddle/006G0KNGly1fe3xvy1xfvj30qo0zkk10.jpg)
 
 Note:
 1. Didi (弟弟), younger brother.

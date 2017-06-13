@@ -9,7 +9,7 @@ categories: [ 'yi-an-middle-school' ]
   <a href="http://weibo.com/6074218720/F1TdW7Usj">2017-05-06 20:33</a>
 </div>
 
-Hahahahaha [@YiAnMultimediaCentre](http://weibo.com/u/6196825252) PS: Please allow me to borrow an image. [Image](http://photo.weibo.com/h5/repost/reppic_id/1022:2307966beb25dc06945ed3962479ba31060fed)
+Hahahahaha [@YiAnMultimediaCentre](http://weibo.com/u/6196825252) PS: Please allow me to borrow an image. [▨ Image](http://photo.weibo.com/h5/repost/reppic_id/1022:2307966beb25dc06945ed3962479ba31060fed)
 
 <!-- more -->
 
