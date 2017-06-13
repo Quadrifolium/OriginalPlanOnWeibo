@@ -43,6 +43,7 @@ Others:
 [OriginalPlan on Bilibili](http://space.bilibili.com/41417787/)  
 [OriginalPlan on Youku](http://i.youku.com/u/UNDQ5NzAxMDA2MA==)  
 [Yi An Music Club on Ximalaya FM](http://space.bilibili.com/41417787/)  
+[Yi An Music Club on Pear Video](http://www.pearvideo.com/column_954)  
 [Yi An Music Club on Tencent Video](http://space.bilibili.com/41417787/)  
 [Yi An Music Club on iQiyi](http://) (Temporarily broken)  
 [Original Plan on YouTube](https://www.youtube.com/channel/UCk23xpdgzB0PVM82Bp9tGwg)  
