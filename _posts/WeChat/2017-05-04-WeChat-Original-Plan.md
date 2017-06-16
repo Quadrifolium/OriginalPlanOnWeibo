@@ -5,7 +5,7 @@ date: 2017-05-04 23:55
 categories: [ 'wechat' ]
 ---
 
-This article is published on WeChat Official Account at 2017-05-04 18:30. Read [this page](https://github.com/Quadrifolium/originalplan/blob/gh-pages/_posts/WeChat/2017-05-04-WeChat-Original-Plan.md) if you can't see the photos, read the original article [here](https://mp.weixin.qq.com/s/uzLwIvTAQBfCgwu9Iy1a4Q).
+This article is published on WeChat Official Account at 2017-05-04 18:30. Refresh the page or read [this page](https://github.com/Quadrifolium/originalplan/blob/gh-pages/_posts/WeChat/2017-05-04-WeChat-Original-Plan.md) if you can't see the photos, read the original article [here](https://mp.weixin.qq.com/s/uzLwIvTAQBfCgwu9Iy1a4Q).
 
 <!-- more -->
 
