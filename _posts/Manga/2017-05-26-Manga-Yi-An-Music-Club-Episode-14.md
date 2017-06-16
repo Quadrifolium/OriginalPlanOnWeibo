@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Eng) Manga “Yi An Music Club” (易安音乐社) Episode 13
+title: (Eng) Manga “Yi An Music Club” (易安音乐社) Episode 14
 date: 2017-05-26 19:47
 categories: [ 'manga' ]
 ---
