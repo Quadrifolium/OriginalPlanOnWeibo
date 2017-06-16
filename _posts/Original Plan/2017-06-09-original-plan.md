@@ -9,7 +9,7 @@ categories: [ 'original-plan' ]
   <a href="http://weibo.com/5626539553/F73rn2FwY">2017-06-09 19:45</a>
 </div>
 
-It's time to publish the winners again! The winner list for the last episode of [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) is: 1st prize (the same JVC earphones with the members of Yi An Music Club) – Min敏姐er, 2nd prize (Panda coin worth 300 yuan) – 方向感Towardsu, 3nd prize (Panda coin worth 200 yuan) – 胖子妖. Congratulations! Didn't get the luck? Please try this evening! [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) is still on Panda TV Room 943033 at 8 p.m. Please stay tuned! Special thanks to the great support from the prize sponsor [@JVCChinaOfficial](http://weibo.com/everio)!
+It's time to publish the winners again! The winner list for the last episode of [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) is: 1st prize (the same JVC earphones with the members of Yi An Music Club) – Min敏姐er, 2nd prize (Panda coin worth 300 yuan) – 方向感Towardsu, 3nd prize (Panda coin worth 200 yuan) – 胖子妖. Congratulations! Didn't get the luck? Please try in this evening! [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) is still on Panda TV Room 943033 at 8 p.m. Please stay tuned! Special thanks to the great support from the prize sponsor [@JVCChinaOfficial](http://weibo.com/everio)!
 
 <!-- more -->
 
