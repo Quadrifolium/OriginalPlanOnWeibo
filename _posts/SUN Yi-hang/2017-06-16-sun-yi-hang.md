@@ -21,4 +21,3 @@ MVP finally! All the players did great! :grin:
     <a href="http://wx3.sinaimg.cn/mw690/006FnS5mgy1fgndktm2vrj30k00zk0wh.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006FnS5mgy1fgndktm2vrj30k00zk0wh.jpg" /></a>
   </li>
 </ul>
-
