@@ -33,7 +33,7 @@ Note:
 1. Quote: Another Weibo post.
 1. [@Havison](http://weibo.com/havison) is the CEO of Original Plan.
 
-**Comments**
+*Comments*
 
 <div class="weibo-info">1970-01-01 23:59</div>
 [WeiboAccountName](http://weibo.com/satosan): Lorem ipsum
