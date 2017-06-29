@@ -10,3 +10,6 @@ categories: [ 'yi-an-music-club' ]
 </div>
 
 *The Adventure of Yi An Music Club – The Misty School* E004 is released. The six members took the wrong bus and arrived at the weird Yuwu Middle School, will they wait for the bus next week or find another way to leave? Come and listen: [▷ The Adventure of Yi An Music Club – The Misty School E004](http://www.ximalaya.com/78339006/sound/41843530)
+
+Note:
+1. Watch the radio drama with English subtitle (music omitted) on YouTube: [❏ Link](https://www.youtube.com/watch?v=dLvQC_5Ji_Y)

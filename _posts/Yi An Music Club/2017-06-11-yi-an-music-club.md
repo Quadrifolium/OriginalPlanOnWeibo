@@ -57,3 +57,6 @@ With your unremitting efforts, *Yi An KTV* in [#YiAnFunTimeAfterSchool](http://w
 [Extra] The radio drama of Yi An Middle School – *The Adventure of Yi An Music Club – The Misty School* E02 is out! The thrilling adventure has started! Don't hesitate to join adventure team of Yi An Music Club! [❏ Link](http://www.ximalaya.com/78339006/sound/40453184)
 
 ![Image](http://wx1.sinaimg.cn/mw690/006Es64Agy1fgh8ht7cijj30k00wrdjj.jpg)
+
+Note:
+1. Watch the radio drama with English subtitle (music omitted) on YouTube: [❏ Link](https://www.youtube.com/watch?v=_nvF0b9kfp0)

@@ -28,7 +28,7 @@ Though it's not decent for an official account to idle around, I still like to r
   <a href="http://weibo.com/6196825252/F4HPkyn8H">2017-05-25 09:03</a>
 </div>
 
-[❏ Link](http://m.ximalaya.com/78339006/sound/38886912) Don't miss it! ![dumbfounded](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2b/shayan_org.gif)
+[❏ Link](https://www.youtube.com/watch?v=6yq046MZww0) Don't miss it! ![dumbfounded](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2b/shayan_org.gif)
 
 > <div class="weibo-post-name">
 >   <a href="http://weibo.com/u/6196825252">YiAnMultimediaCentre</a>

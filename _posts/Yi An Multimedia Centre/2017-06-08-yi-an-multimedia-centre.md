@@ -9,7 +9,7 @@ categories: [ 'yi-an-multimedia-centre' ]
   <a href="http://weibo.com/6196825252/F6PNYCCtG">2017-06-08 09:02</a>
 </div>
 
-Enjoy the refreshment in the hot summer, strive for the exams! [❏ Link](http://m.ximalaya.com/78339006/sound/40141411)
+Enjoy the refreshment in the hot summer, strive for the exams! [❏ Link](https://www.youtube.com/watch?v=XnJ2mPasTCk)
 
 <!-- more -->
 

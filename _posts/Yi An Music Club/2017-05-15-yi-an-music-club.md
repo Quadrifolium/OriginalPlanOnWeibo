@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/F3gQCkjYu">2017-05-15 22:31</a>
 </div>
 
-This time, *Music Club Jottings* recorded the only short break time when filming an MV in Aomori, and it is right the time for the Sakura Festival of Aomori. But in their words, this is “miaohui” in Japan. In this episode, let's stroll in this “miaohui”. [◉ Music Club Jottings E02](http://www.bilibili.com/video/av10588431/)
+This time, *Music Club Jottings* recorded the only short break time when filming an MV in Aomori, and it is right the time for the Sakura Festival of Aomori. But in their words, this is “miaohui” in Japan. In this episode, let's stroll in this “miaohui”. [◉ Music Club Jottings E02](https://www.youtube.com/watch?v=VDgpTdFbAt0)
 
 <!-- more -->
 

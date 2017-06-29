@@ -14,3 +14,6 @@ The radio drama of Yi An Middle School – *The Adventure of Yi An Music Club �
 <!-- more -->
 
 ![Image](http://wx3.sinaimg.cn/mw690/006Es64Agy1fgo6092dz9j30u21fdnj5.jpg)
+
+Note:
+1. Watch the radio drama with English subtitle (music omitted) on YouTube: [❏ Link](https://www.youtube.com/watch?v=rG9prwAaemE)

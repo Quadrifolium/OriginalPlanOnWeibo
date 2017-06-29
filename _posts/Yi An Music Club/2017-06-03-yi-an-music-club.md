@@ -14,3 +14,6 @@ categories: [ 'yi-an-music-club' ]
 <!-- more -->
 
 ![Image](http://wx4.sinaimg.cn/mw690/006Es64Agy1fg7z0hwu0mj30u21fdnj2.jpg)
+
+Note:
+1. Watch the radio drama with English subtitle (music omitted) on YouTube: [❏ Link](https://www.youtube.com/watch?v=skzmS2UhY5A)

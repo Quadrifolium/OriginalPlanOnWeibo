@@ -9,7 +9,7 @@ categories: [ 'yi-an-multimedia-centre' ]
   <a href="http://weibo.com/6196825252/F5LObbH0R">2017-06-01 09:01</a>
 </div>
 
-Use your conscience and answer me: Is it pleasant? [❏ Link](http://m.ximalaya.com/78339006/sound/39450537)
+Use your conscience and answer me: Is it pleasant? [❏ Link](https://www.youtube.com/watch?v=sLJD0ASKGe0)
 
 <!-- more -->
 
