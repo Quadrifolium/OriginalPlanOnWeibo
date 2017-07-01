@@ -14,4 +14,4 @@ Good members of the Music Club, passed by the Boxing Club and had a try. Want to
 <!-- more -->
 
 Note:
-1. The link for the video has expired.
+1. The link for the video has expired. Please watch on [Twitter](https://twitter.com/official_yjh/status/880596243646251008).
