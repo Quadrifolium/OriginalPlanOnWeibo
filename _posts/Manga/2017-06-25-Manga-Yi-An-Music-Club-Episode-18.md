@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Eng) Manga “Yi An Music Club” (易安音乐社) Episode 17
+title: (Eng) Manga “Yi An Music Club” (易安音乐社) Episode 18
 date: 2017-06-25 12:25
 categories: [ 'manga' ]
 ---
