@@ -34,6 +34,6 @@ Do you know why [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526) doesn'
   <a href="http://weibo.com/6094546964/Fb7kZzbmL">2017-07-06 13:01</a>
 </div>
 
-Unique sleeping pose … Wake up! It's time for class!  :rage:
+Unique sleeping pose … Wake up! It's time for class! :rage:
 
 ![Image](http://wx3.sinaimg.cn/mw690/006Es64Agy1fha2vlk91mj32io1w0npd.jpg)
