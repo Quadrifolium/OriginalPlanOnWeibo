@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (WeChat) Free style of "Yi An Fun Time After School"
+title: (WeChat) The refreshing looks in the summer
 date: 2017-07-06 20:55
 categories: [ 'wechat' ]
 ---
