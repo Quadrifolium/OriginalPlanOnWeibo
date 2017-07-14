@@ -14,13 +14,18 @@ categories: [ 'yi-an-music-club' ]
 <!-- more -->
 
 ![Image](http://wx4.sinaimg.cn/mw690/006Es64Agy1fhhfyk82h0j32c0340e83.jpg)  
-*Words in image:*  
-SUN Yi-hang    Wedn.  
-12th July, 2017    Wednesday    Sunny  
-Yi-hang's diary  
-Now I'm writing the diary. Actually, I got back to the agency only several hours ago, because I was taking a drip in hospital for a long time, and even fell asleep. When woke up, I felt quite hungry, it's time to have some food! After gobbling, I stepped on the road back … Well, the summer in Shanghai is really hot. When I was bored and started to count “one SUN Yi-hang, two SUN Yi-hang”, the bus finally arrived! Thank Heaven, thank Earth, I love you!  
-Mm … Unluckily, I ran across the members taking the dance lesson. I stared at them, and they stared at me. Awkward. Then, the teacher broke the silence: “Do you have ‘free style’?” I: “???”  
-All right … Then, I saw them dancing in franzy. LIN Mo … Skip him. HE Luo-luo was like a gorilla trying to attack someone., ZHAN Yi-wen was indulging in self-delusion. CHI Yi … There's no such a person. FANG Xiang-rui was wiggling like being drunk in milk!  
+*Words in image:*
+
+SUN Yi-hang　　Wedn.  
+12th July, 2017　　Wednesday　　Sunny  
+Yi-hang's diary
+
+Now I'm writing the diary. Actually, I got back to the agency only several hours ago, because I was taking a drip in hospital for a long time, and even fell asleep. When woke up, I felt quite hungry, it's time to have some food! After gobbling, I stepped on the road back … Well, the summer in Shanghai is really hot. When I was bored and started to count “one SUN Yi-hang, two SUN Yi-hang”, the bus finally arrived! Thank Heaven, thank Earth, I love you!
+
+Mm … Unluckily, I ran across the members taking the dance lesson. I stared at them, and they stared at me. Awkward. Then, the teacher broke the silence: “Do you have ‘free style’?” I: “???”
+
+All right … Then, I saw them dancing in franzy. LIN Mo … Skip him. HE Luo-luo was like a gorilla trying to attack someone., ZHAN Yi-wen was indulging in self-delusion. CHI Yi … There's no such a person. FANG Xiang-rui was wiggling like being drunk in milk!
+
 Gracious! So horrible. And I ran away.
 
 ---
