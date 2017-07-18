@@ -28,6 +28,11 @@ All right … Then, I saw them dancing in franzy. LIN Mo … Skip him. HE Luo-lu
 
 Gracious! So horrible. And I ran away.
 
+*Comments*
+
+<div class="weibo-info">2017-07-13 03:27</div>
+[YiAnMiddleSchool](http://weibo.com/yianschool): It is worthy of being praised for dancing with power and preciseness though in sick. The persistent attitude is touching.
+
 ---
 
 <div class="weibo-info">
