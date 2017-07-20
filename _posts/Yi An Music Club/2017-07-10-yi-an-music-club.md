@@ -17,8 +17,8 @@ Reading makes a person happy. Writing makes one thing meaningful.
 *Words in image:*
 
 Diary　　HE Luo-luo  
-HE Luo-luo's diary ① (← Trying to add more words)  
-Mood: -_-　　Weather: Clear to Cloudy　　10th, June (Translator: He made it wrong)
+HE Luo-luo's diary ⑴ (← Trying to add more words)  
+Mood: 😑　　Weather: Clear to Cloudy　　10th, June (Translator: He made it wrong)
 
 It is eight o'clock in the evening. Actually, I was forced to write this diary by Huang the alumnus (Translator: the CEO HUANG Rui), boo-hoo! Yesterday, Huang the alumnus had his hair cut, that's so ugly that I don't know how to express it! (Maybe he cut it today …)
 
@@ -37,7 +37,7 @@ As to FANG Xiang-rui, guess where he is!! Wrong! He is certainly sleeping!
 
 All right. That's all. I'm afraid they will beat me when they find this.
 
-In fact, CHI Yi may take one bath in ten days. (Please keep it secret ^_^)
+In fact, CHI Yi may take one bath in ten days. (Please keep it secret 😊)
 
 ---
 
