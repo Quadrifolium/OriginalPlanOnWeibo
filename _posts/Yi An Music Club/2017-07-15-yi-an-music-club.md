@@ -27,7 +27,7 @@ Though the “magic metropolis” is grilled under the sun, they still like morn
 
 *Words in images:*
 
-YAN Hao-xiang  
+ZHAN Yi-wen  
 Diary
 
 Today is another whole day for training. The body's exhausted, but it's quite good to write a diary to record the life in the day.
@@ -54,6 +54,9 @@ That's all for today! Never tell Mr. Leader what I exposed!
 Good night, everybody!  
 Have a good sleep!  
 (Stick figures)
+
+Note:
+1. “Magic metropolis” (魔都) is a nickname of Shanghai. This name is first used by Muramatsu Shohu (村松梢風).
 
 ---
 
