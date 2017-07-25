@@ -17,7 +17,7 @@ An adorkable *gege* and a quick-witted *didi* experienced a hard day in the agri
 
 Note:
 1. *Gege* (哥哥), elder brother; *didi* (弟弟), younger brother.
-1. *X-change* (变形计) is a TV show of Hunan TV (湖南卫视) which makes urban teenagers feel the life in rural areas, in order to get rid of the bad habits or thoughts.
+1. *X-change* (变形计) is a TV show of Hunan TV (湖南卫视) which makes urban teenagers live the life in rural areas, in order to get rid of the bad habits or thoughts.
 
 <div class="weibo-info">
   <a href="http://weibo.com/6094546964/FclBee96P">2017-07-14 15:10</a>
