@@ -9,7 +9,7 @@ categories: [ 'yi-an-middle-school' ]
   <a href="http://weibo.com/6074218720/Fbz9o9w2A">2017-07-09 11:49</a>
 </div>
 
-It's summer vacation, but the regulations should not be broken. Because of the violation of the ban of using mobile phone after 23:30 in dormitory, FANG Xiang-rui, SUN Yi-hang, ZHAN Yi-wen, LIN Mo, CHI Yi, HE Luo-luo, and LIN Jia-hao have their mobile phones taken over until the next term begins. We hope the other students abide by the regulations for dorm life. Please use the time without mobile to prepare for the summer events.
+It's summer vacation, but the regulations should not be broken. Because of the violation of the ban of using mobile phone after 23:30 in dormitory, FANG Xiang-rui, SUN Yi-hang, ZHAN Yi-wen, LIN Mo, CHI Yi, HE Luo-luo, and LIN Jia-hao have their mobile phones taken over until the next term begins. We hope the other students abide by the regulations for dorm life. Please use the time without mobile to prepare for the summer festival.
 
 <!-- more -->
 

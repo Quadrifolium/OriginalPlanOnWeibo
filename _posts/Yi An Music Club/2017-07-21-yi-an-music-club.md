@@ -21,7 +21,7 @@ Fang-fang's diary　　21st, July
 Weather: I think it's very strange. The sun's shining bright in the morning, but then there came a rainstorm. It lasts only five minutes, and never return.  
 Mood: ★★★★☆
 
-The schedule is tight these days, because we are busy preparing for the summer event. And there's little time to read books. But I always choose a book to read after the training of a whole day, to release myself. I found a book called *To Live*<sup>[1]</sup> from my knapsack, and used the time before sleep in several days to read it. This is really an attractive book, the reader may observe the whole life of the main character FU Gui<sup>[2]</sup> from his own view, taste the joys and sorrows in his life, and feel the change in his mentality when his family abandoned him after he gambled away all the family property. This is an interesting viewpoint, the story is touching and bitter!
+The schedule is tight these days, because we are busy preparing for the summer festival. And there's little time to read books. But I always choose a book to read after the training of a whole day, to release myself. I found a book called *To Live*<sup>[1]</sup> from my knapsack, and used the time before sleep in several days to read it. This is really an attractive book, the reader may observe the whole life of the main character FU Gui<sup>[2]</sup> from his own view, taste the joys and sorrows in his life, and feel the change in his mentality when his family abandoned him after he gambled away all the family property. This is an interesting viewpoint, the story is touching and bitter!
 
 After all, it's really attractive!
 

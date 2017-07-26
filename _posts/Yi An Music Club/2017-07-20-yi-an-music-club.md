@@ -35,7 +35,7 @@ But just at this time, Huang came from nowhere and made the last hit: “Mm, I s
 
 Mm, just gloat as you like. I need to cool down by the wall. From now on, there won't be SUN Yi-hang in *jianghu*.
 
-By the way, everyone is striving hard for the summer event. Crawling back to the dorm, and jogging early in the morning, everyone is great. Even this diary is written in the break time. After all, please wait to enjoy it.
+By the way, everyone is striving hard for the summer festival. Crawling back to the dorm, and jogging early in the morning, everyone is great. Even this diary is written in the break time. After all, please wait to enjoy it.
 
 PS: Today, when passed by FANG Xiang-rui, CHI Yi muttered “Giant Face”. I'm very worried about him. Because we don't have mobile phone at hand, no one can call 120<sup>[4]</sup> if he's beaten seriously.
 

@@ -49,4 +49,4 @@ Note:
   <a href="http://weibo.com/6094546964/FdSRer5Zi">2017-07-24 17:40</a>
 </div>
 
-Be brave to create the future, to soar in the sea of stars~ From this week, we will release a batch of new songs and the dances which will be shown on the stage of the summer event in succession. Here is the dance version of *Future Etude* (未来练习曲). [◉ Yi An Music Club – Future Etude in studio](https://www.bilibili.com/video/av12535189/)
+Be brave to create the future, to soar in the sea of stars~ From this week, we will release a batch of new songs and the dances which will be shown on the stage of the summer festival in succession. Here is the dance version of *Future Etude* (未来练习曲). [◉ Yi An Music Club – Future Etude in studio](https://www.bilibili.com/video/av12535189/)
