@@ -22,7 +22,7 @@ ZHAN Yi-wen
 
 Today is a day we spent in training. We were using quadrille paper for diaries, but why do I use a blank paper to write the diary? Because the printer in the agency is broken, I have to use the blank paper to write the diary.
 
-It happened this morning. Huang the alumnus told me it's my turn to write the diary, so I went to ask a staff for paper. But the staff didn't give me quadrille paper, and told me the printer in the agency is broken. Do you know how I feel when I heard of it? Huang the alumnus, do you know how many times the printer has broken? Could you change it to a new one! Ehh, just forget it! But the printer often drops the ball, I'm resigned.
+It happened this morning. Alumnus Huang told me it's my turn to write the diary, so I went to ask a staff for paper. But the staff didn't give me quadrille paper, and told me the printer in the agency is broken. Do you know how I feel when I heard of it? Alumnus Huang, do you know how many times the printer has broken? Could you change it to a new one! Ehh, just forget it! But the printer often drops the ball, I'm resigned.
 
 But there's one thing I should mention. It's the birthday of a boy in the bottom class<sup>[1]</sup>, many people celebrate the day with him. I guess it would be a memorable experience in his life! I was quite confused at that time, because I can't find anyone with the birthday on 25th July<sup>[2]</sup> in my mind! After inquiring, I knew it's the birthday of a boy in the bottom class. We are still not quite familiar and have the sense of distance, but the Yi An Family is gradually becoming larger and larger, the sense of family is becoming stronger and stronger. It feels warm and sweet.
 

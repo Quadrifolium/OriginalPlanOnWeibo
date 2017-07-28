@@ -20,7 +20,7 @@ Diary　　HE Luo-luo
 HE Luo-luo's diary ⑴ (← Trying to add more words)  
 Mood: 😑　　Weather: Clear to Cloudy　　10th, June (Translator: He made it wrong)
 
-It is eight o'clock in the evening. Actually, I was forced to write this diary by Huang the alumnus (Translator: the CEO HUANG Rui), boo-hoo! Yesterday, Huang the alumnus had his hair cut, that's so ugly that I don't know how to express it! (Maybe he cut it today …)
+It is eight o'clock in the evening. Actually, I was forced to write this diary by Alumnus Huang (Translator: the CEO HUANG Rui), boo-hoo! Yesterday, Alumnus Huang had his hair cut, that's so ugly that I don't know how to express it! (Maybe he cut it today …)
 
 It seems I'm the first to write the diary. And I don't know what to write. Perhaps I may talk about what the other five little cadres are doing.
 

@@ -29,7 +29,7 @@ Yi-hang's diary 2.0
 
 About the matter of wearing *dudou*<sup>[1]</sup> yesterday, I must explain here. LIN Mo compelled me to do that, that's not of my own accord! What is the most horrible, the assistant told me today, that he took a snap stealthily. Fine, I should restrain myself.
 
-“Oh, by the way, I sent it to Huang the alumnus<sup>[2]</sup>.” “What?” How can I stand it? If I don't work off the grievance, how can Warrior Sun survive in *jianghu*<sup>[3]</sup>?
+“Oh, by the way, I sent it to Alumnus Huang<sup>[2]</sup>.” “What?” How can I stand it? If I don't work off the grievance, how can Warrior Sun survive in *jianghu*<sup>[3]</sup>?
 
 But just at this time, Huang came from nowhere and made the last hit: “Mm, I saw it, and vomited all the food in stomach.”
 
@@ -41,6 +41,6 @@ PS: Today, when passed by FANG Xiang-rui, CHI Yi muttered “Giant Face”. I'm 
 
 Note:
 1. *Dudou* (肚兜), a traditional Chinese form of the bodice.
-2. “Huang the alumnus” is the CEO HUANG Rui.
+2. “Alumnus Huang” is the CEO HUANG Rui.
 3. *Jianghu* (江湖) means a community of martial artists in wuxia stories.
 4. “120” is the emergency telephone number in mainland China.

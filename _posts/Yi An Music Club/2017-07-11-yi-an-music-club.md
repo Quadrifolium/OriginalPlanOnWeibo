@@ -46,7 +46,7 @@ It's my turn to write the diary today. I don't know what to write, but have to.
 
 When jogging in the park this morning, I found my physical strength and endurance improved a lot. I also found a grandpa doing *tai chi*. People were coming and going nearby, but he was doing it without being affected, very tardily, as if the time was 10 times slowed down. I stopped unconsciously, to observe the grandpa's slow movement ajar in the hasty stream of people. And my shortened breath was gradually adjusted. This suddenly made me realise that if one makes his life slowed down, one will find a very different view of it. But after a second thought … I started to jog again. After all, everyone has his own unique life.
 
-By the way, there is a Huang the alumnus taking snaps of mine all the time. This is horrible. And I didn't dare to sleep this afternoon. Once I sleep, he comes out quickly. So I should read a book in the break!
+By the way, there is a Alumnus Huang taking snaps of mine all the time. This is horrible. And I didn't dare to sleep this afternoon. Once I sleep, he comes out quickly. So I should read a book in the break!
 
 All right, it's time for recording.  
 Bye-bye!
