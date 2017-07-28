@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (WeChat) KTV styles of “Yi An Fun Time After School”
+title: (WeChat) "I Got a Brother" Yi An Music Club の agritainment style~
 date: 2017-07-20 21:20
 categories: [ 'wechat' ]
 ---
