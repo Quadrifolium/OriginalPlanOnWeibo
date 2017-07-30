@@ -49,7 +49,7 @@ The soprano HE Luo-luo yelled: “Aha! On guard!” HE Luo-luo hooked CHI Yi and
 
 CHI Yi's face was squeezed on the sofa, he was in inferiority. But HE Luo-luo cannot do anything further on CHI Yi. Once he attacked, CHI Yi would strike back with instinct. The strength was so large that HE Luo-luo was shouting “aaah”.
 
-At this moment, <span style="border:1px solid; border-radius:50%; width: 24px; display: inline-block; text-align: center;">I</span> – held the breath and fix the attention, gathered *qi* to *dantian*<sup>[3]</sup>, with clear *qi* ascending and turbid *qi* descending, both *qi* poured into the soles of the feet, dashed to them and stopped the “pupils” battle. After all, I'm always a upright, brave, and kind person!
+At this moment, <span style="border:1px solid; border-radius:50%; width:24px; display:inline-block;">I</span> – held the breath and fix the attention, gathered *qi* to *dantian*<sup>[3]</sup>, with clear *qi* ascending and turbid *qi* descending, both *qi* poured into the soles of the feet, dashed to them and stopped the “pupils” battle. After all, I'm always a upright, brave, and kind person!
 
 I hope the pupils could lessen their fights, to free me from the worry. Right, the pupils are  
 HE Luo-luo (the Golden Lion King)  
