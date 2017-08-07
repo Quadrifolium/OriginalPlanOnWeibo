@@ -59,4 +59,4 @@ Note:
   <a href="http://weibo.com/6094546964/FbA0KtZ4Z">2017-07-09 14:01</a>
 </div>
 
-*The Adventure of Yi An Music Club – The Misty School* E006 released. In the school they cannot leave, more and more weird things are happening. The members have also been clear about the oddity of the school. Is this place a …? [▷ The Adventure of Yi An Music Club – The Misty School E006](http://www.ximalaya.com/78339006/sound/43269549)
+*The Adventure of Yi An Music Club – The Misty School* E006 released. In the school they cannot leave, more and more weird things are happening. The members have also been clear about the oddity of the school. Is this place a …? [▷ The Adventure of Yi An Music Club – The Misty School E006](https://www.youtube.com/watch?v=JuvQUUlB9mI)

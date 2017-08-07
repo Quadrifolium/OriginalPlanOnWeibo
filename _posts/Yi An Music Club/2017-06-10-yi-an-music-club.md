@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/F7bBFaBlL">2017-06-10 16:32</a>
 </div>
 
-*Yi An Fun Time After School* on Tencent Video was attacked by some secret organisation and cannot be played. Please move to iQiyi. The way to unlock the mysterious *Yi An KTV* remains the same, please support us as always! Link :point_right:🏻 [◉ Yi An Fun Time After School E01](http://www.iqiyi.com/w_19rtqcmhkt.html)
+*Yi An Fun Time After School* on Tencent Video was attacked by some secret organisation and cannot be played. Please move to iQiyi. The way to unlock the mysterious *Yi An KTV* remains the same, please support us as always! Link :point_right:🏻 [◉ Yi An Fun Time After School E01](https://www.youtube.com/watch?v=_WF_fH6IbQo)
 
 <!-- more -->
 
