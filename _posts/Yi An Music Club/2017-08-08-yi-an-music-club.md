@@ -19,8 +19,11 @@ Pray for safety. :pray:
 > <div class="weibo-info">
 >   <a href="http://weibo.com/1904228041/FgbT65g2D">2017-08-08 21:48</a>
 > </div>
-> #EarthquakeQuickReport CEIC measured: Mag 3.3 earthquake at a depth of 9km occurred at Jiuzhaigou County, Ngawa Prefecture, Sichuan Province (33.18N, 103.85E), at 21:41, 8th Aug.   
+> #EarthquakeQuickReport CEIC measured: Mag-3.3 earthquake at the depth of 9km occurred at Jiuzhaigou County, Ngawa Prefecture, Sichuan Province (33.18N, 103.85E), at 21:41, 8th Aug.   
 > <small>* View multimedia content(s) on the original page.</small>
+
+Note:
+1. This is an aftershock of a Mag-7.0 earthquake at the depth of 20km.
 
 ---
 
