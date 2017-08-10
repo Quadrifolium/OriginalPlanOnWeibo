@@ -9,4 +9,4 @@ categories: [ 'yi-an-multimedia-centre' ]
   <a href="http://weibo.com/6196825252/FgpKTlIUM">2017-08-10 09:06</a>
 </div>
 
-In today's *Reading Session*, let's pray for the people in earthquake region with [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574). May every person rise again even in the greatest distress. [❏ Link](http://m.ximalaya.com/78339006/sound/46831445/)
+In today's *Reading Session*, let's pray for the people in the earthquake region with [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574). May every person rise again even in the greatest distress. [❏ Link](http://m.ximalaya.com/78339006/sound/46831445/)
