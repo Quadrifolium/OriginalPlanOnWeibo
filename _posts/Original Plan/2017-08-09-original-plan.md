@@ -22,8 +22,8 @@ Statement
   </li>
 </ul>
 
-*Words on images:*  
+*Words in images:*  
 Please read on [LOFTER](http://quadrifolium.lofter.com/post/1d4edd3a_10df0ecb).
 
 Note:
-1. Time Fengjun (时代峰峻) has posted a lawyer's letter and a arbitration award on Weibo, this is a response from Original Plan. My personal refutation of the statement of Time Fengjun is on [LOFTER](http://quadrifolium.lofter.com/post/1d4edd3a_10df0f30).
+1. Time Fengjun (时代峰峻) has posted a lawyer's letter and an arbitration award on Weibo, this is a response from Original Plan. My personal refutation of the statement of Time Fengjun is on [LOFTER](http://quadrifolium.lofter.com/post/1d4edd3a_10df0f30).
