@@ -14,7 +14,7 @@ It is the 8th day of the twelfth month in Chinese calendar, the Laba Festival. O
 
 *Image*  
 ![Image](http://ww3.sinaimg.cn/mw690/006D4NLGgw1fbfkl00777j30hy0fzq4r.jpg)  
-*Words on image*  
+*Words in image*  
 Laba Festival
 
 Note:

@@ -23,7 +23,7 @@ Hahahahaha [@YiAnMultimediaCentre](http://weibo.com/u/6196825252) PS: Please all
 > <small>* View multimedia content(s) on the original page.</small>
 
 Note:
-1. Words on image: Guy, you come to finally.
+1. Words in image: Guy, you come to life finally.
 
 ---
 

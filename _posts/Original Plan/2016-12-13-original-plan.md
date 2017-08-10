@@ -17,7 +17,7 @@ categories: [ 'original-plan' ]
 
 *Image 2*  
 ![Image 2](http://ww1.sinaimg.cn/mw690/0068MnXXgw1fap34et0ozj31kw2dn7mn.jpg)  
-Words on image:  
+Words in image:  
 **Sincere invitation**  
 Press conference for the startup of Original Plan and the first session of “Plan R”  
 2 p.m., 22nd Dec. 2016  
