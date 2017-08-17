@@ -59,7 +59,7 @@ Happy birthday ^\_^ Happy birthday ^\_^ Happy birthday A×56 ^\_^ (LIN Mo)
   <a href="http://weibo.com/6094546964/Fhp1D1QLs">2017-08-16 21:05</a>
 </div>
 
-In today's [#YiAnGoodNight](http://weibo.com/p/10080892b104a59bff303ca883e7931b5b916e), let's listen to the “dark cuisine” the members cooked. And, it's three days left before [#YiAnSummerFestival](http://weibo.com/p/100808584ecb6c041592aa973c9a8aa9b6bd18). [▷ Yi An Good Night No. 018](http://www.ximalaya.com/78339006/sound/47579803/)
+In today's [#YiAnGoodNight](http://weibo.com/p/10080892b104a59bff303ca883e7931b5b916e), let's listen to the “dark cuisine” the members talked. And, it's three days left before [#YiAnSummerFestival](http://weibo.com/p/100808584ecb6c041592aa973c9a8aa9b6bd18). [▷ Yi An Good Night No. 018](http://www.ximalaya.com/78339006/sound/47579803/)
 
 ---
 
@@ -140,7 +140,7 @@ We are waiting to see everyone of you. (✧◡✧)
 
 *Words in image:*
 
-**Programmes of Yi An Middle School Summer Campus Festival**
+**Programmes of Yi An Middle School Summer Culture Festival**
 
 Part 1
 
