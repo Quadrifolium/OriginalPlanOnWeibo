@@ -64,4 +64,4 @@ categories: [ 'fang-xiang-rui' ]
 [YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): ![shrug](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/09/pcmoren_tanshou_org.png)×4
 
 Note:
-1. It is believed that the Canyon Swing mentioned in this post is a scenic spot in Yichang, Hubei Province.
+1. It is believed that the Canyon Swing mentioned in this post is a scenic spot in Chongqing.
