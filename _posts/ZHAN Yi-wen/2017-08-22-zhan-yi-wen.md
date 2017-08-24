@@ -40,3 +40,6 @@ Shanghai, I'll be back. ![cute](http://img.t.sinajs.cn/t4/appstyle/expression/ex
 
 <div class="weibo-info">2017-08-22 22:56</div>
 [YXZHty](http://weibo.com/2565158051) ([YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220)): I'm waiting.
+
+<div class="weibo-info">2017-08-24 16:24</div>
+[YiAnMusicClub-ChiYi](http://weibo.com/u/6117581836): My roommate + classmate + teammate, I'm waiting for your return, and your snacks.
