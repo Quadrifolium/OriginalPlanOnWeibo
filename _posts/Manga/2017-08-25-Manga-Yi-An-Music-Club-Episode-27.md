@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Eng) Manga “Yi An Music Club” (易安音乐社) Episode 25
+title: (Eng) Manga “Yi An Music Club” (易安音乐社) Episode 27
 date: 2017-08-25 22:50
 categories: [ 'manga' ]
 ---
