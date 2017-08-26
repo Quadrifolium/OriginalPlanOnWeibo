@@ -10,4 +10,3 @@ categories: [ 'yi-an-middle-school' ]
 </div>
 
 Forward. If not contented, please wait for the events after the new term begins. [◉ Yi An Music Club – 0819 Yi An Middle School Summer Culture Festival](https://m.bilibili.com/video/av13641975.html)
-
