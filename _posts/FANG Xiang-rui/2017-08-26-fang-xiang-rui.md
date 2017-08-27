@@ -22,5 +22,5 @@ I heard that *Reply, the Growth* (长大请回答) today … Now I decide to sin
 [YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): I got a snap of yours. ![cute](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/14/tza_org.gif)
 
 Note:
-1. It seems Havison, the CEO of Original Plan, published his singing of the song on the web.
+1. Havison, the CEO of Original Plan, published his singing of the song on the web.
 1. The song in the link is: *Silence* (安靜), Jay Chou (周杰倫), *Fantasy* (范特西), 2001.

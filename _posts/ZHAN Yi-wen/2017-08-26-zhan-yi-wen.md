@@ -21,4 +21,4 @@ Exhausted today. Yearning for a sleep. :sleepy::sleepy::sleepy: A photo with rai
 [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Have you listened to that *Reply, the Growth* (长大请回答)?
 
 Note:
-1. It seems Havison, the CEO of Original Plan, published his singing of the song on the web.
+1. Havison, the CEO of Original Plan, published his singing of the song on the web.
