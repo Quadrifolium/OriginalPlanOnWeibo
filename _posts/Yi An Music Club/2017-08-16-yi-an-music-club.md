@@ -157,7 +157,7 @@ Directed by WANG Yu (王雨)
 
 Part 2
 
-6. *Flying Fantsy in 365 Days* (365天幻想飞行)  
+6. *Flying Fantasy in 365 Days* (365天幻想飞行)  
 Written by veeka; composed by Shima
 7. Dance show  
 Choreographed by JYS Dance Studio (JYS集英社)
