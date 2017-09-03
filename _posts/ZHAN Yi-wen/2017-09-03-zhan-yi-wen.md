@@ -32,3 +32,8 @@ I also visited a beautiful town. Here's some scenery pictures. :v::v:
 </div>
 
 I went to a bridge known as the longest pedestrian suspension bridge in the world … [@YXZHty](http://weibo.com/2565158051), you may have a try. It's not scary. ![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif) [◉ Flash Show Video](http://www.miaopai.com/show/OBX4UleCTM8ZyWyk25sEMk1QeLrdbOiu.htm)
+
+*Comments*
+
+<div class="weibo-info">2017-09-03 12:37</div>
+[YXZHty](http://weibo.com/2565158051): Well … Hold steadily, don't shake. ![misfortune](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/af/cry.gif)![dizzy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/dizzya_org.gif)![dizzy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/dizzya_org.gif)
