@@ -10,3 +10,10 @@ categories: [ 'zhan-yi-wen' ]
 </div>
 
 Share an animal I met in the community. :grin::grin: [◉ Flash Show Video](http://www.miaopai.com/show/D-cib2GOAS71gQGWBdnCdQlJdwVy5UGj.htm)
+
+<!-- more -->
+
+*Comments*
+
+<div class="weibo-info">2017-08-28 22:16</div>
+[YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): You are so leisured.
