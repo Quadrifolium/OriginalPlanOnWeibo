@@ -19,7 +19,7 @@ What's wrong with the link? ![dumbfounded](http://img.t.sinajs.cn/t4/appstyle/ex
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6196825252/FjCbErEIp">2017-08-31 10:16</a>
 > </div>
-> Remember to watch *The First Lesson of the New Term* (开学第一课). In this *Reading Session*, [@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220) takes you to view the scene in desert … :scissors::barber:![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif) Let's fight in the new term!!! [▷ 170831 Sand Dune, Hidden Spring](http://www.ximalaya.com/sound/49163678)
+> Remember to watch *The First Lesson of the New Term* (开学第一课). In this *Reading Session*, [@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220) takes you to view the scene in desert … :scissors::barber:![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif) Let's fight in the new term!!! [▷ 170831 Sand Dune, Hidden Spring](https://www.youtube.com/watch?v=KYaN_BaCQt0)
 
 ---
 
@@ -27,7 +27,7 @@ What's wrong with the link? ![dumbfounded](http://img.t.sinajs.cn/t4/appstyle/ex
   <a href="http://weibo.com/6196825252/FjCbErEIp">2017-08-31 10:16</a>
 </div>
 
-Remember to watch *The First Lesson of the New Term* (开学第一课). In this *Reading Session*, [@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220) takes you to view the scene in desert … :scissors::barber:![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif) Let's fight in the new term!!! [▷ 170831 Sand Dune, Hidden Spring](http://www.ximalaya.com/sound/49163678)
+Remember to watch *The First Lesson of the New Term* (开学第一课). In this *Reading Session*, [@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220) takes you to view the scene in desert … :scissors::barber:![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif) Let's fight in the new term!!! [▷ 170831 Sand Dune, Hidden Spring](https://www.youtube.com/watch?v=KYaN_BaCQt0)
 
 Note:
 1. *The First Lesson of the New Term* (开学第一课) is a programme of CCTV (中央电视台; China Central Television), which broadcasts on the first day of a new term of school.
