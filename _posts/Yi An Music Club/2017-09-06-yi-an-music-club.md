@@ -19,7 +19,7 @@ In the days to come, Yi An Music Club will give a hand to national cartoons with
 > <div class="weibo-info">
 >   <a href="http://weibo.com/2154065944/FkAJBCmnU">2017-09-06 20:24</a>
 > </div>
-> Transdimensional idol group [@YiAnMusicClub](http://weibo.com/u/6094546964) is now the official endorser of Toonmax TV! The vigorous and positive boys present on TV~ From now on, you can easily see their charming figures on TV~ As a popular transdimensional idol group, Yi An Music Club launch new programmes on Toonmax TV in the future. Please stay tuned! Click the link for more → [❏ Transdimensional idol group Yi An Music Club endorses Toonmax TV, a load of clips coming](https://mp.weixin.qq.com/s/1Nn0NNLwHCm_T0meeC7Qig) For more excellent messages, scan the QR code and follow “Toonmax fun” (炫动fun) on WeChat.  
+> Transdimensional idol group [@YiAnMusicClub](http://weibo.com/u/6094546964) is now the official endorser of Toonmax TV! The vigorous and positive boys present on TV~ From now on, you can easily see their charming figures on TV~ As a popular transdimensional idol group, Yi An Music Club will launch new programmes on Toonmax TV in the future. Please stay tuned! Click the link for more → [❏ Transdimensional idol group Yi An Music Club endorses Toonmax TV, a load of clips coming](https://mp.weixin.qq.com/s/1Nn0NNLwHCm_T0meeC7Qig) For more excellent messages, scan the QR code and follow “Toonmax fun” (炫动fun) on WeChat.  
 > <ul class="weibo-pic-list-3">
 >   <li class="weibo-pic">
 >     <a href="http://wx4.sinaimg.cn/mw690/80647018gy1fja3d4gj4jj20qo13zwlu.jpg"><img src="//wx4.sinaimg.cn/thumb150/80647018gy1fja3d4gj4jj20qo13zwlu.jpg" /></a>
