@@ -11,22 +11,20 @@ This article is published on Toonmax TV WeChat official account at 2017-09-06. R
 
 Extra! Extra! Extra!  
 I should announce a very important thing!  
-The popular teen idol group <span style="font-weight: bold; color: rgb(61, 167, 66);">Yi An Music Club (易安音乐社)</span> and <span style="font-weight: bold; color: rgb(255, 76, 0);">Toonmax TV (炫动卡通卫视)</span> has finally combined!
+The popular teen idol group **Yi An Music Club (易安音乐社)** and **Toonmax TV (炫动卡通卫视)** has finally combined!
 
 ![Image](http://mmbiz.qpic.cn/mmbiz_jpg/EXrxYhl6d1cEIxzibLqWuTcwGeLcQw8H0xsdLphA9aOOUlMfbYXia3zibaQnUzXnb4Ga2KeuGAFMJDlI7EmgXeQYA/640)  
 *Words in image:* Join hands
 
-![Image](http://mmbiz.qpic.cn/mmbiz_gif/EXrxYhl6d1cEIxzibLqWuTcwGeLcQw8H0IMIgppibXWTNdnvic9DtOVfMV2vaJMiajfth1wGRBrAeuqZkzYrynoHFg/0)
-
 Eh? Seems weird …  
-Ah, I mean, <span style="font-weight: bold; color: rgb(255, 79, 121);">Yi An Music Club has finally become the endorser of Toonmax TV!</span>
+Ah, I mean, **Yi An Music Club has finally become the endorser of Toonmax TV!**
 
 > *Good news*  
 > Join the event after reading this article, you have the chance of winning a signed photo from Yi An Music Club.  
 > The approach is at the end of the article, please read carefully!
 
 Here, I would like to formally introduce the group:  
-<span style="font-weight: bold; color: rgb(61, 167, 66);">Yi An Music Club</span> is a transdimensional teen idol group with a myriad of fans, with six members – <span style="color: rgb(61, 167, 66);">FANG Xiang-rui (方翔锐), LIN Mo (林墨), ZHAN Yi-wen (展逸文), CHI Yi (池忆), HE Luo-luo (何洛洛), and SUN Yi-hang (孙亦航)</span>. From now on, Yi An Music Club will launch new programmes on Toonmax TV. You can see them in promo clips, ads, and shows~
+**Yi An Music Club** is a transdimensional teen idol group with a myriad of fans, with six members – **FANG Xiang-rui (方翔锐), LIN Mo (林墨), ZHAN Yi-wen (展逸文), CHI Yi (池忆), HE Luo-luo (何洛洛), and SUN Yi-hang (孙亦航)**. From now on, Yi An Music Club will launch new programmes on Toonmax TV. You can see them in promo clips, ads, and shows~
 
 ![Image](https://mmbiz.qpic.cn/mmbiz_jpg/EXrxYhl6d1cEIxzibLqWuTcwGeLcQw8H0e3y3qK3YDWtV8HGPDzVvcGAWmDIp2kcjgGP11icySyUQBXB9wVkgaoA/640)  
 *Words in image:* Bravo!
@@ -200,7 +198,7 @@ I believe the cooperation will bring us new experience and enjoyment. Let's make
 ![Image](https://mmbiz.qpic.cn/mmbiz_jpg/EXrxYhl6d1cEIxzibLqWuTcwGeLcQw8H0Jib5sSlN9Xicm5zNbcuqFLnHz3QQLVgKn9MQG3GyDmybXRPmiaS11ic48g/640)  
 *Words in image:* Rubbing hands with expectation
 
-Meanwhile, please follow the comics and songs of Yi An Music Club. And the most important of all: Follow the WeChat public account <span style="font-weight: bold; color: rgb(255, 76, 0);">“Toonmax fun” (炫动fun)</span>! We will deliver exclusive news about Yi An Music Club at any time, from new events to everyday details. Everything you expect can be found, the only limit is your mind.
+Meanwhile, please follow the comics and songs of Yi An Music Club. And the most important of all: Follow the WeChat public account **“Toonmax fun” (炫动fun)**! We will deliver exclusive news about Yi An Music Club at any time, from new events to everyday details. Everything you expect can be found, the only limit is your mind.
 
 ![Image](https://mmbiz.qpic.cn/mmbiz_jpg/EXrxYhl6d1cEIxzibLqWuTcwGeLcQw8H0a1PwxeQhnqBc6X94LwoWDHUNQJSicpNVophzxwtg6EGiclk1pH0BAZ9Q/640)  
 *Words in image:* Gracious, that's awesome
