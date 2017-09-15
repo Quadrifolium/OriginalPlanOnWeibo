@@ -1,8 +1,27 @@
 ---
 layout: post
 title: Yi An Music Club (易安音乐社)
-date: 2017-09-15 12:00
+date: 2017-09-15 17:06
 categories: [ 'yi-an-music-club' ]
+---
+
+<div class="weibo-info">
+  <a href="http://weibo.com/6094546964/FlWhutWJo">2017-09-15 17:06</a>
+</div>
+
+[Notice] At 8 p.m. today! On Panda TV! We are coming! Unlock the final combat of [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) – Summer Ladder Stand (I). Keyword: Swimming Pool. Associated words: &￥%……&*￥%& Portal: [❏ Link](http://www.panda.tv/act/triplekill2017.html)
+
+<!-- more -->
+
+<ul class="weibo-pic-list-1">
+  <li class="weibo-pic">
+    <a href="http://wx1.sinaimg.cn/mw690/006Es64Agy1fjkcqsj0dzj31hc280awe.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Agy1fjkcqsj0dzj31hc280awe.jpg" /></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="http://wx4.sinaimg.cn/mw690/006Es64Agy1fjkcrjzbtzj33vc2kwx6q.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Agy1fjkcrjzbtzj33vc2kwx6q.jpg" /></a>
+  </li>
+</ul>
+
 ---
 
 <div class="weibo-info">
@@ -10,7 +29,5 @@ categories: [ 'yi-an-music-club' ]
 </div>
 
 [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) released today. What is the repeatedly appearing letter “R” related to the space-time travel of the Music Club? A secret meeting of the Board of School is unveiling the doubts beneath the plan. In order to solve the problem, the members of the Music Club are ready for the journey of searching for the fragments of “Plan R” in two-dimensional world. Thus, is the journey in three-dimensional world afar?
-
-<!-- more -->
 
 <small>* View multimedia content(s) on the original page.</small>
