@@ -22,3 +22,6 @@ Boring. :stuck_out_tongue::stuck_out_tongue: [◉ Flash Show Video](http://www.m
 
 <div class="weibo-info">2017-09-15 23:11</div>
 [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Come back if you are bored.
+
+Note:
+1. The words in the image in the comment: New post! … I'm coming! … I'M COMING!
