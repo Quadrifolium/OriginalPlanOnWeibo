@@ -34,7 +34,7 @@ Curve wrecker FANG Xiang-rui ![push up glasses](http://img.t.sinajs.cn/t4/appsty
 [YXZHty](http://weibo.com/2565158051) ([YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220)): My apprentice, have you realised the true essence of selfie …
 > <div class="weibo-info">2017-09-15 23:05</div>
 > [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): I did it on my own. 
-> <div class="weibo-info">2017-09-15 23:07</div>
+> <div class="weibo-info">2017-09-15 23:06</div>
 > [YXZHty](http://weibo.com/2565158051) ([YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220)): Re [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): So the last three photos were like that …
 
 <div class="weibo-info">2017-09-15 23:06</div>
