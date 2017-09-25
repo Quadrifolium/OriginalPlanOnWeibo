@@ -14,8 +14,3 @@ categories: [ 'sun-yi-hang' ]
 <!-- more -->
 
 <small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
-
-Note:
-1. The link in the post points to a page of his account on Instagram. The photo shown is:
-
-![Image](https://scontent-sjc2-1.cdninstagram.com/t51.2885-15/e35/21226961_1881725488756163_7802201658217201664_n.jpg)

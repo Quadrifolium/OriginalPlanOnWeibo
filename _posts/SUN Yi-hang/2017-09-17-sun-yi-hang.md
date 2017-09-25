@@ -14,6 +14,3 @@ categories: [ 'sun-yi-hang' ]
 <!-- more -->
 
 <small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
-
-Note:
-1. The link in the post points to a page of his account on Instagram. 9 photos were posted.

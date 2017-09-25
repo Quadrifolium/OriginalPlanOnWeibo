@@ -27,6 +27,3 @@ Look. ![hush](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a6/x_org.
 </div>
 
 [❏ SUN Yi-hang on Instagram](https://www.instagram.com/p/BYx_MavDpGM/) Come on and watch! 💥💥💥
-
-Note:
-1. The link in the post points to a page of his account on Instagram. The video shown is: [◉ Instagram Video](https://scontent-nrt1-1.cdninstagram.com/t50.2886-16/21459514_594231874298996_4251783388408578048_n.mp4)

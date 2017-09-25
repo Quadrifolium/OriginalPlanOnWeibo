@@ -23,4 +23,4 @@ See you …
 *Comments*
 
 <div class="weibo-info">2017-08-30 22:29</div>
-[YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): You haven't bathed. Hurry up to bathe now. ![cute](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/14/tza_org.gif)
+[YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): You haven't bathed. Hurry up to bathe now. :blush:
