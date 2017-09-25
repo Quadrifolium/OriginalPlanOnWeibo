@@ -31,6 +31,7 @@ Virtual characters:
 [YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526) - ZHAN Yi-wen (展逸文); student in Class 2, Junior Grade 1.  
 [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008) - FANG Xiang-rui (方翔锐); student in Class 8, Junior Grade 3.  
 [YiAnMusicClub-XiaTianYi](http://weibo.com/6286030291) - XIA Tian-yi (夏天一); student in Class 1, Junior 2.  
+[YiAnMusicClub-LinJiaHao](http://weibo.com/6210352257) - LIN Jia-hao (林嘉浩).  
 
 Others:  
 [Havison](http://weibo.com/havison) - HUANG Rui (黄锐, Havison); CEO of Original Plan
