@@ -19,7 +19,7 @@ I heard that *Reply, the Growth* (长大请回答) today … Now I decide to sin
 [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): [@Havison](http://weibo.com/havison) :yum: It's for you.
 
 <div class="weibo-info">2017-08-26 23:27</div>
-[YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): I got a snap of yours. ![cute](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/14/tza_org.gif)
+[YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): I got a snap of yours. :blush:
 
 Note:
 1. Havison, the CEO of Original Plan, published his singing of the song on the web.

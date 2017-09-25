@@ -35,7 +35,7 @@ Happy 13th birthday to my *didi*. Please be happy every day. I can accede to any
   <a href="http://weibo.com/6094546964/FhpfUmLTM">2017-08-16 21:40</a>
 </div>
 
-Happy birthday to [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526), my fellow, my roommate nowadays, my buddy till the future. The mobile will be handed over after this post, it's not good for the eyes. ![cute](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/14/tza_org.gif) (CHI Yi)
+Happy birthday to [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526), my fellow, my roommate nowadays, my buddy till the future. The mobile will be handed over after this post, it's not good for the eyes. :blush: (CHI Yi)
 
 <a href="http://wx3.sinaimg.cn/mw690/006Es64Agy1filwa317bfj31w02iohdx.jpg">
   <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006Es64Agy1filwa317bfj31w02iohdx.jpg" />

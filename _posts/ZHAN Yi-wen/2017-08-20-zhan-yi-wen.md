@@ -21,4 +21,4 @@ First day of the vacation, share a photo which I think is nice. [@YiAnMusicClub-
 [YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): Attention. Notice the angle and the light when taking a photo. Plus, a photo must have its meaning … What did you take in it? I can't make a guess. ![bitter joy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2c/moren_yunbei_org.png)![bitter joy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2c/moren_yunbei_org.png)
 
 <div class="weibo-info">2017-08-20 21:04</div>
-[YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Wen-wen's work is always nice. ![cute](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/14/tza_org.gif)
+[YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Wen-wen's work is always nice. :blush:

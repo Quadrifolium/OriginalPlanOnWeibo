@@ -9,7 +9,7 @@ categories: [ 'fang-xiang-rui' ]
   <a href="http://weibo.com/6117583008/Fi1nmxamY">2017-08-20 22:43</a>
 </div>
 
-![cute](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/14/tza_org.gif)×4
+:blush:×4
 
 <!-- more -->
 

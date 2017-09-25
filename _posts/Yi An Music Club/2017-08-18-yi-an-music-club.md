@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/FhHML1DCa">2017-08-18 20:50</a>
 </div>
 
-One day left before [#YiAnSummerFestival](http://weibo.com/p/100808584ecb6c041592aa973c9a8aa9b6bd18). The boys are ready. What about you? At 7:30 p.m. tomorrow, in Luwan Gymnasium, make a perfect ending for the summer vacation. ![cute](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/14/tza_org.gif)
+One day left before [#YiAnSummerFestival](http://weibo.com/p/100808584ecb6c041592aa973c9a8aa9b6bd18). The boys are ready. What about you? At 7:30 p.m. tomorrow, in Luwan Gymnasium, make a perfect ending for the summer vacation. :blush:
 
 <!-- more -->
 
