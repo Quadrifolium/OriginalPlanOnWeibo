@@ -2,7 +2,7 @@
 layout: post
 title: (WeChat) Gege, I want to play roller coaster~
 date: 2017-08-15 19:35
-categories: [ 'wechat' ]
+categories: [ 'wechat-original-plan' ]
 ---
 
 This article is published on WeChat Official Account at 2017-08-10 19:40. Refresh or read [this page](https://github.com/Quadrifolium/originalplan/blob/gh-pages/_posts/WeChat/2017-08-15-WeChat-Original-Plan.md) if you can't see the photos, read the original article [here](https://mp.weixin.qq.com/s/ZFvFmO-lqkZECMQhVpjfpQ).

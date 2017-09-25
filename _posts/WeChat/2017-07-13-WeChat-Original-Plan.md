@@ -2,7 +2,7 @@
 layout: post
 title: (WeChat) KTV styles of “Yi An Fun Time After School”
 date: 2017-07-13 23:50
-categories: [ 'wechat' ]
+categories: [ 'wechat-original-plan' ]
 ---
 
 This article is published on WeChat Official Account at 2017-07-13 18:30. Refresh or read [this page](https://github.com/Quadrifolium/originalplan/blob/gh-pages/_posts/WeChat/2017-07-13-WeChat-Original-Plan.md) if you can't see the photos, read the original article [here](https://mp.weixin.qq.com/s/OJ122p-XH7Jj-SHiQ3krsg).

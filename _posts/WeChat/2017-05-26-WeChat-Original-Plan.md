@@ -2,7 +2,7 @@
 layout: post
 title: (WeChat) Early summer in Yi An Music Club – T-shirt show in Triple Kill
 date: 2017-05-26 18:30
-categories: [ 'wechat' ]
+categories: [ 'wechat-original-plan' ]
 ---
 
 This article is published on WeChat Official Account at 2017-05-25 18:32. Refresh the page or read [this page](https://github.com/Quadrifolium/originalplan/blob/gh-pages/_posts/WeChat/2017-05-26-WeChat-Original-Plan.md) if you can't see the photos, read the original article [here](https://mp.weixin.qq.com/s/ru46j1Ahqx7mHXXPHyWC_g).

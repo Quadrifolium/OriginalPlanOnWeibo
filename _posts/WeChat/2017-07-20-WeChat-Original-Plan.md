@@ -2,7 +2,7 @@
 layout: post
 title: (WeChat) "I Got a Brother" Yi An Music Club の agritainment style~
 date: 2017-07-20 21:20
-categories: [ 'wechat' ]
+categories: [ 'wechat-original-plan' ]
 ---
 
 This article is published on WeChat Official Account at 2017-07-20 19:00. Refresh or read [this page](https://github.com/Quadrifolium/originalplan/blob/gh-pages/_posts/WeChat/2017-07-20-WeChat-Original-Plan.md) if you can't see the photos, read the original article [here](https://mp.weixin.qq.com/s/nbCSpPE_ubuWdnUYaOi4eA).

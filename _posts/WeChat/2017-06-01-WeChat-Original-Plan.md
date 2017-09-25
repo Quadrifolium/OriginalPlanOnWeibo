@@ -2,7 +2,7 @@
 layout: post
 title: (WeChat) Yi An Music Club shows the classic refreshing matching with black, white, and grey
 date: 2017-06-01 20:24
-categories: [ 'wechat' ]
+categories: [ 'wechat-original-plan' ]
 ---
 
 This article is published on WeChat Official Account at 2017-06-01 18:30. Refresh the page or read [this page](https://github.com/Quadrifolium/originalplan/blob/gh-pages/_posts/WeChat/2017-06-01-WeChat-Original-Plan.md) if you can't see the photos, read the original article [here](https://mp.weixin.qq.com/s/iFnSd_ipb3jvBtbt95OmpA).

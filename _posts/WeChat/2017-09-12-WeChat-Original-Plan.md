@@ -2,7 +2,7 @@
 layout: post
 title: (WeChat) Yi An Middle School Summer Culture Festival Review
 date: 2017-09-12 19:00
-categories: [ 'wechat' ]
+categories: [ 'wechat-original-plan' ]
 ---
 
 This article is published on Original Plan WeChat official account at 2017-09-07 18:59. Refresh or read [this page](https://github.com/Quadrifolium/originalplan/blob/gh-pages/_posts/WeChat/2017-09-12-WeChat-Original-Plan.md) if you can't see the photos, read the original article [here](https://mp.weixin.qq.com/s/YLozfTYP2a_EZ4vAxcV4yw).

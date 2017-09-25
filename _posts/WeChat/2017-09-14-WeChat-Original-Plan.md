@@ -2,7 +2,7 @@
 layout: post
 title: (WeChat) New looks of Yi An Music Club~
 date: 2017-09-14 20:40
-categories: [ 'wechat' ]
+categories: [ 'wechat-original-plan' ]
 ---
 
 This article is published on Original Plan WeChat official account at 2017-09-14 19:31. Refresh or read [this page](https://github.com/Quadrifolium/originalplan/blob/gh-pages/_posts/WeChat/2017-09-14-WeChat-Original-Plan.md) if you can't see the photos, read the original article [here](https://mp.weixin.qq.com/s/7la-VqH6Lb31JPJIfPkFEA).
@@ -11,7 +11,7 @@ This article is published on Original Plan WeChat official account at 2017-09-14
 
 **Latest schedule**
 
-17th Sept.: All-round Brain performance  
+17th Sept.: *All-round Brain* (全能脑力王) performance  
 Performers: HE Luo-luo, SUN Yi-hang, LIN Mo, FANG Xiang-rui, CHI Yi
 
 5th Oct.: Toonmax Music Festival  

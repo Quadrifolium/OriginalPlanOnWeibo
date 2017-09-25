@@ -2,7 +2,7 @@
 layout: post
 title: (WeChat) Attention! Yi An Music Club assembled in airport
 date: 2017-04-29 00:40
-categories: [ 'wechat' ]
+categories: [ 'wechat-original-plan' ]
 ---
 
 This article is published on WeChat Official Account at 2017-04-26 18:32. Refresh the page or read [this page](https://github.com/Quadrifolium/originalplan/blob/gh-pages/_posts/WeChat/2017-04-29-WeChat-Original-Plan.md) if you can't see the photos, read the original article [here](https://mp.weixin.qq.com/s/uT8CpvM-_Z9LbHaAZ9oRiw).

@@ -2,7 +2,7 @@
 layout: post
 title: (WeChat) The refreshing looks in the summer
 date: 2017-07-06 20:55
-categories: [ 'wechat' ]
+categories: [ 'wechat-original-plan' ]
 ---
 
 This article is published on WeChat Official Account at 2017-07-06 19:15. Refresh or read [this page](https://github.com/Quadrifolium/originalplan/blob/gh-pages/_posts/WeChat/2017-07-06-WeChat-Original-Plan.md) if you can't see the photos, read the original article [here](https://mp.weixin.qq.com/s/ce5D0_bKJNWRCWzJWBILwg).

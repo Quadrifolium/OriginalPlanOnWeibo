@@ -2,7 +2,7 @@
 layout: post
 title: (WeChat) Free style of "Yi An Fun Time After School"
 date: 2017-06-30 18:15
-categories: [ 'wechat' ]
+categories: [ 'wechat-original-plan' ]
 ---
 
 This article is published on WeChat Official Account at 2017-06-29 19:00. Refresh or read [this page](https://github.com/Quadrifolium/originalplan/blob/gh-pages/_posts/WeChat/2017-06-30-WeChat-Original-Plan.md) if you can't see the photos, read the original article [here](https://mp.weixin.qq.com/s/bjmtekp5VjI-6qdth8poWQ).

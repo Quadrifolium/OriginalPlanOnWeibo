@@ -2,7 +2,7 @@
 layout: post
 title: (WeChat) In this summer, see how the Music Club handle the simple basic garments~
 date: 2017-06-24 23:45
-categories: [ 'wechat' ]
+categories: [ 'wechat-original-plan' ]
 ---
 
 This article is published on WeChat Official Account at 2017-06-22 18:34. Refresh or read [this page](https://github.com/Quadrifolium/originalplan/blob/gh-pages/_posts/WeChat/2017-06-24-WeChat-Original-Plan.md) if you can't see the photos, read the original article [here](https://mp.weixin.qq.com/s/3-Ugo8E0PJ0CsSoAs8gubA).

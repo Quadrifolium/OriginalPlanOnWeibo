@@ -2,7 +2,7 @@
 layout: post
 title: (WeChat) Yi An Music Club's exclusive suite for Triple Kill, expressing the charm of logic
 date: 2017-05-12 19:20
-categories: [ 'wechat' ]
+categories: [ 'wechat-original-plan' ]
 ---
 
 This article is published on WeChat Official Account at 2017-05-11 18:30. Refresh the page or read [this page](https://github.com/Quadrifolium/originalplan/blob/gh-pages/_posts/WeChat/2017-05-12-WeChat-Original-Plan.md) if you can't see the photos, read the original article [here](https://mp.weixin.qq.com/s/ACx2Gbsypx_KsEesfofkeQ).

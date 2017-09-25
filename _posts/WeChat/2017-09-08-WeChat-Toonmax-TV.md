@@ -2,7 +2,7 @@
 layout: post
 title: (WeChat) Transdimensional idol group Yi An Music Club endorses Toonmax TV, a load of clips coming
 date: 2017-09-08 19:10
-categories: [ 'wechat' ]
+categories: [ 'wechat-toonmax-tv' ]
 ---
 
 This article is published on Toonmax TV WeChat official account at 2017-09-06. Refresh or read [this page](https://github.com/Quadrifolium/originalplan/blob/gh-pages/_posts/WeChat/2017-09-08-WeChat-Toonmax-TV.md) if you can't see the photos, read the original article [here](https://mp.weixin.qq.com/s/1Nn0NNLwHCm_T0meeC7Qig).

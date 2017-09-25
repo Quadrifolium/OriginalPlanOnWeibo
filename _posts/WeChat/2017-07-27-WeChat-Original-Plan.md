@@ -2,7 +2,7 @@
 layout: post
 title: (WeChat) "I Got a Brother" Mo-mo and OU Xiao Meng's summer tour
 date: 2017-07-28 18:40
-categories: [ 'wechat' ]
+categories: [ 'wechat-original-plan' ]
 ---
 
 This article is published on WeChat Official Account at 2017-07-27 19:10. Refresh or read [this page](https://github.com/Quadrifolium/originalplan/blob/gh-pages/_posts/WeChat/2017-07-27-WeChat-Original-Plan.md) if you can't see the photos, read the original article [here](https://mp.weixin.qq.com/s/5tjWbRHTnUZ5dzbfcHrZPQ).

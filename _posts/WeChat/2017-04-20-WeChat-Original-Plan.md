@@ -2,7 +2,7 @@
 layout: post
 title: (WeChat) All members of Yi An Music Club turn “wicked”, join the feast of “Triple Kill” together
 date: 2017-04-20 22:20
-categories: [ 'wechat' ]
+categories: [ 'wechat-original-plan' ]
 ---
 
 This article is published on WeChat Official Account at 2017-04-20 18:30. Refresh the page or read [this page](https://github.com/Quadrifolium/originalplan/blob/gh-pages/_posts/WeChat/2017-04-20-WeChat-Original-Plan.md) if you can't see the photos, read the original article [here](https://mp.weixin.qq.com/s/NuvzHH2QrtzU2n1Aa7za8g).

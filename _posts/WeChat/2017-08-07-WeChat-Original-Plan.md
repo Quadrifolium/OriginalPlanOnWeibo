@@ -2,7 +2,7 @@
 layout: post
 title: (WeChat) Gege, let's go to play!
 date: 2017-08-07 17:50
-categories: [ 'wechat' ]
+categories: [ 'wechat-original-plan' ]
 ---
 
 This article is published on WeChat Official Account at 2017-08-03 19:21. Refresh or read [this page](https://github.com/Quadrifolium/originalplan/blob/gh-pages/_posts/WeChat/2017-08-07-WeChat-Original-Plan.md) if you can't see the photos, read the original article [here](https://mp.weixin.qq.com/s/bQxacaPnMgVDOZg667SubA).
