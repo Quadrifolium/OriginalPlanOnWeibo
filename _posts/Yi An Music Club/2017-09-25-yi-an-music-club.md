@@ -1,8 +1,18 @@
 ---
 layout: post
 title: Yi An Music Club (易安音乐社)
-date: 2017-09-25 10:57
+date: 2017-09-25 18:06
 categories: [ 'yi-an-music-club' ]
+---
+
+<div class="weibo-info">
+  <a href="http://weibo.com/6094546964/FnsWMC3tz">2017-09-25 18:06</a>
+</div>
+
+About the letters from fans, is there anything interesting to share? The *Jottings* in this week shows the letters from fans. Let's see what are in and beyond the letters. ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif) [◉ Music Club Jottings E07](http://www.bilibili.com/video/av14691068/)
+
+<!-- more -->
+
 ---
 
 <div class="weibo-info">
@@ -10,8 +20,6 @@ categories: [ 'yi-an-music-club' ]
 </div>
 
 Congratulations, [@Joananan____](http://weibo.com/n/Joananan____) gets “hit JVC headset which the members of Yi An Music Club are using”. The official lottery platform of Weibo [@WeiboLotteryPlatform](http://weibo.com/u/5581785513) supervised the drawing, the result is valid. Notarisation link: [❏ Weibo Lottery Platform](http://t.cn/R0ILuI1)
-
-<!-- more -->
 
 > <div class="weibo-post-name">
 >   <a href="http://weibo.com/yianmusical">YiAnMusicClub</a>
