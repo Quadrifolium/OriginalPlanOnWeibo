@@ -28,6 +28,26 @@ Good morning! Today's morning greeting is from [@YiAnMusicClub-FangXiangRui](htt
 ---
 
 <div class="weibo-post-name">
+  <a href="http://weibo.com/u/5706219726">WittyCrazyPup (机智的疯小狗)</a>
+</div>
+<div class="weibo-info">
+  <a href="http://weibo.com/5706219726/Fn2TappR3">2017-09-22 23:45</a>
+</div>
+
+TPK gets to the successful close! :thumbsup::thumbsup: I am grateful to the platform and the programme team for giving me the chance to show my ability, [@PandaTV](http://weibo.com/PandaTV) [@YiAnMusicClub](http://weibo.com/u/6094546964). I am glad to get to know many good friends on or behind the stage. Everyone of you did a very good job. I wish the talented boys be better and better. Let's wait for the next season! (It's a pity that we didn't take a group photo on that day, since it's too cold.) [@YiAnMusicClub-ChiYi](http://weibo.com/u/6117581836) [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008) [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574) [@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042) [@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220) [@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220) [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526) [@LOLUniversalBigCousin](http://weibo.com/yuzhoujieshuo) Big Cousin is the MVP. Good. :laughing::laughing:
+
+<ul class="weibo-pic-list-1">
+  <li class="weibo-pic">
+    <a href="http://wx1.sinaimg.cn/mw690/006eaIq2gy1fjsrkvb2ztg30a906ddk7.gif"><img src="//wx1.sinaimg.cn/thumb150/006eaIq2gy1fjsrkvb2ztg30a906ddk7.gif" /></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="http://wx4.sinaimg.cn/mw690/006eaIq2gy1fjsrqbj68xj30qo0zk7dt.jpg"><img src="//wx4.sinaimg.cn/thumb150/006eaIq2gy1fjsrqbj68xj30qo0zk7dt.jpg" /></a>
+  </li>
+</ul>
+
+---
+
+<div class="weibo-post-name">
   <a href="http://weibo.com/yuzhoujieshuo">LOLUniversalBigCousin (LOL宇宙大表哥)</a>
 </div>
 <div class="weibo-info">
