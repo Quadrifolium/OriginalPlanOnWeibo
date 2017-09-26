@@ -28,6 +28,30 @@ Good morning! Today's morning greeting is from [@YiAnMusicClub-FangXiangRui](htt
 ---
 
 <div class="weibo-post-name">
+  <a href="http://weibo.com/yuzhoujieshuo">LOLUniversalBigCousin (LOL宇宙大表哥)</a>
+</div>
+<div class="weibo-info">
+  <a href="http://weibo.com/2340144597/Fn2rQlQX7">2017-09-22 22:38</a>
+</div>
+
+*Werewolves Triple Killl* reached the end, and I got the MVP of the season. I am grateful to [@PandaTV](http://weibo.com/PandaTV) for giving me the opportunity to attend this event, which made me get to know the six adorable boys. After several months, I can tell that they are very cute and very clever. And I was very happy in the days, as if I had went back to my 15th year and found the taste of the childhood. [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526), go for it. I will keep an eye on you. ![love you](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/lovea_org.gif)
+
+<ul class="weibo-pic-list-1">
+  <li class="weibo-pic">
+    <a href="http://wx4.sinaimg.cn/mw690/8b7bc5d5ly1fjsppq3idpj20qo0zkn26.jpg"><img src="//wx4.sinaimg.cn/thumb150/8b7bc5d5ly1fjsppq3idpj20qo0zkn26.jpg" /></a>
+  </li>
+</ul>
+
+*Comments*
+
+<div class="weibo-info">2017-09-23 01:08</div>
+[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Thank you, Big Cousin. :grin::grin::grin:
+> <div class="weibo-info">2017-09-23 07:01</div>
+> [LOLUniversalBigCousin](http://weibo.com/yuzhoujieshuo): It's my pleasure to get to know you in this summer. ![love you](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/lovea_org.gif)
+
+---
+
+<div class="weibo-post-name">
   <a href="http://weibo.com/everio">JVCChinaOfficial (JVC建伍中国)</a>
 </div>
 <div class="weibo-info">
