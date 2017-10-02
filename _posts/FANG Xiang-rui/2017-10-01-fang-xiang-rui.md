@@ -10,3 +10,10 @@ categories: [ 'fang-xiang-rui' ]
 </div>
 
 The vacation begins! Too happy to be blurred. :blush: [◉ Flash Show Video](http://www.miaopai.com/show/r060ks0AmvnJ4brvcjeuIP209NAGKcbZ~lVcbA__.htm)
+
+<!-- more -->
+
+*Comments*
+
+<div class="weibo-info">2017-10-01 17:49</div>
+[YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): happy
