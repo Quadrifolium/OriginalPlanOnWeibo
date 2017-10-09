@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/Fp8gvy2SO">2017-10-06 17:07</a>
 </div>
 
-[Notice] Your vacation has only two days left, with no way to top up. 
+[Notice] Your vacation has only two days left, with no way to top up. ![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)
 
 <!-- more -->
 
