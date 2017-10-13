@@ -9,7 +9,7 @@ categories: [ 'sun-yi-hang' ]
   <a href="http://weibo.com/2565158051/FniPj5iTQ">2017-09-24 16:20</a>
 </div>
 
-[❏ SUN Yi-hang on Instagram](https://www.instagram.com/p/BZaq3pnjMM_/) Heiheihei
+[❏ SUN Yi-hang on Instagram: “Short preview 😀”](https://www.instagram.com/p/BZaq3pnjMM_/) Heiheihei
 
 <!-- more -->
 

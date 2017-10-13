@@ -9,7 +9,7 @@ categories: [ 'sun-yi-hang' ]
   <a href="http://weibo.com/2565158051/FjXG4yvfs">2017-09-02 16:58</a>
 </div>
 
-[❏ SUN Yi-hang on Instagram](https://www.instagram.com/p/BYiF9KzDZTe/) Studying :grin:
+[❏ SUN Yi-hang on Instagram: “Learning … 😁😌”](https://www.instagram.com/p/BYiF9KzDZTe/) Studying :grin:
 
 <!-- more -->
 

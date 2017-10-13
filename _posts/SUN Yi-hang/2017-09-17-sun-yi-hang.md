@@ -9,7 +9,7 @@ categories: [ 'sun-yi-hang' ]
   <a href="http://weibo.com/2565158051/FmgrobYkb">2017-09-17 20:25</a>
 </div>
 
-[❏ SUN Yi-hang on Instagram](https://www.instagram.com/p/BZJFkAGA-vO/) New hairstyle unveiled. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif) And, you are … interesting. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)
+[❏ SUN Yi-hang on Instagram: “Interesting 🙂”](https://www.instagram.com/p/BZJFkAGA-vO/) New hairstyle unveiled. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif) And, you are … interesting. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)
 
 <!-- more -->
 

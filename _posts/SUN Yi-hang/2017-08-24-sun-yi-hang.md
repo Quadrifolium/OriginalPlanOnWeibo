@@ -9,7 +9,7 @@ categories: [ 'sun-yi-hang' ]
   <a href="http://weibo.com/2565158051/FiC9ottB1">2017-08-24 20:20</a>
 </div>
 
-[❏ SUN Yi-hang on Instagram: swag](https://www.instagram.com/p/BYLSCmvjLZr/)?
+[❏ SUN Yi-hang on Instagram: “swag”](https://www.instagram.com/p/BYLSCmvjLZr/)?
 
 <!-- more -->
 
