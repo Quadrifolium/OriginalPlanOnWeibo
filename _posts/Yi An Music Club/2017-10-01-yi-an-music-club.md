@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/Foop2x16k">2017-10-01 20:22</a>
 </div>
 
-[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) During the vacancy of the vacation, let's take a look at the stories behind the scene of the summer festival of Yi An Middle School. [◉ Complete record of Yi An Middle School Summer Culture Festival](http://www.bilibili.com/video/av14964388/)
+[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) During the vacancy of the vacation, let's take a look at the stories behind the scene of the summer festival of Yi An Middle School. [◉ Complete record of Yi An Middle School Summer Culture Festival](https://www.youtube.com/watch?v=jL25ocGzcwk)
 
 <!-- more -->
 
