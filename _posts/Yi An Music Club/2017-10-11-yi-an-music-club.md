@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/FpUEIlKsh">2017-10-11 20:19</a>
 </div>
 
-[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) Today's [#YiAnGoodNight](http://weibo.com/p/10080892b104a59bff303ca883e7931b5b916e) released. About the first stage play, what interesting moments are they sharing? Many places are getting cold, stay at home and warm yourself with the radio. ![moon](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b9/moon.gif)
+[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) Today's [#YiAnGoodNight](http://weibo.com/p/10080892b104a59bff303ca883e7931b5b916e) released. About the first stage play, what interesting moments are they sharing? Many places are getting cold, stay at home and warm yourself with the radio. ![moon](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b9/moon.gif) [▷ Yi An Good Night No. 026](http://www.ximalaya.com/78339006/sound/54036677/)
 
 <!-- more -->
 
