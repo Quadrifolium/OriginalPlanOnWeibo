@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Eng) Manga “Yi An Music Club” (易安音乐社) Episode 33
+title: (Eng) Manga “Yi An Music Club” (易安音乐社) Episode 34
 date: 2017-10-13 21:55
 categories: [ 'manga' ]
 ---
