@@ -16,7 +16,7 @@ Boring. :stuck_out_tongue::stuck_out_tongue: [◉ Flash Show Video](http://www.m
 *Comments*
 
 <div class="weibo-info">2017-09-14 23:44</div>
-[吧唧一口我熊仔](http://weibo.com/5638008162): Looking at you is never boring. My word! [Image](http://wx1.sinaimg.cn/bmiddle/0069yvtwgy1fjjiue9e6xj30ao0o40v2.jpg)
+[吧唧一口我熊仔](http://weibo.com/5638008162): Looking at you is never boring. My word! [▨ Image](http://wx1.sinaimg.cn/bmiddle/0069yvtwgy1fjjiue9e6xj30ao0o40v2.jpg)
 > <div class="weibo-info">2017-09-14 23:53</div>
 > [YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Nice sticker :grin::grin:
 
