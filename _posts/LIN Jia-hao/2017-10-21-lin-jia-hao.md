@@ -21,3 +21,11 @@ categories: [ 'lin-jia-hao' ]
     <a href="http://wx3.sinaimg.cn/mw690/006Mi0jTgy1fkpmou6mzjj30hs0fpt98.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Mi0jTgy1fkpmou6mzjj30hs0fpt98.jpg" /></a>
   </li>
 </ul>
+
+*Comments*
+
+<div class="weibo-info">2017-10-21 16:46</div>
+[YXZHty](http://weibo.com/2565158051) ([YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220)): But I've just bought warm patches. Show the holes. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)
+
+<div class="weibo-info">2017-10-21 16:47</div>
+[YXZHty](http://weibo.com/2565158051) ([YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220)): What's that egg? ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif) Do I like that? I just like *Mikakuto* (味覚糖; from Mikakuto Co., Ltd.).
