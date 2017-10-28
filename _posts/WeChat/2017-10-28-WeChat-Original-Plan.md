@@ -45,10 +45,10 @@ This article is published on Original Plan WeChat official account at 2017-10-26
 
 *Yi An Music Club – 24 Hours in Urgency*
 
-<font color="grey">29th Sept., 2017 (Premiere) (Sold out)</font>  
-<font color="grey">30th Sept., 2017 (Sold out)</font>  
-<font color="grey">13th Oct., 2017 (Sold out)</font>  
-<font color="grey">14th Oct., 2017 (Sold out)</font>  
+<span style="color: grey;">29th Sept., 2017 (Premiere) (Sold out)</span><br />
+<span style="color: grey;">30th Sept., 2017 (Sold out)</span><br />
+<span style="color: grey;">13th Oct., 2017 (Sold out)</span><br />
+<span style="color: grey;">14th Oct., 2017 (Sold out)</span><br />
 3rd Nov., 2017 (On sale)  
 4th Nov., 2017 (On sale)  
 10th Nov., 2017 (To be open)  
