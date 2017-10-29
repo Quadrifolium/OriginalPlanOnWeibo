@@ -19,6 +19,6 @@ What I've said? This is “a wonderful day”. ![scold](http://img.t.sinajs.cn/t
   <a href="http://weibo.com/6196825252/F7k45ljId">2017-06-11 14:04</a>
 </div>
 
-Schedule? Change? Hahaha … Forget it … Have you listened to the radio drama released at 14:00 today? *To the Youth* (致少年) for you, may it bring you a wonderful day. ![yeah](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/13/ha_org.gif)![yeah](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/13/ha_org.gif)![yeah](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/13/ha_org.gif) [❏ Link](http://www.ximalaya.com/78339006/sound/40453184)
+Schedule? Change? Hahaha … Forget it … Have you listened to the radio drama released at 14:00 today? *To the Youth* (致少年) for you, may it bring you a wonderful day. :metal::metal::metal: [❏ Link](http://www.ximalaya.com/78339006/sound/40453184)
 
 ![Image](http://wx2.sinaimg.cn/mw690/006Lnfkogy1fgh86p8va9j30u21fdnj5.jpg)
