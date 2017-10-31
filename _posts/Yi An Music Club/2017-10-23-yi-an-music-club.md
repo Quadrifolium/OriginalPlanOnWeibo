@@ -10,4 +10,4 @@ categories: [ 'yi-an-music-club' ]
 </div>
 
 The fresh-new *Music Club Jottings* is ready!  
-Let's take a look at the backstage of *Yi An Music Club · 24 Hours in Urgency* and see what did the boys do in the spare time. ![smile but keep quiet](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3a/moren_xiaoerbuyu_org.png)
+Let's take a look at the backstage of *Yi An Music Club · 24 Hours in Urgency* and see what did the boys do in the spare time. ![smile but keep quiet](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3a/moren_xiaoerbuyu_org.png) [◉ Yi An Music Club Jottings E11](http://www.bilibili.com/video/av15607517/)
