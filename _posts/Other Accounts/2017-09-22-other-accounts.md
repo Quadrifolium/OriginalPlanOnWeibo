@@ -58,7 +58,7 @@ TPK gets to the successful close! :thumbsup::thumbsup: I am grateful to the plat
   <a href="http://weibo.com/2539816551/Fn0DP4gqB">2017-09-22 18:02</a>
 </div>
 
-Closing time, so happy! To thank you for your support, I decide to post another photo of [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574)'s. (I like to break the code. ![push up glasses](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/fc/moren_bbjdnew_org.png)) At 8 p.m. today, on Panda TV, [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) *Werewolves Triple Kill* will get to the final combat – Summer Ladder Stand (II). Join the interaction, and you'll have the chance to win the hit JVC headset which the members of Yi An Music Club are using! Wish you have a nice weekend!!! Bye.
+Closing time, so happy! To thank you for your support, I decide to post another photo of [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574)'s. (I like to break the code. ![push up glasses](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/fc/moren_bbjdnew_org.png)) At 8 p.m. today, on Panda TV, [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) *Werewolves Triple Kill* will get to the final battle – Challenge From the Water (II). Join the interaction, and you'll have the chance to win the hit JVC headset which the members of Yi An Music Club are using! Wish you have a nice weekend!!! Bye.
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
@@ -86,7 +86,7 @@ Can't wait any more. ![longing](http://img.t.sinajs.cn/t4/appstyle/expression/ex
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6094546964/FmZH7wWW1">2017-09-22 15:37</a>
 > </div>
-> [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) *Werewolves Triple Kill* Final Combat – Summer Ladder Stand (II) is at [❏ 8 p.m. today, on Panda TV (Room 943033)](http://www.panda.tv/act/triplekill2017.html)  
+> [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) *Werewolves Triple Kill* Final Battle - Challenge From the Water (II) is at [❏ 8 p.m. today, on Panda TV (Room 943033)](http://www.panda.tv/act/triplekill2017.html)  
 > It is time for *Triple Kill* to say goodbye. Thank you for your concern during the months, and we are grateful for the prize provider – [@JVCChinaOfficial](http://weibo.com/everio). Today, as before, we prepared the great prize for you – hit JVC headset which the members of Yi An Music Club are using. Commment and repost before 20:30, guess who is the final MVP. We will draw two lucky friends from those who made the correct guess. Don't miss the chance! (You may give the name of only one member once. Over one member or over one guess will not be counted. The result will be shown on Monday.)  
 > <small>* View multimedia content(s) on the original page.</small>
 

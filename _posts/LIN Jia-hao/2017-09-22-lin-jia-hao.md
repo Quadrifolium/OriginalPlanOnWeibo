@@ -9,7 +9,7 @@ categories: [ 'lin-jia-hao' ]
   <a href="http://weibo.com/6210352257/Fn27ekJGW">2017-09-22 21:47</a>
 </div>
 
-In the final combat of [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac), it surprised me that I was awarded :trophy:. I was so lucky. :tada: I was very happy when I was holding :trophy:. But to be frank, the MVP in my mind is [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526). :blush::heart::heart::heart:
+In the final battle of [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac), it surprised me that I was awarded :trophy:. I was so lucky. :tada: I was very happy when I was holding :trophy:. But to be frank, the MVP in my mind is [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526). :blush::heart::heart::heart:
 
 <!-- more -->
 

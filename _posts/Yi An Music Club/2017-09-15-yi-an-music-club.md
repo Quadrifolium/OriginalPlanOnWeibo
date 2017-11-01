@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/FlYgy6zQG">2017-09-15 22:09</a>
 </div>
 
-Missed today's [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) on Panda TV? Don't worry! “Final combat: the Letter of Challenge From the Water (I)” is released. Please click and watch. [◉ Yi An Music Club - Triple Kill E10 Summer Ladder Stand (I)](http://www.bilibili.com/video/av14481027/)
+Missed today's [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) on Panda TV? Don't worry! “Final Battle - Challenge From the Water (I)” is released. Please click and watch. [◉ Yi An Music Club - Triple Kill E10 Final Battle - Challenge From the Water (I)](http://www.bilibili.com/video/av14481027/)
 
 <!-- more -->
 
@@ -19,7 +19,7 @@ Missed today's [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac4
   <a href="http://weibo.com/6094546964/FlWhutWJo">2017-09-15 17:06</a>
 </div>
 
-[Notice] At 8 p.m. today! On Panda TV! We are coming! Unlock the final combat of [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) – Summer Ladder Stand (I). Keyword: Swimming Pool. Associated words: &￥%……&*￥%& Portal: [❏ Link](http://www.panda.tv/act/triplekill2017.html)
+[Notice] At 8 p.m. today! On Panda TV! We are coming! Unlock the final battle of [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) – Final Battle - Challenge From the Water (I). Keyword: Swimming Pool. Associated words: &￥%……&*￥%& Portal: [❏ Link](http://www.panda.tv/act/triplekill2017.html)
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
