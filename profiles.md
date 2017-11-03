@@ -45,7 +45,7 @@ Weibo: [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008)
 
 Weibo: [YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574)
 
-| Age:          | 16  
+| Age:          | 15  
 | Birthday:     | 4th May  
 | Zodiac:       | ♉ Taurus  
 | Stature:      | 176cm  
@@ -87,7 +87,7 @@ Weibo: [YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220)
 
 Weibo: [YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526)
 
-| Age:          | 14  
+| Age:          | 13  
 | Birthday:     | 16th Aug.  
 | Zodiac:       | ♌ Leo  
 | Stature:      | 165cm  
