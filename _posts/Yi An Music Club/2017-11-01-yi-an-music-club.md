@@ -6,7 +6,7 @@ categories: [ 'yi-an-music-club' ]
 ---
 
 <div class="weibo-info">
-  <a href="https://weibo.com/6094546964/Ft6w5pbG0">2017-11-01 20:01</a>
+  <a href="http://weibo.com/6094546964/Ft6w5pbG0">2017-11-01 20:01</a>
 </div>
 
 [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) Come to the radio studio of Yi An and listen to the trick plans from the “rascals” who didn't make clear which day is the Halloween. ![titter](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)  
@@ -19,7 +19,7 @@ This Friday and Saturday see our stage play *Yi An Music Club · 24 Hours in Urg
 ---
 
 <div class="weibo-info">
-  <a href="https://weibo.com/6094546964/Ft690n9eS">2017-11-01 19:04</a>
+  <a href="http://weibo.com/6094546964/Ft690n9eS">2017-11-01 19:04</a>
 </div>
 
 Hello, November. The winter is closer.
