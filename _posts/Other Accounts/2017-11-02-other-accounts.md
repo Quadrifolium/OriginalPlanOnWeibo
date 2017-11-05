@@ -6,7 +6,7 @@ categories: [ 'other-accounts' ]
 ---
 
 <div class="weibo-post-name">
-  <a href="http://weibo.com/u/5990184179">HongDouLive (红豆Live)</a>
+  <a href="http://weibo.com/u/5990184179">HongdouLive (红豆Live)</a>
 </div>
 <div class="weibo-info">
   <a href="http://weibo.com/5990184179/FtevAdsB3">2017-11-02 16:22</a>
