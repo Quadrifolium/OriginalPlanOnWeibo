@@ -68,5 +68,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 > <div class="weibo-info">
 >   <a href="http://weibo.com/1708288824/DzyXNBSZW">1970-01-01 12:00</a>
 > </div>
-> “Lorem ipsum dolor sit amet.”  
+> Lorem ipsum dolor sit amet.  
 > <small>* View multimedia content(s) on the original page.</small>
