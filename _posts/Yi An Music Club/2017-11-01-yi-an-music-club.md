@@ -12,7 +12,7 @@ categories: [ 'yi-an-music-club' ]
 [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) Come to the radio studio of Yi An and listen to the trick plans from the “rascals” who didn't make clear which day is the Halloween. ![titter](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)  
 How did you spend the day? ![titter](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif) Do you have any nice trick to share? :metal:  
 This Friday and Saturday see our stage play *Yi An Music Club · 24 Hours in Urgency* again~ See you on Friday.  
-[❏ Link](http://www.ximalaya.com/78339006/sound/56602695/)
+[▷ Yi An Good Night No. 029](http://www.ximalaya.com/78339006/sound/56602695/)
 
 <!-- more -->
 
