@@ -15,7 +15,7 @@ categories: [ 'yi-an-music-club' ]
 
 Note:
 1. The UUID is for the link of the [❏ Space of Original Plan on Bilibili](http://space.bilibili.com/41417787).
-1. The link of the live room is [❏ Link](http://live.bilibili.com/3980290).
+1. The link of the live room is [❏ Link](https://live.bilibili.com/3980290).
 
 ---
 
