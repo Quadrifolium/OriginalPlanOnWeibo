@@ -1,8 +1,22 @@
 ---
 layout: post
 title: Yi An Music Club (易安音乐社)
-date: 2017-11-11 00:07
+date: 2017-11-11 18:43
 categories: [ 'yi-an-music-club' ]
+---
+
+<div class="weibo-info">
+  <a href="https://weibo.com/6094546964/FuChjm0Op">2017-11-11 18:43</a>
+</div>
+
+The dropscene of *Yi An Music Club · 24 Hours in Urgency*, the musical from [#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index), will be on stage at 19:30 this evening. For the friends who can't get to the theatre for the finale, please watch live on Bilibili from 19:10. Live portal: [◉ Original Plan - Bilibili Live](https://live.bilibili.com/3980290)
+
+<!-- more -->
+
+<a href="https://wx2.sinaimg.cn/mw690/006Es64Agy1flec2kdeasj32io1w01l2.jpg">
+  <img class="weibo-pic-preview" src="//wx2.sinaimg.cn/orj360/006Es64Agy1flec2kdeasj32io1w01l2.jpg" />
+</a>
+
 ---
 
 <div class="weibo-info">
@@ -10,8 +24,6 @@ categories: [ 'yi-an-music-club' ]
 </div>
 
 [#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) Time flies. Every session of *Yi An Music Club · 24 Hours in Urgency* is a non-duplicated challenge. Tomorrow sees the last one. The boys are improving from the inexperienced first attemp to the more smooth and confident pose, your support is important. If you don't have the ticket, please stay tuned for the live. There will be unexpected surprise. See you tomorrow!
-
-<!-- more -->
 
 <ul class="weibo-pic-list-3">
   <li class="weibo-pic">
