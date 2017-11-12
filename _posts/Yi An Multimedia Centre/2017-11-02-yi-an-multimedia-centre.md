@@ -12,4 +12,4 @@ categories: [ 'yi-an-multimedia-centre' ]
 [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) “I am a lily, not a weed. The only way to prove it, is to show the beautiful flowers.”  
 In the morning of November, let's listen to *The Lilies in the Heart* from [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526)  
 “Whenever it is, wherever I am, do my own work with the whole heart, and the day with glory will come. The dream will never be buried by the sand.”  
-[▷ 171102 The Lilies in the Heart](http://www.ximalaya.com/78339006/sound/56666842/)
+[▷ 171102 The Lilies in the Heart](https://www.youtube.com/watch?v=DwdH48Rjbhg)

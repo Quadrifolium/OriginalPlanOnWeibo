@@ -11,4 +11,4 @@ categories: [ 'yi-an-multimedia-centre' ]
 
 “We’ll share them like it’s a new day.”  
 Today's *Reading Session* from [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526) shares *The Shadow Thief* (*Le voleur d'ombres*, Marc Levy, 2010).  
-There will be many shadows during the growth. Only persisting on the things one wants to do can the happiness and the affections be obtained. [▷ 171019 The Shadow Thief](http://www.ximalaya.com/78339006/sound/54957476/)
+There will be many shadows during the growth. Only persisting on the things one wants to do can the happiness and the affections be obtained. [▷ 171019 The Shadow Thief](https://www.youtube.com/watch?v=E56wgeHrc3U)

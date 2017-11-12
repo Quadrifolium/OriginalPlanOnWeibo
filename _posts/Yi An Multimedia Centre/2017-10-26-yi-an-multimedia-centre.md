@@ -12,4 +12,4 @@ categories: [ 'yi-an-multimedia-centre' ]
 “The way ahead is long and challenging. We will make every step firmly with the faith in triumph.”  
 Today's *Reading Session* from [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008) shares a section of *The Old Man and the Sea*.  
 “It is silly not to hope.”  
-Good morning, everyone. [▷ 171026 The Old Man and the Sea](http://www.ximalaya.com/78339006/sound/55815618/)
+Good morning, everyone. [▷ 171026 The Old Man and the Sea](https://www.youtube.com/watch?v=AdNBuIzigXk)

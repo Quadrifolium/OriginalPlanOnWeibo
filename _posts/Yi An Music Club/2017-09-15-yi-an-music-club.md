@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/FlYgy6zQG">2017-09-15 22:09</a>
 </div>
 
-Missed today's [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) on Panda TV? Don't worry! “Final Battle - Challenge From the Water (I)” is released. Please click and watch. [◉ Yi An Music Club - Triple Kill E10 Final Battle - Challenge From the Water (I)](http://www.bilibili.com/video/av14481027/)
+Missed today's [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) on Panda TV? Don't worry! “Final Battle - Challenge From the Water (I)” is released. Please click and watch. [◉ Yi An Music Club - Triple Kill E10 Final Battle - Challenge From the Water (I)](https://www.youtube.com/watch?v=npRYT882QA4)
 
 <!-- more -->
 
