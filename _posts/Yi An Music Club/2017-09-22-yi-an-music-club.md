@@ -27,6 +27,9 @@ It is time for *Triple Kill* to say goodbye. Thank you for your concern during t
   </li>
 </ul>
 
+Note:
+1. The video of this episode is on Bilibili. The translated version (by Quadrifolium) is on Youtube: [◉ Yi An Music Club - Triple Kill E11 Final Battle - Challenge From the Water (II)](https://www.youtube.com/watch?v=W3yvcsido18).
+
 ---
 
 <div class="weibo-info">
