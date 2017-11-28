@@ -14,7 +14,7 @@ Wondering how did I get out yesterday? Look at the photo.
 <!-- more -->
 
 <a href="http://wx4.sinaimg.cn/mw690/006FmVn8gy1fjyxt74wpbj30qo0zk0yk.jpg">
-  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/mw690/006FmVn8gy1fjyxt74wpbj30qo0zk0yk.jpg" />
+  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006FmVn8gy1fjyxt74wpbj30qo0zk0yk.jpg" />
 </a>
 
 ---

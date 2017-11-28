@@ -41,6 +41,8 @@ In this episode, the bragging champion Yi An Music (Illusionist) Club will share
 
 And in the end, the boys ask the listeners not to capture photos from the musical, since the crying faces were ugly. So, please replay the musical *Yi An Music Club · 24 Hours in Urgency* repeatedly for capturing their photos. Come on~
 
-“I wish you can always be my good friends. If I deserve, please also take me as your good friend.” At last, *Another Letter to Little Readers* (再寄小读者) read by Baby *Chi* will bring you into a nice dream~
+“I wish you can always be my good friends. If I deserve, please also take me as yours.” At last, *Another Letter to Little Readers* (再寄小读者) read by Baby *Chi* will bring you into a nice dream~
 
-![Image](https://wx1.sinaimg.cn/mw690/006Es64Agy1flisnkoy9yj30ku0bstbj.jpg)
+<a href="https://wx1.sinaimg.cn/mw690/006Es64Agy1flisnkoy9yj30ku0bstbj.jpg">
+  <img class="weibo-pic-preview-h" src="https://wx1.sinaimg.cn/orj360/006Es64Agy1flisnkoy9yj30ku0bstbj.jpg" />
+</a>
