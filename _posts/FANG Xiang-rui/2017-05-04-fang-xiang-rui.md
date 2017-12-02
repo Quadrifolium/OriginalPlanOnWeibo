@@ -20,7 +20,7 @@ Adorable Luo-luo, happy birthday. Surprised? All right, after having the cake, i
 **Comments**
 
 <div class="weibo-info">2017-05-04 19:06</div>
-[YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): Thank you, Fang-fang. Thank you, everyone. ![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif)![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif)![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif) Want to cry. :blush::blush:
+[YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): Thank you, Fang-fang. Thank you, everyone. ![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif)×3 Want to cry. :blush:×2
 
 <div class="weibo-info">2017-05-04 19:01</div>
 [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Front row reserved for HE Luo-luo. [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574)

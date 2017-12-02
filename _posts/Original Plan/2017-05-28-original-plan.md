@@ -9,7 +9,7 @@ categories: [ 'original-plan' ]
   <a href="http://weibo.com/5626539553/F5f1f5TW8">2017-05-28 21:33</a>
 </div>
 
-The Football Club arrived. ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif) Get ready to watch! Do you like this version of *Chitty Bang Bang Bang*? ![longing](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/37/moren_chongjing_org.png)![longing](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/37/moren_chongjing_org.png)![longing](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/37/moren_chongjing_org.png)
+The Football Club arrived. ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×3 Get ready to watch! Do you like this version of *Chitty Bang Bang Bang*? ![longing](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/37/moren_chongjing_org.png)×3
 
 <!-- more -->
 

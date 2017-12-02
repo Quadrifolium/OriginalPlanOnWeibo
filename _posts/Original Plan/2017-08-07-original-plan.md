@@ -9,7 +9,7 @@ categories: [ 'original-plan' ]
   <a href="http://weibo.com/5626539553/FfXXT9HH8">2017-08-07 10:21</a>
 </div>
 
-[#YiAnSummerFestival](http://weibo.com/p/100808584ecb6c041592aa973c9a8aa9b6bd18) ![Image](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9f/huatongv2_org.gif) The tickets for *Yi An Middle School – Summer Campus Cultural Festival* will be on sale from 2 p.m. today. ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif) Link: [❏ Link](https://piao.damai.cn/128409.html)  
+[#YiAnSummerFestival](http://weibo.com/p/100808584ecb6c041592aa973c9a8aa9b6bd18) ![Image](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9f/huatongv2_org.gif) The tickets for *Yi An Middle School – Summer Campus Cultural Festival* will be on sale from 2 p.m. today. ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×2 Link: [❏ Link](https://piao.damai.cn/128409.html)  
 Besides excellent performance from the students of Yi An and abundant recreation events, every friend joining the festival will get a gift bag. ![lxh_shy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/df/lxhxiudada_org.gif) Check the image below for the details.  
 Let's attend the refreshing summer festival with the brothers in Yi An. ![pray](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/87/lxhxuyuan_org.gif) [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2)
 

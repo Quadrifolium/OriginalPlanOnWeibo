@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/FiiYSap1S">2017-08-22 19:32</a>
 </div>
 
-Shanghai, I'll be back. :blush::blush:
+Shanghai, I'll be back. :blush:×2
 
 <!-- more -->
 

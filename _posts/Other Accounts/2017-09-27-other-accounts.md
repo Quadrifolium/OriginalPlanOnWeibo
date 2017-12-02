@@ -12,7 +12,7 @@ categories: [ 'other-accounts' ]
   <a href="http://weibo.com/2539816551/FnIrhpte8">2017-09-27 09:32</a>
 </div>
 
-Good morning! An alluring and horrible song was brainwashing me yesterday ![kneel down](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6c/pcmoren_guile_org.png)![kneel down](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6c/pcmoren_guile_org.png)![kneel down](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6c/pcmoren_guile_org.png), so I decide to cool down with nice photos ![Minion titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d6/xiaohuangren_huaixiao_org.png)! So today's photos are from [@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042)! Hihihi.
+Good morning! An alluring and horrible song was brainwashing me yesterday ![kneel down](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6c/pcmoren_guile_org.png)×3, so I decide to cool down with nice photos ![Minion titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d6/xiaohuangren_huaixiao_org.png)! So today's photos are from [@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042)! Hihihi.
 
 <!-- more -->
 

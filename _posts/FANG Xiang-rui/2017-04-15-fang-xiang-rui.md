@@ -9,7 +9,7 @@ categories: [ 'fang-xiang-rui' ]
   <a href="http://weibo.com/6117583008/EEFp6y4d4">2017-04-15 22:19</a>
 </div>
 
-Well, time to sleep. ![moon](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b9/moon.gif)![moon](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b9/moon.gif)![moon](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b9/moon.gif)
+Well, time to sleep. ![moon](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b9/moon.gif)×3
 
 <!-- more -->
 

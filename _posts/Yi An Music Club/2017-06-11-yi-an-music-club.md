@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/F7lG0zZdb">2017-06-11 18:10</a>
 </div>
 
-Tomorrow, our [@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042) and [@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220) will walk into exam rooms for *zhongkao*. Be relaxed and take the exam with the usual mind. :blush: Since the other four members of the Music Club violated the dorm rule, kept using mobile phones after the light's out, their mobiles are taken over by the auntie manager. ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png) So, I send the blessing for them. Fighting for *zhongkao*! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)
+Tomorrow, our [@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042) and [@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220) will walk into exam rooms for *zhongkao*. Be relaxed and take the exam with the usual mind. :blush: Since the other four members of the Music Club violated the dorm rule, kept using mobile phones after the light's out, their mobiles are taken over by the auntie manager. ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png) So, I send the blessing for them. Fighting for *zhongkao*! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×2
 
 <!-- more -->
 

@@ -80,7 +80,7 @@ We are reading your messages … We accept good advices with humble mind … Tha
   <a href="http://weibo.com/6196825252/F1JXs8sCn">2017-05-05 20:57</a>
 </div>
 
-The leader Luo-luo was committed, just one day after his birthday. And the game is over, the villagers win again! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif) [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac)
+The leader Luo-luo was committed, just one day after his birthday. And the game is over, the villagers win again! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×3 [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac)
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">

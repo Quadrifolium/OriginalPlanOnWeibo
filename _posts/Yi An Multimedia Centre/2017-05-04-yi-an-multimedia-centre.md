@@ -9,7 +9,7 @@ categories: [ 'yi-an-multimedia-centre' ]
   <a href="http://weibo.com/6196825252/F1zArvEDN">2017-05-04 18:33</a>
 </div>
 
-Are you happy? ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)
+Are you happy? ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)×3
 
 <!-- more -->
 
@@ -48,9 +48,9 @@ Note:
   <a href="http://weibo.com/6196825252/F1sjj98F6">2017-05-04 00:02</a>
 </div>
 
-Only one permanent programme [#YiAnGoodNight](http://weibo.com/p/10080892b104a59bff303ca883e7931b5b916e) from [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) on Yi An Radio? :point_up::point_up::point_up: At 9 a.m. tomorrow, you'll see the strength of Yi An Radio … [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574) will lead you to take a glimpse of the rich cultural life in the campus of [#YiAnMiddleSchool](http://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) … Cute photo take the lead, please wait. :fist::fist::fist:
+Only one permanent programme [#YiAnGoodNight](http://weibo.com/p/10080892b104a59bff303ca883e7931b5b916e) from [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) on Yi An Radio? :point_up:×3 At 9 a.m. tomorrow, you'll see the strength of Yi An Radio … [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574) will lead you to take a glimpse of the rich cultural life in the campus of [#YiAnMiddleSchool](http://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) … Cute photo take the lead, please wait. :fist:×3
 
 **Comments**
 
 <div class="weibo-info">2017-05-04 00:03</div>
-[YiAnMultimediaCentre](http://weibo.com/u/6196825252): The new day comes finally … [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574) [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574) [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574) Guy, happy birthday. :birthday::birthday::birthday:
+[YiAnMultimediaCentre](http://weibo.com/u/6196825252): The new day comes finally … [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574) [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574) [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574) Guy, happy birthday. :birthday:×3

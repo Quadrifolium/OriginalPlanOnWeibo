@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/F18JndSXt">2017-05-04 19:18</a>
 </div>
 
-Happy birthday :birthday::birthday::birthday:, leader [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574).
+Happy birthday :birthday:×3, leader [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574).
 
 <!-- more -->
 

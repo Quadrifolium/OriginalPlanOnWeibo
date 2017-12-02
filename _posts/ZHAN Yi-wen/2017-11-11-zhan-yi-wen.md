@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="https://weibo.com/6108090526/FuDfstR6w">2017-11-11 21:11</a>
 </div>
 
-I watched the film *Thor: Ragnarok* today. It's a very good one. :v::v: I recommend. :stuck_out_tongue_winking_eye::grin::v:
+I watched the film *Thor: Ragnarok* today. It's a very good one. :v:×2 I recommend. :stuck_out_tongue_winking_eye::grin::v:
 
 <!-- more -->
 

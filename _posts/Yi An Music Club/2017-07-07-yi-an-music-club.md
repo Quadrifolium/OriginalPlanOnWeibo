@@ -10,7 +10,7 @@ categories: [ 'yi-an-music-club' ]
 </div>
 
 The member's daily life in school – Senior FANG Xiang-rui is _____.  
-(It seems I find something. ![cover eyes](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3c/pcmoren_wu_org.png)![cover eyes](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3c/pcmoren_wu_org.png))
+(It seems I find something. ![cover eyes](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3c/pcmoren_wu_org.png)×2)
 
 <!-- more -->
 

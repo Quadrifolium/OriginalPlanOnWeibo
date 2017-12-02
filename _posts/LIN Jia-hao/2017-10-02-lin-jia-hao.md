@@ -31,4 +31,4 @@ Watched the show of Cirque du Soleil with [@YiAnMusicClub-ChiYi](http://weibo.co
 *Comments*
 
 <div class="weibo-info">2017-10-02 16:05</div>
-[YiAnMusicClub-ChiYi](http://weibo.com/u/6117581836): :grin::grin::grin:
+[YiAnMusicClub-ChiYi](http://weibo.com/u/6117581836): :grin:×3

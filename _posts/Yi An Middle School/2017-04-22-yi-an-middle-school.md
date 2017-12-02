@@ -30,6 +30,6 @@ Have you watched *Triple Kill*? Is it nice? I was in a self-study class for Seni
 > [YiAnMiddleSchool](http://weibo.com/yianschool): Er …
 
 <div class="weibo-info">2017-04-22 00:06</div>
-[想上天的小仙女er](http://weibo.com/6054273176): Excellent! ![hand bow](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/06/zuoyi_org.gif) The brothers did very well! ![hand bow](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/06/zuoyi_org.gif)![hand bow](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/06/zuoyi_org.gif)![hand bow](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/06/zuoyi_org.gif)
+[想上天的小仙女er](http://weibo.com/6054273176): Excellent! ![hand bow](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/06/zuoyi_org.gif) The brothers did very well! ![hand bow](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/06/zuoyi_org.gif)×3
 > <div class="weibo-info">2017-04-22 00:12</div>
 > [YiAnMiddleSchool](http://weibo.com/yianschool): :ok_hand:

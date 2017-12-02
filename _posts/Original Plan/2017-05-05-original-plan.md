@@ -9,7 +9,7 @@ categories: [ 'original-plan' ]
   <a href="http://weibo.com/5626539553/F1IQ88SBj">2017-05-05 18:06</a>
 </div>
 
-Extra! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif) In Episode 3 of *Triple Kill* this evening, brand-new speculation section will get on-line! Still waiting for you on Panda TV (Room 943033) at 8 p.m.! You may join the speculation in every round of the game. Turn yourself into a detective and join the exciting and interesting challenge with the members of Yi An Music Club! The viewers pointing out all the three werewolves in a round have the chance to get to the lucky draw. The system will randomly select three lucky ones (1st, 2nd, and 3rd prize respectively), watch the image below to check out the prizes and how to join the speculation:
+Extra! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×3 In Episode 3 of *Triple Kill* this evening, brand-new speculation section will get on-line! Still waiting for you on Panda TV (Room 943033) at 8 p.m.! You may join the speculation in every round of the game. Turn yourself into a detective and join the exciting and interesting challenge with the members of Yi An Music Club! The viewers pointing out all the three werewolves in a round have the chance to get to the lucky draw. The system will randomly select three lucky ones (1st, 2nd, and 3rd prize respectively), watch the image below to check out the prizes and how to join the speculation:
 
 <!-- more -->
 

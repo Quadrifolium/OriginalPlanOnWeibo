@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/FsXWeejNo">2017-10-31 22:11</a>
 </div>
 
-Happy Halloween! I hope you are not scared by the photos, especially the last one. ![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)
+Happy Halloween! I hope you are not scared by the photos, especially the last one. ![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)×3
 
 <!-- more -->
 

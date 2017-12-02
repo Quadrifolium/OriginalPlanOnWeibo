@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/FkBedkhSl">2017-09-06 21:40</a>
 </div>
 
-This morning, the white flowers have turned to pink. Beautiful. :blush::blush:
+This morning, the white flowers have turned to pink. Beautiful. :blush:×2
 
 <!-- more -->
 

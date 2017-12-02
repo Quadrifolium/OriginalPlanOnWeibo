@@ -22,4 +22,4 @@ The well-prepared birthday surprise from the other members of Yi An Music Club i
 Fang-fang, are you ready to take it?  
 Want to know what happened next? Please watch on [@HongdouLive](http://weibo.com/u/5990184179) at 21:30 today.  
 We are waiting for you~  
-:kissing_heart::kissing_heart::kissing_heart: [◉ Flash Show Video](https://www.miaopai.com/show/QAGhoeLfXlxsdDXeUxso2w8rkBKRSe-yE9dazg__.htm)
+:kissing_heart:×3 [◉ Flash Show Video](https://www.miaopai.com/show/QAGhoeLfXlxsdDXeUxso2w8rkBKRSe-yE9dazg__.htm)

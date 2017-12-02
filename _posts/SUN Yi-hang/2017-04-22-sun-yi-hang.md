@@ -23,7 +23,7 @@ I got it. Next time, we only need to finish off [@WittyCrazyPup](http://weibo.co
 [YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220): To tell you under the table: we are recording a new song. ![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)
 
 <div class="weibo-info">2017-04-22 13:16</div>
-[@WittyCrazyPup](http://weibo.com/u/5706219726): If so, you will lose my trust. :joy::joy: I won't bow to evil forces.
+[@WittyCrazyPup](http://weibo.com/u/5706219726): If so, you will lose my trust. :joy:×2 I won't bow to evil forces.
 
 <div class="weibo-info">2017-04-22 13:14</div>
 [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): +1 Finish off pro player.

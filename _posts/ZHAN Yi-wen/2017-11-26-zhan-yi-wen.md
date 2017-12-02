@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="https://weibo.com/6108090526/FwTPr05wy">2017-11-26 19:04</a>
 </div>
 
-Errr. Just don't know what to say. ![bitter joy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2c/moren_yunbei_org.png) Just watch. :v::v:
+Errr. Just don't know what to say. ![bitter joy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2c/moren_yunbei_org.png) Just watch. :v:×2
 
 <!-- more -->
 

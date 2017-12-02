@@ -9,7 +9,7 @@ categories: [ 'fang-xiang-rui' ]
   <a href="http://weibo.com/6117583008/Ey5lc7i6F">2017-03-03 15:29</a>
 </div>
 
-![cover eyes](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3c/pcmoren_wu_org.png)![cover eyes](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3c/pcmoren_wu_org.png)![cover eyes](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3c/pcmoren_wu_org.png)
+![cover eyes](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3c/pcmoren_wu_org.png)×3
 
 <!-- more -->
 

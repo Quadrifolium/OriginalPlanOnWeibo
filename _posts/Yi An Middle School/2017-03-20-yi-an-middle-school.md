@@ -9,7 +9,7 @@ categories: [ 'yi-an-middle-school' ]
   <a href="http://weibo.com/6074218720/EAEKEneyA">2017-03-20 13:18</a>
 </div>
 
-Like the last week, the morning assembly was canceled due to the weather. This week, Yi An Radio is hosted by Class 6 Senior Grade 2. The Speech Under the National Flag mentioned that the speech competition is coming to an end, and hoped the students learn more knowledge and ways of life from it. Besides, Prinpal Liu talked about carrying forward the traditional virtues of the Chinese nation, to set up models, and to learn from each other. Moreover, the baseline exam for new students is coming soon. Do you still remember the knowledge in Chinese, Maths, and English? ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png) And the chicken soup attached.
+Like the last week, the morning assembly was canceled due to the weather. This week, Yi An Radio is hosted by Class 6 Senior Grade 2. The Speech Under the National Flag mentioned that the speech competition is coming to an end, and hoped the students learn more knowledge and ways of life from it. Besides, Prinpal Liu talked about carrying forward the traditional virtues of the Chinese nation, to set up models, and to learn from each other. Moreover, the baseline exam for new students is coming soon. Do you still remember the knowledge in Chinese, Maths, and English? ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)×2 And the chicken soup attached.
 
 <!-- more -->
 

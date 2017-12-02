@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/FrlRRivPV">2017-10-21 07:25</a>
 </div>
 
-[@YXZHty](http://weibo.com/2565158051) *Ge*, happy birthday. Take care of yourself. :stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:
+[@YXZHty](http://weibo.com/2565158051) *Ge*, happy birthday. Take care of yourself. :stuck_out_tongue_winking_eye:×2
 
 <!-- more -->
 

@@ -9,4 +9,4 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/FiSw3fJkL">2017-08-26 14:00</a>
 </div>
 
-Today's [#IGotABrother](http://weibo.com/p/10080861f662f85120fee304ac320a7735365a) goes back to the team of LIN Mo (*gege*) and OU Meng (*didi*). They were “lucky enough” to get more budget, but … the scatterbrained team is destined to have an unforgettable vacation. ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png) [◉ Yi An Music Club – I Got a Brother 170826 LIN Mo & OU Meng](https://www.youtube.com/watch?v=bR4dTkKhyds)
+Today's [#IGotABrother](http://weibo.com/p/10080861f662f85120fee304ac320a7735365a) goes back to the team of LIN Mo (*gege*) and OU Meng (*didi*). They were “lucky enough” to get more budget, but … the scatterbrained team is destined to have an unforgettable vacation. ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)×2 [◉ Yi An Music Club – I Got a Brother 170826 LIN Mo & OU Meng](https://www.youtube.com/watch?v=bR4dTkKhyds)

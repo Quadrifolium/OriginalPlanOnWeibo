@@ -75,7 +75,7 @@ categories: [ 'yi-an-multimedia-centre' ]
   <a href="http://weibo.com/6196825252/F4VMahZYM">2017-05-26 20:33</a>
 </div>
 
-Being doubted as a “hidden werewolf”, CHI Yi self-exposed to cover his partners. Haha. Is CHI Yi always acting so obvious when being a werewolf? :laughing::laughing::laughing: [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac)
+Being doubted as a “hidden werewolf”, CHI Yi self-exposed to cover his partners. Haha. Is CHI Yi always acting so obvious when being a werewolf? :laughing:×3 [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac)
 
 <a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1ffz1jf3g7gj31kw11xahf.jpg">
   <img class="weibo-pic-preview-h" src="http://wx1.sinaimg.cn/orj360/006Lnfkogy1ffz1jf3g7gj31kw11xahf.jpg" />
@@ -119,4 +119,4 @@ Being doubted as a “hidden werewolf”, CHI Yi self-exposed to cover his partn
   <a href="http://weibo.com/6196825252/F4VAnduNh">2017-05-26 20:04</a>
 </div>
 
-[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) Episode 6 get into the stride! Do you like the “three adorable selfies”? :blush::blush::blush:
+[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) Episode 6 get into the stride! Do you like the “three adorable selfies”? :blush:×3

@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/FhXV186bK">2017-08-20 13:54</a>
 </div>
 
-From 7:30 p.m. last evening, [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) and over 2,000 alumni and parents enjoyed the passinate Summer Festival. Your support is perfect. Our destination is the ocean of stars. Please remember, in every summer from now on, the Summer Festival of Yi An Middle School is waiting for your arrival. :heart::heart::heart:
+From 7:30 p.m. last evening, [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) and over 2,000 alumni and parents enjoyed the passinate Summer Festival. Your support is perfect. Our destination is the ocean of stars. Please remember, in every summer from now on, the Summer Festival of Yi An Middle School is waiting for your arrival. :heart:×3
 
 <!-- more -->
 

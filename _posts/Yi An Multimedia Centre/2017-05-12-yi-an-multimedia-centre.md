@@ -33,9 +33,9 @@ categories: [ 'yi-an-multimedia-centre' ]
 <div class="weibo-info">2017-05-12 21:59</div>
 易安中学教务处主任: Brother Pup's so sleepy. [▨ Image](http://wx1.sinaimg.cn/mw690/006CvnV1ly1ffixckgkyfj30fa0ce0u5.jpg)
 > <div class="weibo-info">2017-05-12 22:24</div>
-> [YiAnMultimediaCentre](http://weibo.com/u/6196825252): [@WittyCrazyPup](http://weibo.com/u/5706219726) ![pick nose](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif)![pick nose](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif)![pick nose](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif)
+> [YiAnMultimediaCentre](http://weibo.com/u/6196825252): [@WittyCrazyPup](http://weibo.com/u/5706219726) ![pick nose](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif)×3
 > <div class="weibo-info">2017-05-12 22:30</div>
-> [WittyCrazyPup](http://weibo.com/u/5706219726): ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif) Guy, it seems you are a werewolf. Want to get a bullet? :joy:
+> [WittyCrazyPup](http://weibo.com/u/5706219726): ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)×2 Guy, it seems you are a werewolf. Want to get a bullet? :joy:
 
 ---
 
@@ -92,7 +92,7 @@ LIN Jia-hao did great in acting, led the werewolves to the victory with a lone h
   <a href="http://weibo.com/6196825252/F2NLdsCHq">2017-05-12 20:28</a>
 </div>
 
-[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) The tricky LIN Mo exposed his identity by accident when speaking, had no choice but to self-expose. :laughing::laughing::laughing:
+[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) The tricky LIN Mo exposed his identity by accident when speaking, had no choice but to self-expose. :laughing:×3
 
 <a href="http://wx2.sinaimg.cn/mw690/006Lnfkogy1ffiup3yftpj31kw11xgqx.jpg">
   <img class="weibo-pic-preview-h" src="http://wx2.sinaimg.cn/orj360/006Lnfkogy1ffiup3yftpj31kw11xgqx.jpg" />

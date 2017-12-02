@@ -9,7 +9,7 @@ categories: [ 'sun-yi-hang' ]
   <a href="http://weibo.com/6108316220/F1zSFsefX">2017-05-04 19:18</a>
 </div>
 
-Hey guy! Happy birthday. :grin::grin::grin: [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574)
+Hey guy! Happy birthday. :grin:×3 [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574)
 
 <!-- more -->
 

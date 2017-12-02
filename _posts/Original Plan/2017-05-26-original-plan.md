@@ -9,7 +9,7 @@ categories: [ 'original-plan' ]
   <a href="http://weibo.com/5626539553/F4Vio0H07">2017-05-26 19:20</a>
 </div>
 
-Though we have to go to work or school tomorrow, this is Friday again. *Triple Kill* will still meet you at 8 p.m. sharp. ![very happy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif) See you there! ![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)
+Though we have to go to work or school tomorrow, this is Friday again. *Triple Kill* will still meet you at 8 p.m. sharp. ![very happy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif) See you there! ![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)×3
 
 <!-- more -->
 

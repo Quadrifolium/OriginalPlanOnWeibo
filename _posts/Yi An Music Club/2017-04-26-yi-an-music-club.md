@@ -19,7 +19,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/F0kXwlfNr">2017-04-26 15:28</a>
 </div>
 
-![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)
+![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×3
 
 > <div class="weibo-post-name">
 >   <a href="http://weibo.com/satosan">OriginalPlan</a>

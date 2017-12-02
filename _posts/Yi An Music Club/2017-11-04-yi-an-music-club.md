@@ -20,7 +20,7 @@ categories: [ 'yi-an-music-club' ]
 </div>
 
 One hour before *Yi An Music Club · 24 Hours in Urgency*. We are waiting for you on Hongdou Live!  
-PS: Get to [@HongdouLive](http://weibo.com/u/5990184179) at 19:10 for the surprise! ![very happy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif)![very happy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif)![very happy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif)
+PS: Get to [@HongdouLive](http://weibo.com/u/5990184179) at 19:10 for the surprise! ![very happy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif)×3
 
 > <div class="weibo-post-name">
 >   <a href="http://weibo.com/u/5990184179">HongdouLive (红豆Live)</a>

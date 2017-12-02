@@ -9,7 +9,7 @@ categories: [ 'yi-an-middle-school' ]
   <a href="http://weibo.com/6074218720/FrjMYCoYs">2017-10-21 02:08</a>
 </div>
 
-To you, [@YXZHty](http://weibo.com/2565158051), at your 16th, at the pure white age. :birthday::birthday::birthday: When you are watching others, we are also watching you.
+To you, [@YXZHty](http://weibo.com/2565158051), at your 16th, at the pure white age. :birthday:×3 When you are watching others, we are also watching you.
 
 <!-- more -->
 

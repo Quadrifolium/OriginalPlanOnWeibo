@@ -47,4 +47,4 @@ Our story has just begun.
 > [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Come back earlier.
 
 <div class="weibo-info">2017-11-11 23:24</div>
-[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): That's right. :stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:
+[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): That's right. :stuck_out_tongue_winking_eye:×2

@@ -9,7 +9,7 @@ categories: [ 'yi-an-multimedia-centre' ]
   <a href="http://weibo.com/6196825252/EFJw3tqfX">2017-04-22 22:38</a>
 </div>
 
-[#IDidNotWriteThisCharacter](http://weibo.com/p/100808190ac6191fcaf75e2c584526f0d0041b) This afternoon, when seeing the selfie in my phone, he smiled. What I saw was like an old man on a crutch standing under the sunset and “hahahaha…” ![right snort](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/98/yhh_org.gif)![right snort](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/98/yhh_org.gif)![right snort](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/98/yhh_org.gif)
+[#IDidNotWriteThisCharacter](http://weibo.com/p/100808190ac6191fcaf75e2c584526f0d0041b) This afternoon, when seeing the selfie in my phone, he smiled. What I saw was like an old man on a crutch standing under the sunset and “hahahaha…” ![right snort](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/98/yhh_org.gif)×3
 
 <!-- more -->
 

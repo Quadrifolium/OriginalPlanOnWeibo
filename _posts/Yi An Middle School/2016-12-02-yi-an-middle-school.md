@@ -24,4 +24,4 @@ Notice: As the sports meeting will be held in the coming Thursday and Friday, af
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/Ekdogi7jd">2016-12-02 10:14</a>
 </div>
-During the thoroughly applying of the policy of “diversify campus” proposed by the principal in the beginning of this school year, grade deans and teachers-in-charge actively guide students to set up clubs. The result is fruitful, that by the end of Nov., 23 new clubs were found by students. We hope our students savour different school life amid club activities. ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)
+During the thoroughly applying of the policy of “diversify campus” proposed by the principal in the beginning of this school year, grade deans and teachers-in-charge actively guide students to set up clubs. The result is fruitful, that by the end of Nov., 23 new clubs were found by students. We hope our students savour different school life amid club activities. ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×2

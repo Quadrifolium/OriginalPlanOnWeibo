@@ -9,7 +9,7 @@ categories: [ 'fang-xiang-rui' ]
   <a href="http://weibo.com/6117583008/F04sM9CCk">2017-04-24 21:29</a>
 </div>
 
-Dream's ahead, it's time to have a dream. ![moon](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b9/moon.gif)![moon](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b9/moon.gif)
+Dream's ahead, it's time to have a dream. ![moon](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b9/moon.gif)×2
 
 <!-- more -->
 

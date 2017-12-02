@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="https://weibo.com/6094546964/Fxe3Seqzq">2017-11-28 22:35</a>
 </div>
 
-[#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) #TravelInTokyoWithHang Episode 1 is out. Come here and enjoy the charming neon in Tokyo with SUN Yi-hang. If you can't find neon, that's my fault, since I haven't watched this secret programme before I say that. Please click the link and watch. Don't forget to talk with me later. ![very happy](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif)![very happy](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif)![very happy](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif) [◉ Travel in Tokyo With Hang E01](https://www.bilibili.com/video/av16757251/)
+[#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) #TravelInTokyoWithHang Episode 1 is out. Come here and enjoy the charming neon in Tokyo with SUN Yi-hang. If you can't find neon, that's my fault, since I haven't watched this secret programme before I say that. Please click the link and watch. Don't forget to talk with me later. ![very happy](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif)×3 [◉ Travel in Tokyo With Hang E01](https://www.bilibili.com/video/av16757251/)
 
 <!-- more -->
 

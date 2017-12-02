@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/EBDm2hIui">2017-03-26 23:35</a>
 </div>
 
-Finally recall to mind to repost after days. :scream::scream:
+Finally recall to mind to repost after days. :scream:×2
 
 <!-- more -->
 

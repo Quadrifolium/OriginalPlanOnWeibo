@@ -16,7 +16,7 @@ Let me be the Seer, and I'll seize the victory. :v::yum:
 **Comments**
 
 <div class="weibo-info">2017-04-21 23:36</div>
-[WittyCrazyPup](http://weibo.com/u/5706219726): Guy, if you probe me next time, I won't teach you any more. :joy::joy::joy:
+[WittyCrazyPup](http://weibo.com/u/5706219726): Guy, if you probe me next time, I won't teach you any more. :joy:×3
 
 <div class="weibo-info">2017-04-21 23:29</div>
 [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Good night. 😴

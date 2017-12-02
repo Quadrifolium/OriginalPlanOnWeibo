@@ -9,7 +9,7 @@ categories: [ 'original-plan' ]
   <a href="http://weibo.com/5626539553/F0NmuwTWz">2017-04-29 15:47</a>
 </div>
 
-[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) Our booth at comics affair in Xiamen ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif) Your high passion is boosting the air to the top. :heart::heart::heart: All kinds of exquisite peripherals are waiting for you, novel and funny experience areas reserve a seat for you, and the message board has space left to you. So, if you are still on the road, please speed up your pace! Addr.: Zone T01, Hall A4, Xiamen International Conference & Exhibition Center, No. 198, Huizhan Road, Siming District, Xiamen.
+[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) Our booth at comics affair in Xiamen ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×3 Your high passion is boosting the air to the top. :heart:×3 All kinds of exquisite peripherals are waiting for you, novel and funny experience areas reserve a seat for you, and the message board has space left to you. So, if you are still on the road, please speed up your pace! Addr.: Zone T01, Hall A4, Xiamen International Conference & Exhibition Center, No. 198, Huizhan Road, Siming District, Xiamen.
 
 <!-- more -->
 

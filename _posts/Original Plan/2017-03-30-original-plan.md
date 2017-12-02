@@ -9,7 +9,7 @@ categories: [ 'original-plan' ]
   <a href="http://weibo.com/5626539553/ECbZz07fs">2017-03-30 15:46</a>
 </div>
 
-![shy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/shamea_org.gif)![shy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/shamea_org.gif)
+![shy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/shamea_org.gif)×2
 
 <!-- more -->
 
@@ -19,7 +19,7 @@ categories: [ 'original-plan' ]
 > <div class="weibo-info">
 >   <a href="http://weibo.com/3802580928/ECbKDbcMr">2017-03-30 15:09</a>
 > </div>
-> In the studio. [@YiAnMusicClub](http://weibo.com/u/6094546964), great. :stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:  
+> In the studio. [@YiAnMusicClub](http://weibo.com/u/6094546964), great. :stuck_out_tongue_winking_eye:×2  
 > <small>* View multimedia content(s) on the original page.</small>
 
 ---

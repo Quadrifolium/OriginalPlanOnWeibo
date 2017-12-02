@@ -9,7 +9,7 @@ categories: [ 'lin-jia-hao' ]
   <a href="http://weibo.com/6210352257/Fqud1bpiX">2017-10-15 14:49</a>
 </div>
 
-![rain](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/50/rain.gif) Watched a film after the homework's finished, and reading a favourite book at home with the sound of rain outside the window. What a nice day. :relaxed::relaxed::relaxed:
+![rain](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/50/rain.gif) Watched a film after the homework's finished, and reading a favourite book at home with the sound of rain outside the window. What a nice day. :relaxed:×3
 
 <!-- more -->
 

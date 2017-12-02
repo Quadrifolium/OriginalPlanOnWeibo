@@ -9,7 +9,7 @@ categories: [ 'fang-xiang-rui' ]
   <a href="http://weibo.com/6117583008/F3xSypCcg">2017-05-17 17:53</a>
 </div>
 
-A selfie with my companion – cello. :yum::yum:
+A selfie with my companion – cello. :yum:×2
 
 <!-- more -->
 

@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/F4sXutxoG">2017-05-23 19:11</a>
 </div>
 
-Silver Horned King today. :grin::grin:
+Silver Horned King today. :grin:×2
 
 <!-- more -->
 

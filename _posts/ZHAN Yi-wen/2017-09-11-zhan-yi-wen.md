@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/FlgVuiS6E">2017-09-11 07:49</a>
 </div>
 
-Had a barbecue at home. Please ignore the strange expression, because it's too hot. ![bitter joy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2c/moren_yunbei_org.png)![bitter joy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2c/moren_yunbei_org.png)![bitter joy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2c/moren_yunbei_org.png)
+Had a barbecue at home. Please ignore the strange expression, because it's too hot. ![bitter joy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2c/moren_yunbei_org.png)×3
 
 <!-- more -->
 

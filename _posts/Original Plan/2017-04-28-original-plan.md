@@ -31,7 +31,7 @@ categories: [ 'original-plan' ]
   <a href="http://weibo.com/5626539553/F0Exvv8Wx">2017-04-28 17:19</a>
 </div>
 
-[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) Still on [❏ Link](http://www.panda.tv/hd/triplekill20170421.html) , we are waiting for you! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif) (Room 943033)
+[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) Still on [❏ Link](http://www.panda.tv/hd/triplekill20170421.html) , we are waiting for you! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×3 (Room 943033)
 
 > <div class="weibo-post-name">
 >   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
@@ -48,7 +48,7 @@ categories: [ 'original-plan' ]
   <a href="http://weibo.com/5626539553/F0BY1bF7W">2017-04-28 10:46</a>
 </div>
 
-Fun game, pleasant voice, don't miss it~ ![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)
+Fun game, pleasant voice, don't miss it~ ![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)×3
 
 > <div class="weibo-post-name">
 >   <a href="http://weibo.com/u/5334577878">SocoEnt</a>

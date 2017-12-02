@@ -20,7 +20,7 @@ Get the champion finally. :sob:×11 ![longing for money](http://img.t.sinajs.cn/
 <div class="weibo-info">2017-05-12 22:05</div>
 [LOLUniversalBigCousin](http://weibo.com/yuzhoujieshuo): Very much progressed. Great performance. Fighting!
 > <div class="weibo-info">2017-05-12 22:11</div>
-> [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): :yum::yum::yum: Thank you.
+> [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): :yum:×3 Thank you.
 
 ---
 

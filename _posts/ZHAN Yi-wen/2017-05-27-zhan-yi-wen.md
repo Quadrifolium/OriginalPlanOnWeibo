@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/F55XB5TDX">2017-05-27 22:29</a>
 </div>
 
-Don't have new photo to post, here are some old ones. :grin::grin:
+Don't have new photo to post, here are some old ones. :grin:×2
 
 <!-- more -->
 

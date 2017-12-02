@@ -9,7 +9,7 @@ categories: [ 'fang-xiang-rui' ]
   <a href="http://weibo.com/6117583008/FsEU0ELOn">2017-10-29 21:43</a>
 </div>
 
-Passing by Hainan. ![sun](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e5/sun.gif)![sun](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e5/sun.gif)![sun](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e5/sun.gif)
+Passing by Hainan. ![sun](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e5/sun.gif)×3
 
 <!-- more -->
 
@@ -37,4 +37,4 @@ Passing by Hainan. ![sun](http://img.t.sinajs.cn/t4/appstyle/expression/ext/norm
 [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): The last post in October. Hello, November. ![Eat watermelon](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/8a/moren_chiguaqunzhong_org.png)
 
 <div class="weibo-info">2017-10-29 22:08</div>
-[YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): I took the photos. Praise and thumb up. :grin::grin:
+[YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): I took the photos. Praise and thumb up. :grin:×2

@@ -26,4 +26,4 @@ In fact, I'm cool and solemn.
 <div class="weibo-info">2017-02-14 18:19</div>
 [YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): Any guy cool and solemn won't have that hairstyle.
 > <div class="weibo-info">2017-02-14 20:15</div>
-> [YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): You … ![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)
+> [YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): You … ![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)×3

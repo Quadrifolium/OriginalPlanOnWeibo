@@ -45,7 +45,7 @@ Passing through the yellow curtain, the sunlight dyed the whole room into golden
 
 “Get ready? Go!” With the command, we started the morning jogging. The sun was more and more dazzling, and I felt I was more and more tanned. But we can't stay away from the sun, so just let it be tanned, it indicates the health~ Such words were washing in my brain. Until – I was paralysed on the bed. That was the end of the jogging.
 
-And the training came. The packed training fills every day. Though it's great, we can't use air-con, to avoid getting cold. So the room was stuffy. How I hope to get training outside and enjoy the wind, but … I have to accept it! T﹏T CHI Yi, brave it, go for it! (Stick figure) ← Striving :fire::fire::fire:
+And the training came. The packed training fills every day. Though it's great, we can't use air-con, to avoid getting cold. So the room was stuffy. How I hope to get training outside and enjoy the wind, but … I have to accept it! T﹏T CHI Yi, brave it, go for it! (Stick figure) ← Striving :fire:×3
 
 At last, I'll tell you a secret about our leader! Mr. Leader – HE Luo-luo. If Mr. Leader is in the room with me, when I'm using whitening products, he will say: Don't use that, or CHI Yi's skin will be lighter than me!
 

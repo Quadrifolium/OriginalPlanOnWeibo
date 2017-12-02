@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/F685HthYI">2017-06-03 17:45</a>
 </div>
 
-A late Children's Day with my domineering battle droid. :grin::grin::grin:
+A late Children's Day with my domineering battle droid. :grin:×3
 
 <!-- more -->
 
@@ -43,4 +43,4 @@ A late Children's Day with my domineering battle droid. :grin::grin::grin:
 [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): front
 
 <div class="weibo-info">2017-06-03 17:45</div>
-[YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): :blush::blush:
+[YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): :blush:×2

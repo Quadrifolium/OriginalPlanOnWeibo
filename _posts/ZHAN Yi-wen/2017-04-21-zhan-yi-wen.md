@@ -16,7 +16,7 @@ One more post before sleep. Thank you, [@LOLUniversalBigCousin](http://weibo.com
 **Comments**
 
 <div class="weibo-info">2017-04-21 23:33</div>
-[WittyCrazyPup](http://weibo.com/u/5706219726): So cool. I'll be on your side next time. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)
+[WittyCrazyPup](http://weibo.com/u/5706219726): So cool. I'll be on your side next time. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)×2
 
 ---
 

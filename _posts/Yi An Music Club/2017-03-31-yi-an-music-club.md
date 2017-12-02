@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/ECopr0Svp">2017-03-31 23:23</a>
 </div>
 
-Seeing you are boisterous … I feel relieved. ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png) April's coming. :smile: Everything will be all right. Good night. :heart:
+Seeing you are boisterous … I feel relieved. ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)×2 April's coming. :smile: Everything will be all right. Good night. :heart:
 
 <!-- more -->
 

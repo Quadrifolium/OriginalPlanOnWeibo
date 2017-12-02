@@ -18,7 +18,7 @@ Japan's beautiful. :cherry_blossom: [⊕ Japan](http://weibo.com/p/1001018008100
 **Comments**
 
 <div class="weibo-info">2017-04-28 21:08</div>
-[YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): Go away. :wave::wave:
+[YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): Go away. :wave:×2
 
 ---
 

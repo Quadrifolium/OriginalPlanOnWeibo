@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/F5uL4tg1Q">2017-05-30 13:37</a>
 </div>
 
-Please watch. :grin::grin::grin:
+Please watch. :grin:×3
 
 <!-- more -->
 
@@ -29,4 +29,4 @@ Please watch. :grin::grin::grin:
   <a href="http://weibo.com/6108090526/F5uHXbVjC">2017-05-30 13:29</a>
 </div>
 
-It's the Dragon Boat Festival. I wish you be healthy in the festival. :v::v:
+It's the Dragon Boat Festival. I wish you be healthy in the festival. :v:×2

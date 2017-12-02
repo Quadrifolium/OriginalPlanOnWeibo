@@ -12,7 +12,7 @@ categories: [ 'other-accounts' ]
   <a href="http://weibo.com/5706219726/F3SH9zR0I">2017-05-19 22:52</a>
 </div>
 
-Perfect interwork in the last round. :joy: [@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042) acted quite good: “Probe me, poison me, how should I play?” Hahaha, free acting beyond expectation. :joy: I was also stunned – it can also be done like this?! [YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526) deserves getting the champion, it's repaying fast. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif) See you next time, guys.
+Perfect interwork in the last round. :joy: [@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042) acted quite good: “Probe me, poison me, how should I play?” Hahaha, free acting beyond expectation. :joy: I was also stunned – it can also be done like this?! [YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526) deserves getting the champion, it's repaying fast. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)×2 See you next time, guys.
 
 <!-- more -->
 
@@ -26,4 +26,4 @@ Perfect interwork in the last round. :joy: [@YiAnMusicClub-LinMo](http://weibo.c
 [YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): Hahaha, what else should I do ^_^
 
 <div class="weibo-info">2017-05-20 08:25</div>
-[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Actually, I can win easily in the first round. [@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042), sorry for the blind poisoning. :disappointed_relieved::disappointed_relieved:
+[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Actually, I can win easily in the first round. [@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042), sorry for the blind poisoning. :disappointed_relieved:×2

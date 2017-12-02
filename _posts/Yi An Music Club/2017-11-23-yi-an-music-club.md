@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="https://weibo.com/6094546964/FwsrPm4lq">2017-11-23 21:22</a>
 </div>
 
-About [#GoOnStrike!Painters](https://weibo.com/p/100808ad2ad3cf7e06a459fb351ed63af5b2bb), there are five extra sentences from the members. And, please bear in mind the advice in the last picture. As to the videos, these posters are enough! ![Husky](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)![Husky](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)![Husky](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)
+About [#GoOnStrike!Painters](https://weibo.com/p/100808ad2ad3cf7e06a459fb351ed63af5b2bb), there are five extra sentences from the members. And, please bear in mind the advice in the last picture. As to the videos, these posters are enough! ![Husky](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)×3
 
 <!-- more -->
 
@@ -93,7 +93,7 @@ Five episodes in total (Scheduled to have twelve, seven cut off due to lack of f
   <a href="https://weibo.com/6094546964/FwrBZyVOo">2017-11-23 19:14</a>
 </div>
 
-After watching the video, they cannot find any word to praise [#GoOnStrike!Painters](https://weibo.com/p/100808ad2ad3cf7e06a459fb351ed63af5b2bb). Perhaps, the pieces of advice in the posters are showing what they think. ![Husky](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)![Husky](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)![Husky](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)
+After watching the video, they cannot find any word to praise [#GoOnStrike!Painters](https://weibo.com/p/100808ad2ad3cf7e06a459fb351ed63af5b2bb). Perhaps, the pieces of advice in the posters are showing what they think. ![Husky](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)×3
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">

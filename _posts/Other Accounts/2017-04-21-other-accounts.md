@@ -22,7 +22,7 @@ Wow, Luo-luo is so handsome, and was playing attentively! Perfect!
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6117570574/EFAcR40pL">2017-04-21 22:56</a>
 > </div>
-> Have you watched? [@WittyCrazyPup](http://weibo.com/u/5706219726), please pick me up. I don't want to be the first victim. :worried::worried:  
+> Have you watched? [@WittyCrazyPup](http://weibo.com/u/5706219726), please pick me up. I don't want to be the first victim. :worried:×2  
 > <small>* View multimedia content(s) on the original page.</small>
 
 **Comments**
@@ -46,4 +46,4 @@ Wow, Luo-luo is so handsome, and was playing attentively! Perfect!
 **Comments**
 
 <div class="weibo-info">2017-04-21 23:00</div>
-[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Thank you, Big Cousin. I will ask you if I have question on the game. :grin::grin:
+[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Thank you, Big Cousin. I will ask you if I have question on the game. :grin:×2

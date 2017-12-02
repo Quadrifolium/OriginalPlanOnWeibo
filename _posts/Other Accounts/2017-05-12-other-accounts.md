@@ -28,7 +28,7 @@ Wen-wen is really very talented, and are doing hard in practising the game. I th
 **Comments**
 
 <div class="weibo-info">2017-05-12 23:09</div>
-[YiAnMultimediaCentre](http://weibo.com/u/6196825252): The looks of Big Cousin reached a new peak today … Just … like … a … model … :grimacing::grimacing::grimacing:
+[YiAnMultimediaCentre](http://weibo.com/u/6196825252): The looks of Big Cousin reached a new peak today … Just … like … a … model … :grimacing:×3
 
 ---
 
@@ -39,7 +39,7 @@ Wen-wen is really very talented, and are doing hard in practising the game. I th
   <a href="http://weibo.com/5706219726/F2OAO8JFe">2017-05-12 22:35</a>
 </div>
 
-Many friends PMed me about who progressed the most in this episode, here's my responsible answer: ZHAN Yi-wen! [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526) He's completely invested in the game. It doesn't matter if standed at the wrong side, because this is what the game of *Werewolf* is – no right or wrong, no scapegoat; after being deceived many times, one will certainly be more cautious – this is the process of growth, this is what the boys should experience, this is the original intention of the show. It is to play, it is to learn! Very pleased. :blush::blush:
+Many friends PMed me about who progressed the most in this episode, here's my responsible answer: ZHAN Yi-wen! [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526) He's completely invested in the game. It doesn't matter if standed at the wrong side, because this is what the game of *Werewolf* is – no right or wrong, no scapegoat; after being deceived many times, one will certainly be more cautious – this is the process of growth, this is what the boys should experience, this is the original intention of the show. It is to play, it is to learn! Very pleased. :blush:×2
 
 <small>Multimedia contents omitted</small>
 
@@ -51,7 +51,7 @@ Many friends PMed me about who progressed the most in this episode, here's my re
 > [WittyCrazyPup](http://weibo.com/u/5706219726): You just got too much potion from the Witch, but quite good in other aspects. :joy:×4
 
 <div class="weibo-info">2017-05-12 22:46</div>
-[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Thank you for the honouring, Brother Pup. I'll be better next time. :v::v:
+[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Thank you for the honouring, Brother Pup. I'll be better next time. :v:×2
 
 <div class="weibo-info">2017-05-12 23:07</div>
 [YiAnMultimediaCentre](http://weibo.com/u/6196825252): Hand in hand … let's progress together.

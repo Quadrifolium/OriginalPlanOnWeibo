@@ -9,7 +9,7 @@ categories: [ 'fang-xiang-rui' ]
   <a href="http://weibo.com/6117583008/F52onvwlr">2017-05-27 13:24</a>
 </div>
 
-Sweating jogging + slanted eyebrows :blush::blush:
+Sweating jogging + slanted eyebrows :blush:×2
 
 <!-- more -->
 

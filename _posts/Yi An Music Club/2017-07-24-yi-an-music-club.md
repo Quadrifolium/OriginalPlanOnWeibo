@@ -36,7 +36,7 @@ At last, it's time to say to you: “Good night!”
 
 Have a good sleep and a good appetite!  
 Good! 😊  
-:zzz::zzz::zzz:
+:zzz:×3
 
 Note:
 1. Band-tightening Spell (紧箍咒) is from *The Journey to the West* (西游记).

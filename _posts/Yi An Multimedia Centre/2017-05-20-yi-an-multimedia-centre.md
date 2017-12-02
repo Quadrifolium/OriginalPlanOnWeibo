@@ -25,4 +25,4 @@ We are going something now, so that you will have something to do. ![Husky](http
 **Comments**
 
 <div class="weibo-info">2017-05-20 19:11</div>
-[YiAnMultimediaCentre](http://weibo.com/u/6196825252): [@YiAnMultimediaCentre](http://weibo.com/u/6196825252) Not a typo. ![scold](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif)![scold](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif)![scold](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif) It is “going (to do) something”. ![scold](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif)![scold](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif)
+[YiAnMultimediaCentre](http://weibo.com/u/6196825252): [@YiAnMultimediaCentre](http://weibo.com/u/6196825252) Not a typo. ![scold](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif)×3 It is “going (to do) something”. ![scold](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif)×2

@@ -26,7 +26,7 @@ Members of Science Club and Arts Club, use your sharp eyes. Help me to find the 
 <div class="weibo-info">
   <a href="http://weibo.com/6074218720/EkRwprygC">2016-12-06 16:24</a>
 </div>
-This is the result of absence of education. The school motto of Yi An is “Cultivate virtue via peace and comfortable environment”, that virtue cultivation is prior to engaging in scholarship. People of Yi An are those of reliance! ![thumb up](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif)![thumb up](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif)![thumb up](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif)
+This is the result of absence of education. The school motto of Yi An is “Cultivate virtue via peace and comfortable environment”, that virtue cultivation is prior to engaging in scholarship. People of Yi An are those of reliance! ![thumb up](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif)×3
 
 > <div class="weibo-post-name">
 >  <a href="http://weibo.com/renminwang">PeoplesDailyOnline</a>

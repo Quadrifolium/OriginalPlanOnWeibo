@@ -12,7 +12,7 @@ categories: [ 'other-accounts' ]
   <a href="http://weibo.com/5706219726/F885kyXe3">2017-06-16 21:24</a>
 </div>
 
-[@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220) Take … off! :laughing::laughing: I will never break the promise! See you next week. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif) [⊕ Shanghai](http://weibo.com/p/1001018008631000000000000)
+[@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220) Take … off! :laughing:×2 I will never break the promise! See you next week. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif) [⊕ Shanghai](http://weibo.com/p/1001018008631000000000000)
 
 <!-- more -->
 

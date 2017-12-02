@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="https://weibo.com/6094546964/FutRKrqeD">2017-11-10 21:18</a>
 </div>
 
-[#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) The dropscene of *Yi An Music Club · 24 Hours in Urgency* will be live on [@Bilibili](https://weibo.com/bilibiliweb). No time lag, don't miss it. :stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye: See you tomorrow! UUID: 41417787
+[#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) The dropscene of *Yi An Music Club · 24 Hours in Urgency* will be live on [@Bilibili](https://weibo.com/bilibiliweb). No time lag, don't miss it. :stuck_out_tongue_winking_eye:×3 See you tomorrow! UUID: 41417787
 
 <!-- more -->
 

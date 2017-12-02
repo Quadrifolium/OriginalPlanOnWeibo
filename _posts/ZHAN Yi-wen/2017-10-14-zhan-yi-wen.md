@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/Fqnjjcmqu">2017-10-14 21:15</a>
 </div>
 
-Voilà, selfies. (Not good … Pardon me. :stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:)
+Voilà, selfies. (Not good … Pardon me. :stuck_out_tongue_winking_eye:×2)
 
 <!-- more -->
 

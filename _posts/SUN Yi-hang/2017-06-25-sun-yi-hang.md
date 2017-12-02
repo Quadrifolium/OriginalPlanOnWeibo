@@ -9,7 +9,7 @@ categories: [ 'sun-yi-hang' ]
   <a href="http://weibo.com/6108316220/F9vlveYw3">2017-06-25 22:28</a>
 </div>
 
-Fight with the boss more~ The winning earns crawfish. :joy::joy::joy:
+Fight with the boss more~ The winning earns crawfish. :joy:×3
 
 <!-- more -->
 

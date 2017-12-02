@@ -25,6 +25,6 @@ Want to have hot pot and Chongqing *Xiaomian* with no reason. ![bitter joy](http
 *Comments*
 
 <div class="weibo-info">2017-10-28 21:46</div>
-[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): I took the photos. :grin::grin::grin:
+[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): I took the photos. :grin:×3
 > <div class="weibo-info">2017-10-28 21:53</div>
 > [YiAnMusicClub-XiaTianYi](http://weibo.com/6286030291): You presented the cool image. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)

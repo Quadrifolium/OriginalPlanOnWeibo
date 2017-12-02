@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/Ez2J339mj">2017-03-09 22:40</a>
 </div>
 
-Another post. Hilarious. :grin::grin: [◉ Flash Show Video](http://www.miaopai.com/show/tpx3VFb-OduFy88qNtvCx1fSEhJZio2Q.htm)
+Another post. Hilarious. :grin:×2 [◉ Flash Show Video](http://www.miaopai.com/show/tpx3VFb-OduFy88qNtvCx1fSEhJZio2Q.htm)
 
 <!-- more -->
 

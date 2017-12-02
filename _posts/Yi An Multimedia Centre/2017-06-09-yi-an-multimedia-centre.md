@@ -9,7 +9,7 @@ categories: [ 'yi-an-multimedia-centre' ]
   <a href="http://weibo.com/6196825252/F742Ooukc">2017-06-09 21:17</a>
 </div>
 
-[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) The villagers win in the last round! There are many MVPs today! They are LIN Mo, HE Luo-luo, CHI Yi, and LI Zi-xun. Congratulations! Today's show comes to the end. Thank you for watching, see you next time! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif):heart:
+[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) The villagers win in the last round! There are many MVPs today! They are LIN Mo, HE Luo-luo, CHI Yi, and LI Zi-xun. Congratulations! Today's show comes to the end. Thank you for watching, see you next time! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×2:heart:
 
 <!-- more -->
 
@@ -108,7 +108,7 @@ The villagers win in the first round! The speculation section is about to start!
   <a href="http://weibo.com/6196825252/F73APgxoi">2017-06-09 20:08</a>
 </div>
 
-[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) Episode 8 gets into the stride! In the first round, FANG Xiang-rui, LIN Jia-hao, and Big Cousin get the cards for werewolf. HE Luo-luo the Witch saved the dying Crazy Pup, but Big Cousin self-exposed in a sudden. Which side will win in the end? ![think](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif)![think](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif)![think](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif)
+[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) Episode 8 gets into the stride! In the first round, FANG Xiang-rui, LIN Jia-hao, and Big Cousin get the cards for werewolf. HE Luo-luo the Witch saved the dying Crazy Pup, but Big Cousin self-exposed in a sudden. Which side will win in the end? ![think](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif)×3
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">

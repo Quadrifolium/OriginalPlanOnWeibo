@@ -28,4 +28,4 @@ Nice to meet you. This is XIA Tian-yi. 😎 Thank you for your attention. Let's 
 [YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): Fighting :blush:
 
 <div class="weibo-info">2017-09-17 18:47</div>
-[YiAnMusicClub-ChiYi](http://weibo.com/u/6117581836): :grin::grin::grin:
+[YiAnMusicClub-ChiYi](http://weibo.com/u/6117581836): :grin:×3

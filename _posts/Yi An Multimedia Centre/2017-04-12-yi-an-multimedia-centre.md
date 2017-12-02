@@ -9,7 +9,7 @@ categories: [ 'yi-an-multimedia-centre' ]
   <a href="http://weibo.com/6196825252/EEd5zsFMB">2017-04-12 22:14</a>
 </div>
 
-What's this account for? To post songs and videos for students and their parents! ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)
+What's this account for? To post songs and videos for students and their parents! ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)×3
 
 <!-- more -->
 
@@ -19,7 +19,7 @@ What's this account for? To post songs and videos for students and their parents
   <a href="http://weibo.com/6196825252/EEcfea79n">2017-04-12 20:05</a>
 </div>
 
-Could you give some sidelights next time? ![yawn](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/cc/haqianv2_org.gif)![yawn](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/cc/haqianv2_org.gif)![yawn](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/cc/haqianv2_org.gif)
+Could you give some sidelights next time? ![yawn](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/cc/haqianv2_org.gif)×3
 
 > <div class="weibo-post-name">
 >   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>

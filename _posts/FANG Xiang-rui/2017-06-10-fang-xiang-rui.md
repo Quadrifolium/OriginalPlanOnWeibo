@@ -9,7 +9,7 @@ categories: [ 'fang-xiang-rui' ]
   <a href="http://weibo.com/6117583008/F7bE6rZGT">2017-06-10 16:38</a>
 </div>
 
-:sob::sob::sob:
+:sob:×3
 
 <!-- more -->
 

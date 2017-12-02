@@ -58,6 +58,6 @@ I can give a concert in the universe!
   <a href="http://weibo.com/6094546964/FbJdmCmtd">2017-07-10 13:27</a>
 </div>
 
-Wake up! It's time to take physical fitness training! :rage::rage::rage:
+Wake up! It's time to take physical fitness training! :rage:×3
 
 ![Image](http://wx1.sinaimg.cn/mw690/006Es64Agy1fheq3kutc3j33402c0e82.jpg)

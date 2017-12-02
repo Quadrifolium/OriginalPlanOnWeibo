@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/Fk8V1i23m">2017-09-03 21:35</a>
 </div>
 
-More photos taken yesterday. :grin::grin:
+More photos taken yesterday. :grin:×2
 
 <!-- more -->
 
@@ -31,7 +31,7 @@ More photos taken yesterday. :grin::grin:
   <a href="http://weibo.com/6108090526/Fk3NaB9dj">2017-09-03 08:32</a>
 </div>
 
-I also visited a beautiful town. Here's some scenery pictures. :v::v:
+I also visited a beautiful town. Here's some scenery pictures. :v:×2
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
@@ -51,9 +51,9 @@ I also visited a beautiful town. Here's some scenery pictures. :v::v:
   <a href="http://weibo.com/6108090526/Fk3LseY50">2017-09-03 08:28</a>
 </div>
 
-I went to a bridge known as the longest pedestrian suspension bridge in the world … [@YXZHty](http://weibo.com/2565158051), you may have a try. It's not scary. ![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif) [◉ Flash Show Video](http://www.miaopai.com/show/OBX4UleCTM8ZyWyk25sEMk1QeLrdbOiu.htm)
+I went to a bridge known as the longest pedestrian suspension bridge in the world … [@YXZHty](http://weibo.com/2565158051), you may have a try. It's not scary. ![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)×3 [◉ Flash Show Video](http://www.miaopai.com/show/OBX4UleCTM8ZyWyk25sEMk1QeLrdbOiu.htm)
 
 *Comments*
 
 <div class="weibo-info">2017-09-03 12:37</div>
-[YXZHty](http://weibo.com/2565158051): Well … Hold steadily, don't shake. ![misfortune](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/af/cry.gif)![dizzy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/dizzya_org.gif)![dizzy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/dizzya_org.gif)
+[YXZHty](http://weibo.com/2565158051): Well … Hold steadily, don't shake. ![misfortune](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/af/cry.gif)![dizzy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/dizzya_org.gif)×2

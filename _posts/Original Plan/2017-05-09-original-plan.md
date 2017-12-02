@@ -9,7 +9,7 @@ categories: [ 'original-plan' ]
   <a href="http://weibo.com/5626539553/F2moxb2yx">2017-05-09 22:48</a>
 </div>
 
-We are grateful for your companionship on the road. More wonderful moments will be shown on *Music Club Jottings*, please focus on us! :heart::heart::heart:
+We are grateful for your companionship on the road. More wonderful moments will be shown on *Music Club Jottings*, please focus on us! :heart:×3
 
 <!-- more -->
 

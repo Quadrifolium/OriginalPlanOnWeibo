@@ -9,7 +9,7 @@ categories: [ 'original-plan' ]
   <a href="http://weibo.com/5626539553/F2Nv66VIY">2017-05-12 19:49</a>
 </div>
 
-We are waiting at the same time, in the same place! ![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif) Speculation section is still on. Join the game with the Music Club and set your wits to work!
+We are waiting at the same time, in the same place! ![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)×3 Speculation section is still on. Join the game with the Music Club and set your wits to work!
 
 <!-- more -->
 

@@ -12,7 +12,7 @@ categories: [ 'other-accounts' ]
   <a href="http://weibo.com/5706219726/Fn2TappR3">2017-09-22 23:45</a>
 </div>
 
-TPK gets to the successful close! :thumbsup::thumbsup: I am grateful to the platform and the programme team for giving me the chance to show my ability, [@PandaTV](http://weibo.com/PandaTV) [@YiAnMusicClub](http://weibo.com/u/6094546964). I am glad to get to know many good friends on or behind the stage. Everyone of you did a very good job. I wish the talented boys be better and better. Let's wait for the next season! (It's a pity that we didn't take a group photo on that day, since it's too cold.) [@YiAnMusicClub-ChiYi](http://weibo.com/u/6117581836) [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008) [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574) [@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042) [@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220) [@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220) [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526) [@LOLUniversalBigCousin](http://weibo.com/yuzhoujieshuo) Big Cousin is the MVP. Good. :laughing::laughing:
+TPK gets to the successful close! :thumbsup:×2 I am grateful to the platform and the programme team for giving me the chance to show my ability, [@PandaTV](http://weibo.com/PandaTV) [@YiAnMusicClub](http://weibo.com/u/6094546964). I am glad to get to know many good friends on or behind the stage. Everyone of you did a very good job. I wish the talented boys be better and better. Let's wait for the next season! (It's a pity that we didn't take a group photo on that day, since it's too cold.) [@YiAnMusicClub-ChiYi](http://weibo.com/u/6117581836) [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008) [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574) [@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042) [@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220) [@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220) [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526) [@LOLUniversalBigCousin](http://weibo.com/yuzhoujieshuo) Big Cousin is the MVP. Good. :laughing:×2
 
 <!-- more -->
 
@@ -45,7 +45,7 @@ TPK gets to the successful close! :thumbsup::thumbsup: I am grateful to the plat
 *Comments*
 
 <div class="weibo-info">2017-09-23 01:08</div>
-[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Thank you, Big Cousin. :grin::grin::grin:
+[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Thank you, Big Cousin. :grin:×3
 > <div class="weibo-info">2017-09-23 07:01</div>
 > [LOLUniversalBigCousin](http://weibo.com/yuzhoujieshuo): It's my pleasure to get to know you in this summer. ![love you](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/lovea_org.gif)
 
@@ -78,7 +78,7 @@ Closing time, so happy! To thank you for your support, I decide to post another 
   <a href="http://weibo.com/2539816551/Fn06TfvT7">2017-09-22 16:41</a>
 </div>
 
-Can't wait any more. ![longing](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/37/moren_chongjing_org.png)![longing](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/37/moren_chongjing_org.png) Nothing can be more suitable than FX99. [▨ Image](http://wx2.sinaimg.cn/mw1024/97628667gy1fjsfij1i21j20iz0sggt4.jpg)
+Can't wait any more. ![longing](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/37/moren_chongjing_org.png)×2 Nothing can be more suitable than FX99. [▨ Image](http://wx2.sinaimg.cn/mw1024/97628667gy1fjsfij1i21j20iz0sggt4.jpg)
 
 > <div class="weibo-post-name">
 >   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>
@@ -99,7 +99,7 @@ Can't wait any more. ![longing](http://img.t.sinajs.cn/t4/appstyle/expression/ex
   <a href="http://weibo.com/2539816551/FmXnwhh0x">2017-09-22 09:44</a>
 </div>
 
-Another vigorous day begins! (It's Friday, haha) ![Minion happy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/8d/xiaohuangren_gaoxing_org.png)![Minion happy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/8d/xiaohuangren_gaoxing_org.png) I greet you a good morning with [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574).
+Another vigorous day begins! (It's Friday, haha) ![Minion happy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/8d/xiaohuangren_gaoxing_org.png)×2 I greet you a good morning with [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574).
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">

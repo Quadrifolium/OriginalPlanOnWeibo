@@ -9,7 +9,7 @@ categories: [ 'fang-xiang-rui' ]
   <a href="http://weibo.com/6117583008/F4kd4gQtU">2017-05-22 20:55</a>
 </div>
 
-Seems being lost for several days. :blush::blush::blush:
+Seems being lost for several days. :blush:×3
 
 <!-- more -->
 

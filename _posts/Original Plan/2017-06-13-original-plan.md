@@ -9,7 +9,7 @@ categories: [ 'original-plan' ]
   <a href="http://weibo.com/5626539553/F7D5w8nXw">2017-06-13 14:30</a>
 </div>
 
-Thank you, Pear, for your support all the time! We are now settled in Pear Video! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif) [▨ Image](http://wx1.sinaimg.cn/mw1024/0068MnXXgy1fgjk3gh8cmj30hf0wctcy.jpg)
+Thank you, Pear, for your support all the time! We are now settled in Pear Video! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×3 [▨ Image](http://wx1.sinaimg.cn/mw1024/0068MnXXgy1fgjk3gh8cmj30hf0wctcy.jpg)
 
 <!-- more -->
 
@@ -27,7 +27,7 @@ Thank you, Pear, for your support all the time! We are now settled in Pear Video
   <a href="http://weibo.com/5626539553/F7BLow2rG">2017-06-13 11:07</a>
 </div>
 
-Can you figure out their voices? :grin::grin::grin: Join the game to get the limited gifts! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)
+Can you figure out their voices? :grin:×3 Join the game to get the limited gifts! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×3
 
 > <div class="weibo-post-name">
 >   <a href="http://weibo.com/u/5334577878">SocoEnt</a>
@@ -35,4 +35,4 @@ Can you figure out their voices? :grin::grin::grin: Join the game to get the lim
 > <div class="weibo-info">
 >   <a href="http://weibo.com/5334577878/F7BjVjiZg">2017-06-13 10:00</a>
 > </div>
-> [You may not believe it, [@BurningVeg](http://weibo.com/513812356) and [@OriginalPlan](http://weibo.com/satosan) showed an ace card!] The brothers of [@YiAnMusicClub](http://weibo.com/u/6094546964) dubbed for [#VegSolitaire](http://weibo.com/p/100808e648475ea9623c00b688b7c57b649a35). ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif) Whose voice do you like the most? ![shy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/shamea_org.gif)![shy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/shamea_org.gif)![shy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/shamea_org.gif) With the clever mind, can you figure out the voices in the video? ![think](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif)![think](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif)![think](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif) Follow this account, repost this post, and comment your answer. Soco will choose two friends with the correct answer made no later than 15th June, and send “limited special gifts from Yi An Music Club”! Come on! ![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif) [◉ Flash Show Video](http://weibo.com/tv/v/19e01402edefc919a41d9f39d13d1080)
+> [You may not believe it, [@BurningVeg](http://weibo.com/513812356) and [@OriginalPlan](http://weibo.com/satosan) showed an ace card!] The brothers of [@YiAnMusicClub](http://weibo.com/u/6094546964) dubbed for [#VegSolitaire](http://weibo.com/p/100808e648475ea9623c00b688b7c57b649a35). ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×3 Whose voice do you like the most? ![shy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/shamea_org.gif)×3 With the clever mind, can you figure out the voices in the video? ![think](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif)×3 Follow this account, repost this post, and comment your answer. Soco will choose two friends with the correct answer made no later than 15th June, and send “limited special gifts from Yi An Music Club”! Come on! ![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)×3 [◉ Flash Show Video](http://weibo.com/tv/v/19e01402edefc919a41d9f39d13d1080)

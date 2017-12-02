@@ -9,7 +9,7 @@ categories: [ 'yi-an-multimedia-centre' ]
   <a href="http://weibo.com/6196825252/F607Iidzv">2017-06-02 21:28</a>
 </div>
 
-[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) In the last round, the villagers win! Did you make the correct guess? The champion today is … Big Cousin! [@LOLUniversalBigCousin](http://weibo.com/yuzhoujieshuo) Congratulations! Thank you for your “knacks”! SUN Yi-hang presented the award for Big Cousin! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif) Thank you for your watching, see you in the next week! :heart:
+[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) In the last round, the villagers win! Did you make the correct guess? The champion today is … Big Cousin! [@LOLUniversalBigCousin](http://weibo.com/yuzhoujieshuo) Congratulations! Thank you for your “knacks”! SUN Yi-hang presented the award for Big Cousin! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×3 Thank you for your watching, see you in the next week! :heart:
 
 <!-- more -->
 
@@ -83,7 +83,7 @@ categories: [ 'yi-an-multimedia-centre' ]
   <a href="http://weibo.com/6196825252/F5ZMMuLuR">2017-06-02 20:36</a>
 </div>
 
-The werewolves win in the first round! SUN Yi-hang, ZHAN Yi-wen, and Big Cousin made perfect cooperation and reached the victory! The speculation section is about to start! Come and join the game to win the abundant prizes! :stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye: [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac)
+The werewolves win in the first round! SUN Yi-hang, ZHAN Yi-wen, and Big Cousin made perfect cooperation and reached the victory! The speculation section is about to start! Come and join the game to win the abundant prizes! :stuck_out_tongue_winking_eye:×3 [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac)
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">

@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/FiQHjoTQ3">2017-08-26 09:22</a>
 </div>
 
-Exhausted today. Yearning for a sleep. :sleepy::sleepy::sleepy: A photo with rainbow for you.
+Exhausted today. Yearning for a sleep. :sleepy:×3 A photo with rainbow for you.
 
 <!-- more -->
 

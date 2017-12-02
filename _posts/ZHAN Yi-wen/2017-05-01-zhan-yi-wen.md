@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/F18JndSXt">2017-05-01 22:11</a>
 </div>
 
-Heroic fireman – ZHAN Yi-wen :grin::grin:
+Heroic fireman – ZHAN Yi-wen :grin:×2
 
 <!-- more -->
 

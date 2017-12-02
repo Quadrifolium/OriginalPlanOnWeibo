@@ -19,7 +19,7 @@ Thank you for your patient instruction of the rules and techniques during the st
 > <div class="weibo-info">
 >   <a href="http://weibo.com/5706219726/EFzOKbdVW">2017-04-21 21:56</a>
 > </div>
-> Do yo like today's *Triple Kill*? These studetns are so handsome and cute. I'm sure they will improve a lot in the next week. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif) By the way, please be tender to me and the boys with the on-screen comments, this is actually an entertaining variety show. :joy::joy::joy:  
+> Do yo like today's *Triple Kill*? These studetns are so handsome and cute. I'm sure they will improve a lot in the next week. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)×2 By the way, please be tender to me and the boys with the on-screen comments, this is actually an entertaining variety show. :joy:×3  
 > <small>* View multimedia content(s) on the original page.</small>
 
 ---

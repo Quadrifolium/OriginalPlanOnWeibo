@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="https://weibo.com/6108090526/FvPnX1XxY">2017-11-19 17:55</a>
 </div>
 
-The autumn school outing this Friday was in the Disneyland. I was playing and forgot to take selfies. So here are the photos of other things. :stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:
+The autumn school outing this Friday was in the Disneyland. I was playing and forgot to take selfies. So here are the photos of other things. :stuck_out_tongue_winking_eye:×2
 
 <!-- more -->
 

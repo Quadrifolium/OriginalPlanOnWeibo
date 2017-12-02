@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/Fofimm9VP">2017-09-30 21:11</a>
 </div>
 
-*24 Hours in Urgency* has the shows in September ended. Thank you, all the students and parents, for watching in the theatre and spending the unforgettable nights. If you missed the two sessions, let's meet in the coming month. ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif) Thank you. And we wish you have a happy National Day. :blush:
+*24 Hours in Urgency* has the shows in September ended. Thank you, all the students and parents, for watching in the theatre and spending the unforgettable nights. If you missed the two sessions, let's meet in the coming month. ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×2 Thank you. And we wish you have a happy National Day. :blush:
 
 <!-- more -->
 

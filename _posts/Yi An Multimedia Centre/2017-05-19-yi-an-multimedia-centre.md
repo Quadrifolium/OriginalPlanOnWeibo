@@ -9,7 +9,7 @@ categories: [ 'yi-an-multimedia-centre' ]
   <a href="http://weibo.com/6196825252/F3Sbpkgov">2017-05-19 21:34</a>
 </div>
 
-[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) In the last round, the werewolves win! Have you made the correct guess? ZHAN Yi-wen and Crazy Pup are the MVP of this episode! Congratulations, the champions! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif) Thank you for watching this evening. See you next Friday, at the same time, in the same place! :heart:
+[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) In the last round, the werewolves win! Have you made the correct guess? ZHAN Yi-wen and Crazy Pup are the MVP of this episode! Congratulations, the champions! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×3 Thank you for watching this evening. See you next Friday, at the same time, in the same place! :heart:
 
 <!-- more -->
 
@@ -48,7 +48,7 @@ categories: [ 'yi-an-multimedia-centre' ]
   <a href="http://weibo.com/6196825252/F3RZSwEPs">2017-05-19 21:06</a>
 </div>
 
-The villagers win again! The sticker Mo-mo gets on-line and sighs: “This game is to make LIN Mo die!” Hahaha! :laughing::laughing::laughing: [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac)
+The villagers win again! The sticker Mo-mo gets on-line and sighs: “This game is to make LIN Mo die!” Hahaha! :laughing:×3 [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac)
 
 <a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1ffqyjxw2gjj31kw14ndoh.jpg">
   <img class="weibo-pic-preview-h" src="http://wx1.sinaimg.cn/orj360/006Lnfkogy1ffqyjxw2gjj31kw14ndoh.jpg" />
@@ -80,7 +80,7 @@ The villagers win again! The sticker Mo-mo gets on-line and sighs: “This game 
   <a href="http://weibo.com/6196825252/F3ROgFGpU">2017-05-19 20:37</a>
 </div>
 
-[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) The villagers win in the first round! Now the second round has started! The speculation section is on! Please join us! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)
+[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) The villagers win in the first round! Now the second round has started! The speculation section is on! Please join us! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×3
 
 ---
 
@@ -127,7 +127,7 @@ Note:
   <a href="http://weibo.com/6196825252/F3RDukFnn">2017-05-19 20:11</a>
 </div>
 
-[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) The first round of Episode 5 started! FANG Xiang-rui, HE Luo-luo, and CHI Yi have the cards for werewolf, committed ZHAN Yi-wen in the first night. Wen-wen is the Witch, he cannot save himself and poisoned LIN Mo blindly in a flurry. Haha, poor Mo-mo! ![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)
+[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) The first round of Episode 5 started! FANG Xiang-rui, HE Luo-luo, and CHI Yi have the cards for werewolf, committed ZHAN Yi-wen in the first night. Wen-wen is the Witch, he cannot save himself and poisoned LIN Mo blindly in a flurry. Haha, poor Mo-mo! ![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)×3
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
@@ -153,7 +153,7 @@ Note:
   <a href="http://weibo.com/5626539553/F3RsEleIp">2017-05-19 19:44</a>
 </div>
 
-[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) Episode 5 will meet you at 8 sharp this evening on Panda TV (Room 943033)! Speculation section is set as before. The viewers pointing out all the three werewolves in a round have the chance to get to an exquisite prize! If you can't find the room, just type the keywords “易安音乐社” (Yi An Music Club) or “狼人杀直播” (Triple Kill Live) in Baidu search bar, the first result is the link to our live room! Take your seat and wait for it! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif) (The early birds will get a surprise! ![LangXiaohua yeah](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3b/lxhxixi_org.gif))
+[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) Episode 5 will meet you at 8 sharp this evening on Panda TV (Room 943033)! Speculation section is set as before. The viewers pointing out all the three werewolves in a round have the chance to get to an exquisite prize! If you can't find the room, just type the keywords “易安音乐社” (Yi An Music Club) or “狼人杀直播” (Triple Kill Live) in Baidu search bar, the first result is the link to our live room! Take your seat and wait for it! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×3 (The early birds will get a surprise! ![LangXiaohua yeah](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3b/lxhxixi_org.gif))
 
 <ul class="weibo-pic-list-3">
   <li class="weibo-pic">

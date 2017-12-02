@@ -28,7 +28,7 @@ I'll use this account for the moment. Welcome. 🤗
 > [YXZHty](http://weibo.com/2565158051) ([YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220)): All right. ![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif)
 
 <div class="weibo-info">2017-08-20 22:46</div>
-[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): I'm coming!! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)
+[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): I'm coming!! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×3
 > <div class="weibo-info">2017-08-20 22:55</div>
 > [YXZHty](http://weibo.com/2565158051) ([YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220)): So fast.
 
@@ -51,7 +51,7 @@ Note:
 [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Hi
 
 <div class="weibo-info">2017-08-20 22:20</div>
-[YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): ![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif)![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif)
+[YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574): ![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif)×2
 
 Note:
 1. This post is automatically published by the website.

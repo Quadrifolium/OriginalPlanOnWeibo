@@ -18,5 +18,5 @@ So you don't have reviewing lessons in evening? ![doge](http://img.t.sinajs.cn/t
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6108090526/EvGP803Pi">2017-02-15 21:23</a>
 > </div>  
-> No word, see photo … ![football](http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8098.png)![football](http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8098.png)![football](http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8098.png)  
+> No word, see photo … ![football](http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8098.png)×3  
 > <small>* View multimedia content(s) on the original page.</small>

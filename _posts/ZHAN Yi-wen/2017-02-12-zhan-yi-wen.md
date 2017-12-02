@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/Evea7annS">2017-02-12 20:25</a>
 </div>
 
-Never ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif) //[@Havison](http://weibo.com/havison): Follow me!
+Never ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)×3 //[@Havison](http://weibo.com/havison): Follow me!
 
 <!-- more -->
 
@@ -29,7 +29,7 @@ Note:
 <div class="weibo-info">
   <a href="http://weibo.com/6108090526/EvcTlfXlU">2017-02-12 17:11</a>
 </div>
-Bored :unamused::unamused:
+Bored :unamused:×2
 
 *Image*  
 ![Image](http://wx3.sinaimg.cn/mw690/006FmVn8ly1fcnsvlmir7j30qo0zk48r.jpg)
@@ -44,7 +44,7 @@ Bored :unamused::unamused:
 <div class="weibo-info">2017-02-12 18:10</div>
 [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Oh?
 > <div class="weibo-info">2017-02-12 19:00</div>
-> [YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Re [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): ![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)
+> [YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Re [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): ![bye](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif)×6
 > <div class="weibo-info">2017-02-12 18:16</div>
 > [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Re [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Rejected.
 > <div class="weibo-info">2017-02-12 18:15</div>

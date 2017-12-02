@@ -9,7 +9,7 @@ categories: [ 'yi-an-multimedia-centre' ]
   <a href="http://weibo.com/6196825252/F31Oe530q">2017-05-14 08:14</a>
 </div>
 
-Conduct oneself before educate others. As to the moral education homework for the teenagers, the staff of the school should behave better. Though unable to stay aside for long, one should bear calling the home in mind … Happy Mother's Day! :heart::heart::heart:
+Conduct oneself before educate others. As to the moral education homework for the teenagers, the staff of the school should behave better. Though unable to stay aside for long, one should bear calling the home in mind … Happy Mother's Day! :heart:×3
 
 <!-- more -->
 

@@ -27,7 +27,7 @@ The song *See My Comrade-in-arms Off* (送战友) came to my mind. Good luck to 
   <a href="http://weibo.com/6196825252/EDIO4yioN">2017-04-09 17:09</a>
 </div>
 
-This is in your prime, exert yourselves to stride. :fist::fist::fist:
+This is in your prime, exert yourselves to stride. :fist:×3
 
 > <div class="weibo-post-name">
 >   <a href="http://weibo.com/u/6094546964">YiAnMusicClub</a>

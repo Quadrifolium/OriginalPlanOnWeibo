@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/F2buFnNN6">2017-05-08 19:03</a>
 </div>
 
-A big dog I met in Japan. A blurred selfie, because the dog was moving, it's hard to focus. ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)
+A big dog I met in Japan. A blurred selfie, because the dog was moving, it's hard to focus. ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)×2
 
 <!-- more -->
 

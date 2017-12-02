@@ -53,7 +53,7 @@ categories: [ 'fang-xiang-rui' ]
 > <div class="weibo-info">2017-08-21 18:18</div>
 > [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Can you ride roller coaster?
 > <div class="weibo-info">2017-08-21 20:16</div>
-> [YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Re [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Have a fight with him … ![shrug](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/09/pcmoren_tanshou_org.png)![shrug](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/09/pcmoren_tanshou_org.png)![shrug](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/09/pcmoren_tanshou_org.png)
+> [YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Re [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): Have a fight with him … ![shrug](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/09/pcmoren_tanshou_org.png)×3
 
 <div class="weibo-info">2017-08-21 18:22</div>
 [YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574)：My clothes fear the height. @.@

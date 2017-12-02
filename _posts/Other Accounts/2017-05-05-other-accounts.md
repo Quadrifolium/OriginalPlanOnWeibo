@@ -12,7 +12,7 @@ categories: [ 'other-accounts' ]
   <a href="http://weibo.com/5706219726/F1L1OtvmA">2017-05-05 23:41</a>
 </div>
 
-A group photo in Episode 3. :relaxed::relaxed: This live was actually better than you thought. I will still be here next Friday. And I'm sure the boys will be better. This is the future. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)
+A group photo in Episode 3. :relaxed:×2 This live was actually better than you thought. I will still be here next Friday. And I'm sure the boys will be better. This is the future. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)×2
 
 <!-- more -->
 

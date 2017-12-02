@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="https://weibo.com/6108090526/FwjPLor8K">2017-11-22 23:26</a>
 </div>
 
-Happy birthday to [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008) :birthday::birthday::birthday:. Remember to do more physical exercises after eating the cream cake. Or, you'll put on weight. ![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)
+Happy birthday to [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008) :birthday:×3. Remember to do more physical exercises after eating the cream cake. Or, you'll put on weight. ![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)×3
 
 <!-- more -->
 

@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="https://weibo.com/6108090526/Fu56amEq8">2017-11-08 06:15</a>
 </div>
 
-Good morning, it's time for school. :grin::grin::grin:
+Good morning, it's time for school. :grin:×3
 
 <!-- more -->
 

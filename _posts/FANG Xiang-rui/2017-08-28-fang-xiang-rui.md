@@ -9,7 +9,7 @@ categories: [ 'fang-xiang-rui' ]
   <a href="http://weibo.com/6117583008/FjdI5nY0L">2017-08-28 19:57</a>
 </div>
 
-Happy Qixi Festival. ![hush](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a6/x_org.gif)![hush](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a6/x_org.gif)![hush](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a6/x_org.gif)
+Happy Qixi Festival. ![hush](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a6/x_org.gif)×3
 
 <!-- more -->
 

@@ -9,7 +9,7 @@ categories: [ 'fang-xiang-rui' ]
   <a href="http://weibo.com/6117583008/Fb1Gege5h">2017-07-05 22:37</a>
 </div>
 
-Sugar painting, barbeque, shopping, riding horse are nothing. Labour is glorious, working makes me happy. ![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif)![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif)![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif)
+Sugar painting, barbeque, shopping, riding horse are nothing. Labour is glorious, working makes me happy. ![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif)×3
 
 <!-- more -->
 

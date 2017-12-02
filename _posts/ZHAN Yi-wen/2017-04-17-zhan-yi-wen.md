@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/EEY5u9cxI">2017-04-17 21:53</a>
 </div>
 
-Can't watch the live. But I think, to win is the major thing. :v::v:
+Can't watch the live. But I think, to win is the major thing. :v:×2
 
 <!-- more -->
 

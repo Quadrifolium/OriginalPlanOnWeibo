@@ -9,7 +9,7 @@ categories: [ 'original-plan' ]
   <a href="http://weibo.com/5626539553/F1zz3t1mG">2017-05-04 18:30</a>
 </div>
 
-Take your seat and join the birthday party for HE Luo-luo! :birthday::birthday::birthday::heart::heart:
+Take your seat and join the birthday party for HE Luo-luo! :birthday:×3:heart:×2
 
 <!-- more -->
 
@@ -28,7 +28,7 @@ Take your seat and join the birthday party for HE Luo-luo! :birthday::birthday::
   <a href="http://weibo.com/5626539553/F1sJ3kous">2017-05-04 01:05</a>
 </div>
 
-Luo-luo, happy birthday. :birthday::birthday::birthday:
+Luo-luo, happy birthday. :birthday:×3
 
 > <div class="weibo-post-name">
 >   <a href="http://weibo.com/u/6144614176">YiAnMusicClubFanClub</a>
@@ -36,5 +36,5 @@ Luo-luo, happy birthday. :birthday::birthday::birthday:
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6144614176/F1siB63Na">2017-05-04 00:00</a>
 > </div>
-> [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#HeLuoLuo0504HappyBirthday](http://weibo.com/p/1008082bc17c3565071927d08eccf4ec94e83e) Baby, wish you be happy~ :birthday::birthday::birthday:  
+> [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#HeLuoLuo0504HappyBirthday](http://weibo.com/p/1008082bc17c3565071927d08eccf4ec94e83e) Baby, wish you be happy~ :birthday:×3  
 > <small>* View multimedia content(s) on the original page.</small>

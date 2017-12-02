@@ -28,7 +28,7 @@ categories: [ 'yi-an-multimedia-centre' ]
   <a href="http://weibo.com/6196825252/EFzMYw5MD">2017-04-21 21:52</a>
 </div>
 
-Two MVPs of tonight! LI Zi-xin with accurate sixth sense, LIN Jia-hao with logical reasoning. Well done! :thumbsup::thumbsup::thumbsup:
+Two MVPs of tonight! LI Zi-xin with accurate sixth sense, LIN Jia-hao with logical reasoning. Well done! :thumbsup:×3
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
@@ -69,7 +69,7 @@ Two MVPs of tonight! LI Zi-xin with accurate sixth sense, LIN Jia-hao with logic
   <a href="http://weibo.com/6196825252/EFzyYEpry">2017-04-21 21:17</a>
 </div>
 
-[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) Familiar countering between SUN Yi-hang and LIN Mo. What do you mean by saying “water's dropping from the face”? Hahaha~ ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif) (Jargons: brazen jump: a werewolf reveal himself/herself as the Sheriff; commit: werewolves kill a player at night; self-expose: a werewolf reveal his/her identity, be out, and the night comes with no vote.)
+[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) Familiar countering between SUN Yi-hang and LIN Mo. What do you mean by saying “water's dropping from the face”? Hahaha~ ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)×3 (Jargons: brazen jump: a werewolf reveal himself/herself as the Sheriff; commit: werewolves kill a player at night; self-expose: a werewolf reveal his/her identity, be out, and the night comes with no vote.)
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
@@ -86,7 +86,7 @@ Two MVPs of tonight! LI Zi-xin with accurate sixth sense, LIN Jia-hao with logic
   <a href="http://weibo.com/6196825252/EFzs8luCe">2017-04-21 21:00</a>
 </div>
 
-[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) Immersed view started! Muddled Fang-fang refused the “bribery”, jumped out as the Seer and is scrambling for the Sheriff's role with Luo-luo. Whom do you support? Sheriff Fang or Sheriff He? :grin::grin::grin:
+[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) Immersed view started! Muddled Fang-fang refused the “bribery”, jumped out as the Seer and is scrambling for the Sheriff's role with Luo-luo. Whom do you support? Sheriff Fang or Sheriff He? :grin:×3
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
@@ -160,7 +160,7 @@ The werewolves are the two footballer and “the Universal Big Cousin”! Let's 
   <a href="http://weibo.com/6196825252/EFz7boWMb">2017-04-21 20:09</a>
 </div>
 
-The punishment is so high! Please exert yourselves to avoid being punished! :grimacing::grimacing::grimacing:
+The punishment is so high! Please exert yourselves to avoid being punished! :grimacing:×3
 
 <a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1feuk2v24nzj31kw11xqdc.jpg">
   <img class="weibo-pic-preview-h" src="http://wx1.sinaimg.cn/orj360/006Lnfkogy1feuk2v24nzj31kw11xqdc.jpg" />
@@ -192,7 +192,7 @@ Have I told you there's a half-an-hour warm-up before the live? Who can remind m
   <a href="http://weibo.com/6196825252/EFwkj1Q0X">2017-04-21 13:03</a>
 </div>
 
-I'm not coming because of your urging … Now be clever and get to work … Later, I'll be a decent offcial account! :fist::fist::fist:
+I'm not coming because of your urging … Now be clever and get to work … Later, I'll be a decent offcial account! :fist:×3
 
 <a href="http://wx4.sinaimg.cn/mw690/006Lnfkogy1feu7qec45oj30qo14yww5.jpg">
   <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006Lnfkogy1feu7qec45oj30qo14yww5.jpg" />

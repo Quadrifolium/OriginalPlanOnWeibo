@@ -30,7 +30,7 @@ categories: [ 'lin-jia-hao' ]
 > [YiAnMusicClub-LinJiaHao](http://weibo.com/6210352257): It is. ![cute](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/14/tza_org.gif)
 
 <div class="weibo-info">2017-11-25 11:31</div>
--何糯糯的炸毛-: So, what's the difference? ![kneel](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6c/pcmoren_guile_org.png)![kneel](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6c/pcmoren_guile_org.png)![kneel](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6c/pcmoren_guile_org.png) [▨ Image](https://wx3.sinaimg.cn/bmiddle/006o5zTAly1flu6a46jawj30dc0nqgrx.jpg)
+-何糯糯的炸毛-: So, what's the difference? ![kneel](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6c/pcmoren_guile_org.png)×3 [▨ Image](https://wx3.sinaimg.cn/bmiddle/006o5zTAly1flu6a46jawj30dc0nqgrx.jpg)
 > <div class="weibo-info">2017-11-25 11:34</div>
 > [YiAnMusicClub-LinJiaHao](http://weibo.com/6210352257): :stuck_out_tongue_winking_eye:
 

@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/FnsWMC3tz">2017-09-25 18:06</a>
 </div>
 
-About the letters from fans, is there anything interesting to share? The *Jottings* in this week shows the letters from fans. Let's see what are in and beyond the letters. ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif) [◉ Music Club Jottings E07](http://www.bilibili.com/video/av14691068/)
+About the letters from fans, is there anything interesting to share? The *Jottings* in this week shows the letters from fans. Let's see what are in and beyond the letters. ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×3 [◉ Music Club Jottings E07](http://www.bilibili.com/video/av14691068/)
 
 <!-- more -->
 

@@ -9,7 +9,7 @@ categories: [ 'sun-yi-hang' ]
   <a href="http://weibo.com/2565158051/Fp9grs29T">2017-10-06 19:40</a>
 </div>
 
-[❏ SUN Yi-hang on Instagram: “Mm?”](https://www.instagram.com/p/BZ57dgTjlr7/) I'm coming. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)
+[❏ SUN Yi-hang on Instagram: “Mm?”](https://www.instagram.com/p/BZ57dgTjlr7/) I'm coming. ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)×3
 
 <!-- more -->
 

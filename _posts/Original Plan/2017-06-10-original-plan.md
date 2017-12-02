@@ -9,7 +9,7 @@ categories: [ 'original-plan' ]
   <a href="http://weibo.com/5626539553/F7aNqFsyg">2017-06-10 14:28</a>
 </div>
 
-[#YiAnFunTimeAfterSchool](http://weibo.com/p/100808bad46130a6c7f06116b4183fd352744b) Episode 1 is ready! We are waiting for the true colour of the mysterious *Yi An KTV*! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif) Fighting!
+[#YiAnFunTimeAfterSchool](http://weibo.com/p/100808bad46130a6c7f06116b4183fd352744b) Episode 1 is ready! We are waiting for the true colour of the mysterious *Yi An KTV*! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×3 Fighting!
 
 <!-- more -->
 

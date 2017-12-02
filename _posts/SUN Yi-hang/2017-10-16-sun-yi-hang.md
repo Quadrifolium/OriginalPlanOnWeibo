@@ -9,7 +9,7 @@ categories: [ 'sun-yi-hang' ]
   <a href="http://weibo.com/2565158051/FqCM8zWuM">2017-10-16 12:38</a>
 </div>
 
-:umbrella::umbrella::umbrella:![faint](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/dizzya_org.gif)
+:umbrella:×3![faint](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/dizzya_org.gif)
 
 <!-- more -->
 

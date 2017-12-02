@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/FkAVOrvC6">2017-09-06 20:54</a>
 </div>
 
-In the days to come, Yi An Music Club will give a hand to national cartoons with Toonmax, will grow up with Toonmax and the teenagers watching the channel. ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)
+In the days to come, Yi An Music Club will give a hand to national cartoons with Toonmax, will grow up with Toonmax and the teenagers watching the channel. ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×3
 
 <!-- more -->
 

@@ -19,7 +19,7 @@ Chongqing after the rain. [⊕ Chongqing](http://weibo.com/p/1001018008650000000
 [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008): This was having dinner outside.
 
 <div class="weibo-info">2017-08-24 18:28</div>
-[YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): Alas … Slanted eyebrows again. ![embarrassed](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/landeln_org.gif)![embarrassed](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/landeln_org.gif)
+[YiAnMusicClub-LinMo](http://weibo.com/u/6108312042): Alas … Slanted eyebrows again. ![embarrassed](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/landeln_org.gif)×2
 
 <div class="weibo-info">2017-08-24 18:25</div>
 [YiAnMusicClub-ChiYi](http://weibo.com/u/6117581836): Beautiful. :grin:

@@ -28,7 +28,7 @@ Birthday party for HE Luo-luo, and a happy birthday. [◉ Live from Yi An Music 
 **Comments**
 
 <div class="weibo-info">2017-05-04 18:33</div>
-[YiAnMultimediaCentre](http://weibo.com/u/6196825252): Are you happy? ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)
+[YiAnMultimediaCentre](http://weibo.com/u/6196825252): Are you happy? ![doge](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)×3
 
 ---
 

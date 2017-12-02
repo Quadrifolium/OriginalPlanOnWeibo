@@ -9,7 +9,7 @@ categories: [ 'sun-yi-hang' ]
   <a href="http://weibo.com/2565158051/FsLNYm7Fh">2017-10-30 15:18</a>
 </div>
 
-A×51! ![longing](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/37/moren_chongjing_org.png)![longing](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/37/moren_chongjing_org.png)![longing](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/37/moren_chongjing_org.png)
+A×51! ![longing](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/37/moren_chongjing_org.png)×3
 
 <!-- more -->
 

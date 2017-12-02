@@ -9,7 +9,7 @@ categories: [ 'fang-xiang-rui' ]
   <a href="https://weibo.com/6117583008/FwjQ8aKXy">2017-11-22 23:27</a>
 </div>
 
-I'm one year elder. The new year is a new start. I hope I could be better and better. And I'd like to thank them for celebrating the birthday in the night. ![cute](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/14/tza_org.gif)![cute](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/14/tza_org.gif) Good night, 16-y/o me.
+I'm one year elder. The new year is a new start. I hope I could be better and better. And I'd like to thank them for celebrating the birthday in the night. ![cute](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/14/tza_org.gif)×2 Good night, 16-y/o me.
 
 <!-- more -->
 

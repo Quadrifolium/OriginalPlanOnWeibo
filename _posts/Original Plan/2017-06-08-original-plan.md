@@ -9,7 +9,7 @@ categories: [ 'original-plan' ]
   <a href="http://weibo.com/5626539553/F6SOOvL13">2017-06-08 16:42</a>
 </div>
 
-Your long-expected *Yi An Fun Time After School* is coming soon! Please wait for Saturday! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)
+Your long-expected *Yi An Fun Time After School* is coming soon! Please wait for Saturday! ![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×3
 
 <!-- more -->
 
@@ -28,7 +28,7 @@ Your long-expected *Yi An Fun Time After School* is coming soon! Please wait for
   <a href="http://weibo.com/5626539553/F6R8Vpjjv">2017-06-08 12:26</a>
 </div>
 
-Thanks for the sharing from Migu Music! We hope [#ChittyBangBangBang](http://weibo.com/p/10080869629d1ef7664a35b7c8b778c8edc61d) bring you a good mood for a whole day! ![very happy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif)![very happy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif)![very happy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif)
+Thanks for the sharing from Migu Music! We hope [#ChittyBangBangBang](http://weibo.com/p/10080869629d1ef7664a35b7c8b778c8edc61d) bring you a good mood for a whole day! ![very happy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif)×3
 
 > <div class="weibo-post-name">
 >   <a href="http://weibo.com/10658830">MiguMusic</a>

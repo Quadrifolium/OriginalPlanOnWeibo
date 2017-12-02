@@ -19,7 +19,7 @@ Though it's not decent for an official account to idle around, I still like to r
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6196825252/F4D5XdPwg">2017-05-24 21:00</a>
 > </div>
-> Many people are asking for [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526)'s photo. I'm wondering: how do you know he's going to share a book tomorrow morning? I wanted to make a surprise at first. ![dumbfounded](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2b/shayan_org.gif)![dumbfounded](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2b/shayan_org.gif)![dumbfounded](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2b/shayan_org.gif)  
+> Many people are asking for [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526)'s photo. I'm wondering: how do you know he's going to share a book tomorrow morning? I wanted to make a surprise at first. ![dumbfounded](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2b/shayan_org.gif)×3  
 > <small>* View multimedia content(s) on the original page.</small>
 
 ---
@@ -36,5 +36,5 @@ Though it's not decent for an official account to idle around, I still like to r
 > <div class="weibo-info">
 >   <a href="http://weibo.com/6196825252/F4D5XdPwg">2017-05-24 21:00</a>
 > </div>
-> Many people are asking for [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526)'s photo. I'm wondering: how do you know he's going to share a book tomorrow morning? I wanted to make a surprise at first. ![dumbfounded](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2b/shayan_org.gif)![dumbfounded](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2b/shayan_org.gif)![dumbfounded](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2b/shayan_org.gif)  
+> Many people are asking for [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526)'s photo. I'm wondering: how do you know he's going to share a book tomorrow morning? I wanted to make a surprise at first. ![dumbfounded](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2b/shayan_org.gif)×3  
 > <small>* View multimedia content(s) on the original page.</small>

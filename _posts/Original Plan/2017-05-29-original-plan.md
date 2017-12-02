@@ -9,7 +9,7 @@ categories: [ 'original-plan' ]
   <a href="http://weibo.com/5626539553/F5l9Cy9PX">2017-05-29 13:10</a>
 </div>
 
-Want to know more about Yi An Middle School? Take your seat and watch this! ![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)![surround](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f2/wg_org.gif)![surround](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f2/wg_org.gif)![surround](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f2/wg_org.gif)
+Want to know more about Yi An Middle School? Take your seat and watch this! ![come](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)×3![surround](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f2/wg_org.gif)×3
 
 <!-- more -->
 

@@ -47,7 +47,7 @@ categories: [ 'yi-an-multimedia-centre' ]
   <a href="http://weibo.com/6196825252/F0G5QiHeM">2017-04-28 21:17</a>
 </div>
 
-[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) Have you found that besides the powerful sixth sense, No. 9 LI Zi-xun is also quite adapted to confronting others? Is it learned from the elder brothers? ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)
+[#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) Have you found that besides the powerful sixth sense, No. 9 LI Zi-xun is also quite adapted to confronting others? Is it learned from the elder brothers? ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)×3
 
 <a href="http://wx4.sinaimg.cn/mw690/006Lnfkogy1ff2ngknez4j31kw1w2jxx.jpg">
   <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006Lnfkogy1ff2ngknez4j31kw1w2jxx.jpg" />

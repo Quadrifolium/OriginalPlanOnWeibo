@@ -28,7 +28,7 @@ Congratulations! ![very happy](http://img.t.sinajs.cn/t4/appstyle/expression/ext
   <a href="http://weibo.com/6094546964/F2DGH0yID">2017-05-11 18:50</a>
 </div>
 
-![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)
+![applaud](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×3
 
 > <div class="weibo-post-name">
 >   <a href="http://weibo.com/satosan">OriginalPlan</a>

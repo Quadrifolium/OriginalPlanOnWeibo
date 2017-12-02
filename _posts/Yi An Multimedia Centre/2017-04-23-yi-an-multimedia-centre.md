@@ -9,7 +9,7 @@ categories: [ 'yi-an-multimedia-centre' ]
   <a href="http://weibo.com/6196825252/EFPpM757i">2017-04-23 13:39</a>
 </div>
 
-[#WorldReadingDay](http://weibo.com/p/100808f6c25ae8798dd02554cfb7de67f34fa9) Some say that “everyday is a sunny day once you're safe and sound”. Don't waste the fine sunshine for study … I'm going to read a book, to set a good example for the students. ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)
+[#WorldReadingDay](http://weibo.com/p/100808f6c25ae8798dd02554cfb7de67f34fa9) Some say that “everyday is a sunny day once you're safe and sound”. Don't waste the fine sunshine for study … I'm going to read a book, to set a good example for the students. ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png)×3
 
 <!-- more -->
 
