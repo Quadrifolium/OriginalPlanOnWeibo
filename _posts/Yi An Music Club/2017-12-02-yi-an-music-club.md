@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="https://weibo.com/6094546964/FxMOlr77R">2017-12-02 15:03</a>
 </div>
 
-[#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) In order to prevent the destruction of *nijigen* (二次元) world, in order to guard the peace in this world, in order to fulfill the ultimate mission as *nijigen* figures travelled across dimensions, how will the adorable and charming boys in Yi An carry out the job after the painters vanished? To face the ruin or be the saviours? Come and find out the answer in the freshly released [#GoOnStrike!Painters](https://weibo.com/p/100808ad2ad3cf7e06a459fb351ed63af5b2bb). 🤓 [◉ Go on Strike! Painters E01](http://www.bilibili.com/video/av16846062)
+[#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) In order to prevent the destruction of *nijigen* (二次元) world, in order to guard the peace in this world, in order to fulfill the ultimate mission as *nijigen* figures travelled across dimensions, how will the adorable and charming boys in Yi An carry out the job after the painters vanished? To face the ruin or be the saviours? Come and find out the answer in the freshly released [#GoOnStrike!Painters](https://weibo.com/p/100808ad2ad3cf7e06a459fb351ed63af5b2bb). 🤓 [◉ Go on Strike! Painters E01](https://www.bilibili.com/video/av16846062/)
 
 <!-- more -->
 
