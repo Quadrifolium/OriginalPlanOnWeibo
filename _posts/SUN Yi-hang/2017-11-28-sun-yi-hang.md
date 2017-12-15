@@ -10,3 +10,7 @@ categories: [ 'sun-yi-hang' ]
 </div>
 
 [❏ SUN Yi-hang on Instagram: “Having a fever”](https://www.instagram.com/p/BcBhAkWDzRM/) Ai~
+
+<!-- more -->
+
+<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>

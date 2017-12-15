@@ -11,3 +11,7 @@ categories: [ 'sun-yi-hang' ]
 
 [❏ SUN Yi-hang on Instagram: “In the very beginning, it was only in red and purple …”](https://www.instagram.com/p/BcUK4LCDv2i/)  
 In the very beginning, it was only in red and purple …
+
+<!-- more -->
+
+<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>

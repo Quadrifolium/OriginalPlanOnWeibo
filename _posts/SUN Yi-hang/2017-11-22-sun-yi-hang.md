@@ -15,5 +15,7 @@ Happy 16th birthday. ![cute](https://img.t.sinajs.cn/t4/appstyle/expression/ext/
 
 ![Image](https://wx3.sinaimg.cn/mw690/98e534a3gy1flraolhzv1j22io1w0hdw.jpg)
 
+<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
+
 Note:
 1. This post is in Japanese.
