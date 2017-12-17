@@ -1,8 +1,48 @@
 ---
 layout: post
 title: FANG Xiang-rui (方翔锐)
-date: 2017-12-17 15:32
+date: 2017-12-17 16:59
 categories: [ 'fang-xiang-rui' ]
+---
+
+<div class="weibo-info">
+  <a href="https://weibo.com/6117583008/FA4ZboARA">2017-12-17 16:59</a>
+</div>
+
+The campus in memory.
+
+<!-- more -->
+
+<ul class="weibo-pic-list-3">
+  <li class="weibo-pic">
+    <a href="https://wx2.sinaimg.cn/mw690/006G0KNGgy1fmjvdfsl7cj32c02c0qv5.jpg"><img src="//wx2.sinaimg.cn/thumb150/006G0KNGgy1fmjvdfsl7cj32c02c0qv5.jpg" /></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="https://wx2.sinaimg.cn/mw690/006G0KNGgy1fmjvdiqzajj32c02c07wi.jpg"><img src="//wx2.sinaimg.cn/thumb150/006G0KNGgy1fmjvdiqzajj32c02c07wi.jpg" /></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="https://wx4.sinaimg.cn/mw690/006G0KNGgy1fmjvdljsubj32c02c0b29.jpg"><img src="//wx4.sinaimg.cn/thumb150/006G0KNGgy1fmjvdljsubj32c02c0b29.jpg" /></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="https://wx4.sinaimg.cn/mw690/006G0KNGgy1fmjvdp4wqlj32c02c0npd.jpg"><img src="//wx4.sinaimg.cn/thumb150/006G0KNGgy1fmjvdp4wqlj32c02c0npd.jpg" /></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="https://wx4.sinaimg.cn/mw690/006G0KNGgy1fmjvdrto6cj32c02c01ky.jpg"><img src="//wx4.sinaimg.cn/thumb150/006G0KNGgy1fmjvdrto6cj32c02c01ky.jpg" /></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="https://wx3.sinaimg.cn/mw690/006G0KNGgy1fmjvdu9ptcj32c02c0qv5.jpg"><img src="//wx3.sinaimg.cn/thumb150/006G0KNGgy1fmjvdu9ptcj32c02c0qv5.jpg" /></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="https://wx1.sinaimg.cn/mw690/006G0KNGgy1fmjvdbwcy5j32c02c0tob.jpg"><img src="//wx1.sinaimg.cn/thumb150/006G0KNGgy1fmjvdbwcy5j32c02c0tob.jpg" /></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="https://wx1.sinaimg.cn/mw690/006G0KNGgy1fmjvdwmw8oj32c02c0x6p.jpg"><img src="//wx1.sinaimg.cn/thumb150/006G0KNGgy1fmjvdwmw8oj32c02c0x6p.jpg" /></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="https://wx2.sinaimg.cn/mw690/006G0KNGgy1fmjvdz5rpzj32c02c01ky.jpg"><img src="//wx2.sinaimg.cn/thumb150/006G0KNGgy1fmjvdz5rpzj32c02c01ky.jpg" /></a>
+  </li>
+</ul>
+
 ---
 
 <div class="weibo-info">
@@ -10,8 +50,6 @@ categories: [ 'fang-xiang-rui' ]
 </div>
 
 Who can help me add campus-style filter on the photos?
-
-<!-- more -->
 
 <ul class="weibo-pic-list-3">
   <li class="weibo-pic">
@@ -39,3 +77,6 @@ Who can help me add campus-style filter on the photos?
     <a href="https://wx3.sinaimg.cn/mw690/006G0KNGgy1fmjsuo8wajj30qo0qojvz.jpg"><img src="//wx3.sinaimg.cn/thumb150/006G0KNGgy1fmjsuo8wajj30qo0qojvz.jpg" /></a>
   </li>
 </ul>
+
+Note:
+1. This post has been removed.
