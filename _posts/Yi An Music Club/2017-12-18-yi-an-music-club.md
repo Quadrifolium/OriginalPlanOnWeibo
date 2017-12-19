@@ -19,7 +19,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="https://weibo.com/6094546964/FAecJoqH6">2017-12-18 16:28</a>
 </div>
 
-From the first appearance as a group of six on 30th March to this moment, we tasted various kinds of joys and sorrows, with the image of weeping boys deep in your mind. Today, on the stage of Beijing TV Huajiao Night, we received the first prize – “New Group of the Year”. The weighty trophy is the fruit of the members of Yi An Music Club, all the fans, and the staff in this year. At this moment, HE Luo-luo, FANG Xiang-rui, LIN Mo, CHI Yi in Beijing, ZHAN Yi-wen in Shanghai, and SUN Yi-hang in Tokyo are all heartily grateful to the companions on the road with us. With your expectation, we will go on brave wind and rain for the journey ahead.
+From the first appearance as a group of six on 30th March to this moment, we tasted various kinds of sourness and bitterness, with the image of weeping boys deep in your mind. Today, on the stage of Beijing TV Huajiao Night, we received the first prize – “New Group of the Year”. The weighty trophy is the fruit of the members of Yi An Music Club, all the fans, and the staff in this year. At this moment, HE Luo-luo, FANG Xiang-rui, LIN Mo, CHI Yi in Beijing, ZHAN Yi-wen in Shanghai, and SUN Yi-hang in Tokyo are all heartily grateful to the companions on the road with us. With your expectation, we will go on brave wind and rain for the journey ahead.
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
