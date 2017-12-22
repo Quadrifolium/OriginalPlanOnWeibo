@@ -11,3 +11,7 @@ categories: [ 'sun-yi-hang' ]
 
 [❏ SUN Yi-hang on Instagram: “👀🏞”](https://www.instagram.com/p/Bc4gH6CjkBW/)  
 Look, the lake. :fist:
+
+<!-- more -->
+
+<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
