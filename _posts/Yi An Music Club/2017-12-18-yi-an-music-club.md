@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="https://weibo.com/6094546964/FAfbHB2Tq">2017-12-18 18:58</a>
 </div>
 
-[#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) *Music Club Jottings* E19 is now on Bilibili. ![applaud](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif) Follow the camera to the backstage of [#GoOnStrike!Painters](https://weibo.com/p/100808ad2ad3cf7e06a459fb351ed63af5b2bb), you will find that the reality would be more lively (ashamed). ![doge](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)×3 (PS: Besides this, don't forget to watch the show of the guys in Beijing TV Huajiao Night this evening. ![smile but keep quiet](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3a/moren_xiaoerbuyu_org.png))
+[#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) *Music Club Jottings* E19 is now on Bilibili. ![applaud](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif) Follow the camera to the backstage of [#GoOnStrike!Painters](https://weibo.com/p/100808ad2ad3cf7e06a459fb351ed63af5b2bb), you will find that the reality would be more lively (ashamed). ![doge](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)×3 (PS: Besides this, don't forget to watch the show of the guys in Beijing TV Huajiao Night this evening. ![smile but keep quiet](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3a/moren_xiaoerbuyu_org.png)) [◉ Yi An Music Club Jottings E19](https://www.bilibili.com/video/av17383787/)
 
 <!-- more -->
 
