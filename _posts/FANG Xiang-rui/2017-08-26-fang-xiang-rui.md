@@ -9,7 +9,7 @@ categories: [ 'fang-xiang-rui' ]
   <a href="http://weibo.com/6117583008/FiWcBB1vn">2017-08-26 23:23</a>
 </div>
 
-I heard that *Reply, the Growth* (长大请回答) today … Now I decide to sing a song to someone … Good night. 😴 [❏ Link](http://changba.com/s/piQpmmtpC7oadytJnqNX_w)
+I heard that *Reply, the Growth* (长大请回答) today … Now I decide to sing a song to someone … Good night. 😴 [▷ Silence - YiAnMusicClub-RealFang - Changba](http://changba.com/s/piQpmmtpC7oadytJnqNX_w)
 
 <!-- more -->
 
