@@ -71,5 +71,5 @@ After the live of the Charity Evening, they returned to the hotel. The elevator 
 19th Dec., Flight from Beijing to Shanghai  
 20th Dec., *Yi AN Good Night* Episode 6 on Hongdou Live  
 21st Dec., *Yi AN Good Night* special episode for #1221HappyBirthdayLinMo  
-22nd Dec., manga released; *Go on Strike! Painters* Episode 4 on Bilibili  
+22nd Dec., manga release; *Go on Strike! Painters* Episode 4 on Bilibili  
 23rd Dec., signing session in Baozou Super-fun Energy Exhibition in Shanghai
