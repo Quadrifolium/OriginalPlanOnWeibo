@@ -1,8 +1,18 @@
 ---
 layout: post
 title: Yi An Music Club (易安音乐社)
-date: 2017-12-27 18:05
+date: 2017-12-27 21:00
 categories: [ 'yi-an-music-club' ]
+---
+
+<div class="weibo-info">
+  <a href="https://weibo.com/6094546964/FBCPXn7TJ">2017-12-27 21:00</a>
+</div>
+
+The warm Christmas came again. What do the boys talk about this time? Come and listen to the stories about Christmas~ [◉ Hongdou Live: Yi An Good Night S02E07](http://www.hongdoufm.com/room/1082326377266413606)
+
+<!-- more -->
+
 ---
 
 <div class="weibo-info">
