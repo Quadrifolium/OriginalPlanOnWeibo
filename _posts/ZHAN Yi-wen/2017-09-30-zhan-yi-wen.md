@@ -9,7 +9,7 @@ categories: [ 'zhan-yi-wen' ]
   <a href="http://weibo.com/6108090526/FofHnnvab">2017-09-30 22:12</a>
 </div>
 
-The follow-up matter: Without the lock, the door keeps open like this. It will open slowly after I close it … ![close the mouth](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/29/bz_org.gif)×2
+The follow-up matter: Without the lock, the door keeps open like this. It will open slowly after I close it … ![close mouth](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/29/bz_org.gif)×2
 
 <!-- more -->
 

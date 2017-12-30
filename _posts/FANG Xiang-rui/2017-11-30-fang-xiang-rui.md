@@ -9,7 +9,7 @@ categories: [ 'fang-xiang-rui' ]
   <a href="https://weibo.com/6117583008/Fxv8X2Cem">2017-11-30 18:04</a>
 </div>
 
-How I wish to sleep a little longer. :sleeping:
+How I wish to sleep a little longer. :sleepy:
 
 <!-- more -->
 

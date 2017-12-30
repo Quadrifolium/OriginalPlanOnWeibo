@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="https://weibo.com/6094546964/FyPCqtPDi">2017-12-09 12:02</a>
 </div>
 
-[#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) The documentary of [#YiAnMusicClub_24HoursInUrgency](https://weibo.com/p/100808dc2c219134fe9c3640e72c4d04f4aa27) Part 3 is now on [@TencentVideo](https://weibo.com/ilovevideo)~ So far, the series has finished. We are grateful for every warm expectation, for every sincere companionship. :kissing_heart: The time goes on. About the future, please wait with further imagination. The growth must be cool. Let's stride forward and grow wilfully along the corridor of the time. :sunny:×3
+[#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) The documentary of [#YiAnMusicClub_24HoursInUrgency](https://weibo.com/p/100808dc2c219134fe9c3640e72c4d04f4aa27) Part 3 is now on [@TencentVideo](https://weibo.com/ilovevideo)~ So far, the series has finished. We are grateful for every warm expectation, for every sincere companionship. :kissing_heart: The time goes on. About the future, please wait with further imagination. The growth must be cool. Let's stride forward and grow wilfully along the corridor of the time. ![sun](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e5/sun.gif)×3
 
 <!-- more -->
 
