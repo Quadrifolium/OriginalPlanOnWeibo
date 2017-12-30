@@ -9,7 +9,7 @@ categories: [ 'sun-yi-hang' ]
   <a href="http://weibo.com/2565158051/FkTUreUgC">2017-09-08 21:13</a>
 </div>
 
-Look. ![hush](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a6/x_org.gif) … 💥💥💥 [◉ Weibo Video](http://weibo.com/tv/v/FkTUreUgC)
+Look. ![hush](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a6/x_org.gif) … 💥💥💥 [◉ Flash Show Video](https://www.miaopai.com/show/69I14116KUVs7YoaZyUQKrq2ORdfDPWhkfdmdQ__.htm)
 
 <!-- more -->
 
