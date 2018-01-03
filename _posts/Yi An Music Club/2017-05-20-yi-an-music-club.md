@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/F40DPtuR8">2017-05-20 19:06</a>
 </div>
 
-It's 520 … Nothing to express, just a little spoiler of [#YiAnFunAfterSchool](http://weibo.com/p/100808bad46130a6c7f06116b4183fd352744b). It's coming soon. ![very happy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif)
+It's 520 … Nothing to express, just a little spoiler of [#YiAnFunTimeAfterSchool](http://weibo.com/p/100808bad46130a6c7f06116b4183fd352744b). It's coming soon. ![very happy](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif)
 
 <!-- more -->
 
