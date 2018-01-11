@@ -1,17 +1,23 @@
 ---
 layout: post
 title: Yi An Music Club (易安音乐社)
-date: 2018-01-06 12:00
+date: 2018-01-06 20:54
 categories: [ 'yi-an-music-club' ]
 ---
+
+<div class="weibo-info">
+  <a href="https://weibo.com/6094546964/FD94mjYcj">2018-01-06 20:54</a>
+</div>
+
+CHI Yi's birthday celebration on [#HongdouLive](https://weibo.com/p/10080800ecc3ab49e076fcffb4a970262d6a3d) [◉ Hongdou Live: Happy birthday to CHI Yi](http://www.hongdoufm.com/room/1086099999957188693)
+
+<!-- more -->
 
 <div class="weibo-info">
   <a href="https://weibo.com/6094546964/FD5zxutdV">2018-01-06 12:00</a>
 </div>
 
-[#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) The show you'd waited for long, *Yi An Fun Time After School*, is finally here to meet you! There are not only large props, but also new faces in. What's the difference between the boys' selfies and photos taken by others? What prop made the members fall to the ground? Who is the champion of the KTV section? Click the link and watch~ Don't miss the excellent show~ [◉ Yi An Fun Time After School E01](https://v.qq.com/x/cover/s676r4ucc4vxpw2/c00250za427.html)
-
-<!-- more -->
+[#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) The show you'd waited for long, *Yi An After School*, is finally here to meet you! There are not only large props, but also new faces in. What's the difference between the boys' selfies and photos taken by others? What prop made the members fall to the ground? Who is the champion of the KTV section? Click the link and watch~ Don't miss the excellent show~ [◉ Yi An After School E01](https://v.qq.com/x/cover/s676r4ucc4vxpw2/c00250za427.html)
 
 ---
 
