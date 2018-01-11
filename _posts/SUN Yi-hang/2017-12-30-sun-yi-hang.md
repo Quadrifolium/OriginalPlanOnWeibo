@@ -13,7 +13,7 @@ bangbangbang ![bitter joy](https://img.t.sinajs.cn/t4/appstyle/expression/ext/no
 
 <!-- more -->
 
-<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>
 
 *Comments*
 

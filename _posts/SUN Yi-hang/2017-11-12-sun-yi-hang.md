@@ -15,7 +15,7 @@ The sun is sinking in the west, with the night following … Get it?
 
 ![Image](https://wx3.sinaimg.cn/mw690/98e534a3gy1flfjol4e6gj22c02c0b29.jpg)
 
-<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>
 
 *Comments*
 

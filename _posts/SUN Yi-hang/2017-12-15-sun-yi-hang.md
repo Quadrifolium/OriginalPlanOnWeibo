@@ -16,7 +16,7 @@ Oh, and me. :joy:
 
 <!-- more -->
 
-<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>
 
 ---
 
@@ -28,4 +28,4 @@ I'll publish the dance. Tell me, are you ready? :satisfied:
 If ready, send ![longing](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/37/moren_chongjing_org.png)  
 If not, send ![doge](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif)
 
-<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>

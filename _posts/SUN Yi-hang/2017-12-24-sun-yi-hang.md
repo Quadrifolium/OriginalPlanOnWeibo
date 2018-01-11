@@ -15,6 +15,8 @@ Oh, and merry Christmas.
 
 <!-- more -->
 
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>
+
 ---
 
 <div class="weibo-info">
@@ -24,4 +26,4 @@ Oh, and merry Christmas.
 [❏ SUN Yi-hang on Instagram: “Very happy to see so many fans in the signing session. 💖💖”](https://www.instagram.com/p/BdEJtbSDPAX/)  
 Coming
 
-<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>

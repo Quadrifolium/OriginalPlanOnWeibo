@@ -13,7 +13,7 @@ It's a happy first signing session. I saw so many warm fans once I came back. Bu
 
 <!-- more -->
 
-<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>
 
 *Comments*
 

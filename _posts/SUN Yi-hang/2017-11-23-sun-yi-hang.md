@@ -13,7 +13,7 @@ Last post before the dance. [▷ それがあなたの幸せとしても - rairu
 
 <!-- more -->
 
-<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>
 
 Note:
 1. それがあなたの幸せとしても: Even if it's your happiness.

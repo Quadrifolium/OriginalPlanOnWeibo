@@ -15,7 +15,7 @@ It will meet you in one week. 💞
 
 <!-- more -->
 
-<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">

@@ -15,7 +15,7 @@ Going home. :imp:
 
 ![Image](http://wx1.sinaimg.cn/mw690/98e534a3gy1fkeojsce4zj20zl0qogpj.jpg)
 
-<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>
 
 *Comments*
 

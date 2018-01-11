@@ -13,7 +13,7 @@ Look. ![hush](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a6/x_org.
 
 <!-- more -->
 
-<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>
 
 *Comments*
 
@@ -27,3 +27,5 @@ Look. ![hush](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a6/x_org.
 </div>
 
 [❏ SUN Yi-hang on Instagram](https://www.instagram.com/p/BYx_MavDpGM/) Come on and watch! 💥💥💥
+
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>

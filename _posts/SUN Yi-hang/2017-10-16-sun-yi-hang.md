@@ -15,4 +15,4 @@ categories: [ 'sun-yi-hang' ]
 
 ![Image](http://wx4.sinaimg.cn/mw690/98e534a3gy1fkjzeadug5j22c0340qv8.jpg)
 
-<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>

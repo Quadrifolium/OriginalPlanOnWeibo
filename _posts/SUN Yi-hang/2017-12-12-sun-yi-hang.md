@@ -17,4 +17,4 @@ categories: [ 'sun-yi-hang' ]
   <img class="weibo-pic-preview-h" src="//wx2.sinaimg.cn/orj360/98e534a3gy1fme46l16q9j21400u0myf.jpg" />
 </a>
 
-<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>

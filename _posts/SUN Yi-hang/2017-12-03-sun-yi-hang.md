@@ -14,7 +14,7 @@ Guitar
 
 <!-- more -->
 
-<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>
 
 Note:
 1. The words in the original post are “六弦琴” (literally: “musical instrument with six strings”), which is another name of “吉它” (guitar).

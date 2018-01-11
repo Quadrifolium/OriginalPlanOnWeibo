@@ -13,7 +13,7 @@ categories: [ 'sun-yi-hang' ]
 
 <!-- more -->
 
-<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>
 
 ---
 
@@ -24,7 +24,7 @@ categories: [ 'sun-yi-hang' ]
 Happy New Year! In 2018, I will keep striving.  
 And please keep striving with me.
 
-<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>
 
 *Comments*
 

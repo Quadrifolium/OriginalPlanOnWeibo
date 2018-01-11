@@ -14,7 +14,7 @@ categories: [ 'sun-yi-hang' ]
 
 <!-- more -->
 
-<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>
 
 Note:
 1. エターナルポーズ (literally: eternal pose): Eternal Pointer. A song in *One Piece* (ワンピース).
@@ -38,7 +38,7 @@ Please pardon me for leaving in a hurry, without saying farewell. I'm sorry.
 :fist: Let's meet again on the summit. :sob:  
 *Arigatou*!
 
-<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>
 
 Note:
 1. *Tomo dachi* (ともだち): Friends.
