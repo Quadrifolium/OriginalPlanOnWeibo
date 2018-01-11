@@ -14,7 +14,7 @@ I am where my bro stays. :v:
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="http://weibo.com/u/6108316220">YiAnMusicClub-SunYiHang</a>
+>   <a href="http://weibo.com/u/2565158051">YiAnMusicClub-SunYiHang</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="https://weibo.com/2565158051/FCm0098d6">2018-01-01 15:59</a>
