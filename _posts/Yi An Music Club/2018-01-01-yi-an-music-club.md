@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="https://weibo.com/6094546964/FCmOZ24oR">2018-01-01 18:04</a>
 </div>
 
-[#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) The New Year is the new start. *Music Club Jottings* is out in the first day of the new year, with our happy daily life~ What did Emperor Mo and his subjects do in the past week? Portal's here, help yourself to watch. [◉ Yi An Music Club Jottings E21](http://www.bilibili.com/video/av17739343)
+[#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) The New Year is the new start. *Music Club Jottings* is out in the first day of the new year, with our happy daily life~ What did Emperor Mo and his subjects do in the past week? Portal's here, help yourself to watch. [◉ Yi An Music Club Jottings E21](https://www.bilibili.com/video/av17739343/)
 
 <!-- more -->
 
