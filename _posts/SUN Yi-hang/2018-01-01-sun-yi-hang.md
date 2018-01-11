@@ -13,6 +13,8 @@ categories: [ 'sun-yi-hang' ]
 
 <!-- more -->
 
+<small>(This post is sent from [@YXZHty](http://weibo.com/2565158051).)</small>
+
 ---
 
 <div class="weibo-info">
