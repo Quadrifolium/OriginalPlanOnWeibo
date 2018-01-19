@@ -38,9 +38,9 @@ CHI Yi
 1. Strange homophonic punchlines and puzzling comprehension  
 One day, the leader Mister HE Luo-luo and Baby CHI Yi were chatting. As the leader of the club, HE Luo-luo always applies himself to sharing positive news to the members, in order to promote the boys' attainment. Here's a section of such sharing:  
 Luo: There's a great person who was longing to fly into the blue sky from being a child. Later, he entered a aviation academy for study, and then got a job in Boeing. So you see, this is called “where there is a will, there is a way”.  
-Chi: (Surprised) He's studying broadcasting<sup>[1]</sup> in the academy? ¯\\_(ツ)_/¯
+Chi: (Surprised) He's studying broadcasting<sup>[1]</sup> in the academy? ¯\\\_(ツ)\_/¯
 2. EN Hao & XIA Tian-yi “making peace”  
-One day, XIA Tian-yi and EN Hao were at odd with and ignoring each other with an unknown reason, which made the staff have a headache. After all, to feel two refrigerators running in the cold winter was too painful. So the staff was trying hard to reconcile, but no one made any change … In the afternoon, the worrying staff received the help from XIA Tian-yi, that Baby EN Hao was under the weather. The once cold XIA Tian-yi was pulling the staff's sleeve and urging again and again: “Buy *Huoxiang Zhengqi Shui*, not *Huoxiang Zhengqi Ye*<sup>[2]</sup>. It's *Shui*, not *Ye*. That *Ye* is too bitter, he can't stand it …” All right, all right. It seems the staff was just too flapping. ¯\\_(ツ)_/¯
+One day, XIA Tian-yi and EN Hao were at odd with and ignoring each other with an unknown reason, which made the staff have a headache. After all, to feel two refrigerators running in the cold winter was too painful. So the staff was trying hard to reconcile, but no one made any change … In the afternoon, the worrying staff received the help from XIA Tian-yi, that Baby EN Hao was under the weather. The once cold XIA Tian-yi was pulling the staff's sleeve and urging again and again: “Buy *Huoxiang Zhengqi Shui*, not *Huoxiang Zhengqi Ye*<sup>[2]</sup>. It's *Shui*, not *Ye*. That *Ye* is too bitter, he can't stand it …” All right, all right. It seems the staff was just too flapping. ¯\\\_(ツ)\_/¯
 3. LIN Mo with his grieving heart  
 One day, the “philosopher” LIN Mo chanted: “Life is like a box of chocolate, you never know what you're going to get.”  
 Leader Luo: “Isn't the taste labeled on the package?”  
@@ -57,7 +57,7 @@ Note:
 
 1. On Monday, *Music Club Jottings* E22 released on Bilibili, with the wishes of Yi An boys on the sky lanterns recorded.
 2. On Wednesday, *Yi An Good Night* E09 released on Hongdou Live.
-3. On Thursday, new article published on Orignal Plan WeChat account.
+3. On Thursday, new article published on Original Plan WeChat account.
 4. On Friday, *Yi An Music Club* manga released on Sina Weibo.
 
 ![Image](https://mmbiz.qpic.cn/mmbiz_jpg/XOMVurd7hjSevl6WST1WfXBnf0dcH3qT0Q33ab6rvZwK0xTzhvSAia8ibtbsq0EkYnia8cDBz3hv9z9vEQHocghFQ/)

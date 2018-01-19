@@ -35,7 +35,7 @@ It is said that on the day of super handsome LIN Mo's birthday, each of the othe
 2. ZHAN Yi-wen playing with his cat  
 As the well-known cat servant in Yi An Music Club, ZHAN Yi-wen is always obedient before his *Baiwan*. One day, ZHAN Yi-wen stretched out his hand to cuddle *Baiwan*, and *Baiwan* hooked the front paws on him, he “ran out of ways but can't cast off”, and the garment was broken. You must know that he loves that sports brand so much, but this time, he has to taste the bitterness alone.
 3. The “biased love”  
-One day in the acting lesson, LIN Mo lost in a game. The leader HE Luo-luo asked him to dance with his bottom, which was colletively agreed. So LIN Mo had to make some moves with reluctance~ In order not to do that again, LIN Mo raised his morale, and didn't lose any more! However, he found that no one had received such “laurel” after him. ¯\\_(ツ)_/¯ Then, he used his odd mind to recognise this as the “biased love” ヾ(◍°∇°◍)ﾉﾞ
+One day in the acting lesson, LIN Mo lost in a game. The leader HE Luo-luo asked him to dance with his bottom, which was colletively agreed. So LIN Mo had to make some moves with reluctance~ In order not to do that again, LIN Mo raised his morale, and didn't lose any more! However, he found that no one had received such “laurel” after him. ¯\\\_(ツ)\_/¯ Then, he used his odd mind to recognise this as the “biased love” ヾ(◍°∇°◍)ﾉﾞ
 
 ![Image](https://mmbiz.qpic.cn/mmbiz_jpg/XOMVurd7hjRXdUWKQiaR1r8GDMFFg6K01o50DGyEIaP7sBuIa8ZLPvDicthaaibsibqlCEDFia7ghLxcNy1RvXwkgmg/)
 
