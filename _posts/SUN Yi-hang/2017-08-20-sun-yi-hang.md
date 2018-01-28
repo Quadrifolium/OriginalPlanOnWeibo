@@ -41,7 +41,7 @@ Note:
   <a href="http://weibo.com/2565158051/Fe42OcsdB">2017-07-25 22:09</a>
 </div>
 
-[❏ I have been upgraded to VIP3](http://t.cn/R9zzZYS)
+[❏ I was upgraded to VIP3](http://t.cn/R9zzZYS)
 
 <small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>
 
