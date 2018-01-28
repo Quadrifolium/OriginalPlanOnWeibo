@@ -24,3 +24,5 @@ The lost man is back!
     <a href="https://g.us.sinaimg.cn/000gMzKalx07hmQrhPrq010402000ijM0k01.mp4?Expires=1515922093&amp;ssig=Gx2ki15gF4&amp;KID=unistore,video"><img src="//wx3.sinaimg.cn/thumb150/98e534a3gy1fng39gz8twg20dc0dcx6p.gif"/></a>
   </li>
 </ul>
+
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>
