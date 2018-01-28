@@ -60,7 +60,7 @@ XIA Tian-yi
 
 *Words in image:*
 
-**Activities this week**  
+**Activities in this week**  
 11th Dec., *Music Club Jottings* on Bilibili  
 12th Dec., *Travel in Tokyo with Hang* on Bilibili  
 13th Dec., *Yi An Good Night* special episode on Hongdou Live  

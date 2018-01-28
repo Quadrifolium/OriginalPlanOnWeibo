@@ -61,7 +61,7 @@ Note:
 
 *Words in image:*
 
-**Activities this week**  
+**Activities in this week**  
 25th Dec., *Music Club Jottings* on Bilibili  
 27th Dec., *Yi AN Good Night* on Hongdou Live  
 28th Dec., new article on WeChat account  

@@ -66,7 +66,7 @@ After the live of the Charity Evening, they returned to the hotel. The elevator 
 
 *Words in image:*
 
-**Activities this week**  
+**Activities in this week**  
 18th Dec., Charity Evening on Beijing TV; *Music Club Jottings* on Bilibili  
 19th Dec., Flight from Beijing to Shanghai  
 20th Dec., *Yi AN Good Night* Episode 6 on Hongdou Live  

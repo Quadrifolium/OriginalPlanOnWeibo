@@ -56,7 +56,7 @@ One day in the acting lesson, LIN Mo lost in a game. The leader HE Luo-luo asked
 
 *Words in image:*
 
-**Activities this week**  
+**Activities in this week**  
 1st Jan., *Jottings* on Bilibili  
 2nd Jan., new song *2038* published  
 3rd Jan., *Yi An Good Night* on Hongdou Live  

@@ -62,7 +62,7 @@ Note:
 
 *Words in image:*
 
-**Activities this week**  
+**Activities in this week**  
 15th Jan., *Jottings* on Bilibili  
 17th Jan., *Yi An Good Night* on Hongdou Live  
 18th Jan., new article on WeChat account  
