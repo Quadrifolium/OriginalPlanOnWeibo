@@ -75,7 +75,7 @@ Note:
 1. On Monday, *Music Club Jottings* E24 released on Bilibili, with the backstage stories in the final chapter of *Go on Strike! Painters* recorded.
 2. On Wednesday, *Yi An Good Night* E11 released on Hongdou live.
 3. On Thursday, new article published on Original Plan Wechat account.
-4. On Friday, *Yi An Music Club* manga released on Sina Weibo.
+4. On Friday, *Yi An Music Club* manga to release on Sina Weibo.
 
 ![Image](https://mmbiz.qpic.cn/mmbiz_jpg/XOMVurd7hjSUF65rZ2EZeNbxFXrH8ic6tuuUialpOaJ4nHsEpyiaM1tWw01O2lmbgNBbAruiajuxhnE6ztKIs1Fnlg/640)
 
@@ -85,4 +85,4 @@ Note:
 22nd Jan., *Jottings* on Bilibili  
 24th Jan., *Yi An Good Night* on Hongdou Live  
 25th Jan., new article on WeChat account  
-26th Jan., manga released on Sina Weibo  
+26th Jan., manga on Sina Weibo  

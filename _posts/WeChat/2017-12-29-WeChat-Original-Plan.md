@@ -55,7 +55,7 @@ Note:
 
 1. On Monday, *Music Club Jottings* Episode 20 released on Bilibili, which recorded the boys' busy two-day-one-night trip to Beijing. Please watch it on Bilibili if you haven't.
 2. On Wednesday, *Yi AN Good Night* Episode 7 released.
-3. On Friday, *Go on Strike! Painters* Finale released on Bilibili, manga released.
+3. On Friday, *Go on Strike! Painters* Finale to release on Bilibili, manga released.
 
 ![Image](http://mmbiz.qpic.cn/mmbiz_png/XOMVurd7hjRXdUWKQiaR1r8GDMFFg6K01olHTsick5aox1q1bPXWQxf3IccODPMNpENYLKqsP30k4ib1iaR8VBfRPw/)
 
@@ -65,4 +65,4 @@ Note:
 25th Dec., *Music Club Jottings* on Bilibili  
 27th Dec., *Yi AN Good Night* on Hongdou Live  
 28th Dec., new article on WeChat account  
-29th Dec., *Go on Strike! Painters* Finale; manga release
+29th Dec., *Go on Strike! Painters* Finale & manga release

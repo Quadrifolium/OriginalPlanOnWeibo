@@ -55,7 +55,7 @@ Note:
 1. On Monday, *Music Club Jottings* E23 released on Bilibili, with the warm and touching scenes in the boys' first signing session recorded.
 2. On Wednesday, *Yi An Good Night* E10 released on Hongdou live.
 3. On Thursday, new article published on Original Plan Wechat account.
-4. On Friday, *Yi An Music Club* manga released on Sina Weibo.
+4. On Friday, *Yi An Music Club* manga to release on Sina Weibo.
 5. At 12:00 this Saturday, *Yi An Fun Time After School* E02 is to release on Tencent Video VIP zone.
 
 ![Image](http://mmbiz.qpic.cn/mmbiz_jpg/XOMVurd7hjRibvicyGMa0EqKRf48YtY27KghRIA53DHHfR7A4ez5Ecp4rp0SWIIzEiapGZ0EBrkMAyBAL6ZicGPZ7g/)
@@ -66,5 +66,5 @@ Note:
 15th Jan., *Jottings* on Bilibili  
 17th Jan., *Yi An Good Night* on Hongdou Live  
 18th Jan., new article on WeChat account  
-19th Jan., manga released on Sina Weibo  
+19th Jan., manga on Sina Weibo  
 20th Jan., *Yi An Fun Time After School* E02 on Tencent Video

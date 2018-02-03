@@ -58,7 +58,7 @@ Note:
 1. On Monday, *Music Club Jottings* E22 released on Bilibili, with the wishes of Yi An boys on the sky lanterns recorded.
 2. On Wednesday, *Yi An Good Night* E09 released on Hongdou Live.
 3. On Thursday, new article published on Original Plan WeChat account.
-4. On Friday, *Yi An Music Club* manga released on Sina Weibo.
+4. On Friday, *Yi An Music Club* manga to release on Sina Weibo.
 
 ![Image](https://mmbiz.qpic.cn/mmbiz_jpg/XOMVurd7hjSevl6WST1WfXBnf0dcH3qT0Q33ab6rvZwK0xTzhvSAia8ibtbsq0EkYnia8cDBz3hv9z9vEQHocghFQ/)
 
@@ -68,4 +68,4 @@ Note:
 8th Jan., *Jottings* on Bilibili  
 10th Jan., *Yi An Good Night* on Hongdou Live  
 11th Jan., new article on WeChat account  
-12th Jan., manga released on Sina Weibo  
+12th Jan., manga on Sina Weibo  

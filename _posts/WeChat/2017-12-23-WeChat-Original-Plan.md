@@ -59,7 +59,7 @@ After the live of the Charity Evening, they returned to the hotel. The elevator 
 2. On Monday, at #1218LiveFest held by Beijing TV and Huajiao Live, Yi An Music Club was awarded “New Group of the Year”, and performed in the Charity Evening with the song *Flying Fantasy in 365 Days*.
 3. On Wednesday, *Yi AN Good Night* Episode 6 released.
 4. On Thursday, *Yi AN Good Night* special episode for #1221HappyBirthdayLinMo.
-5. On Friday, *Go on Strike! Painters* Episode 4 released on Bilibili, manga released.
+5. On Friday, *Go on Strike! Painters* Episode 4 to release on Bilibili, manga released.
 6. On Saturday, Yi An Music Club signing session in Baozou Super-fun Energy Exhibition.
 
 ![Image](https://mmbiz.qpic.cn/mmbiz_png/XOMVurd7hjQU8AKGxk6BtAwtI1gOr3iaN1XSDeib25ZPvRMC4hkhnnfXTBCawB7iacVpnXWR9KibafFhJBUibaic8d8g/)

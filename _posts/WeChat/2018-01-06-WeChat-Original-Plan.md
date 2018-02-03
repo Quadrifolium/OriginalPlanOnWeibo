@@ -47,7 +47,7 @@ One day in the acting lesson, LIN Mo lost in a game. The leader HE Luo-luo asked
 2. On Tuesday, Yi An Music Club's new song *2038* released, to imagine the scene in 20 years.
 3. On Wednesday, *Yi An Good Night* E08 released.
 4. On Thursday, new article published on Orignal Plan WeChat account.
-5. Manga released.
+5. Manga to release.
 6. At 12:00 this Saturday, *Yi An Fun Time After School* is to release on Tencent Video VIP zone. Please stay tuned~
 
 ![Image](https://mmbiz.qpic.cn/mmbiz_jpg/XOMVurd7hjSQCPeAjAeuHCapnic9Ez3zNfUicZM3QVtNrGP2VMeUDOQw2ak5FUXNzJZPrj11J2U0tAIwArwmTIbA/)
@@ -61,5 +61,5 @@ One day in the acting lesson, LIN Mo lost in a game. The leader HE Luo-luo asked
 2nd Jan., new song *2038* published  
 3rd Jan., *Yi An Good Night* on Hongdou Live  
 4th Jan., new article on WeChat account  
-5th Jan., manga released on Sina Weibo  
+5th Jan., manga on Sina Weibo  
 6th Jan., *Yi An Fun Time After School* on Tencent Video

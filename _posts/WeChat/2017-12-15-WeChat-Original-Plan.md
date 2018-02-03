@@ -66,7 +66,7 @@ XIA Tian-yi
 13th Dec., *Yi An Good Night* special episode on Hongdou Live  
 14th Dec., *Yi An Good Night* Episode 5 on Hongdou Live  
 15th Dec., *Go on Strike! Painters* on Bilibili  
-16th Dec., *Flying Fantasy in 365 Days* release on the web  
+16th Dec., *Flying Fantasy in 365 Days* to release on the web  
 18th Dec., *Huajiao Night · Charity Evening*
 
 ![Image](https://mmbiz.qpic.cn/mmbiz_png/XOMVurd7hjRgCJQibmWn6BrxzIiclbaFzzx5B3vNxpmISnx9r0yjKKEhiazufjWQN0IgHK0cVCTy3O05gnzw1SWFg/)
