@@ -9,7 +9,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/Fa2Q5uUcU">2017-06-29 11:44</a>
 </div>
 
-Good members of the Music Club, passed by the Boxing Club and had a try. Want to transfer to this club? [❏ Link](http://t.cn/RoTvqYn)
+Good members of the Music Club, passed by the Boxing Club and had a try. Want to transfer to this club? [❏ Link]()
 
 <!-- more -->
 

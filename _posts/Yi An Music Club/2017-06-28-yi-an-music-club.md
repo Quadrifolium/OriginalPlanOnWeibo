@@ -21,7 +21,7 @@ categories: [ 'yi-an-music-club' ]
   <a href="http://weibo.com/6094546964/F9W9R5XEK">2017-06-28 18:43</a>
 </div>
 
-A fast sequel →_→ [❏ Link](http://t.cn/RojP95e)
+A fast sequel →_→ [❏ Link](https://www.yizhibo.com/l/N4mHxqoeAyT_Opdo.html)
 
 Note:
 1. The link for live video from LIN Mo has expired.
@@ -32,7 +32,7 @@ Note:
   <a href="http://weibo.com/6094546964/F9W3IekoP">2017-06-28 18:28</a>
 </div>
 
-I'm coming, hahaha 1 I'm back to the dorm, none of you is here 2 [❏ Link](http://t.cn/Rolsyif)
+I'm coming, hahaha 1 I'm back to the dorm, none of you is here 2 [❏ Link](https://www.yizhibo.com/l/dRs15KczymKTJwvn.html)
 
 Note:
 1. The link for live video from LIN Mo has expired.

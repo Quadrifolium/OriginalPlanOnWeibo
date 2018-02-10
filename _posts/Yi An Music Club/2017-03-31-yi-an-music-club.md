@@ -38,9 +38,6 @@ Seeing you are boisterous … I feel relieved. ![Husky](http://img.t.sinajs.cn/t
   <a href="http://weibo.com/6094546964/ECjh219pP">2017-03-31 10:18</a>
 </div>
 
-The anthem of the Music Club – *Chitty Bang Bang Bang* released. The complete song is filled with the “illusionary” attitude of the club on music. ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png) Isn't it? [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574) [@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220) [@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042) [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526) [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008) [@YiAnMusicClub-ChiYi](http://weibo.com/u/6117581836) [❏ Link](http://t.cn/R6pHFtE)
+The anthem of the Music Club – *Chitty Bang Bang Bang* released. The complete song is filled with the “illusionary” attitude of the club on music. ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png) Isn't it? [@YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574) [@YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220) [@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042) [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526) [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008) [@YiAnMusicClub-ChiYi](http://weibo.com/u/6117581836) [▷ Chitty Bang Bang Bang - Yi An Music Club](https://weibo.com/p/10151501_100400270)
 
 ![Image](http://wx1.sinaimg.cn/mw690/006Es64Aly1fe5t29swonj31kw1kwu0x.jpg)
-
-Note:
-1. The link in the post is currently unavailable. Please listen on [163 music](http://music.163.com/#/song?id=469073322) or [Ximalaya FM](http://www.ximalaya.com/78339006/album/7540322).
