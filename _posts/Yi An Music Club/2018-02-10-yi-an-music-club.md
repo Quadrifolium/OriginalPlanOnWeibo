@@ -1,8 +1,39 @@
 ---
 layout: post
 title: Yi An Music Club (易安音乐社)
-date: 2018-02-10 14:35
+date: 2018-02-10 20:03
 categories: [ 'yi-an-music-club' ]
+---
+
+<div class="weibo-info">
+  <a href="https://weibo.com/6094546964/G2veOjHmk">2018-02-10 20:03</a>
+</div>
+
+[#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) The annual meeting for 2018 Yi An Middle School outstanding students came to the successful conclusion. We appreciate all the warm companionship and sincere suggests. In the new year, Yi An boys will initiate the new start with more attempting attitude, for the splendour of spring!
+
+<!-- more -->
+
+<ul class="weibo-pic-list-2">
+  <li class="weibo-pic">
+    <a href="//wx2.sinaimg.cn/mw690/006Es64Aly1foblraa7x7j30qo140tky.jpg"><img src="//wx2.sinaimg.cn/thumb150/006Es64Aly1foblraa7x7j30qo140tky.jpg"/></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="//wx1.sinaimg.cn/mw690/006Es64Aly1foblrf1l7zj322d33k1l0.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Aly1foblrf1l7zj322d33k1l0.jpg"/></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="//wx4.sinaimg.cn/mw690/006Es64Aly1foblrcv7j8j32kw3vce88.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Aly1foblrcv7j8j32kw3vce88.jpg"/></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="//wx4.sinaimg.cn/mw690/006Es64Aly1foblrh8rtyj32kw3vc1l3.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Aly1foblrh8rtyj32kw3vc1l3.jpg"/></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="//wx1.sinaimg.cn/mw690/006Es64Aly1foblri05d9j31410qp46x.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Aly1foblri05d9j31410qp46x.jpg"/></a>
+  </li>
+  <li class="weibo-pic">
+    <a href="//wx1.sinaimg.cn/mw690/006Es64Aly1foblr9d2vcj33vc2kwnpl.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Aly1foblr9d2vcj33vc2kwnpl.jpg"/></a>
+  </li>
+</ul>
+
 ---
 
 <div class="weibo-info">
@@ -10,8 +41,6 @@ categories: [ 'yi-an-music-club' ]
 </div>
 
 [#YiAnGoodNightSeason2](https://weibo.com/p/10080802e621e237e7a16aab4b6d6d67e97a53) Annual meeting for 2018 Yi An Middle School outstanding students on [@KilaKila](https://weibo.com/u/5990184179) (formerly [@HongdouLive](https://weibo.com/u/5990184179)) [◉ Hongdou Live: 2018 Yi An Middle School outstanding students](http://www.hongdoufm.com/room/1098982870325657662)
-
-<!-- more -->
 
 ---
 
