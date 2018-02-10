@@ -10,3 +10,10 @@ categories: [ 'fang-xiang-rui' ]
 </div>
 
 It's the vacation!! [◉ Flash Show Video](https://www.miaopai.com/show/SsNBY5ipHiRJTQSjiFnuY6PvHHZFu6TedgGqRw__.htm)
+
+<!-- more -->
+
+*Comments*
+
+<div class="weibo-info">今天 19:05</div>
+[YiAnMusicClub-FangXiangRui](https://weibo.com/u/6117583008): Happy New Year, everybody. 🙈
