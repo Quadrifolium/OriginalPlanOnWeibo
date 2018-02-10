@@ -48,4 +48,4 @@ categories: [ 'yi-an-music-club' ]
 
 [#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) Sometimes, there are hasty but fierce quarrels. But the solemnly vowed faith and the smile and warmth on the way will certainly guide the boys to introspect and keep going. May we always be with each other in comprehension and trust, and enjoy the fragrance of plum blossom together. [#AsiaNewMusicChart](https://weibo.com/p/1008085d82c934b97e5cef62b0ed6ab7adc813)   
  [#YiAnMusicClub_24HoursInUrgency_Soundtrack_ThemeSong_DifferentTime_PublishedToday](https://weibo.com/p/1008087e1b648298ba80aa821f3fb6338f0c7e)  
-[▷ 不同时间](https://weibo.com/p/10151501_100425171)
+[▷ Different Time](https://weibo.com/p/10151501_100425171)
