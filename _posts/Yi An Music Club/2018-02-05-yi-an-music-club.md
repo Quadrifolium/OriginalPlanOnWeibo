@@ -10,8 +10,8 @@ categories: [ 'yi-an-music-club' ]
 </div>
 
 [#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) *Music Club Jottings* E26 released. Highlights:  
-\1. Why was LIN Mo taking photos with many others?  
-\2. Why was FANG Xiang-rui excited and swaying with the music?  
+1\. Why was LIN Mo taking photos with many others?  
+2\. Why was FANG Xiang-rui excited and swaying with the music?  
 This episode is now on-line. See the portal! [◉ Yi An Music Club Jottings E26](https://www.bilibili.com/video/av19176743/)
 
 <!-- more -->
