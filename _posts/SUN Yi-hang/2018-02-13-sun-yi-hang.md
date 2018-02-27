@@ -22,6 +22,8 @@ Yi-hang is watching U …
   </li>
 </ul>
 
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>
+
 *Comments*
 
 <div class="weibo-info">2018-02-13 17:09</div>

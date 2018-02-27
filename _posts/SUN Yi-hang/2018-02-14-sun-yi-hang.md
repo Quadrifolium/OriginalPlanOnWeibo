@@ -22,6 +22,8 @@ Hey :smirk:
   </li>
 </ul>
 
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>
+
 *Comments*
 
 <div class="weibo-info">2018-02-14 13:04</div>
