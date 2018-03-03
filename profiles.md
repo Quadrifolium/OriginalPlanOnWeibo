@@ -19,9 +19,9 @@ Weibo: [YiAnMusicClub-ChiYi](http://weibo.com/u/6117581836)
 | Age:          | 13
 | Birthday:     | 6th Jan.
 | Zodiac:       | ♑ Capricorn
-| Stature:      | 163cm  
+| Stature:      | 166cm  
 | Speciality:   | ⚽ Football
-| Class:        | Class 2, Junior Grade 1
+| Class:        | Class 3, Junior Grade 2
 
 ---
 
@@ -31,11 +31,11 @@ Weibo: [YiAnMusicClub-ChiYi](http://weibo.com/u/6117581836)
 
 Weibo: [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008)
 
-| Age:          | 15
+| Age:          | 16
 | Birthday:     | 22nd Nov.
 | Zodiac:       | ♏ Scorpio
-| Stature:      | 178cm
-| Class:        | Class 8, Junior Grade 3
+| Stature:      | 180cm
+| Class:        | Class 9, Senior Grade 1
 
 ---
 
@@ -45,11 +45,11 @@ Weibo: [YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008)
 
 Weibo: [YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574)
 
-| Age:          | 15
+| Age:          | 16
 | Birthday:     | 4th May
 | Zodiac:       | ♉ Taurus
-| Stature:      | 176cm
-| Class:        | Class 7, Junior Grade 2
+| Stature:      | 177cm
+| Class:        | Class 1, Junior Grade 3
 
 ---
 
@@ -59,11 +59,11 @@ Weibo: [YiAnMusicClub-HeLuoLuo](http://weibo.com/u/6117570574)
 
 Weibo: [YiAnMusicClub-LinMo](http://weibo.com/u/6108312042)
 
-| Age:          | 15
+| Age:          | 16
 | Birthday:     | 21st Dec.
 | Zodiac:       | ♐ Sagittarius
-| Stature:      | 174cm
-| Class:        | Class 7, Junior Grade 2
+| Stature:      | 176cm
+| Class:        | Class 1, Junior Grade 3
 
 ---
 
@@ -71,13 +71,13 @@ Weibo: [YiAnMusicClub-LinMo](http://weibo.com/u/6108312042)
 
 **SUN Yi-hang (孙亦航)**
 
-Weibo: [YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220)
+Weibo: [YiAnMusicClub-SunYiHang](http://weibo.com/u/6108316220) (Alt.: [@YXZHty](http://weibo.com/2565158051))
 
-| Age:          | 15
+| Age:          | 16
 | Birthday:     | 21st Oct.
 | Zodiac:       | ♎ Libra
-| Stature:      | 172cm
-| Class:        | Class 7, Junior Grade 2
+| Stature:      | 174cm
+| Class:        | Class 1, Junior Grade 3
 
 ---
 
@@ -90,5 +90,5 @@ Weibo: [YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526)
 | Age:          | 13
 | Birthday:     | 16th Aug.
 | Zodiac:       | ♌ Leo
-| Stature:      | 165cm
-| Class:        | Class 2, Junior Grade 1
+| Stature:      | 168cm
+| Class:        | Class 3, Junior Grade 2
