@@ -10,7 +10,7 @@ categories: [ 'yi-an-music-club' ]
 </div>
 
 [#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) [#OurTrainingRoom](https://weibo.com/p/100808980da3b9682ac1e47ba4bdf6540b7a03) [@YiAnMusicClub-FangXiangRui](https://weibo.com/u/6117583008)'s cover of *Bedtime Story* (睡前故事) released with tenderness~~  
-May the long night brings no nightmare, may you sleep in peace in every night; though the way stretches afar, may you have a partner by your side. Before the good-night, please listen to the bedtime story of ours. :heart:   
+May the long night brings no nightmare, may you sleep in peace in every night; though the way stretches afar, may you have a partner by your side. Before the good-night, please listen to the bedtime story of ours. :heart:  
 [◉ Flash Show Video](http://www.miaopai.com/show/zU3GtrZAQ8Tz2dvcASZdt6ORxtOimPdQ0Lj9hw__.htm)
 
 <!-- more -->
