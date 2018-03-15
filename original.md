@@ -46,5 +46,6 @@ Others:
 [OriginalPlan on Bilibili](http://space.bilibili.com/41417787/)  
 [Our Training Room on Bilibili](http://space.bilibili.com/161496139/) (unofficial)  
 [Yi An Music Club on KilaKila](http://www.hongdoufm.com/zhubo/2025994629131)  
+[Yi An Middle School on KilaKila](http://www.hongdoufm.com/zhubo/2040410796074)  
 [Yi An Music Club on Ximalaya FM](http://space.bilibili.com/41417787/) (deprecated)  
 [Original Plan on YouTube](https://www.youtube.com/channel/UCk23xpdgzB0PVM82Bp9tGwg) (suspended)  
