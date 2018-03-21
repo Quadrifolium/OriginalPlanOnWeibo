@@ -63,7 +63,7 @@ Thank you, dear parents, for your passion. Thank you, all the staff, for your ha
   <a href="https://weibo.com/6074218720/G7uKfezBp">2018-03-15 16:00</a>
 </div>
 
-[#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index)小学五年级的 XIA Qian-zhe (夏千喆) [@YiAnMiddleSchool-XiaQianZhe](https://weibo.com/u/6505420082) in Elementary Grade 5, is a quiet and obedient boy. He likes to soak himself in the world of drawing when staying alone, and is always healing the others with his pure and innocent smile when being with schoolmates. “Dear fellows in Yi An, nice to meet you~”
+[#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) XIA Qian-zhe (夏千喆) [@YiAnMiddleSchool-XiaQianZhe](https://weibo.com/u/6505420082) in Elementary Grade 5, is a quiet and obedient boy. He likes to soak himself in the world of drawing when staying alone, and is always healing the others with his pure and innocent smile when being with schoolmates. “Dear fellows in Yi An, nice to meet you~”
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
@@ -83,7 +83,7 @@ Thank you, dear parents, for your passion. Thank you, all the staff, for your ha
   <a href="https://weibo.com/6074218720/G7ulTfuB2">2018-03-15 15:00</a>
 </div>
 
-[#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index)WEN Yi (文溢) [@YiAnMiddleSchool-WenYi](https://weibo.com/u/6507106244) in Elementary Grade 6, is a slow starter, quiet and reserved. But he is very fond of freestyle basketball. “Dear fellows in Yi An, nice to meet you~”
+[#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) WEN Yi (文溢) [@YiAnMiddleSchool-WenYi](https://weibo.com/u/6507106244) in Elementary Grade 6, is a slow starter, quiet and reserved. But he is very fond of freestyle basketball. “Dear fellows in Yi An, nice to meet you~”
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
@@ -123,7 +123,7 @@ Thank you, dear parents, for your passion. Thank you, all the staff, for your ha
   <a href="https://weibo.com/6074218720/G7tzbk7dJ">2018-03-15 13:00</a>
 </div>
 
-[#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index)预备班六年级的 SHEN Yi-sheng (申义晟) [@YiAnMiddleSchool-ShenYiSheng](https://weibo.com/u/6507103706) in Elementary Grade 6, is a widely-recognised chatterbox. The boy with great self-confidence never misses any chance to show himself. “Dear fellows in Yi An, nice to meet you~”
+[#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) SHEN Yi-sheng (申义晟) [@YiAnMiddleSchool-ShenYiSheng](https://weibo.com/u/6507103706) in Elementary Grade 6, is a widely-recognised chatterbox. The boy with great self-confidence never misses any chance to show himself. “Dear fellows in Yi An, nice to meet you~”
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
@@ -163,7 +163,7 @@ Thank you, dear parents, for your passion. Thank you, all the staff, for your ha
   <a href="https://weibo.com/6074218720/G7sMt5Ttt">2018-03-15 11:00</a>
 </div>
 
-[#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index)小学五年级的FANG Jia-cheng (方加成) [@YiAnMiddleSchool-FangJiaCheng](https://weibo.com/u/6505661195) in Elementary Grade 5, is a Canadian mixed-blood, is the youngest resident student, and is also a crybaby who has to cuddle a doll in sleep. “Dear fellows in Yi An, nice to meet you~”
+[#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) FANG Jia-cheng (方加成) [@YiAnMiddleSchool-FangJiaCheng](https://weibo.com/u/6505661195) in Elementary Grade 5, is a Canadian mixed-blood, is the youngest resident student, and is also a crybaby who has to cuddle a doll in sleep. “Dear fellows in Yi An, nice to meet you~”
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
@@ -183,7 +183,7 @@ Thank you, dear parents, for your passion. Thank you, all the staff, for your ha
   <a href="https://weibo.com/6074218720/G7so7q7sA">2018-03-15 10:00</a>
 </div>
 
-[#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) 预备班六年级的 YAN Ke (闫钶) [@YiAnMiddleSchool-YanKe](https://weibo.com/u/6505423304) in Elementary Grade 6, is a quick-witted adorable Taurus. Because of his smiling eyes, the air is floating with sweet bubbles when he is speaking. “Dear fellows in Yi An, nice to meet you~”
+[#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) YAN Ke (闫钶) [@YiAnMiddleSchool-YanKe](https://weibo.com/u/6505423304) in Elementary Grade 6, is a quick-witted adorable Taurus. Because of his smiling eyes, the air is floating with sweet bubbles when he is speaking. “Dear fellows in Yi An, nice to meet you~”
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
