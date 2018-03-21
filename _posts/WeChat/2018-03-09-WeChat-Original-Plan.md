@@ -68,5 +68,5 @@ new article published on Original Plan Wechat account.
 
 **Activities in this week**  
 On Wednesday, *Yi An Good Night* on KilaKila (formerly Hongdou live) at 21:00  
-On Thursday, *Flowery China – CCTV Ceremony of Women of the Era* on CCTV-3 at 19:30; new article on Original Plan Wechat account.  
+On Thursday, *Flowery China – CCTV Ceremony of Women of the Era* on CCTV-3 at 19:30; new article on Original Plan Wechat account  
 On Friday, manga *Yi An Music Club* Season 2 on Weibo  
