@@ -1,8 +1,19 @@
 ---
 layout: post
 title: Yi An Middle School (易安中学)
-date: 2018-03-19 12:44
+date: 2018-03-19 21:16
 categories: [ 'yi-an-middle-school' ]
+---
+
+<div class="weibo-info">
+  <a href="https://weibo.com/6074218720/G88wK0mWM">2018-03-19 21:16</a>
+</div>
+
+[#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The premiere of [@YiAnMiddleSchool-ShenYiSheng](https://weibo.com/u/6507103706), who never misses any chance to project himself.  
+Let's see how this little chap expresses the dance of *Papillon*~ [◉ Flash Show Video](https://www.miaopai.com/show/9-~xGGlt1nArbPAxqU-FGwWq7-StIbgsROrtdQ__.htm)
+
+<!-- more -->
+
 ---
 
 <div class="weibo-info">
@@ -10,8 +21,6 @@ categories: [ 'yi-an-middle-school' ]
 </div>
 
 [#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) LIN Jia-hao (林嘉浩) [@YiAnMiddleSchool-LinJiaHao](https://weibo.com/6210352257) in Junior Grade 1, is fond of feeding small animals. Wherever he goes, there's special attraction for animals on him. “Dear fellows in Yi An, nice to meet you~”
-
-<!-- more -->
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
