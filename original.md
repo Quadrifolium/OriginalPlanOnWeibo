@@ -24,28 +24,28 @@ Note: Unless otherwise mentioned, all the links in this page are in Chinese.
 
 Virtual characters:  
 (Ordered by the time of the first post)  
-[YiAnMusicClub-HeLuoLuo](https://weibo.com/u/6117570574) - HE Luo-luo (何洛洛); student of Yi An Middle School.  
-[YiAnMusicClub-LinMo](https://weibo.com/u/6108312042) - LIN Mo (林墨); student of Yi An Middle School.  
-[YiAnMusicClub-SunYiHang](https://weibo.com/u/6108316220) - SUN Yi-hang (孙亦航) (Alt.: [@YXZHty](http://weibo.com/2565158051)); student of Yi An Middle School.  
-[YiAnMusicClub-ChiYi](https://weibo.com/u/6117581836) - CHI Yi (池忆); of Yi An Middle School.  
-[YiAnMusicClub-ZhanYiWen](https://weibo.com/u/6108090526) - ZHAN Yi-wen (展逸文); student of Yi An Middle School.  
-[YiAnMusicClub-FangXiangRui](https://weibo.com/u/6117583008) - FANG Xiang-rui (方翔锐); student of Yi An Middle School.  
-[YiAnMiddleSchool-XiaTianYi](https://weibo.com/6286030291) - XIA Tian-yi (夏天一); student of Yi An Middle School.  
-[YiAnMiddleSchool-LinJiaHao](https://weibo.com/6210352257) - LIN Jia-hao (林嘉浩); student of Yi An Middle School.  
-[YiAnMiddleSchool-EnHao](https://weibo.com/u/6346318257) - EN Hao (恩皓); student of Yi An Middle School.  
-[YiAnMiddleSchool-XiaQianZhe](https://weibo.com/u/6505420082) - XIA Qian-zhe (夏千喆); student of Yi An Middle School.  
-[YiAnMiddleSchool-FuYunZhe](https://weibo.com/u/6505655408) - FU Yun-zhe (傅韵哲); student of Yi An Middle School.  
-[YiAnMiddleSchool-ShenYiSheng](https://weibo.com/u/6507103706) - SHEN Yi-sheng (申义晟); student of Yi An Middle School.  
-[YiAnMiddleSchool-FangJiaCheng](https://weibo.com/u/6505661195) - FANG Jia-cheng (方加成); student of Yi An Middle School.  
-[YiAnMiddleSchool-YangYangYang](https://weibo.com/u/6505664746) - YANG Yang-yang (杨阳洋); student of Yi An Middle School.  
-[YiAnMiddleSchool-WenYi](https://weibo.com/u/6507106244) - WEN Yi (文溢); student of Yi An Middle School.  
-[YiAnMiddleSchool-YuMuYang](https://weibo.com/u/6505651747) - YU Mu-yang (余沐阳); student of Yi An Middle School.  
-[YiAnMiddleSchool-YanKe](https://weibo.com/u/6505423304) - YAN Ke (闫钶); student of Yi An Middle School.  
-[YiAnMiddleSchool-MoWenXuan](https://weibo.com/u/6505418468) - MO Wen-xuan (莫文轩); student of Yi An Middle School.  
-[YiAnMiddleSchool-YeXiaoAo](https://weibo.com/u/6340485168) - YE Xiao-ao (叶筱傲); student of Yi An Middle School.  
+[YiAnMusicClub-HeLuoLuo](https://weibo.com/u/6117570574) - HÉ Luò-luò (何洛洛); student of Yi An Middle School.  
+[YiAnMusicClub-LinMo](https://weibo.com/u/6108312042) - LíN Mò (林墨); student of Yi An Middle School.  
+[YiAnMusicClub-SunYiHang](https://weibo.com/u/6108316220) - SŪN Yì-háng (孙亦航) (Alt.: [@YXZHty](http://weibo.com/2565158051)); student of Yi An Middle School.  
+[YiAnMusicClub-ChiYi](https://weibo.com/u/6117581836) - CHÍ Yì (池忆); of Yi An Middle School.  
+[YiAnMusicClub-ZhanYiWen](https://weibo.com/u/6108090526) - ZHĂN Yì-wén (展逸文); student of Yi An Middle School.  
+[YiAnMusicClub-FangXiangRui](https://weibo.com/u/6117583008) - FĀNG Xiáng-ruì (方翔锐); student of Yi An Middle School.  
+[YiAnMiddleSchool-XiaTianYi](https://weibo.com/6286030291) - XIÀ Tiān-yī (夏天一); student of Yi An Middle School.  
+[YiAnMiddleSchool-LinJiaHao](https://weibo.com/6210352257) - LíN Jiā-hào (林嘉浩); student of Yi An Middle School.  
+[YiAnMiddleSchool-EnHao](https://weibo.com/u/6346318257) - ĒN Hào (恩皓); student of Yi An Middle School.  
+[YiAnMiddleSchool-XiaQianZhe](https://weibo.com/u/6505420082) - XIÀ Qiān-zhé (夏千喆); student of Yi An Middle School.  
+[YiAnMiddleSchool-FuYunZhe](https://weibo.com/u/6505655408) - FÙ Yùn-zhé (傅韵哲); student of Yi An Middle School.  
+[YiAnMiddleSchool-ShenYiSheng](https://weibo.com/u/6507103706) - SHĒN Yì-shēng (申义晟); student of Yi An Middle School.  
+[YiAnMiddleSchool-FangJiaCheng](https://weibo.com/u/6505661195) - FĀNG Jiā-chéng (方加成); student of Yi An Middle School.  
+[YiAnMiddleSchool-YangYangYang](https://weibo.com/u/6505664746) - YÁNG Yáng-yáng (杨阳洋); student of Yi An Middle School.  
+[YiAnMiddleSchool-WenYi](https://weibo.com/u/6507106244) - WÉN Yì (文溢); student of Yi An Middle School.  
+[YiAnMiddleSchool-YuMuYang](https://weibo.com/u/6505651747) - YÚ Mù-yáng (余沐阳); student of Yi An Middle School.  
+[YiAnMiddleSchool-YanKe](https://weibo.com/u/6505423304) - YÁN Kē (闫钶); student of Yi An Middle School.  
+[YiAnMiddleSchool-MoWenXuan](https://weibo.com/u/6505418468) - MÒ Wén-xuān (莫文轩); student of Yi An Middle School.  
+[YiAnMiddleSchool-YeXiaoAo](https://weibo.com/u/6340485168) - YÈ Xiăo-ào (叶筱傲); student of Yi An Middle School.  
 
 Others:  
-[Havison](https://weibo.com/havison) - HUANG Rui (黄锐, Havison); CEO of Original Plan.
+[Havison](https://weibo.com/havison) - HUÁNG Ruì (黄锐, Havison); CEO of Original Plan.
 
 **On SNS: Other websites**
 
