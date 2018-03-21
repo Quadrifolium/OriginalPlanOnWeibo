@@ -1,8 +1,18 @@
 ---
 layout: post
 title: Yi An Middle School (易安中学)
-date: 2018-03-21 20:06
+date: 2018-03-21 20:59
 categories: [ 'yi-an-middle-school' ]
+---
+
+<div class="weibo-info">
+  <a href="https://weibo.com/6074218720/G8rgQrE28">2018-03-21 20:59</a>
+</div>
+
+[#KilaKila](https://weibo.com/p/100808444c397a1ebcbfce76c650c277055e10) *Yi An Good Night* S02E19 on [@KilaKila](https://weibo.com/u/5990184179) (formerly [@HongdouLive](https://weibo.com/u/5990184179)) [◉ KilaKila: Yi An Good Night S02E19](http://www.hongdoufm.com/room/1113809286410010637)
+
+<!-- more -->
+
 ---
 
 <div class="weibo-info">
@@ -10,8 +20,6 @@ categories: [ 'yi-an-middle-school' ]
 </div>
 
 [#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) Fang-fang can be so fast to get into play~
-
-<!-- more -->
 
 > <div class="weibo-post-name">
 >   <a href="https://weibo.com/u/6094546964">YiAnMusicClub</a>
