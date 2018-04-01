@@ -14,6 +14,9 @@ The ace of Yi An Acrobat Club can also sing Peking Opera! [◉ Flash Show Video]
 
 <!-- more -->
 
+Note:
+1. This video is also on Bilibili: [◉ Yi An Growth Plan – XIA Tian-yi's introduction](https://www.bilibili.com/video/av21254092)
+
 ---
 
 <div class="weibo-info">
@@ -22,3 +25,6 @@ The ace of Yi An Acrobat Club can also sing Peking Opera! [◉ Flash Show Video]
 
 [#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The premiere of [@YiAnMiddleSchool-FangJiaCheng](https://weibo.com/u/6505661195), the crybaby!  
 The boy's dance looks nice! [◉ Flash Show Video](https://www.miaopai.com/show/gkX2G12LijN4dIw5UWh4tSfomJ26fcjzsPsxhA__.htm)
+
+Note:
+1. This video is also on Bilibili: [◉ Yi An Growth Plan – FANG Jia-cheng's introduction](https://www.bilibili.com/video/av21253879)

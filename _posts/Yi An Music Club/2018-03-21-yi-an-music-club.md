@@ -17,3 +17,4 @@ categories: [ 'yi-an-music-club' ]
 Note:
 1. Xinwen Lianbo (新闻联播) is the most widely broadcast news programme in China.
 1. A Simple Song (一首简单的歌), Wang Leehom (王力宏), Shangri-La (心中的日月), 2004.
+1. This video is also on Bilibili: [◉ Yi An Growth Plan – FANG Xiang-rui's introduction](https://www.bilibili.com/video/av21052482)

@@ -14,13 +14,16 @@ A clip of the trip to Beijing for CCTV recording is on-line~ Take the sidelight 
 
 <!-- more -->
 
+Note:
+1. This video is also on Bilibili: [◉ Yi An Music Club – Sidelights of CCTV recording in Beijing](http://www.bilibili.com/video/av20518823)
+
+---
+
 <div class="weibo-info">
   <a href="https://weibo.com/6094546964/G6oWwpXSR">2018-03-08 11:23</a>
 </div>
 
 [#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) Preview of Yi An boys in red for the stage tonight~ The team of [@ZuHai](https://weibo.com/zuhai) and the comic boys will be presented. Are you waiting for it? 🤗
-
-<!-- more -->
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">

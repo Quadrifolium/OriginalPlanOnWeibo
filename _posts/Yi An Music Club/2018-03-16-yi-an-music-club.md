@@ -14,6 +14,9 @@ categories: [ 'yi-an-music-club' ]
 
 <!-- more -->
 
+Note:
+1. This video is also on Bilibili: [◉ Yi An Music Club – Unfettered cover of "Confession Balloon"](https://www.bilibili.com/video/av20850358)
+
 ---
 
 <div class="weibo-info">

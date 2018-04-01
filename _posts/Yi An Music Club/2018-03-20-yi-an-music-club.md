@@ -13,6 +13,9 @@ categories: [ 'yi-an-music-club' ]
 
 <!-- more -->
 
+Note:
+1. This video is also on Bilibili: [◉ Yi An Growth Plan – HE Luo-luo's introduction](http://www.bilibili.com/video/av21018555)
+
 ---
 
 <div class="weibo-info">

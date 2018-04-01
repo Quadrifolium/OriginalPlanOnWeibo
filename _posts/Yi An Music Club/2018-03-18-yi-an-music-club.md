@@ -67,3 +67,7 @@ After the draw for grouping and songs, the result is as follows: …
 [#DailyLifeOfYiAnBoys](https://weibo.com/p/100808bf13d14673176f6dffac5481debd621e)  
 This is an activity which the reporter LIN Mo defined as “solemn and nasty”, this is a video with “special smell” from Mr. Leader. :point_right:🏻 Today's benefit of “knapsack raiding 1.0” is on-line with cuteness. Have a nice weekend. (∩_∩)  
 [◉ Flash Show Video](http://www.miaopai.com/show/7NPburJU9TD7V9Kv~ORBJD1vy18b-~pwPZMDkQ__.htm)
+
+Note:
+1. This video is also on Bilibili: [◉ Yi An Music Club – Knapsack raiding 1.0](https://www.bilibili.com/video/av20923133)
+1. There is another video on Bilibili on 27th March: [◉ Yi An Music Club – Knapsack raiding 2.0](https://www.bilibili.com/video/av21304682)

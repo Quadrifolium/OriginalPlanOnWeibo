@@ -34,6 +34,9 @@ Note:
 [#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The premiere of [@YiAnMiddleSchool-EnHao](https://weibo.com/u/6346318257), the boy who is fond of singing, dancing, and has the skill of moving ears!  
 This time, EN Hao shows you a different dance with tenderness~ [◉ Flash Show Video](https://www.miaopai.com/show/oyFvCZmamlE46OLOypzIiZXLecK-KVwBjtB8Yg__.htm)
 
+Note:
+1. This video is also on Bilibili: [◉ Yi An Growth Plan – EN Hao's introduction](https://www.bilibili.com/video/av21093070)
+
 ---
 
 <div class="weibo-info">
@@ -42,3 +45,6 @@ This time, EN Hao shows you a different dance with tenderness~ [◉ Flash Show V
 
 [#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The premiere of [@YiAnMiddleSchool-MoWenXuan](https://weibo.com/u/6505418468) the Rubic's Cube expert!  
 And the acrobatics from this expert~ [◉ Flash Show Video](https://www.miaopai.com/show/YvmweLQzi4LdQITqTUiIS21-PRLQhQobaGMwSw__.htm)
+
+Note:
+1. This video is also on Bilibili: [◉ Yi An Growth Plan – MO Wen-xuan's introduction](https://www.bilibili.com/video/av21080913)

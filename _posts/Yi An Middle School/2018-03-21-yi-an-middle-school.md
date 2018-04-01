@@ -40,7 +40,8 @@ categories: [ 'yi-an-middle-school' ]
 [#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index)[#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The premiere of [@YiAnMiddleSchool-YuMuYang](https://weibo.com/u/6505651747) the locking prince!  
 I didn't expect you have such a skill except locking~ ![smile but keep quiet](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3a/moren_xiaoerbuyu_org.png) [◉ Flash Show Video](https://www.miaopai.com/show/d2x3MLhI9S~XZ4iGt4PFb1GlzPFdsOwJiN~uPw__.htm)
 
-<!-- more -->
+Note:
+1. This video is also on Bilibili: [◉ Yi An Growth Plan – YU Mu-yang's introduction](https://www.bilibili.com/video/av21052823)
 
 ---
 
@@ -50,3 +51,6 @@ I didn't expect you have such a skill except locking~ ![smile but keep quiet](ht
 
 [#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The premiere of [@YiAnMiddleSchool-YeXiaoAo](https://weibo.com/u/6340485168), the quick-witted and quirky little boy.  
 Catwalk? Close-up photos? Just a piece of cake! [◉ Flash Show Video](https://www.miaopai.com/show/5lMr9LkTVtTCVzDBhammk5Uy6tU2aUdA400tqw__.htm)
+
+Note:
+1. This video is also on Bilibili: [◉ Yi An Growth Plan – YE Xiao-ao's introduction](https://www.bilibili.com/video/av21043320)

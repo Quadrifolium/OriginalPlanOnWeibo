@@ -31,6 +31,9 @@ categories: [ 'yi-an-middle-school' ]
 [#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The premiere of [@YiAnMiddleSchool-LinJiaHao](https://weibo.com/6210352257) the animal presenter!  
 Do you want to see Jia-hao *didi*'s magic show? [◉ Flash Show Video](https://www.miaopai.com/show/tku95TsRhcdt~TO3tkZ4SAHymmQ7Ghf05UOPTw__.htm)
 
+Note:
+1. This video is also on Bilibili: [◉ Yi An Growth Plan – LIN Jia-hao's introduction](https://www.bilibili.com/video/av21016249)
+
 ---
 
 <div class="weibo-info">
@@ -39,3 +42,6 @@ Do you want to see Jia-hao *didi*'s magic show? [◉ Flash Show Video](https://w
 
 [#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The premiere of [@YiAnMiddleSchool-WenYi](https://weibo.com/u/6507106244), the boy skilled at freestyle basketball!  
 Let's see how he dances with basketball~ [◉ Flash Show Video](https://www.miaopai.com/show/s~F0vWFrI~UkLka5-wlD8bhcu3bPnVC3Nob4cQ__.htm)
+
+Note:
+1. This video is also on Bilibili: [◉ Yi An Growth Plan – WEN Yi's introduction](https://www.bilibili.com/video/av21004469)

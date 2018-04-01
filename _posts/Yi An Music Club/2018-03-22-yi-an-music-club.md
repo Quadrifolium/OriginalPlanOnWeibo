@@ -13,6 +13,9 @@ categories: [ 'yi-an-music-club' ]
 
 <!-- more -->
 
+Note:
+1. This video is also on Bilibili: [◉ Yi An Growth Plan – LIN Mo's introduction](https://www.bilibili.com/video/av21097978)
+
 ---
 
 <div class="weibo-info">

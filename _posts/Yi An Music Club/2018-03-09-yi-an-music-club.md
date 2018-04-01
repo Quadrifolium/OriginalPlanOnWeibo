@@ -16,6 +16,7 @@ categories: [ 'yi-an-music-club' ]
 
 Note:
 1. Meimei (妹妹), younger sister.
+1. This video is also on Bilibili: [◉ Yi An Music Club – Quick Q&A](https://www.bilibili.com/video/av20549668)
 
 ---
 

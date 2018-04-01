@@ -14,6 +14,9 @@ Let's see how this little chap expresses the dance of *Papillon*~ [◉ Flash Sho
 
 <!-- more -->
 
+Note:
+1. This video is also on Bilibili: [◉ Yi An Growth Plan – SHEN Yi-sheng's introduction](https://www.bilibili.com/video/av21004358)
+
 ---
 
 <div class="weibo-info">

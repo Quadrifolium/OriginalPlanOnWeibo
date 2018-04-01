@@ -17,6 +17,7 @@ categories: [ 'yi-an-music-club' ]
 
 Note:
 1. Room (房间), LIU Rui-qi (刘瑞琦), The Private Song (私房歌), 2013.
+1. This video is also on Bilibili: [◉ Yi An Music Club – HE Luo-luo – "Room"](https://www.bilibili.com/video/av20620591)
 
 ---
 
@@ -26,3 +27,6 @@ Note:
 
 [#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) The boys have finished the trip to Beijing and returned to Shanghai! But there are some lively discussion about the trip. Want to learn about it? :yum:  
 [◉ Flash Show Video](http://www.miaopai.com/show/VF89~g8Tz1MA1RL2-hYof06zC6V4fNEy-I4yjw__.htm)
+
+Note:
+1. This video is also on Bilibili: [◉ Yi An Music Club – Quick Q&A on the Beijing Trip](https://www.bilibili.com/video/av20596792)

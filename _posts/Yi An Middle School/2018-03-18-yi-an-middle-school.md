@@ -56,6 +56,9 @@ Besides, there will be a hidden song themed as respect for senior singers. Pleas
 [#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152)  
 The *special* trailer of Yi An boys is coming. Please wait for the stage shows in April! :metal: [◉ Flash Show Video](https://www.miaopai.com/show/Tbt5HzKOOddkgHmfK0Y8RlrB7GJzEFjzWOsV4w__.htm)
 
+Note:
+1. This video is also on Bilibili: [◉ Yi An Middle School – Yi An "Growth Plan" trailer](https://www.bilibili.com/video/av20930675)
+
 ---
 
 <div class="weibo-info">

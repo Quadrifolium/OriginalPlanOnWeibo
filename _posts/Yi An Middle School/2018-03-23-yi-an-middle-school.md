@@ -31,6 +31,9 @@ categories: [ 'yi-an-middle-school' ]
 [#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The premiere of [@YiAnMiddleSchool-FuYunZhe](https://weibo.com/u/6505655408), a shy boy!  
 Not only the fast transfer to a godfather. [◉ Flash Show Video](https://www.miaopai.com/show/Ikd9Q8K3MYsQ9SWArH1xHiNUGZ0iQvHOvQPQsw__.htm)
 
+Note:
+1. This video is also on Bilibili: [◉ Yi An Growth Plan – FU Yun-zhe's introduction](https://www.bilibili.com/video/av21118269)
+
 ---
 
 <div class="weibo-info">
@@ -39,3 +42,6 @@ Not only the fast transfer to a godfather. [◉ Flash Show Video](https://www.mi
 
 [#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The premiere of [@YiAnMiddleSchool-XiaQianZhe](https://weibo.com/u/6505420082), an obedient guy!  
 He can also be a good actor. ![cute](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/14/tza_org.gif) [◉ Flash Show Video](https://weibo.com/tv/v/G8HYypB8D)
+
+Note:
+1. This video is also on Bilibili: [◉ Yi An Growth Plan – XIA Qian-zhe's introduction](https://www.bilibili.com/video/av21118199)

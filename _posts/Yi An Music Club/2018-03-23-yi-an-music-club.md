@@ -13,6 +13,9 @@ categories: [ 'yi-an-music-club' ]
 
 <!-- more -->
 
+Note:
+1. This video is also on Bilibili: [◉ Yi An Growth Plan – CHI Yi's introduction](https://www.bilibili.com/video/av21118333)
+
 ---
 
 <div class="weibo-info">
@@ -21,6 +24,9 @@ categories: [ 'yi-an-music-club' ]
 
 [#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) The “food live” is here! Which dish was called “brick” by CHI Yi? Which delicacy was strongly recommended by the Chongqing guys – Fang-fang and Mo-mo? What word from the leader Luo-luo astonished all the others? Come and share your gourmet atlas to the boys. ![come](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif)  
 [◉ Flash Show Video](https://www.miaopai.com/show/nPEJGipDr2SBttlUSwZQ-9kbEaX8Q1dT5kf39A__.htm)
+
+Note:
+1. This video is also on Bilibili: [◉ Yi An Music Club – Food live](https://www.bilibili.com/video/av21139716)
 
 ---
 
