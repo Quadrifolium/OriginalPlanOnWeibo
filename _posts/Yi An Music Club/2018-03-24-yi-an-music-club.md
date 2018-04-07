@@ -45,3 +45,4 @@ Mm, here comes Yi An Animal Club. Come and take a look. ![cover eyes](https://im
 Note:
 1. “Ān-Shĭ Zhī Luàn” (安史之乱; 755–763), An Lushan Rebellion or An–Shi Disturbances, was a devastating rebellion against the Tang dynasty of China.
 1. “Ān-Shĭ Zhī Lǜ” sounds similar to “I am a donkey” in some dialect of Chinese, while Chinese people usually take donkey as the description of being silly.
+1. This video is now unreachable. A duplication is published on Bilibili: [◉ The prank – Ān-Shĭ Zhī Lǜ](https://www.bilibili.com/video/av21630551)
