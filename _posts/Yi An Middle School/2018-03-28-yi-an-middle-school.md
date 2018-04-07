@@ -10,7 +10,7 @@ categories: [ 'yi-an-middle-school' ]
 </div>
 
 [#YiAnGoodNight](https://weibo.com/p/10080892b104a59bff303ca883e7931b5b916e/super_index) Be wild before we get old. We are broadcasting live on [@KilaKila](https://weibo.com/u/5990184179)~ Please listen carefully, you will have the chance to interact. ![crafty](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/yx_org.gif)![smile but keep quiet](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3a/moren_xiaoerbuyu_org.png)![shy](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/shamea_org.gif)  
-[◉ KilaKila: Yi An Good Night S02E19](http://www.hongdoufm.com/room/1116378892328763445)
+[◉ KilaKila: Yi An Good Night S02E20](http://www.hongdoufm.com/room/1116378892328763445)
 
 <!-- more -->
 
