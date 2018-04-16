@@ -13,6 +13,9 @@ categories: [ 'yi-an-middle-school' ]
 
 <!-- more -->
 
+Note:
+1. This video is also on Bilibili: [◉ Yi An Info Station – YU Mu-yang's quick Q&A](https://www.bilibili.com/video/av21689794)
+
 ---
 
 <div class="weibo-info">
