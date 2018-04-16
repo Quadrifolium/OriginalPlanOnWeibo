@@ -21,3 +21,5 @@ Hello, everyone. This is SUN Yi-hang, transferred from another school. I'm sorry
 > </div>
 > 30th March is the special day for the boys in [#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index). From this day, they started to have the new identities …  
 > <small>* View multimedia content(s) on the original page.</small>
+
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>

@@ -30,3 +30,5 @@ What in my eyes is …?
     <a href="//wx2.sinaimg.cn/mw690/98e534a3ly1fpvzztz9zaj21dc0ww4ny.jpg"><img src="//wx2.sinaimg.cn/thumb150/98e534a3ly1fpvzztz9zaj21dc0ww4ny.jpg"/></a>
   </li>
 </ul>
+
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>

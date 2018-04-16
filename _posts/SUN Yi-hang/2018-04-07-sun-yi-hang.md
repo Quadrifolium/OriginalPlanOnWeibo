@@ -15,6 +15,8 @@ Mm … [◉ Flash Show Video](https://www.miaopai.com/show/kdvoYVZClWuWcx1L~cZkC
 
 <!-- more -->
 
+<small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>
+
 *Comments*
 
 <div class="weibo-info">2018-04-07 14:35</div>
