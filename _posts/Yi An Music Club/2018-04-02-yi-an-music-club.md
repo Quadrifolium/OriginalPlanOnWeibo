@@ -15,7 +15,7 @@ categories: [ 'yi-an-music-club' ]
 3\. Bustling! The members reveal how boisterous the dorm is in the evening.  
 PS: I won't tell you CHI Yi the little angel gave a 3-minute show of eating watermelon.  
 See the link below :point_down:×3  
-[◉ Bilibili](https://www.bilibili.com/video/av21543237)
+[◉ Music Club Jottings E33](https://www.bilibili.com/video/av21543237)
 
 <!-- more -->
 
