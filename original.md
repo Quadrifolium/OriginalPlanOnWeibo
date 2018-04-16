@@ -26,7 +26,7 @@ Virtual characters:
 (Ordered by the time of the first post)  
 [YiAnMusicClub-HeLuoLuo](https://weibo.com/u/6117570574) - HÉ Luò-luò (何洛洛); student of Yi An Middle School.  
 [YiAnMusicClub-LinMo](https://weibo.com/u/6108312042) - LíN Mò (林墨); student of Yi An Middle School.  
-[YiAnMusicClub-SunYiHang](https://weibo.com/u/6108316220) - SŪN Yì-háng (孙亦航) (Alt.: [@YXZHty](http://weibo.com/2565158051)); student of Yi An Middle School.  
+[YiAnMusicClub-SunYiHang](http://weibo.com/2565158051) - SŪN Yì-háng (孙亦航) (formerly used as @YXZHty, the [first used account](https://weibo.com/u/6108316220) is inaccessible); student of Yi An Middle School.  
 [YiAnMusicClub-ChiYi](https://weibo.com/u/6117581836) - CHÍ Yì (池忆); of Yi An Middle School.  
 [YiAnMusicClub-ZhanYiWen](https://weibo.com/u/6108090526) - ZHĂN Yì-wén (展逸文); student of Yi An Middle School.  
 [YiAnMusicClub-FangXiangRui](https://weibo.com/u/6117583008) - FĀNG Xiáng-ruì (方翔锐); student of Yi An Middle School.  
