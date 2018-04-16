@@ -14,3 +14,8 @@ categories: [ 'yi-an-music-club' ]
 2\. Language lesson: The torment of tongue twister comes, with the punishment of push-ups.  
 Click the link to watch~  
 [◉ Music Club Jottings E35](https://www.bilibili.com/video/av22169466)
+
+<!-- more -->
+
+Note:
+1. *Leon: The Rookie* is a mock name coming from *Leon: The Professional*.
