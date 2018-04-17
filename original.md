@@ -25,13 +25,13 @@ Note: Unless otherwise mentioned, all the links in this page are in Chinese.
 Members:  
 (Ordered by the time of the first post)  
 [YiAnMusicClub-HeLuoLuo](https://weibo.com/u/6117570574) - HÉ Luò-luò (何洛洛); student of Yi An Middle School.  
-[YiAnMusicClub-LinMo](https://weibo.com/u/6108312042) - LíN Mò (林墨); student of Yi An Middle School.  
+[YiAnMusicClub-LinMo](https://weibo.com/u/6108312042) - LÍN Mò (林墨); student of Yi An Middle School.  
 [YiAnMusicClub-SunYiHang](http://weibo.com/2565158051) - SŪN Yì-háng (孙亦航) (formerly used as @YXZHty, the [first used account](https://weibo.com/u/6108316220) is inaccessible); student of Yi An Middle School.  
 [YiAnMusicClub-ChiYi](https://weibo.com/u/6117581836) - CHÍ Yì (池忆); student of Yi An Middle School.  
 [YiAnMusicClub-ZhanYiWen](https://weibo.com/u/6108090526) - ZHĂN Yì-wén (展逸文); student of Yi An Middle School.  
 [YiAnMusicClub-FangXiangRui](https://weibo.com/u/6117583008) - FĀNG Xiáng-ruì (方翔锐); student of Yi An Middle School.  
 [YiAnMiddleSchool-XiaTianYi](https://weibo.com/6286030291) - XIÀ Tiān-yī (夏天一); student of Yi An Middle School.  
-[YiAnMiddleSchool-LinJiaHao](https://weibo.com/6210352257) - LíN Jiā-hào (林嘉浩); student of Yi An Middle School.  
+[YiAnMiddleSchool-LinJiaHao](https://weibo.com/6210352257) - LÍN Jiā-hào (林嘉浩); student of Yi An Middle School.  
 [YiAnMiddleSchool-EnHao](https://weibo.com/u/6346318257) - ĒN Hào (恩皓); student of Yi An Middle School.  
 [YiAnMiddleSchool-XiaQianZhe](https://weibo.com/u/6505420082) - XIÀ Qiān-zhé (夏千喆); student of Yi An Middle School.  
 [YiAnMiddleSchool-FuYunZhe](https://weibo.com/u/6505655408) - FÙ Yùn-zhé (傅韵哲); student of Yi An Middle School.  
