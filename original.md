@@ -22,12 +22,12 @@ Note: Unless otherwise mentioned, all the links in this page are in Chinese.
 [YiAnMusicClub](https://weibo.com/u/6094546964) - Music Club of Yi An Middle School  
 [YiAnMultimediaCentre](https://weibo.com/u/6196825252) - The Multimedia Centre of Yi An Middle School (renamed as “Yi An New Media Centre” since 2018-03-09)  
 
-Virtual characters:  
+Members:  
 (Ordered by the time of the first post)  
 [YiAnMusicClub-HeLuoLuo](https://weibo.com/u/6117570574) - HÉ Luò-luò (何洛洛); student of Yi An Middle School.  
 [YiAnMusicClub-LinMo](https://weibo.com/u/6108312042) - LíN Mò (林墨); student of Yi An Middle School.  
 [YiAnMusicClub-SunYiHang](http://weibo.com/2565158051) - SŪN Yì-háng (孙亦航) (formerly used as @YXZHty, the [first used account](https://weibo.com/u/6108316220) is inaccessible); student of Yi An Middle School.  
-[YiAnMusicClub-ChiYi](https://weibo.com/u/6117581836) - CHÍ Yì (池忆); of Yi An Middle School.  
+[YiAnMusicClub-ChiYi](https://weibo.com/u/6117581836) - CHÍ Yì (池忆); student of Yi An Middle School.  
 [YiAnMusicClub-ZhanYiWen](https://weibo.com/u/6108090526) - ZHĂN Yì-wén (展逸文); student of Yi An Middle School.  
 [YiAnMusicClub-FangXiangRui](https://weibo.com/u/6117583008) - FĀNG Xiáng-ruì (方翔锐); student of Yi An Middle School.  
 [YiAnMiddleSchool-XiaTianYi](https://weibo.com/6286030291) - XIÀ Tiān-yī (夏天一); student of Yi An Middle School.  
@@ -57,5 +57,5 @@ Others:
 [Our Training Room on Bilibili](http://space.bilibili.com/161496139/) (unofficial)  
 [Yi An Music Club on KilaKila](http://www.hongdoufm.com/zhubo/2025994629131)  
 [Yi An Middle School on KilaKila](http://www.hongdoufm.com/zhubo/2040410796074)  
-[Yi An Music Club on Ximalaya FM](http://space.bilibili.com/41417787/) (deprecated)  
+[Yi An Music Club on Ximalaya FM](http://space.bilibili.com/41417787/) (rarely used)  
 [Original Plan on YouTube](https://www.youtube.com/channel/UCk23xpdgzB0PVM82Bp9tGwg) (suspended)  
