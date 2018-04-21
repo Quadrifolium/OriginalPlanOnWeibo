@@ -1,8 +1,24 @@
 ---
 layout: post
 title: Yi An Middle School (易安中学)
-date: 2018-04-19 17:08
+date: 2018-04-19 23:11
 categories: [ 'yi-an-middle-school' ]
+---
+
+<div class="weibo-info">
+  <a href="https://weibo.com/6074218720/GcRwB2GFQ">2018-04-19 23:11</a>
+</div>
+
+[#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) To implement the motto of Yi An Middle School, a raid to the dormitory was taken today. Is there any secret hidden? The new programme, *Our Dormitory*, has the first episode released!
+
+<!-- more -->
+
+Highlights:  
+1\. The cook LIN Mo and the team of “Wen & Luo” take culinary skill competition. Will Lin's skill on instant noodle take the crown?  
+2\. [@YiAnMusicClub](https://weibo.com/u/6094546964)'s anniversary turns to a touching short play. What really happened in the dormitory?  
+Click the link to get the answers~ :point_right: [◉ Yi An Music Club – Our Dormitory E01](https://www.bilibili.com/video/av22309269)  
+A new stipulation added: “Dorm inspection” in every Thursday evening.
+
 ---
 
 <div class="weibo-info">
@@ -10,8 +26,6 @@ categories: [ 'yi-an-middle-school' ]
 </div>
 
 You got the chance! Take a look at this one, if you haven't got a ticket~ ![applaud](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×2
-
-<!-- more -->
 
 > <div class="weibo-post-name">
 >   <a href="https://weibo.com/hunantv">MangoTV</a>
