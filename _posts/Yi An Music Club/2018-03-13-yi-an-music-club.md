@@ -28,5 +28,5 @@ Go for the better self, go for the better China! Challenge of the finger dance f
 > <div class="weibo-info">
 >   <a href="https://weibo.com/6074218720/G7b8g2qV5">2018-03-13 14:04</a>
 > </div>
-> [#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) Extra! Extra! :loudspeaker: To make more people to watch *Yi An After School*, from 17th March, the show will be on [@iQiyi](https://weibo.com/qiyiguanbo) at 12:00 every other Saturday~ The key is: it is free! Please tell whoever you know. ![doge cat](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif) [@iQiyiEnt](https://weibo.com/qiyizongyi)  
+> [#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) Extra! Extra! :loudspeaker: To make more people to watch *Yi An After School*, from 17th March, the show will be on [@iQiyi](https://weibo.com/qiyiguanbo) at 12:00 every other Saturday~ The key is: it is free! Please tell whoever you know. ![doge cat](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif) [@iQiyiVarietyShow](https://weibo.com/qiyizongyi)  
 > <small>* View multimedia content(s) on the original page.</small>
