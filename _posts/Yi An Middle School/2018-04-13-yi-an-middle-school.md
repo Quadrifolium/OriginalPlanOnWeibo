@@ -10,7 +10,7 @@ categories: [ 'yi-an-middle-school' ]
 </div>
 
 [#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) [#YiAnAfterSchool](https://weibo.com/p/100808f57cd722476872700a5522853faa7576)  
-It's the week for *Yi An After School* again! At 12:00 tomorrow, don't forget to watch the latest episode on [@iQiyiEnt](https://weibo.com/qiyizongyi). Here's the photos of the recording. ![applaud](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×2
+It's the week for *Yi An After School* again! At 12:00 tomorrow, don't forget to watch the latest episode on [@iQiyiVarietyShow](https://weibo.com/qiyizongyi). Here's the photos of the recording. ![applaud](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif)×2
 
 <!-- more -->
 

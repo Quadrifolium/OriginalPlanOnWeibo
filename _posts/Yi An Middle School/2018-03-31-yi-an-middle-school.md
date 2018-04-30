@@ -14,5 +14,5 @@ S02E02 released on time!
 How did Yi An boys cope with the test of being uniform?  
 What action of the big wheel made the boys dizzy?  
 Don't wait any more, the exclusive variety show of Yi An boys is out~  
-[@iQiyiEnt](https://weibo.com/qiyizongyi)  
+[@iQiyiVarietyShow](https://weibo.com/qiyizongyi)  
 [◉ Yi An After School S02E02](http://www.iqiyi.com/v_19rrc7wu30.html)

@@ -27,5 +27,5 @@ At 14:00 of this Sunday, the students applied for *Growth Plan* should gather in
 [#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) [#YiAnAfterSchool](https://weibo.com/p/100808f57cd722476872700a5522853faa7576)  
 S02E01 is now on-line. Please watch how the boys interpret the meaning of being unified, why FANG Xiang-rui was fouled by HE Luo-luo.  
 The spirit of unity is burning, the will of fighting is arousing!  
-[@iQiyiEnt](https://weibo.com/qiyizongyi)  
+[@iQiyiVarietyShow](https://weibo.com/qiyizongyi)  
 [◉ Yi An After School S02E01](http://www.iqiyi.com/v_19rrbdsxj8.html)
