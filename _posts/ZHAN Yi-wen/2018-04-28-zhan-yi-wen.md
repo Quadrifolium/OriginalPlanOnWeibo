@@ -42,3 +42,6 @@ Benefit for 300,000 followers. We went to Tian'anmen Square today, and the maste
     <a href="//wx4.sinaimg.cn/mw690/006FmVn8ly1fqsoparmc0j30ku112tc3.jpg"><img src="//wx4.sinaimg.cn/thumb150/006FmVn8ly1fqsoparmc0j30ku112tc3.jpg"/></a>
   </li>
 </ul>
+
+Note:
+1. The last image is intentionally left blank.
