@@ -14,7 +14,7 @@ categories: [ 'fang-xiang-rui' ]
 <!-- more -->
 
 <a href="//wx2.sinaimg.cn/mw690/006G0KNGgy1fqtexaiyqnj32c01b9e5r.jpg">
-  <img class="weibo-pic-preview" src="//wx2.sinaimg.cn/orj360/006G0KNGgy1fqtexaiyqnj32c01b9e5r.jpg" />
+  <img class="weibo-pic-preview-h" src="//wx2.sinaimg.cn/orj360/006G0KNGgy1fqtexaiyqnj32c01b9e5r.jpg" />
 </a>
 
 *Comments*
