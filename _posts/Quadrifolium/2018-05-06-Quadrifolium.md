@@ -7,6 +7,8 @@ categories: [ 'quadrifolium' ]
 
 **Translation suspending**
 
+(Weibo posts since 1st May will be added after the translation restores.)
+
 <!-- more -->
 
 Due to the fatal hardware failure of my personal laptop, and the fact that the working laptop I am currently using is in Windows 7, which cannot run the assistive UWP gadget I wrote for doing the job, the translation of Weibo posts has to be suspended for an unknown period of time.
