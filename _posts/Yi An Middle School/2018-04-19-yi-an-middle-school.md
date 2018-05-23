@@ -16,7 +16,7 @@ categories: [ 'yi-an-middle-school' ]
 Highlights:  
 1\. The cook LIN Mo and the team of “Wen & Luo” take culinary skill competition. Will Lin's skill on instant noodle take the crown?  
 2\. [@YiAnMusicClub](https://weibo.com/u/6094546964)'s anniversary turns to a touching short play. What really happened in the dormitory?  
-Click the link to get the answers~ :point_right: [◉ Yi An Music Club – Our Dormitory E01](https://www.bilibili.com/video/av22309269)  
+Click the link to get the answers~ :point_right: [◉ Yi An Middle School – Our Dormitory E01](https://www.bilibili.com/video/av22309269)  
 A new stipulation added: “Dorm inspection” in every Thursday evening.
 
 ---

@@ -15,7 +15,7 @@ Highlights:
 1\. The cream chaos before having cakes kicks off~  
 2\. CHI Yi-branded fried rice with eggs fascinates a group of followers. And the secret lies in …  
 3\. “Duo dance” is in the end. Don't miss it!  
-[◉ Yi An Music Club – Our Dormitory E02](https://www.mgtv.com/b/323645/4368807.html)
+[◉ Growth Plan – Our Dormitory E02](https://www.mgtv.com/b/323645/4368807.html)
 
 <!-- more -->
 

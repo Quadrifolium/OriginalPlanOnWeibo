@@ -14,7 +14,7 @@ categories: [ 'yi-an-middle-school' ]
 The most doubted game ever?  
 ZHAN Yi-wen cannot refrain from asking how boring it exactly is.  
 I guess the director would be beaten~  
-Come and find what this game is~ [◉ Collecting eraser pooh](https://www.mgtv.com/b/323708/4373656.html)
+Come and find what this game is~ [◉ Weird World in Yi An – Collecting eraser pooh](https://www.mgtv.com/b/323708/4373656.html)
 
 <!-- more -->
 
