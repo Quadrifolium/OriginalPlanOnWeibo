@@ -31,7 +31,7 @@ Note:
   <a href="https://weibo.com/6094546964/GelLW3gxX">2018-04-29 18:01</a>
 </div>
 
-[#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) Yi An Six are now  standing by on the site of [#iQiyiFansCarnival2018](https://weibo.com/p/100808818806b72be98a723a1926a113bfec33) sports meeting. Are you ready for the carnival? ![sun](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/cd/2018new_taiyang_org.png){:.emoticon} PS: It's said that the football boy CHI Yi will join the competition last! Come on, click the link for the live :point_down:  
+[#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) Yi An Six are now standing by on the site of [#iQiyiFansCarnival2018](https://weibo.com/p/100808818806b72be98a723a1926a113bfec33) sports meeting. Are you ready for the carnival? ![sun](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/cd/2018new_taiyang_org.png){:.emoticon} PS: It's said that the football boy CHI Yi will join the competition last! Come on, click the link for the live :point_down:  
 [◉ iQiyi Fans Carnival 2018 Live](http://www.iqiyi.com/l_19rqrr5wvr.html)
 
 ---
