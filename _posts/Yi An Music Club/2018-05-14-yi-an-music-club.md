@@ -21,8 +21,8 @@ categories: [ 'yi-an-music-club' ]
 </div>
 
 [#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) [#DreamEarlyInHotSummer](https://weibo.com/p/1008087f2adb78e0df137f468cbafdcbd0ffcf) Five days before Yi An's singing party in Hangzhou! ![fist](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/86/2018new_quantou_org.png){:.emoticon} Please pay attention to the following notices:  
-1\. The party will be [❏ started at 14 o'clock sharp, 19th May](http://t.cn/R3JuJMy). At 12:30 before the entry, please queue up in the order of rank list (see the picture). You may enter the hall after the staff verify the info at 12:40.  
-2\. Please get the verification SMS and your ID card ready. (If you haven't received the message, please email yianmusic@163.com)  
+1\. The party will be [❏ started at 14 o'clock sharp, 19th May](http://t.cn/R3JuJMy). At 12:30 before the entry, please queue up in the order of the rank list (see the picture). You may enter the hall after the staff verify the info at 12:40.  
+2\. Please get the verification message and your ID card ready. (If you haven't received the message, please email yianmusic@163.com)  
 3\. In order to ensure the overall effect of the performance, please do not bring light broad which may block out the sight of the others. Every guest will get a glow stick.  
 The time and rules of the party in Guangzhou will be announced tomorrow. See you there. ![metal gesture](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/1d/2018new_hahashoushi_org.png){:.emoticon}
 
