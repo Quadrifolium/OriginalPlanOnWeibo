@@ -22,7 +22,7 @@ Note:
   <a href="https://weibo.com/6074218720/GjkKLfarY">2018-06-01 12:37</a>
 </div>
 
-[#易安少年#](https://weibo.comhttp://s.weibo.com/weibo/%23%E6%98%93%E5%AE%89%E5%B0%91%E5%B9%B4%23) [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) *Weird World in Yi An* E23  
+[#YiAnBoys](http://s.weibo.com/weibo/%23%E6%98%93%E5%AE%89%E5%B0%91%E5%B9%B4%23) [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) *Weird World in Yi An* E23  
 Someone did so fast in framing his fellows. Was he clear of the rules?  
 What weird game made a person complacent when being judged as “ugly”?  
 Please watch the latest *Weird World in Yi An*  
