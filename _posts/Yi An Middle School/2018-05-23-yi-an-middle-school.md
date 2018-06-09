@@ -25,4 +25,4 @@ Pretending to drink lemon tea, to make a call, to turn circles?
 The Yi An boys were playing all their cards only for finding out …  
 The truth covered by acting skill gradually emerged.  
 There is only one truth!  
-Please watch the latest episode of *Weird World in Yi An* for the answer! [◉ Weird World in Yi An E7 – The test of acting skill](https://www.mgtv.com/b/323708/4399731.html)
+Please watch the latest episode of *Weird World in Yi An* for the answer! [◉ Weird World in Yi An E18 – The test of acting skill](https://www.mgtv.com/b/323708/4399731.html)

@@ -29,4 +29,4 @@ categories: [ 'yi-an-music-club' ]
 </div>
 
 [#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) *Weird World in Yi An* E17 is here~ Yi An Six gave their hilarious “Answer in 5 seconds”. It turned out that Hang-hang has a “son”. The seven member of Yi An Music Club was finally unveiled. 😂 Please watch the Q&A now!  
-[◉ Weird World in Yi An E7 – Answer in 5 seconds](https://www.mgtv.com/b/323708/4399730.html)
+[◉ Weird World in Yi An E17 – Answer in 5 seconds](https://www.mgtv.com/b/323708/4399730.html)
