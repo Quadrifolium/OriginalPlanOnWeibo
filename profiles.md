@@ -19,7 +19,7 @@ Weibo: [YiAnMusicClub-ChiYi](http://weibo.com/u/6117581836)
 | Age:          | 13
 | Birthday:     | 6th Jan.
 | Zodiac:       | ♑ Capricorn
-| Stature:      | 166cm  
+| Stature:      | 168cm  
 | Speciality:   | ⚽ Football
 | Class:        | Class 3, Junior Grade 2
 
@@ -90,5 +90,5 @@ Weibo: [YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526)
 | Age:          | 13
 | Birthday:     | 16th Aug.
 | Zodiac:       | ♌ Leo
-| Stature:      | 168cm
+| Stature:      | 170cm
 | Class:        | Class 3, Junior Grade 2
