@@ -14,10 +14,10 @@ I was just pretending to be indifferent, passing by in a cool manner. ![cool](ht
 <!-- more -->
 
 > <div class="weibo-post-name">
->   <a href="https://weibo.com/u/6424852512">Film_TakeMyBrotherAway</a>
+>   <a href="https://weibo.com/u/6424852512">Film_GoBrother</a>
 > </div>
 > <div class="weibo-info">
 >   <a href="https://weibo.com/6424852512/G8qSEdEYU">2018-03-21 20:00</a>
 > </div>
-> [#Film_TakeMyBrotherAway](https://weibo.com/p/1008086eaa51d65560d11df15c2a37c3dc64f7) I'd draw three girls (or boys) for prizes. I've nothing else to give, but three *gege*!  
+> [#Film_GoBrother](https://weibo.com/p/1008086eaa51d65560d11df15c2a37c3dc64f7) I'd draw three girls (or boys) for prizes. I've nothing else to give, but three *gege*!  
 > <small>* View multimedia content(s) on the original page.</small>

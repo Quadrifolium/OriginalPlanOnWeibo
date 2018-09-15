@@ -10,7 +10,7 @@ categories: [ 'yi-an-middle-school' ]
 </div>
 
 [#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) The freshers' revelation show *Yi An Revelations* has Episode 3 released! This time, [@YiAnMiddleSchool-YeXiaoAo](https://weibo.com/u/6340485168), [@YiAnMiddleSchool-MoWenXuan](https://weibo.com/u/6505418468), and [@YiAnMiddleSchool-LinJiaHao](https://weibo.com/6210352257) are invited!  
-The three boys exposed so many things during the recording! [◉ Yi An Middle School – Yi An Revelations E0](https://www.bilibili.com/video/av24559253/)
+The three boys exposed so many things during the recording! [◉ Yi An Middle School – Yi An Revelations E03](https://www.bilibili.com/video/av24559253/)
 
 <!-- more -->
 
