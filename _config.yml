@@ -33,7 +33,7 @@ github_username:  Quadrifolium
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
   - jemoji
   - jekyll-paginate
