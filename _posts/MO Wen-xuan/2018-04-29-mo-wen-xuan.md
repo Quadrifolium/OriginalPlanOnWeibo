@@ -15,9 +15,9 @@ Happy birthday to the cute YAN Ke. :birthday: May you be cute all the time.
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/0076g4wkgy1fqtvsqo0wcj30qo1hcahw.jpg"><img src="//wx3.sinaimg.cn/thumb150/0076g4wkgy1fqtvsqo0wcj30qo1hcahw.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/0076g4wkgy1fqtvsqo0wcj30qo1hcahw.jpg"><img src="http://wx3.sinaimg.cn/thumb150/0076g4wkgy1fqtvsqo0wcj30qo1hcahw.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/0076g4wkgy1fqtvsp8vnej30qo1hcjxx.jpg"><img src="//wx4.sinaimg.cn/thumb150/0076g4wkgy1fqtvsp8vnej30qo1hcjxx.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/0076g4wkgy1fqtvsp8vnej30qo1hcjxx.jpg"><img src="http://wx4.sinaimg.cn/thumb150/0076g4wkgy1fqtvsp8vnej30qo1hcjxx.jpg"/></a>
   </li>
 </ul>

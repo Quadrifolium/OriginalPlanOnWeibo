@@ -15,10 +15,10 @@ No no no. That's an exception. This post shows the normal state.
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006FmVn8gy1fjgj99netij30k00zk0vs.jpg"><img src="//wx1.sinaimg.cn/thumb150/006FmVn8gy1fjgj99netij30k00zk0vs.jpg" /></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006FmVn8gy1fjgj99netij30k00zk0vs.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006FmVn8gy1fjgj99netij30k00zk0vs.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006FmVn8gy1fjgj97eydbj30k00zkq8m.jpg"><img src="//wx4.sinaimg.cn/thumb150/006FmVn8gy1fjgj97eydbj30k00zkq8m.jpg" /></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006FmVn8gy1fjgj97eydbj30k00zkq8m.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006FmVn8gy1fjgj97eydbj30k00zkq8m.jpg" /></a>
   </li>
 </ul>
 

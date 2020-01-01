@@ -13,6 +13,6 @@ categories: [ 'lin-jia-hao' ]
 
 <!-- more -->
 
-<a href="//wx4.sinaimg.cn/mw690/006Mi0jTgy1fra1fbmloej30qo0zk4qp.jpg">
-  <img class="weibo-pic-preview" src="//wx4.sinaimg.cn/orj360/006Mi0jTgy1fra1fbmloej30qo0zk4qp.jpg" />
+<a href="http://wx4.sinaimg.cn/mw690/006Mi0jTgy1fra1fbmloej30qo0zk4qp.jpg">
+  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006Mi0jTgy1fra1fbmloej30qo0zk4qp.jpg" />
 </a>

@@ -15,9 +15,9 @@ This is the first growth stage, I wish you could like it. ![yeah](https://img.t.
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/0076g4Wmgy1fqkjgdfwfqj30qo1bfk2t.jpg"><img src="//wx3.sinaimg.cn/thumb150/0076g4Wmgy1fqkjgdfwfqj30qo1bfk2t.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/0076g4Wmgy1fqkjgdfwfqj30qo1bfk2t.jpg"><img src="http://wx3.sinaimg.cn/thumb150/0076g4Wmgy1fqkjgdfwfqj30qo1bfk2t.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/0076g4Wmgy1fqkjgbzcj9j31bf0qo145.jpg"><img src="//wx1.sinaimg.cn/thumb150/0076g4Wmgy1fqkjgbzcj9j31bf0qo145.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/0076g4Wmgy1fqkjgbzcj9j31bf0qo145.jpg"><img src="http://wx1.sinaimg.cn/thumb150/0076g4Wmgy1fqkjgbzcj9j31bf0qo145.jpg"/></a>
   </li>
 </ul>

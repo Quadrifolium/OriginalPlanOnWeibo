@@ -44,22 +44,22 @@ Note:
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006Es64Aly1fqtlnzs4k0j328c3chb2a.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Aly1fqtlnzs4k0j328c3chb2a.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006Es64Aly1fqtlnzs4k0j328c3chb2a.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Aly1fqtlnzs4k0j328c3chb2a.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006Es64Aly1fqtlntllphj326c3gge86.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Aly1fqtlntllphj326c3gge86.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Es64Aly1fqtlntllphj326c3gge86.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Aly1fqtlntllphj326c3gge86.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006Es64Aly1fqtlo1m8osj30qo14146c.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Aly1fqtlo1m8osj30qo14146c.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006Es64Aly1fqtlo1m8osj30qo14146c.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Aly1fqtlo1m8osj30qo14146c.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006Es64Aly1fqtlop91icj32ja3x8qvc.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Aly1fqtlop91icj32ja3x8qvc.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Es64Aly1fqtlop91icj32ja3x8qvc.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Aly1fqtlop91icj32ja3x8qvc.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006Es64Aly1fqtlpc5c72j32d93jw1l2.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Aly1fqtlpc5c72j32d93jw1l2.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Es64Aly1fqtlpc5c72j32d93jw1l2.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Aly1fqtlpc5c72j32d93jw1l2.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006Es64Aly1fqtlprq8zfj325o3ggkjq.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Aly1fqtlprq8zfj325o3ggkjq.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006Es64Aly1fqtlprq8zfj325o3ggkjq.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Aly1fqtlprq8zfj325o3ggkjq.jpg"/></a>
   </li>
 </ul>
 

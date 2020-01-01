@@ -13,6 +13,6 @@ Passed by from Hangzhou. ![cloud](https://img.t.sinajs.cn/t4/appstyle/expression
 
 <!-- more -->
 
-<a href="//wx2.sinaimg.cn/mw690/006G0KNGgy1frhkucd4zdj31dc0wwwki.jpg">
-  <img class="weibo-pic-preview-h" src="//wx2.sinaimg.cn/orj360/006G0KNGgy1frhkucd4zdj31dc0wwwki.jpg" />
+<a href="http://wx2.sinaimg.cn/mw690/006G0KNGgy1frhkucd4zdj31dc0wwwki.jpg">
+  <img class="weibo-pic-preview-h" src="http://wx2.sinaimg.cn/orj360/006G0KNGgy1frhkucd4zdj31dc0wwwki.jpg" />
 </a>

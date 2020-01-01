@@ -13,6 +13,6 @@ Playing with FU Yun-zhe *gege* made it a happy day.
 
 <!-- more -->
 
-<a href="//wx1.sinaimg.cn/mw690/0076h5Fhgy1fr1r8d34epj30qo0zkn2o.jpg">
-  <img class="weibo-pic-preview" src="//wx1.sinaimg.cn/orj360/0076h5Fhgy1fr1r8d34epj30qo0zkn2o.jpg" />
+<a href="http://wx1.sinaimg.cn/mw690/0076h5Fhgy1fr1r8d34epj30qo0zkn2o.jpg">
+  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/0076h5Fhgy1fr1r8d34epj30qo0zkn2o.jpg" />
 </a>

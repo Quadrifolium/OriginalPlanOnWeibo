@@ -17,12 +17,12 @@ See you tomorrow. ![doge](https://img.t.sinajs.cn/t4/appstyle/expression/ext/nor
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/98e534a3ly1frfmwevs4fj21sg2dsx6p.jpg"><img src="//wx4.sinaimg.cn/thumb150/98e534a3ly1frfmwevs4fj21sg2dsx6p.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/98e534a3ly1frfmwevs4fj21sg2dsx6p.jpg"><img src="http://wx4.sinaimg.cn/thumb150/98e534a3ly1frfmwevs4fj21sg2dsx6p.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/98e534a3ly1frfmwdco3wj21sg2ds7wi.jpg"><img src="//wx2.sinaimg.cn/thumb150/98e534a3ly1frfmwdco3wj21sg2ds7wi.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/98e534a3ly1frfmwdco3wj21sg2ds7wi.jpg"><img src="http://wx2.sinaimg.cn/thumb150/98e534a3ly1frfmwdco3wj21sg2ds7wi.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/98e534a3ly1frfmwg4to2j21sg2dsqv5.jpg"><img src="//wx1.sinaimg.cn/thumb150/98e534a3ly1frfmwg4to2j21sg2dsqv5.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/98e534a3ly1frfmwg4to2j21sg2dsqv5.jpg"><img src="http://wx1.sinaimg.cn/thumb150/98e534a3ly1frfmwg4to2j21sg2dsqv5.jpg"/></a>
   </li>
 </ul>

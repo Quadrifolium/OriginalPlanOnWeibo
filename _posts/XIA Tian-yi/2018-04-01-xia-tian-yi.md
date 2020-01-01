@@ -13,8 +13,8 @@ I'm back to Chongqing. :v:️ Strolling outside. ![Husky](https://img.t.sinajs.c
 
 <!-- more -->
 
-<a href="//wx2.sinaimg.cn/mw690/006RpxDlgy1fpx6pm5ixjj30ku0rswyu.jpg">
-  <img class="weibo-pic-preview" src="//wx2.sinaimg.cn/orj360/006RpxDlgy1fpx6pm5ixjj30ku0rswyu.jpg" />
+<a href="http://wx2.sinaimg.cn/mw690/006RpxDlgy1fpx6pm5ixjj30ku0rswyu.jpg">
+  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006RpxDlgy1fpx6pm5ixjj30ku0rswyu.jpg" />
 </a>
 
 *Comments*

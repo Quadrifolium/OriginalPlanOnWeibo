@@ -18,9 +18,9 @@ The vacation's coming! ![Langxiaohua chuckle](http://img.t.sinajs.cn/t4/appstyle
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/97628667ly1fk1qgjv9v2j20ve1b3qbf.jpg"><img src="//wx3.sinaimg.cn/thumb150/97628667ly1fk1qgjv9v2j20ve1b3qbf.jpg" /></a>
+    <a href="http://wx3.sinaimg.cn/mw690/97628667ly1fk1qgjv9v2j20ve1b3qbf.jpg"><img src="http://wx3.sinaimg.cn/thumb150/97628667ly1fk1qgjv9v2j20ve1b3qbf.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/97628667ly1fk1qgnxg2tj20qo140jwu.jpg"><img src="//wx2.sinaimg.cn/thumb150/97628667ly1fk1qgnxg2tj20qo140jwu.jpg" /></a>
+    <a href="http://wx2.sinaimg.cn/mw690/97628667ly1fk1qgnxg2tj20qo140jwu.jpg"><img src="http://wx2.sinaimg.cn/thumb150/97628667ly1fk1qgnxg2tj20qo140jwu.jpg" /></a>
   </li>
 </ul>

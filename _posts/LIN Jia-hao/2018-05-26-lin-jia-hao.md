@@ -13,8 +13,8 @@ Surprise! Not good at taking candid photos like me, huh? Haha ![pleased](https:/
 
 <!-- more -->
 
-<a href="//wx1.sinaimg.cn/mw690/006Mi0jTgy1frozrxh3z4j30k00zkaes.jpg">
-  <img class="weibo-pic-preview" src="//wx1.sinaimg.cn/orj360/006Mi0jTgy1frozrxh3z4j30k00zkaes.jpg" />
+<a href="http://wx1.sinaimg.cn/mw690/006Mi0jTgy1frozrxh3z4j30k00zkaes.jpg">
+  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/006Mi0jTgy1frozrxh3z4j30k00zkaes.jpg" />
 </a>
 
 *Comments*

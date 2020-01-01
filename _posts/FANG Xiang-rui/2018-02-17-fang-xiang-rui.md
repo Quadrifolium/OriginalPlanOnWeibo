@@ -13,8 +13,8 @@ Good night. I'm going to sleep. (Hold tight the cold me.)
 
 <!-- more -->
 
-<a href="//wx4.sinaimg.cn/mw690/006G0KNGgy1fojsjzkkswj31o01o0b2d.jpg">
-  <img class="weibo-pic-preview" src="//wx4.sinaimg.cn/orj360/006G0KNGgy1fojsjzkkswj31o01o0b2d.jpg" />
+<a href="http://wx4.sinaimg.cn/mw690/006G0KNGgy1fojsjzkkswj31o01o0b2d.jpg">
+  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006G0KNGgy1fojsjzkkswj31o01o0b2d.jpg" />
 </a>
 
 *Comments*

@@ -15,9 +15,9 @@ Gaze from *Shiwan*. ![doge cat](https://img.t.sinajs.cn/t4/appstyle/expression/e
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006FmVn8ly1fnna5bcum3j30qo0zktfp.jpg"><img src="//wx2.sinaimg.cn/thumb150/006FmVn8ly1fnna5bcum3j30qo0zktfp.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006FmVn8ly1fnna5bcum3j30qo0zktfp.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006FmVn8ly1fnna5bcum3j30qo0zktfp.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006FmVn8ly1fnna814n52j30qo0qoae3.jpg"><img src="//wx4.sinaimg.cn/thumb150/006FmVn8ly1fnna814n52j30qo0qoae3.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006FmVn8ly1fnna814n52j30qo0qoae3.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006FmVn8ly1fnna814n52j30qo0qoae3.jpg"/></a>
   </li>
 </ul>

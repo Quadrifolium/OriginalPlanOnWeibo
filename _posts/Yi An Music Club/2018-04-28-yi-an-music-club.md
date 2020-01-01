@@ -15,31 +15,31 @@ categories: [ 'yi-an-music-club' ]
 
 <ul class="weibo-pic-list-3">
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006Es64Aly1fqskkz81pmj31bh1z8b2a.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Aly1fqskkz81pmj31bh1z8b2a.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Es64Aly1fqskkz81pmj31bh1z8b2a.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Aly1fqskkz81pmj31bh1z8b2a.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006Es64Aly1fqskl0fp6dj31bh1z8x6p.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Aly1fqskl0fp6dj31bh1z8x6p.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006Es64Aly1fqskl0fp6dj31bh1z8x6p.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Aly1fqskl0fp6dj31bh1z8x6p.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006Es64Aly1fqskl2c0ayj31bh1z8hdv.jpg"><img src="//wx2.sinaimg.cn/thumb150/006Es64Aly1fqskl2c0ayj31bh1z8hdv.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006Es64Aly1fqskl2c0ayj31bh1z8hdv.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Aly1fqskl2c0ayj31bh1z8hdv.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006Es64Aly1fqskktsoqvj31bh1z81ky.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Aly1fqskktsoqvj31bh1z81ky.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Es64Aly1fqskktsoqvj31bh1z81ky.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Aly1fqskktsoqvj31bh1z81ky.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006Es64Aly1fqskl43xrrj31bh1z8u0x.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Aly1fqskl43xrrj31bh1z8u0x.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Es64Aly1fqskl43xrrj31bh1z8u0x.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Aly1fqskl43xrrj31bh1z8u0x.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006Es64Aly1fqskl68ztyj31bh1z8b2a.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Aly1fqskl68ztyj31bh1z8b2a.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Es64Aly1fqskl68ztyj31bh1z8b2a.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Aly1fqskl68ztyj31bh1z8b2a.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006Es64Aly1fqskkx56zkj33vc2kwkjp.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Aly1fqskkx56zkj33vc2kwkjp.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006Es64Aly1fqskkx56zkj33vc2kwkjp.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Aly1fqskkx56zkj33vc2kwkjp.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006Es64Aly1fqskl6z35yj31400qowp2.jpg"><img src="//wx2.sinaimg.cn/thumb150/006Es64Aly1fqskl6z35yj31400qowp2.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006Es64Aly1fqskl6z35yj31400qowp2.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Aly1fqskl6z35yj31400qowp2.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006Es64Aly1fqskl79uyuj31400qok3q.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Aly1fqskl79uyuj31400qok3q.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Es64Aly1fqskl79uyuj31400qok3q.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Aly1fqskl79uyuj31400qok3q.jpg"/></a>
   </li>
 </ul>
 
@@ -56,10 +56,10 @@ The details of the party in Hangzhou are as follows. :point_down: Please read ca
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006Es64Aly1fqsbgbbnqzj31iq2wgb2a.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Aly1fqsbgbbnqzj31iq2wgb2a.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Es64Aly1fqsbgbbnqzj31iq2wgb2a.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Aly1fqsbgbbnqzj31iq2wgb2a.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006Es64Aly1fqsbg6je4mj30p0239qv5.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Aly1fqsbg6je4mj30p0239qv5.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006Es64Aly1fqsbg6je4mj30p0239qv5.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Aly1fqsbg6je4mj30p0239qv5.jpg"/></a>
   </li>
 </ul>
 
@@ -73,21 +73,21 @@ The details of the party in Hangzhou are as follows. :point_down: Please read ca
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006Es64Aly1fqs3bo07opj318g1upncl.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Aly1fqs3bo07opj318g1upncl.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006Es64Aly1fqs3bo07opj318g1upncl.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Aly1fqs3bo07opj318g1upncl.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006Es64Aly1fqs3br15fuj31e0231192.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Aly1fqs3br15fuj31e0231192.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006Es64Aly1fqs3br15fuj31e0231192.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Aly1fqs3br15fuj31e0231192.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006Es64Aly1fqs3bjl3hbj31b81yvtoe.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Aly1fqs3bjl3hbj31b81yvtoe.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006Es64Aly1fqs3bjl3hbj31b81yvtoe.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Aly1fqs3bjl3hbj31b81yvtoe.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006Es64Aly1fqs3bu75blj318g1up7oj.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Aly1fqs3bu75blj318g1up7oj.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006Es64Aly1fqs3bu75blj318g1up7oj.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Aly1fqs3bu75blj318g1up7oj.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006Es64Aly1fqs3by5uaoj318g1upkba.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Aly1fqs3by5uaoj318g1upkba.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006Es64Aly1fqs3by5uaoj318g1upkba.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Aly1fqs3by5uaoj318g1upkba.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006Es64Aly1fqs3c0ewdpj31gs277h41.jpg"><img src="//wx2.sinaimg.cn/thumb150/006Es64Aly1fqs3c0ewdpj31gs277h41.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006Es64Aly1fqs3c0ewdpj31gs277h41.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Aly1fqs3c0ewdpj31gs277h41.jpg"/></a>
   </li>
 </ul>

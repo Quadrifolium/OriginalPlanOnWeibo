@@ -15,12 +15,12 @@ Is your homework for the weekend done? Mine is done.
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="https://wx1.sinaimg.cn/mw690/006Mi0jTgy1fmadvyuy4mj30ey0jyabm.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Mi0jTgy1fmadvyuy4mj30ey0jyabm.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Mi0jTgy1fmadvyuy4mj30ey0jyabm.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Mi0jTgy1fmadvyuy4mj30ey0jyabm.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx3.sinaimg.cn/mw690/006Mi0jTgy1fmadvybqo5j30go0m8qbf.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Mi0jTgy1fmadvybqo5j30go0m8qbf.jpg" /></a>
+    <a href="https://wx3.sinaimg.cn/mw690/006Mi0jTgy1fmadvybqo5j30go0m8qbf.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Mi0jTgy1fmadvybqo5j30go0m8qbf.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx1.sinaimg.cn/mw690/006Mi0jTgy1fmadvziw0yj30xc18gahn.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Mi0jTgy1fmadvziw0yj30xc18gahn.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Mi0jTgy1fmadvziw0yj30xc18gahn.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Mi0jTgy1fmadvziw0yj30xc18gahn.jpg" /></a>
   </li>
 </ul>

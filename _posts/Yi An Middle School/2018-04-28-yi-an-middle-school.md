@@ -31,21 +31,21 @@ This is the attempt of of cool style!
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006D4NLGgy1fqs5297faij31st2p87wl.jpg"><img src="//wx1.sinaimg.cn/thumb150/006D4NLGgy1fqs5297faij31st2p87wl.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006D4NLGgy1fqs5297faij31st2p87wl.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006D4NLGgy1fqs5297faij31st2p87wl.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006D4NLGgy1fqs52bnmarj315h0qo7bf.jpg"><img src="//wx2.sinaimg.cn/thumb150/006D4NLGgy1fqs52bnmarj315h0qo7bf.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1fqs52bnmarj315h0qo7bf.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006D4NLGgy1fqs52bnmarj315h0qo7bf.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1fqs52ih4ewj31st2p87wn.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGgy1fqs52ih4ewj31st2p87wn.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1fqs52ih4ewj31st2p87wn.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGgy1fqs52ih4ewj31st2p87wn.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006D4NLGgy1fqs52lg8nlj30qo140tcb.jpg"><img src="//wx2.sinaimg.cn/thumb150/006D4NLGgy1fqs52lg8nlj30qo140tcb.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1fqs52lg8nlj30qo140tcb.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006D4NLGgy1fqs52lg8nlj30qo140tcb.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006D4NLGgy1fqs533hdkxj33vc2kwnpl.jpg"><img src="//wx3.sinaimg.cn/thumb150/006D4NLGgy1fqs533hdkxj33vc2kwnpl.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006D4NLGgy1fqs533hdkxj33vc2kwnpl.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006D4NLGgy1fqs533hdkxj33vc2kwnpl.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1fqs538vjyzj31su2p8hdx.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGgy1fqs538vjyzj31su2p8hdx.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1fqs538vjyzj31su2p8hdx.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGgy1fqs538vjyzj31su2p8hdx.jpg"/></a>
   </li>
 </ul>

@@ -13,6 +13,6 @@ categories: [ 'yi-an-music-club' ]
 
 <!-- more -->
 
-<a href="//wx2.sinaimg.cn/mw690/006Es64Aly1fnkkzb7hlrj31kw2dcb2g.jpg">
-  <img class="weibo-pic-preview" src="//wx2.sinaimg.cn/orj360/006Es64Aly1fnkkzb7hlrj31kw2dcb2g.jpg" />
+<a href="http://wx2.sinaimg.cn/mw690/006Es64Aly1fnkkzb7hlrj31kw2dcb2g.jpg">
+  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006Es64Aly1fnkkzb7hlrj31kw2dcb2g.jpg" />
 </a>

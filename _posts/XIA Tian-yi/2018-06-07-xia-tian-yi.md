@@ -15,10 +15,10 @@ I'm on the way home. ![yeah](https://img.t.sinajs.cn/t4/appstyle/expression/ext/
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006RpxDlgy1fs2x0n441qj31sg2dsb2e.jpg"><img src="//wx2.sinaimg.cn/thumb150/006RpxDlgy1fs2x0n441qj31sg2dsb2e.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006RpxDlgy1fs2x0n441qj31sg2dsb2e.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006RpxDlgy1fs2x0n441qj31sg2dsb2e.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006RpxDlgy1fs2x1qo8i4j31sg2dshdy.jpg"><img src="//wx1.sinaimg.cn/thumb150/006RpxDlgy1fs2x1qo8i4j31sg2dshdy.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006RpxDlgy1fs2x1qo8i4j31sg2dshdy.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006RpxDlgy1fs2x1qo8i4j31sg2dshdy.jpg"/></a>
   </li>
 </ul>
 

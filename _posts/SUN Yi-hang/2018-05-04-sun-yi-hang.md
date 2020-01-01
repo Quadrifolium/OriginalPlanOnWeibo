@@ -15,9 +15,9 @@ Happy 17th birthday, our Barbie [@YiAnMusicClub-HeLuoLuo](https://weibo.com/u/61
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/98e534a3ly1fqznt1h3kjj21sg2dse86.jpg"><img src="//wx4.sinaimg.cn/thumb150/98e534a3ly1fqznt1h3kjj21sg2dse86.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/98e534a3ly1fqznt1h3kjj21sg2dse86.jpg"><img src="http://wx4.sinaimg.cn/thumb150/98e534a3ly1fqznt1h3kjj21sg2dse86.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/98e534a3ly1fqzntrp6f9j21sg2dse85.jpg"><img src="//wx3.sinaimg.cn/thumb150/98e534a3ly1fqzntrp6f9j21sg2dse85.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/98e534a3ly1fqzntrp6f9j21sg2dse85.jpg"><img src="http://wx3.sinaimg.cn/thumb150/98e534a3ly1fqzntrp6f9j21sg2dse85.jpg"/></a>
   </li>
 </ul>

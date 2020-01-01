@@ -15,22 +15,22 @@ categories: [ 'yi-an-music-club' ]
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006Es64Aly1fs3scaz884j32j43toe84.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Aly1fs3scaz884j32j43toe84.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Es64Aly1fs3scaz884j32j43toe84.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Aly1fs3scaz884j32j43toe84.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006Es64Aly1fs3scfdvbtj32j43sw4qw.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Aly1fs3scfdvbtj32j43sw4qw.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Es64Aly1fs3scfdvbtj32j43sw4qw.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Aly1fs3scfdvbtj32j43sw4qw.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006Es64Aly1fs3sc8uw6nj315q1qq7kd.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Aly1fs3sc8uw6nj315q1qq7kd.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006Es64Aly1fs3sc8uw6nj315q1qq7kd.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Aly1fs3sc8uw6nj315q1qq7kd.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006Es64Aly1fs3scggscdj313b1n4gxv.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Aly1fs3scggscdj313b1n4gxv.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Es64Aly1fs3scggscdj313b1n4gxv.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Aly1fs3scggscdj313b1n4gxv.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006Es64Aly1fs3sch22r3j31on2j4x0h.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Aly1fs3sch22r3j31on2j4x0h.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Es64Aly1fs3sch22r3j31on2j4x0h.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Aly1fs3sch22r3j31on2j4x0h.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006Es64Aly1fs3sciuxx4j32kw3vc4qp.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Aly1fs3sciuxx4j32kw3vc4qp.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Es64Aly1fs3sciuxx4j32kw3vc4qp.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Aly1fs3sciuxx4j32kw3vc4qp.jpg"/></a>
   </li>
 </ul>
 
@@ -44,15 +44,15 @@ categories: [ 'yi-an-music-club' ]
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006Es64Aly1fs3n1rluwjj30m85rn4qq.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Aly1fs3n1rluwjj30m85rn4qq.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006Es64Aly1fs3n1rluwjj30m85rn4qq.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Aly1fs3n1rluwjj30m85rn4qq.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006Es64Aly1fs3h6o4uy6j30m85oh4qq.jpg"><img src="//wx2.sinaimg.cn/thumb150/006Es64Aly1fs3h6o4uy6j30m85oh4qq.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006Es64Aly1fs3h6o4uy6j30m85oh4qq.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Aly1fs3h6o4uy6j30m85oh4qq.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006Es64Aly1fs3h6o2bgpj30m84u4e81.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Aly1fs3h6o2bgpj30m84u4e81.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Es64Aly1fs3h6o2bgpj30m84u4e81.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Aly1fs3h6o2bgpj30m84u4e81.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006Es64Aly1fs3h6o23x0j30m8595e81.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Aly1fs3h6o23x0j30m8595e81.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Es64Aly1fs3h6o23x0j30m8595e81.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Aly1fs3h6o23x0j30m8595e81.jpg"/></a>
   </li>
 </ul>

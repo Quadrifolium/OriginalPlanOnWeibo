@@ -13,6 +13,6 @@ categories: [ 'yi-an-middle-school' ]
 
 <!-- more -->
 
-<a href="//wx1.sinaimg.cn/mw690/006D4NLGly1fpb5l9z83rj31b91wfb2a.jpg">
-  <img class="weibo-pic-preview" src="//wx1.sinaimg.cn/orj360/006D4NLGly1fpb5l9z83rj31b91wfb2a.jpg" />
+<a href="http://wx1.sinaimg.cn/mw690/006D4NLGly1fpb5l9z83rj31b91wfb2a.jpg">
+  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/006D4NLGly1fpb5l9z83rj31b91wfb2a.jpg" />
 </a>

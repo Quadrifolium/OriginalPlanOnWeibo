@@ -15,16 +15,16 @@ Passing by Xiamen (厦门)
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006G0KNGly1fnt8cy93huj30u01404ej.jpg"><img src="//wx1.sinaimg.cn/thumb150/006G0KNGly1fnt8cy93huj30u01404ej.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006G0KNGly1fnt8cy93huj30u01404ej.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006G0KNGly1fnt8cy93huj30u01404ej.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006G0KNGly1fnt8d2bxi0j30u01407mh.jpg"><img src="//wx1.sinaimg.cn/thumb150/006G0KNGly1fnt8d2bxi0j30u01407mh.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006G0KNGly1fnt8d2bxi0j30u01407mh.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006G0KNGly1fnt8d2bxi0j30u01407mh.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006G0KNGly1fnt8cvuzdij30u0140av2.jpg"><img src="//wx4.sinaimg.cn/thumb150/006G0KNGly1fnt8cvuzdij30u0140av2.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006G0KNGly1fnt8cvuzdij30u0140av2.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006G0KNGly1fnt8cvuzdij30u0140av2.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006G0KNGly1fnt8d0b8smj30u0140k9o.jpg"><img src="//wx4.sinaimg.cn/thumb150/006G0KNGly1fnt8d0b8smj30u0140k9o.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006G0KNGly1fnt8d0b8smj30u0140k9o.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006G0KNGly1fnt8d0b8smj30u0140k9o.jpg"/></a>
   </li>
 </ul>
 

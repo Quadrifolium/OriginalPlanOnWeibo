@@ -15,22 +15,22 @@ categories: [ 'sun-yi-hang' ]
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/98e534a3ly1fon3ckxbl2j213e2dcx3q.jpg"><img src="//wx3.sinaimg.cn/thumb150/98e534a3ly1fon3ckxbl2j213e2dcx3q.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/98e534a3ly1fon3ckxbl2j213e2dcx3q.jpg"><img src="http://wx3.sinaimg.cn/thumb150/98e534a3ly1fon3ckxbl2j213e2dcx3q.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/98e534a3ly1fon3cna9yej213e2dc4qp.jpg"><img src="//wx4.sinaimg.cn/thumb150/98e534a3ly1fon3cna9yej213e2dc4qp.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/98e534a3ly1fon3cna9yej213e2dc4qp.jpg"><img src="http://wx4.sinaimg.cn/thumb150/98e534a3ly1fon3cna9yej213e2dc4qp.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/98e534a3ly1fon3cpfk5wj213e2dc1kx.jpg"><img src="//wx2.sinaimg.cn/thumb150/98e534a3ly1fon3cpfk5wj213e2dc1kx.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/98e534a3ly1fon3cpfk5wj213e2dc1kx.jpg"><img src="http://wx2.sinaimg.cn/thumb150/98e534a3ly1fon3cpfk5wj213e2dc1kx.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/98e534a3ly1fon3cs3z5dj22dc1s0kjl.jpg"><img src="//wx3.sinaimg.cn/thumb150/98e534a3ly1fon3cs3z5dj22dc1s0kjl.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/98e534a3ly1fon3cs3z5dj22dc1s0kjl.jpg"><img src="http://wx3.sinaimg.cn/thumb150/98e534a3ly1fon3cs3z5dj22dc1s0kjl.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/98e534a3ly1fon3ciy7j7j22dc1s0kjm.jpg"><img src="//wx4.sinaimg.cn/thumb150/98e534a3ly1fon3ciy7j7j22dc1s0kjm.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/98e534a3ly1fon3ciy7j7j22dc1s0kjm.jpg"><img src="http://wx4.sinaimg.cn/thumb150/98e534a3ly1fon3ciy7j7j22dc1s0kjm.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/98e534a3ly1fon3dgfjx7j22dc1s0u0y.jpg"><img src="//wx4.sinaimg.cn/thumb150/98e534a3ly1fon3dgfjx7j22dc1s0u0y.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/98e534a3ly1fon3dgfjx7j22dc1s0u0y.jpg"><img src="http://wx4.sinaimg.cn/thumb150/98e534a3ly1fon3dgfjx7j22dc1s0u0y.jpg"/></a>
   </li>
 </ul>
 

@@ -13,6 +13,6 @@ Take a selfie.
 
 <!-- more -->
 
-<a href="//wx3.sinaimg.cn/mw690/0076g4wkgy1fq46py2knhj30qo0qo78j.jpg">
-  <img class="weibo-pic-preview" src="//wx3.sinaimg.cn/orj360/0076g4wkgy1fq46py2knhj30qo0qo78j.jpg" />
+<a href="http://wx3.sinaimg.cn/mw690/0076g4wkgy1fq46py2knhj30qo0qo78j.jpg">
+  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/0076g4wkgy1fq46py2knhj30qo0qo78j.jpg" />
 </a>

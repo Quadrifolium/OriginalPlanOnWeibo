@@ -15,9 +15,9 @@ He's in the same school, he's the same class. And I can see him in the same trai
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="https://wx3.sinaimg.cn/mw690/006FmVn8gy1fmxzc3c5dvj30qo140dkh.jpg"><img src="//wx3.sinaimg.cn/thumb150/006FmVn8gy1fmxzc3c5dvj30qo140dkh.jpg" /></a>
+    <a href="https://wx3.sinaimg.cn/mw690/006FmVn8gy1fmxzc3c5dvj30qo140dkh.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006FmVn8gy1fmxzc3c5dvj30qo140dkh.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx3.sinaimg.cn/mw690/006FmVn8gy1fmxzc2zqifj312o0qon3r.jpg"><img src="//wx3.sinaimg.cn/thumb150/006FmVn8gy1fmxzc2zqifj312o0qon3r.jpg" /></a>
+    <a href="https://wx3.sinaimg.cn/mw690/006FmVn8gy1fmxzc2zqifj312o0qon3r.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006FmVn8gy1fmxzc2zqifj312o0qon3r.jpg" /></a>
   </li>
 </ul>

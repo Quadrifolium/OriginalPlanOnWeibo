@@ -15,10 +15,10 @@ categories: [ 'yi-an-music-club' ]
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006Es64Agy1fqizoc3odxj30m898su0z.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Agy1fqizoc3odxj30m898su0z.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006Es64Agy1fqizoc3odxj30m898su0z.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Agy1fqizoc3odxj30m898su0z.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006Es64Agy1fqizoj6hbxj30m89yp7wj.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Agy1fqizoj6hbxj30m89yp7wj.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006Es64Agy1fqizoj6hbxj30m89yp7wj.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Agy1fqizoj6hbxj30m89yp7wj.jpg"/></a>
   </li>
 </ul>
 

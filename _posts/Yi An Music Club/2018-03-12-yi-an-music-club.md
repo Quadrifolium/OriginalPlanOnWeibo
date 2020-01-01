@@ -27,6 +27,6 @@ The video's ready, please enjoy it ASAP. ![cool](https://img.t.sinajs.cn/t4/apps
 
 <!-- more -->
 
-<a href="//wx4.sinaimg.cn/mw690/006Es64Aly1fp9wdyczq3j31ww2pf4qm.jpg">
-  <img class="weibo-pic-preview" src="//wx4.sinaimg.cn/orj360/006Es64Aly1fp9wdyczq3j31ww2pf4qm.jpg" />
+<a href="http://wx4.sinaimg.cn/mw690/006Es64Aly1fp9wdyczq3j31ww2pf4qm.jpg">
+  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006Es64Aly1fp9wdyczq3j31ww2pf4qm.jpg" />
 </a>

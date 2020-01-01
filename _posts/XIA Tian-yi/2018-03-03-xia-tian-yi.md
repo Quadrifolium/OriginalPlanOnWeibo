@@ -13,6 +13,6 @@ Have you listened to my singing? ![microphone](https://img.t.sinajs.cn/t4/appsty
 
 <!-- more -->
 
-<a href="//wx3.sinaimg.cn/mw690/006RpxDlgy1fozjbw7shsj30rv1121kx.jpg">
-  <img class="weibo-pic-preview" src="//wx3.sinaimg.cn/orj360/006RpxDlgy1fozjbw7shsj30rv1121kx.jpg" />
+<a href="http://wx3.sinaimg.cn/mw690/006RpxDlgy1fozjbw7shsj30rv1121kx.jpg">
+  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006RpxDlgy1fozjbw7shsj30rv1121kx.jpg" />
 </a>

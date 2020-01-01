@@ -35,16 +35,16 @@ Note:
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="https://wx4.sinaimg.cn/mw690/006Es64Aly1fltg7knxsvj31kw11xb2f.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Aly1fltg7knxsvj31kw11xb2f.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006Es64Aly1fltg7knxsvj31kw11xb2f.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Aly1fltg7knxsvj31kw11xb2f.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx3.sinaimg.cn/mw690/006Es64Aly1fltg7fzgnaj31kw11yu0x.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Aly1fltg7fzgnaj31kw11yu0x.jpg" /></a>
+    <a href="https://wx3.sinaimg.cn/mw690/006Es64Aly1fltg7fzgnaj31kw11yu0x.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Aly1fltg7fzgnaj31kw11yu0x.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/large/006Es64Aly1fltg8r0ifrg30xa0ir1kx.gif"><img src="//wx2.sinaimg.cn/thumb150/006Es64Aly1fltg8r0ifrg30xa0ir1kx.gif" /></a>
+    <a href="http://wx2.sinaimg.cn/large/006Es64Aly1fltg8r0ifrg30xa0ir1kx.gif"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Aly1fltg8r0ifrg30xa0ir1kx.gif" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/large/006Es64Aly1fltg9mreq6g30xa0irhdt.gif"><img src="//wx2.sinaimg.cn/thumb150/006Es64Aly1fltg9mreq6g30xa0irhdt.gif" /></a>
+    <a href="http://wx2.sinaimg.cn/large/006Es64Aly1fltg9mreq6g30xa0irhdt.gif"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Aly1fltg9mreq6g30xa0irhdt.gif" /></a>
   </li>
 </ul>
 

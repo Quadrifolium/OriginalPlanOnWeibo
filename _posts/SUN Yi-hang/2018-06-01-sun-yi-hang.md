@@ -13,6 +13,6 @@ categories: [ 'sun-yi-hang' ]
 
 <!-- more -->
 
-<a href="//wx4.sinaimg.cn/large/98e534a3ly8frvugy337xj20f00qo76i.jpg">
-  <img class="weibo-pic-preview" src="//wx4.sinaimg.cn/large/98e534a3ly8frvugy337xj20f00qo76i.jpg" />
+<a href="http://wx4.sinaimg.cn/large/98e534a3ly8frvugy337xj20f00qo76i.jpg">
+  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/large/98e534a3ly8frvugy337xj20f00qo76i.jpg" />
 </a>

@@ -37,5 +37,5 @@ Nice to meet you, 14-year-old CHI Yi.
 Happy birthday, [@YiAnMusicClub-ChiYi](http://weibo.com/u/6117581836).
 
 <a href="https://wx3.sinaimg.cn/mw690/006Es64Agy1fn66p8bk1kj30qo140wmd.jpg">
-  <img class="weibo-pic-preview" src="//wx3.sinaimg.cn/orj360/006Es64Agy1fn66p8bk1kj30qo140wmd.jpg" />
+  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006Es64Agy1fn66p8bk1kj30qo140wmd.jpg" />
 </a>

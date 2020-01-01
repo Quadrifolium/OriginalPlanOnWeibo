@@ -22,8 +22,8 @@ And the top-rated team has exclusive benefits:
 
 Please vote for the boys you like. Your support is always the largest driving force for them!
 
-<a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1fqup5halbhj30hs3qq1ha.jpg">
-  <img class="weibo-pic-preview" src="//wx4.sinaimg.cn/orj360/006D4NLGgy1fqup5halbhj30hs3qq1ha.jpg" />
+<a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1fqup5halbhj30hs3qq1ha.jpg">
+  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006D4NLGgy1fqup5halbhj30hs3qq1ha.jpg" />
 </a>
 
 ---

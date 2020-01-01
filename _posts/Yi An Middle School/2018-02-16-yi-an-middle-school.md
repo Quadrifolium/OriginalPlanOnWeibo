@@ -15,9 +15,9 @@ Yi An Middle School wishes all the teachers, students, and their parents a happy
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1foi8zpaqwej30qo11rthr.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGgy1foi8zpaqwej30qo11rthr.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1foi8zpaqwej30qo11rthr.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGgy1foi8zpaqwej30qo11rthr.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1foi8zomlwej30qo11rk08.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGgy1foi8zomlwej30qo11rk08.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1foi8zomlwej30qo11rk08.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGgy1foi8zomlwej30qo11rk08.jpg"/></a>
   </li>
 </ul>

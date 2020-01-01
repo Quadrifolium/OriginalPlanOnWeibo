@@ -15,9 +15,9 @@ The Guangzhou party ended. Dined and played. It will be bungee jumping when we a
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006FmVn8ly1fs5177fa59j30qo0zj79c.jpg"><img src="//wx3.sinaimg.cn/thumb150/006FmVn8ly1fs5177fa59j30qo0zj79c.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006FmVn8ly1fs5177fa59j30qo0zj79c.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006FmVn8ly1fs5177fa59j30qo0zj79c.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006FmVn8ly1fs5173xr20j30qo0zj0xf.jpg"><img src="//wx4.sinaimg.cn/thumb150/006FmVn8ly1fs5173xr20j30qo0zj0xf.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006FmVn8ly1fs5173xr20j30qo0zj0xf.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006FmVn8ly1fs5173xr20j30qo0zj0xf.jpg"/></a>
   </li>
 </ul>

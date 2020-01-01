@@ -14,7 +14,7 @@ It's a rich day. Here's an old photo. :stuck_out_tongue_winking_eye:×2 The cat 
 <!-- more -->
 
 <a href="https://wx2.sinaimg.cn/mw690/006FmVn8ly1fm2sw3fqoaj30qo0qo7aa.jpg">
-  <img class="weibo-pic-preview" src="//wx2.sinaimg.cn/orj360/006FmVn8ly1fm2sw3fqoaj30qo0qo7aa.jpg" />
+  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006FmVn8ly1fm2sw3fqoaj30qo0qo7aa.jpg" />
 </a>
 
 *Comments*

@@ -23,10 +23,10 @@ Missed today's [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac4
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Es64Agy1fjkcqsj0dzj31hc280awe.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Agy1fjkcqsj0dzj31hc280awe.jpg" /></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006Es64Agy1fjkcqsj0dzj31hc280awe.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Agy1fjkcqsj0dzj31hc280awe.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006Es64Agy1fjkcrjzbtzj33vc2kwx6q.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Agy1fjkcrjzbtzj33vc2kwx6q.jpg" /></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006Es64Agy1fjkcrjzbtzj33vc2kwx6q.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Agy1fjkcrjzbtzj33vc2kwx6q.jpg" /></a>
   </li>
 </ul>
 

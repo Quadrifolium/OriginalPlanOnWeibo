@@ -20,5 +20,5 @@ categories: [ 'yi-an-music-club' ]
 [#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) Humm! Fresh power in [#YiAnGoodNight](https://weibo.com/p/10080892b104a59bff303ca883e7931b5b916e/super_index) this week! ![applaud](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif) That's right. Two new faces will join the radio show. Who are they? You may have a guess. ![push up glasses](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/fc/moren_bbjdnew_org.png) The live will be on [◉ Hongdou Live: Yi An Good Night S02E04](http://www.hongdoufm.com/room/1074420686799241234)
 
 <a href="https://wx2.sinaimg.cn/mw690/006Es64Aly1fm5l0ko6mxj30qo1bfn5k.jpg">
-  <img class="weibo-pic-preview" src="//wx2.sinaimg.cn/orj360/006Es64Aly1fm5l0ko6mxj30qo1bfn5k.jpg" />
+  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006Es64Aly1fm5l0ko6mxj30qo1bfn5k.jpg" />
 </a>

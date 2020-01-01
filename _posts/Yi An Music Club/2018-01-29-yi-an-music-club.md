@@ -28,6 +28,6 @@ Note:
 
 [#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) Winter assembly training started!
 
-<a href="//wx3.sinaimg.cn/mw690/006Es64Aly1fnxdlxx7psj33s32ipu0y.jpg">
-  <img class="weibo-pic-preview-h" src="//wx3.sinaimg.cn/orj360/006Es64Aly1fnxdlxx7psj33s32ipu0y.jpg" />
+<a href="http://wx3.sinaimg.cn/mw690/006Es64Aly1fnxdlxx7psj33s32ipu0y.jpg">
+  <img class="weibo-pic-preview-h" src="http://wx3.sinaimg.cn/orj360/006Es64Aly1fnxdlxx7psj33s32ipu0y.jpg" />
 </a>

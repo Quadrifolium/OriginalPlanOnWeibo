@@ -18,9 +18,9 @@ The National Day vacation has passed, I know many people don't want to face the 
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/97628667ly1fkbrc9rzfjj20us0us7lz.jpg"><img src="//wx2.sinaimg.cn/thumb150/97628667ly1fkbrc9rzfjj20us0us7lz.jpg" /></a>
+    <a href="http://wx2.sinaimg.cn/mw690/97628667ly1fkbrc9rzfjj20us0us7lz.jpg"><img src="http://wx2.sinaimg.cn/thumb150/97628667ly1fkbrc9rzfjj20us0us7lz.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/97628667ly1fkbrc27219j20sg0sgaoq.jpg"><img src="//wx4.sinaimg.cn/thumb150/97628667ly1fkbrc27219j20sg0sgaoq.jpg" /></a>
+    <a href="http://wx4.sinaimg.cn/mw690/97628667ly1fkbrc27219j20sg0sgaoq.jpg"><img src="http://wx4.sinaimg.cn/thumb150/97628667ly1fkbrc27219j20sg0sgaoq.jpg" /></a>
   </li>
 </ul>

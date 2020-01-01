@@ -33,16 +33,16 @@ Hey~ *The Avengers* is a hot topic recently among Yi An boys. Do you want to kno
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006D4NLGgy1frtcfl3tq7j31kg2gh7wk.jpg"><img src="//wx1.sinaimg.cn/thumb150/006D4NLGgy1frtcfl3tq7j31kg2gh7wk.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006D4NLGgy1frtcfl3tq7j31kg2gh7wk.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006D4NLGgy1frtcfl3tq7j31kg2gh7wk.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006D4NLGgy1frtcfroiv4j31vo2tjkjo.jpg"><img src="//wx2.sinaimg.cn/thumb150/006D4NLGgy1frtcfroiv4j31vo2tjkjo.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1frtcfroiv4j31vo2tjkjo.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006D4NLGgy1frtcfroiv4j31vo2tjkjo.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006D4NLGgy1frtcfob1boj329x3ewx6u.jpg"><img src="//wx2.sinaimg.cn/thumb150/006D4NLGgy1frtcfob1boj329x3ewx6u.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1frtcfob1boj329x3ewx6u.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006D4NLGgy1frtcfob1boj329x3ewx6u.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1frtcfu6ksvj31z431sx6r.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGgy1frtcfu6ksvj31z431sx6r.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1frtcfu6ksvj31z431sx6r.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGgy1frtcfu6ksvj31z431sx6r.jpg"/></a>
   </li>
 </ul>
 
@@ -56,25 +56,25 @@ Hey~ *The Avengers* is a hot topic recently among Yi An boys. Do you want to kno
 
 <ul class="weibo-pic-list-3">
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1frt9y8gaasj32e03qbu11.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGgy1frt9y8gaasj32e03qbu11.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1frt9y8gaasj32e03qbu11.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGgy1frt9y8gaasj32e03qbu11.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006D4NLGgy1frt9yekynlj31ro2nkb2d.jpg"><img src="//wx1.sinaimg.cn/thumb150/006D4NLGgy1frt9yekynlj31ro2nkb2d.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006D4NLGgy1frt9yekynlj31ro2nkb2d.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006D4NLGgy1frt9yekynlj31ro2nkb2d.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1frt9yi194sj31gv29p1kz.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGgy1frt9yi194sj31gv29p1kz.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1frt9yi194sj31gv29p1kz.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGgy1frt9yi194sj31gv29p1kz.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006D4NLGgy1frta3gc9tzj31w52u8qv7.jpg"><img src="//wx1.sinaimg.cn/thumb150/006D4NLGgy1frta3gc9tzj31w52u8qv7.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006D4NLGgy1frta3gc9tzj31w52u8qv7.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006D4NLGgy1frta3gc9tzj31w52u8qv7.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006D4NLGgy1frta3js1kyj31uf2rk4qs.jpg"><img src="//wx2.sinaimg.cn/thumb150/006D4NLGgy1frta3js1kyj31uf2rk4qs.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1frta3js1kyj31uf2rk4qs.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006D4NLGgy1frta3js1kyj31uf2rk4qs.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006D4NLGgy1frta3o56z4j326c39hhdx.jpg"><img src="//wx3.sinaimg.cn/thumb150/006D4NLGgy1frta3o56z4j326c39hhdx.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006D4NLGgy1frta3o56z4j326c39hhdx.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006D4NLGgy1frta3o56z4j326c39hhdx.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006D4NLGgy1frta3slanej321q32kb2d.jpg"><img src="//wx2.sinaimg.cn/thumb150/006D4NLGgy1frta3slanej321q32kb2d.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1frta3slanej321q32kb2d.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006D4NLGgy1frta3slanej321q32kb2d.jpg"/></a>
   </li>
 </ul>
 

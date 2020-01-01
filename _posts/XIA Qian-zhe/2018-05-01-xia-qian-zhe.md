@@ -15,9 +15,9 @@ The training in the three-day holiday ended. I'll keep practising during break a
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/0076g4Wmgy1fqw5xxu425j30qo1bgwr3.jpg"><img src="//wx3.sinaimg.cn/thumb150/0076g4Wmgy1fqw5xxu425j30qo1bgwr3.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/0076g4Wmgy1fqw5xxu425j30qo1bgwr3.jpg"><img src="http://wx3.sinaimg.cn/thumb150/0076g4Wmgy1fqw5xxu425j30qo1bgwr3.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/0076g4Wmgy1fqw5xw30d9j30qo1bgtly.jpg"><img src="//wx2.sinaimg.cn/thumb150/0076g4Wmgy1fqw5xw30d9j30qo1bgtly.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/0076g4Wmgy1fqw5xw30d9j30qo1bgtly.jpg"><img src="http://wx2.sinaimg.cn/thumb150/0076g4Wmgy1fqw5xw30d9j30qo1bgtly.jpg"/></a>
   </li>
 </ul>

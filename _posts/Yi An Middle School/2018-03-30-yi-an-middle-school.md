@@ -16,31 +16,31 @@ Tomorrow is the day to publish. Don't forget to focus on [@iQiyi](https://weibo.
 
 <ul class="weibo-pic-list-3">
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006D4NLGly1fpuzy47jv2j30qo141aj5.jpg"><img src="//wx1.sinaimg.cn/thumb150/006D4NLGly1fpuzy47jv2j30qo141aj5.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006D4NLGly1fpuzy47jv2j30qo141aj5.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006D4NLGly1fpuzy47jv2j30qo141aj5.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006D4NLGly1fpuzy8ohrzj32kw3vc4qv.jpg"><img src="//wx1.sinaimg.cn/thumb150/006D4NLGly1fpuzy8ohrzj32kw3vc4qv.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006D4NLGly1fpuzy8ohrzj32kw3vc4qv.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006D4NLGly1fpuzy8ohrzj32kw3vc4qv.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006D4NLGly1fpuzy9xj1qj30qo14046w.jpg"><img src="//wx1.sinaimg.cn/thumb150/006D4NLGly1fpuzy9xj1qj30qo14046w.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006D4NLGly1fpuzy9xj1qj30qo14046w.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006D4NLGly1fpuzy9xj1qj30qo14046w.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006D4NLGly1fpuzyfxwztj32kw3vcqvc.jpg"><img src="//wx1.sinaimg.cn/thumb150/006D4NLGly1fpuzyfxwztj32kw3vcqvc.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006D4NLGly1fpuzyfxwztj32kw3vcqvc.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006D4NLGly1fpuzyfxwztj32kw3vcqvc.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006D4NLGly1fpuzyh4xsnj30ld0ewamd.jpg"><img src="//wx1.sinaimg.cn/thumb150/006D4NLGly1fpuzyh4xsnj30ld0ewamd.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006D4NLGly1fpuzyh4xsnj30ld0ewamd.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006D4NLGly1fpuzyh4xsnj30ld0ewamd.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006D4NLGly1fpuzyhi6nyj31400qok1d.jpg"><img src="//wx1.sinaimg.cn/thumb150/006D4NLGly1fpuzyhi6nyj31400qok1d.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006D4NLGly1fpuzyhi6nyj31400qok1d.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006D4NLGly1fpuzyhi6nyj31400qok1d.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGly1fpuzyo0t09j33vc2kwhe1.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGly1fpuzyo0t09j33vc2kwhe1.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGly1fpuzyo0t09j33vc2kwhe1.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGly1fpuzyo0t09j33vc2kwhe1.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006D4NLGly1fpuzy3fi80j33vc2kw1l4.jpg"><img src="//wx2.sinaimg.cn/thumb150/006D4NLGly1fpuzy3fi80j33vc2kw1l4.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006D4NLGly1fpuzy3fi80j33vc2kw1l4.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006D4NLGly1fpuzy3fi80j33vc2kw1l4.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGly1fpuzyu4k7ej33vc2kwkjs.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGly1fpuzyu4k7ej33vc2kwkjs.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGly1fpuzyu4k7ej33vc2kwkjs.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGly1fpuzyu4k7ej33vc2kwkjs.jpg"/></a>
   </li>
 </ul>
 
@@ -66,9 +66,9 @@ Note:
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006D4NLGly1fpuuq12s6ij33vc2kvqvb.jpg"><img src="//wx1.sinaimg.cn/thumb150/006D4NLGly1fpuuq12s6ij33vc2kvqvb.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006D4NLGly1fpuuq12s6ij33vc2kvqvb.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006D4NLGly1fpuuq12s6ij33vc2kvqvb.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006D4NLGly1fpuup9i601j33vc2kwkjr.jpg"><img src="//wx2.sinaimg.cn/thumb150/006D4NLGly1fpuup9i601j33vc2kwkjr.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006D4NLGly1fpuup9i601j33vc2kwkjr.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006D4NLGly1fpuup9i601j33vc2kwkjr.jpg"/></a>
   </li>
 </ul>

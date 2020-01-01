@@ -16,8 +16,8 @@ Please stay tuned for [❏ the live at 18:00, 6th May](http://t.cn/Ruu8GtE)!
 
 <!-- more -->
 
-<a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1fqzl5m6aapj30cz0o0x09.jpg">
-  <img class="weibo-pic-preview" src="//wx4.sinaimg.cn/orj360/006D4NLGgy1fqzl5m6aapj30cz0o0x09.jpg" />
+<a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1fqzl5m6aapj30cz0o0x09.jpg">
+  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006D4NLGgy1fqzl5m6aapj30cz0o0x09.jpg" />
 </a>
 
 ---

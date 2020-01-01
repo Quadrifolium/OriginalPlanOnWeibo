@@ -13,6 +13,6 @@ categories: [ 'fang-xiang-rui' ]
 
 <!-- more -->
 
-<a href="//wx1.sinaimg.cn/large/006G0KNGly8frw0i7k70tj30f00qoacu.jpg">
-  <img class="weibo-pic-preview" src="//wx1.sinaimg.cn/large/006G0KNGly8frw0i7k70tj30f00qoacu.jpg" />
+<a href="http://wx1.sinaimg.cn/large/006G0KNGly8frw0i7k70tj30f00qoacu.jpg">
+  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/large/006G0KNGly8frw0i7k70tj30f00qoacu.jpg" />
 </a>

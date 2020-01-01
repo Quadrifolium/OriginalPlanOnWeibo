@@ -15,9 +15,9 @@ This is the first time to celebrate YAN Ke's birthday. The cream was also on my 
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/0076h5Fhgy1fqvzpt94mmj30qo1bfwkb.jpg"><img src="//wx1.sinaimg.cn/thumb150/0076h5Fhgy1fqvzpt94mmj30qo1bfwkb.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/0076h5Fhgy1fqvzpt94mmj30qo1bfwkb.jpg"><img src="http://wx1.sinaimg.cn/thumb150/0076h5Fhgy1fqvzpt94mmj30qo1bfwkb.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/0076h5Fhgy1fqvzpu5ukbj31bf0qo44g.jpg"><img src="//wx3.sinaimg.cn/thumb150/0076h5Fhgy1fqvzpu5ukbj31bf0qo44g.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/0076h5Fhgy1fqvzpu5ukbj31bf0qo44g.jpg"><img src="http://wx3.sinaimg.cn/thumb150/0076h5Fhgy1fqvzpu5ukbj31bf0qo44g.jpg"/></a>
   </li>
 </ul>

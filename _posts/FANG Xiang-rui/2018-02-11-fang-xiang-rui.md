@@ -13,8 +13,8 @@ I'm home. 🙃×3
 
 <!-- more -->
 
-<a href="//wx1.sinaimg.cn/mw690/006G0KNGly1focsrjrsejj31sg1sgn80.jpg">
-  <img class="weibo-pic-preview" src="//wx1.sinaimg.cn/orj360/006G0KNGly1focsrjrsejj31sg1sgn80.jpg" />
+<a href="http://wx1.sinaimg.cn/mw690/006G0KNGly1focsrjrsejj31sg1sgn80.jpg">
+  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/006G0KNGly1focsrjrsejj31sg1sgn80.jpg" />
 </a>
 
 *Comments*

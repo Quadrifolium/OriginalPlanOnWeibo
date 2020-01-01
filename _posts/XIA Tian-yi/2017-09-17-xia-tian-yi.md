@@ -15,10 +15,10 @@ Nice to meet you. This is XIA Tian-yi. 😎 Thank you for your attention. Let's 
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/006RpxDlgy1fjmqeskr7bj30kv0uodik.jpg"><img src="//wx2.sinaimg.cn/thumb150/006RpxDlgy1fjmqeskr7bj30kv0uodik.jpg" /></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006RpxDlgy1fjmqeskr7bj30kv0uodik.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006RpxDlgy1fjmqeskr7bj30kv0uodik.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/006RpxDlgy1fjmqetf0vjj30k00qtad6.jpg"><img src="//wx3.sinaimg.cn/thumb150/006RpxDlgy1fjmqetf0vjj30k00qtad6.jpg" /></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006RpxDlgy1fjmqetf0vjj30k00qtad6.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006RpxDlgy1fjmqetf0vjj30k00qtad6.jpg" /></a>
   </li>
 </ul>
 

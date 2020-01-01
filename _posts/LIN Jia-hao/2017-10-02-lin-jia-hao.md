@@ -15,16 +15,16 @@ Watched the show of Cirque du Soleil with [@YiAnMusicClub-ChiYi](http://weibo.co
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006Mi0jTgy1fk3wd8nhwkj30zk0k0wfb.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Mi0jTgy1fk3wd8nhwkj30zk0k0wfb.jpg" /></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006Mi0jTgy1fk3wd8nhwkj30zk0k0wfb.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Mi0jTgy1fk3wd8nhwkj30zk0k0wfb.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/006Mi0jTgy1fk3wd9adilj30fr0a7760.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Mi0jTgy1fk3wd9adilj30fr0a7760.jpg" /></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Mi0jTgy1fk3wd9adilj30fr0a7760.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Mi0jTgy1fk3wd9adilj30fr0a7760.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Mi0jTgy1fk3wd82ir3j30go0m8ta3.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Mi0jTgy1fk3wd82ir3j30go0m8ta3.jpg" /></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006Mi0jTgy1fk3wd82ir3j30go0m8ta3.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Mi0jTgy1fk3wd82ir3j30go0m8ta3.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/006Mi0jTgy1fk3wd9wo2uj30go0m8q4e.jpg"><img src="//wx2.sinaimg.cn/thumb150/006Mi0jTgy1fk3wd9wo2uj30go0m8q4e.jpg" /></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006Mi0jTgy1fk3wd9wo2uj30go0m8q4e.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Mi0jTgy1fk3wd9wo2uj30go0m8q4e.jpg" /></a>
   </li>
 </ul>
 

@@ -25,15 +25,15 @@ categories: [ 'yi-an-music-club' ]
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006Es64Agy1fndib5ax4jj320f30mhdw.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Agy1fndib5ax4jj320f30mhdw.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006Es64Agy1fndib5ax4jj320f30mhdw.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Agy1fndib5ax4jj320f30mhdw.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006Es64Agy1fndib2dv7sj31z22ymnpf.jpg"><img src="//wx2.sinaimg.cn/thumb150/006Es64Agy1fndib2dv7sj31z22ymnpf.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006Es64Agy1fndib2dv7sj31z22ymnpf.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Agy1fndib2dv7sj31z22ymnpf.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006Es64Agy1fndib79xl6j30qo140gt5.jpg"><img src="//wx2.sinaimg.cn/thumb150/006Es64Agy1fndib79xl6j30qo140gt5.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006Es64Agy1fndib79xl6j30qo140gt5.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Agy1fndib79xl6j30qo140gt5.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006Es64Agy1fndib8buy6j30qo140q9j.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Agy1fndib8buy6j30qo140q9j.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Es64Agy1fndib8buy6j30qo140q9j.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Agy1fndib8buy6j30qo140q9j.jpg"/></a>
   </li>
 </ul>

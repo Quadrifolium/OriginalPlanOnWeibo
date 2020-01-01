@@ -25,8 +25,8 @@ Hey, have a look, duo dance with my bro. ![sun](https://img.t.sinajs.cn/t4/appst
 Happy birthday, Chi.  
 And don't miss [#YiAnAfterSchool](https://weibo.com/p/100808f57cd722476872700a5522853faa7576).
 
-<a href="//wx2.sinaimg.cn/mw690/98e534a3gy1fn72zkd7haj20k00zk7aq.jpg">
-  <img class="weibo-pic-preview" src="//wx2.sinaimg.cn/orj360/98e534a3gy1fn72zkd7haj20k00zk7aq.jpg" />
+<a href="http://wx2.sinaimg.cn/mw690/98e534a3gy1fn72zkd7haj20k00zk7aq.jpg">
+  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/98e534a3gy1fn72zkd7haj20k00zk7aq.jpg" />
 </a>
 
 <small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>

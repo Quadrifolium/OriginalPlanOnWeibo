@@ -15,9 +15,9 @@ This is the brat peed on me. Cute, huh?
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006RpxDlgy1fng3sa6dpjj30qo0qon23.jpg"><img src="//wx4.sinaimg.cn/thumb150/006RpxDlgy1fng3sa6dpjj30qo0qon23.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006RpxDlgy1fng3sa6dpjj30qo0qon23.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006RpxDlgy1fng3sa6dpjj30qo0qon23.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006RpxDlgy1fng3say6ekj30qo0qodk9.jpg"><img src="//wx1.sinaimg.cn/thumb150/006RpxDlgy1fng3say6ekj30qo0qodk9.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006RpxDlgy1fng3say6ekj30qo0qodk9.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006RpxDlgy1fng3say6ekj30qo0qodk9.jpg"/></a>
   </li>
 </ul>

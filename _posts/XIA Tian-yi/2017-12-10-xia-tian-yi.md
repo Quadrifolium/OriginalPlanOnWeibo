@@ -14,7 +14,7 @@ The weekend is getting to the end. See you next week. ![think](http://img.t.sina
 <!-- more -->
 
 <a href="https://wx3.sinaimg.cn/mw690/006RpxDlgy1fmbzp3wn6pj30qo0zkn6c.jpg">
-  <img class="weibo-pic-preview" src="//wx3.sinaimg.cn/orj360/006RpxDlgy1fmbzp3wn6pj30qo0zkn6c.jpg" />
+  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006RpxDlgy1fmbzp3wn6pj30qo0zkn6c.jpg" />
 </a>
 
 ---

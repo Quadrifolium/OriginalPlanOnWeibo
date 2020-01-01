@@ -26,9 +26,9 @@ Note:
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006D4NLGgy1fq2qwd4irdj31kw11xqve.jpg"><img src="//wx1.sinaimg.cn/thumb150/006D4NLGgy1fq2qwd4irdj31kw11xqve.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006D4NLGgy1fq2qwd4irdj31kw11xqve.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006D4NLGgy1fq2qwd4irdj31kw11xqve.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1fq2qwl8g55j31kw11xhe3.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGgy1fq2qwl8g55j31kw11xhe3.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1fq2qwl8g55j31kw11xhe3.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGgy1fq2qwl8g55j31kw11xhe3.jpg"/></a>
   </li>
 </ul>

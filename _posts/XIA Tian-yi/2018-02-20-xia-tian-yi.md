@@ -15,12 +15,12 @@ Bask the sun and ride a bike. 😎:sunny:
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006RpxDlly1fon0hi0pnsj30qq0qotc5.jpg"><img src="//wx4.sinaimg.cn/thumb150/006RpxDlly1fon0hi0pnsj30qq0qotc5.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006RpxDlly1fon0hi0pnsj30qq0qotc5.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006RpxDlly1fon0hi0pnsj30qq0qotc5.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006RpxDlly1fon0hiqu5rj30qq0qoq7y.jpg"><img src="//wx3.sinaimg.cn/thumb150/006RpxDlly1fon0hiqu5rj30qq0qoq7y.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006RpxDlly1fon0hiqu5rj30qq0qoq7y.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006RpxDlly1fon0hiqu5rj30qq0qoq7y.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006RpxDlly1fon0hj57x2j30qo0qo416.jpg"><img src="//wx1.sinaimg.cn/thumb150/006RpxDlly1fon0hj57x2j30qo0qo416.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006RpxDlly1fon0hj57x2j30qo0qo416.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006RpxDlly1fon0hj57x2j30qo0qo416.jpg"/></a>
   </li>
 </ul>

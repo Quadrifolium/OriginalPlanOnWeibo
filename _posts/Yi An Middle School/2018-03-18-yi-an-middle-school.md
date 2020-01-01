@@ -34,16 +34,16 @@ Besides, there will be a hidden song themed as respect for senior singers. Pleas
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGly1fpi2oyx4bfj31e00xckf5.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGly1fpi2oyx4bfj31e00xckf5.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGly1fpi2oyx4bfj31e00xckf5.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGly1fpi2oyx4bfj31e00xckf5.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006D4NLGly1fpi2p14g4rj31e02307wi.jpg"><img src="//wx3.sinaimg.cn/thumb150/006D4NLGly1fpi2p14g4rj31e02307wi.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006D4NLGly1fpi2p14g4rj31e02307wi.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006D4NLGly1fpi2p14g4rj31e02307wi.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006D4NLGly1fpi2p937l2j33vc2kwkjs.jpg"><img src="//wx3.sinaimg.cn/thumb150/006D4NLGly1fpi2p937l2j33vc2kwkjs.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006D4NLGly1fpi2p937l2j33vc2kwkjs.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006D4NLGly1fpi2p937l2j33vc2kwkjs.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGly1fpi2oxg980j31e02301ky.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGly1fpi2oxg980j31e02301ky.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGly1fpi2oxg980j31e02301ky.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGly1fpi2oxg980j31e02301ky.jpg"/></a>
   </li>
 </ul>
 

@@ -15,13 +15,13 @@ Having hot pot to keep warm is a must after arriving at Beijing. If you don't ha
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="https://wx4.sinaimg.cn/mw690/006Es64Agy1fmjzxs0ad4j31zk1hokjp.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Agy1fmjzxs0ad4j31zk1hokjp.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006Es64Agy1fmjzxs0ad4j31zk1hokjp.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Agy1fmjzxs0ad4j31zk1hokjp.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx4.sinaimg.cn/mw690/006Es64Agy1fmjzxp6kkzj31zk1ho1l2.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Agy1fmjzxp6kkzj31zk1ho1l2.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006Es64Agy1fmjzxp6kkzj31zk1ho1l2.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Agy1fmjzxp6kkzj31zk1ho1l2.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx2.sinaimg.cn/mw690/006Es64Agy1fmjzxuzz22j31zk1hokjp.jpg"><img src="//wx2.sinaimg.cn/thumb150/006Es64Agy1fmjzxuzz22j31zk1hokjp.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006Es64Agy1fmjzxuzz22j31zk1hokjp.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Agy1fmjzxuzz22j31zk1hokjp.jpg" /></a>
   </li>
 </ul>
 
@@ -34,7 +34,7 @@ Having hot pot to keep warm is a must after arriving at Beijing. If you don't ha
 [#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) Notice on the signing session on 23rd December ↓×5
 
 <a href="https://wx1.sinaimg.cn/mw690/006Es64Aly1fmjj9pm6mmj30lo0urtje.jpg">
-  <img class="weibo-pic-preview" src="//wx1.sinaimg.cn/orj360/006Es64Aly1fmjj9pm6mmj30lo0urtje.jpg" />
+  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/006Es64Aly1fmjj9pm6mmj30lo0urtje.jpg" />
 </a>
 
 *Words in image:*

@@ -13,6 +13,6 @@ Hi
 
 <!-- more -->
 
-<a href="//wx4.sinaimg.cn/mw690/006G0KNGly1fo14jiib14j31jk2bc1kz.jpg">
-  <img class="weibo-pic-preview" src="//wx4.sinaimg.cn/orj360/006G0KNGly1fo14jiib14j31jk2bc1kz.jpg" />
+<a href="http://wx4.sinaimg.cn/mw690/006G0KNGly1fo14jiib14j31jk2bc1kz.jpg">
+  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006G0KNGly1fo14jiib14j31jk2bc1kz.jpg" />
 </a>

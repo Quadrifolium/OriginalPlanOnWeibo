@@ -15,19 +15,19 @@ What in my eyes is …?
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/98e534a3ly1fpvzz73heuj22aj2emu12.jpg"><img src="//wx1.sinaimg.cn/thumb150/98e534a3ly1fpvzz73heuj22aj2emu12.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/98e534a3ly1fpvzz73heuj22aj2emu12.jpg"><img src="http://wx1.sinaimg.cn/thumb150/98e534a3ly1fpvzz73heuj22aj2emu12.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/98e534a3ly1fpvzze7j2zj21dc0wwkhz.jpg"><img src="//wx1.sinaimg.cn/thumb150/98e534a3ly1fpvzze7j2zj21dc0wwkhz.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/98e534a3ly1fpvzze7j2zj21dc0wwkhz.jpg"><img src="http://wx1.sinaimg.cn/thumb150/98e534a3ly1fpvzze7j2zj21dc0wwkhz.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/98e534a3ly1fpvzzjje1jj21dc0ww1kx.jpg"><img src="//wx2.sinaimg.cn/thumb150/98e534a3ly1fpvzzjje1jj21dc0ww1kx.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/98e534a3ly1fpvzzjje1jj21dc0ww1kx.jpg"><img src="http://wx2.sinaimg.cn/thumb150/98e534a3ly1fpvzzjje1jj21dc0ww1kx.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/98e534a3ly1fpvzzoxm5fj21dc0ww4mj.jpg"><img src="//wx2.sinaimg.cn/thumb150/98e534a3ly1fpvzzoxm5fj21dc0ww4mj.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/98e534a3ly1fpvzzoxm5fj21dc0ww4mj.jpg"><img src="http://wx2.sinaimg.cn/thumb150/98e534a3ly1fpvzzoxm5fj21dc0ww4mj.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/98e534a3ly1fpvzztz9zaj21dc0ww4ny.jpg"><img src="//wx2.sinaimg.cn/thumb150/98e534a3ly1fpvzztz9zaj21dc0ww4ny.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/98e534a3ly1fpvzztz9zaj21dc0ww4ny.jpg"><img src="http://wx2.sinaimg.cn/thumb150/98e534a3ly1fpvzztz9zaj21dc0ww4ny.jpg"/></a>
   </li>
 </ul>
 

@@ -13,6 +13,6 @@ Look at my weird posture for writing. Is it hilarious? :joy:
 
 <!-- more -->
 
-<a href="//wx4.sinaimg.cn/mw690/006Mi0jTgy1fpp6dpkznwj30qo0zk455.jpg">
-  <img class="weibo-pic-preview" src="//wx4.sinaimg.cn/orj360/006Mi0jTgy1fpp6dpkznwj30qo0zk455.jpg" />
+<a href="http://wx4.sinaimg.cn/mw690/006Mi0jTgy1fpp6dpkznwj30qo0zk455.jpg">
+  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006Mi0jTgy1fpp6dpkznwj30qo0zk455.jpg" />
 </a>

@@ -13,6 +13,6 @@ Thank you for your great efforts. I know you are good at sweet talks. Here a scr
 
 <!-- more -->
 
-<a href="//wx1.sinaimg.cn/mw690/006FmVn8ly1fs6bsq1mbqj30qo1bfjv7.jpg">
-  <img class="weibo-pic-preview" src="//wx1.sinaimg.cn/orj360/006FmVn8ly1fs6bsq1mbqj30qo1bfjv7.jpg" />
+<a href="http://wx1.sinaimg.cn/mw690/006FmVn8ly1fs6bsq1mbqj30qo1bfjv7.jpg">
+  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/006FmVn8ly1fs6bsq1mbqj30qo1bfjv7.jpg" />
 </a>

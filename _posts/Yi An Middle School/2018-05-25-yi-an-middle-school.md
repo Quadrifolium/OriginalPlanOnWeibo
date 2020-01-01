@@ -26,22 +26,22 @@ Please tune in [@iQiyi](https://weibo.com/qiyiguanbo) at 12:00 for the latest *Y
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006D4NLGgy1frmtutsgmyj31kw11vnpd.jpg"><img src="//wx1.sinaimg.cn/thumb150/006D4NLGgy1frmtutsgmyj31kw11vnpd.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006D4NLGgy1frmtutsgmyj31kw11vnpd.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006D4NLGgy1frmtutsgmyj31kw11vnpd.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006D4NLGgy1frmtuvfcuhj31kw11vb2a.jpg"><img src="//wx1.sinaimg.cn/thumb150/006D4NLGgy1frmtuvfcuhj31kw11vb2a.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006D4NLGgy1frmtuvfcuhj31kw11vb2a.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006D4NLGgy1frmtuvfcuhj31kw11vb2a.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1frmtuvivxbj31kw11vb2a.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGgy1frmtuvivxbj31kw11vb2a.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1frmtuvivxbj31kw11vb2a.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGgy1frmtuvivxbj31kw11vb2a.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006D4NLGgy1frmtuw0nw5j31kw11vhdu.jpg"><img src="//wx3.sinaimg.cn/thumb150/006D4NLGgy1frmtuw0nw5j31kw11vhdu.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006D4NLGgy1frmtuw0nw5j31kw11vhdu.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006D4NLGgy1frmtuw0nw5j31kw11vhdu.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1frmtwcnj0gj31kw11ue7q.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGgy1frmtwcnj0gj31kw11ue7q.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1frmtwcnj0gj31kw11ue7q.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGgy1frmtwcnj0gj31kw11ue7q.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006D4NLGgy1frmtuyisu2j31kw11xhdv.jpg"><img src="//wx3.sinaimg.cn/thumb150/006D4NLGgy1frmtuyisu2j31kw11xhdv.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006D4NLGgy1frmtuyisu2j31kw11xhdv.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006D4NLGgy1frmtuyisu2j31kw11xhdv.jpg"/></a>
   </li>
 </ul>
 

@@ -14,5 +14,5 @@ categories: [ 'zhan-yi-wen' ]
 <!-- more -->
 
 <a href="//f.us.sinaimg.cn/001rwZlvlx07l00oU0IM010402009qMG0k010.mp4?Expires=1528379268&ssig=3SZc22zYZ4&KID=unistore,video">
-  <img class="weibo-pic-preview" src="//wx2.sinaimg.cn/large/006FmVn8ly8frzaj4d77pj30f00qowhh.jpg" />
+  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/large/006FmVn8ly8frzaj4d77pj30f00qowhh.jpg" />
 </a>

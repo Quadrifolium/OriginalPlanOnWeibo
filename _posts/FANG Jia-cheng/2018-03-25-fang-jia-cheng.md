@@ -13,6 +13,6 @@ Yes! Class is over!
 
 <!-- more -->
 
-<a href="//wx1.sinaimg.cn/mw690/0076h5Fhgy1fppdtzqu57j30u01hchdt.jpg">
-  <img class="weibo-pic-preview" src="//wx1.sinaimg.cn/orj360/0076h5Fhgy1fppdtzqu57j30u01hchdt.jpg" />
+<a href="http://wx1.sinaimg.cn/mw690/0076h5Fhgy1fppdtzqu57j30u01hchdt.jpg">
+  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/0076h5Fhgy1fppdtzqu57j30u01hchdt.jpg" />
 </a>

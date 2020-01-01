@@ -14,5 +14,5 @@ Happy birthday, charismatic LIN Mo! (It seems I'm late.) I wish you be more and 
 <!-- more -->
 
 <a href="https://wx4.sinaimg.cn/mw690/006G0KNGgy1fmpckno8i2j32c02c0u0z.jpg">
-  <img class="weibo-pic-preview-h" src="//wx4.sinaimg.cn/orj360/006G0KNGgy1fmpckno8i2j32c02c0u0z.jpg" />
+  <img class="weibo-pic-preview-h" src="http://wx4.sinaimg.cn/orj360/006G0KNGgy1fmpckno8i2j32c02c0u0z.jpg" />
 </a>

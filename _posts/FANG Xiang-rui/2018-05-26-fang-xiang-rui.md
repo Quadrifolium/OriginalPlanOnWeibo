@@ -18,21 +18,21 @@ See you in Guangzhou!
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006G0KNGgy1frovta7wtfj31hg1hgk85.jpg"><img src="//wx3.sinaimg.cn/thumb150/006G0KNGgy1frovta7wtfj31hg1hgk85.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006G0KNGgy1frovta7wtfj31hg1hgk85.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006G0KNGgy1frovta7wtfj31hg1hgk85.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006G0KNGgy1frovtjhal2j31hg1hg19s.jpg"><img src="//wx1.sinaimg.cn/thumb150/006G0KNGgy1frovtjhal2j31hg1hg19s.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006G0KNGgy1frovtjhal2j31hg1hg19s.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006G0KNGgy1frovtjhal2j31hg1hg19s.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006G0KNGgy1frovteipcij31hg1hgh01.jpg"><img src="//wx2.sinaimg.cn/thumb150/006G0KNGgy1frovteipcij31hg1hgh01.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006G0KNGgy1frovteipcij31hg1hgh01.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006G0KNGgy1frovteipcij31hg1hgh01.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006G0KNGgy1frovtfydfvj31hg1hg7km.jpg"><img src="//wx1.sinaimg.cn/thumb150/006G0KNGgy1frovtfydfvj31hg1hg7km.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006G0KNGgy1frovtfydfvj31hg1hg7km.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006G0KNGgy1frovtfydfvj31hg1hg7km.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006G0KNGgy1frovthea0mj31hg1hg4g0.jpg"><img src="//wx4.sinaimg.cn/thumb150/006G0KNGgy1frovthea0mj31hg1hg4g0.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006G0KNGgy1frovthea0mj31hg1hg4g0.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006G0KNGgy1frovthea0mj31hg1hg4g0.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006G0KNGgy1frovtd49y1j31hg1hgk6p.jpg"><img src="//wx1.sinaimg.cn/thumb150/006G0KNGgy1frovtd49y1j31hg1hgk6p.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006G0KNGgy1frovtd49y1j31hg1hgk6p.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006G0KNGgy1frovtd49y1j31hg1hgk6p.jpg"/></a>
   </li>
 </ul>

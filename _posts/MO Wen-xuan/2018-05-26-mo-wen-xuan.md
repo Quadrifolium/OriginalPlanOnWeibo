@@ -15,12 +15,12 @@ Candid photos pretended to be selfies, and turned to group photos at last. ![tit
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/0076g4wkgy1froyxq7un1j30u01o0aqi.jpg"><img src="//wx4.sinaimg.cn/thumb150/0076g4wkgy1froyxq7un1j30u01o0aqi.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/0076g4wkgy1froyxq7un1j30u01o0aqi.jpg"><img src="http://wx4.sinaimg.cn/thumb150/0076g4wkgy1froyxq7un1j30u01o0aqi.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/0076g4wkgy1froyxsg8qhj30u01o01an.jpg"><img src="//wx1.sinaimg.cn/thumb150/0076g4wkgy1froyxsg8qhj30u01o01an.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/0076g4wkgy1froyxsg8qhj30u01o01an.jpg"><img src="http://wx1.sinaimg.cn/thumb150/0076g4wkgy1froyxsg8qhj30u01o01an.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/0076g4wkgy1froyxv8anjj30u01o07uk.jpg"><img src="//wx1.sinaimg.cn/thumb150/0076g4wkgy1froyxv8anjj30u01o07uk.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/0076g4wkgy1froyxv8anjj30u01o07uk.jpg"><img src="http://wx1.sinaimg.cn/thumb150/0076g4wkgy1froyxv8anjj30u01o07uk.jpg"/></a>
   </li>
 </ul>

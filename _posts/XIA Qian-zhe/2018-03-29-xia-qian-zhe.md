@@ -15,9 +15,9 @@ Guess what animal I am playing. I'll tell you next time. ![very happy](https://i
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/0076g4Wmgy1fpu1lz1120j31301ay7wh.jpg"><img src="//wx2.sinaimg.cn/thumb150/0076g4Wmgy1fpu1lz1120j31301ay7wh.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/0076g4Wmgy1fpu1lz1120j31301ay7wh.jpg"><img src="http://wx2.sinaimg.cn/thumb150/0076g4Wmgy1fpu1lz1120j31301ay7wh.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/0076g4Wmgy1fpu1m0ebb2j31381dl7wh.jpg"><img src="//wx4.sinaimg.cn/thumb150/0076g4Wmgy1fpu1m0ebb2j31381dl7wh.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/0076g4Wmgy1fpu1m0ebb2j31381dl7wh.jpg"><img src="http://wx4.sinaimg.cn/thumb150/0076g4Wmgy1fpu1m0ebb2j31381dl7wh.jpg"/></a>
   </li>
 </ul>

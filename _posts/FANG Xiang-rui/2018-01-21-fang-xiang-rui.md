@@ -13,8 +13,8 @@ Interesting :rabbit:
 
 <!-- more -->
 
-<a href="//wx3.sinaimg.cn/mw690/006G0KNGgy1fnohxnrm05j31ho1hox6r.jpg">
-  <img class="weibo-pic-preview" src="//wx3.sinaimg.cn/orj360/006G0KNGgy1fnohxnrm05j31ho1hox6r.jpg" />
+<a href="http://wx3.sinaimg.cn/mw690/006G0KNGgy1fnohxnrm05j31ho1hox6r.jpg">
+  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006G0KNGgy1fnohxnrm05j31ho1hox6r.jpg" />
 </a>
 
 *Comments*

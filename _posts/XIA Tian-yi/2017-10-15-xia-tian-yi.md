@@ -15,12 +15,12 @@ It's so cold! Please put on more clothes. ![rain](http://img.t.sinajs.cn/t4/apps
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/006RpxDlgy1fkitlp0t6uj30qo1bfqa7.jpg"><img src="//wx3.sinaimg.cn/thumb150/006RpxDlgy1fkitlp0t6uj30qo1bfqa7.jpg" /></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006RpxDlgy1fkitlp0t6uj30qo1bfqa7.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006RpxDlgy1fkitlp0t6uj30qo1bfqa7.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/006RpxDlgy1fkitlqkiwkj30qo1bfgs7.jpg"><img src="//wx2.sinaimg.cn/thumb150/006RpxDlgy1fkitlqkiwkj30qo1bfgs7.jpg" /></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006RpxDlgy1fkitlqkiwkj30qo1bfgs7.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006RpxDlgy1fkitlqkiwkj30qo1bfgs7.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/006RpxDlgy1fkitls8wwxj30qo1bfn3v.jpg"><img src="//wx2.sinaimg.cn/thumb150/006RpxDlgy1fkitls8wwxj30qo1bfn3v.jpg" /></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006RpxDlgy1fkitls8wwxj30qo1bfn3v.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006RpxDlgy1fkitls8wwxj30qo1bfn3v.jpg" /></a>
   </li>
 </ul>

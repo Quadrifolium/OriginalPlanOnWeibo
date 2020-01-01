@@ -15,9 +15,9 @@ Two photos during the recording of *Yi An After School*! Heart :kissing_heart:
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006Mi0jTgy1fqckr45u8mj30qo0zk1kx.jpg"><img src="//wx2.sinaimg.cn/thumb150/006Mi0jTgy1fqckr45u8mj30qo0zk1kx.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006Mi0jTgy1fqckr45u8mj30qo0zk1kx.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Mi0jTgy1fqckr45u8mj30qo0zk1kx.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006Mi0jTgy1fqckw8vzuaj31401hcu0x.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Mi0jTgy1fqckw8vzuaj31401hcu0x.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006Mi0jTgy1fqckw8vzuaj31401hcu0x.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Mi0jTgy1fqckw8vzuaj31401hcu0x.jpg"/></a>
   </li>
 </ul>

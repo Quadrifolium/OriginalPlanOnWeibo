@@ -15,6 +15,6 @@ Great thanks. ![wink](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/
 
 <!-- more -->
 
-<a href="//wx4.sinaimg.cn/mw690/98e534a3gy1fri43iy1o5j20v90v9k7b.jpg">
-  <img class="weibo-pic-preview" src="//wx4.sinaimg.cn/orj360/98e534a3gy1fri43iy1o5j20v90v9k7b.jpg" />
+<a href="http://wx4.sinaimg.cn/mw690/98e534a3gy1fri43iy1o5j20v90v9k7b.jpg">
+  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/98e534a3gy1fri43iy1o5j20v90v9k7b.jpg" />
 </a>

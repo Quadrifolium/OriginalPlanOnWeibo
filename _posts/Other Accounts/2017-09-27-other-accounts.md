@@ -18,9 +18,9 @@ Good morning! An alluring and horrible song was brainwashing me yesterday ![knee
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/97628667ly1fjxv7p5kxkj20o10o1als.jpg"><img src="//wx2.sinaimg.cn/thumb150/97628667ly1fjxv7p5kxkj20o10o1als.jpg" /></a>
+    <a href="http://wx2.sinaimg.cn/mw690/97628667ly1fjxv7p5kxkj20o10o1als.jpg"><img src="http://wx2.sinaimg.cn/thumb150/97628667ly1fjxv7p5kxkj20o10o1als.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/97628667ly1fjxv7j7h7tj20jo0jo7as.jpg"><img src="//wx3.sinaimg.cn/thumb150/97628667ly1fjxv7j7h7tj20jo0jo7as.jpg" /></a>
+    <a href="http://wx3.sinaimg.cn/mw690/97628667ly1fjxv7j7h7tj20jo0jo7as.jpg"><img src="http://wx3.sinaimg.cn/thumb150/97628667ly1fjxv7j7h7tj20jo0jo7as.jpg" /></a>
   </li>
 </ul>

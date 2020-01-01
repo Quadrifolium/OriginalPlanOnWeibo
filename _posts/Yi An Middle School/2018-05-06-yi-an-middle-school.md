@@ -16,10 +16,10 @@ To look back on the past month, Yi An boys made their efforts to reach their goa
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1fr1zmuy2dij30xc22shdu.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGgy1fr1zmuy2dij30xc22shdu.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1fr1zmuy2dij30xc22shdu.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGgy1fr1zmuy2dij30xc22shdu.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1fr1zmwjd41j30xc1r91ky.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGgy1fr1zmwjd41j30xc1r91ky.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1fr1zmwjd41j30xc1r91ky.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGgy1fr1zmwjd41j30xc1r91ky.jpg"/></a>
   </li>
 </ul>
 
@@ -33,8 +33,8 @@ To look back on the past month, Yi An boys made their efforts to reach their goa
 In the days to come, we won't let you down.  
 We appreciate everyone walking with us.
 
-<a href="//wx2.sinaimg.cn/mw690/006D4NLGgy1fr1wbtnfqhj319n0qowmx.jpg">
-  <img class="weibo-pic-preview" src="//wx2.sinaimg.cn/orj360/006D4NLGgy1fr1wbtnfqhj319n0qowmx.jpg" />
+<a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1fr1wbtnfqhj319n0qowmx.jpg">
+  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006D4NLGgy1fr1wbtnfqhj319n0qowmx.jpg" />
 </a>
 
 ---
@@ -48,8 +48,8 @@ We appreciate everyone walking with us.
 No. 1 in the school-level team is [@YiAnMusicClub-LinMo](https://weibo.com/u/6108312042), the boy bringing sunshine with smile. Congratlations!  
 Please wait for your customised monitoring headphone and costomised song!
 
-<a href="//wx3.sinaimg.cn/mw690/006D4NLGgy1fr1ujj8dqyj329e3e4e82.jpg">
-  <img class="weibo-pic-preview" src="//wx3.sinaimg.cn/orj360/006D4NLGgy1fr1ujj8dqyj329e3e4e82.jpg" />
+<a href="http://wx3.sinaimg.cn/mw690/006D4NLGgy1fr1ujj8dqyj329e3e4e82.jpg">
+  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006D4NLGgy1fr1ujj8dqyj329e3e4e82.jpg" />
 </a>
 
 ---
@@ -62,8 +62,8 @@ Please wait for your customised monitoring headphone and costomised song!
 [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The rank of the first competition released!  
 No. 2 in the school-level team is [@YiAnMusicClub-SunYiHang](https://weibo.com/u/2565158051), the dance solo king. Congratulations!
 
-<a href="//wx3.sinaimg.cn/mw690/006D4NLGgy1fr1uhx1nsgj32cu3kekjm.jpg">
-  <img class="weibo-pic-preview" src="//wx3.sinaimg.cn/orj360/006D4NLGgy1fr1uhx1nsgj32cu3kekjm.jpg" />
+<a href="http://wx3.sinaimg.cn/mw690/006D4NLGgy1fr1uhx1nsgj32cu3kekjm.jpg">
+  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006D4NLGgy1fr1uhx1nsgj32cu3kekjm.jpg" />
 </a>
 
 ---
@@ -76,8 +76,8 @@ No. 2 in the school-level team is [@YiAnMusicClub-SunYiHang](https://weibo.com/u
 [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The rank of the first competition released!  
 No. 3 in the school-level team is [@YiAnMusicClub-ZhanYiWen](https://weibo.com/u/6108090526), the boy growing fast. Congratulations!
 
-<a href="//wx3.sinaimg.cn/mw690/006D4NLGgy1fr1udbb7fej323134k1ky.jpg">
-  <img class="weibo-pic-preview" src="//wx3.sinaimg.cn/orj360/006D4NLGgy1fr1udbb7fej323134k1ky.jpg" />
+<a href="http://wx3.sinaimg.cn/mw690/006D4NLGgy1fr1udbb7fej323134k1ky.jpg">
+  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006D4NLGgy1fr1udbb7fej323134k1ky.jpg" />
 </a>
 
 ---
@@ -90,8 +90,8 @@ No. 3 in the school-level team is [@YiAnMusicClub-ZhanYiWen](https://weibo.com/u
 [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The rank of the first competition released!  
 No. 4 in the school-level team is [@YiAnMusicClub-ChiYi](https://weibo.com/u/6117581836), our little angel. Congratulations!
 
-<a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1fr1uc745jaj322v34a1ky.jpg">
-  <img class="weibo-pic-preview" src="//wx4.sinaimg.cn/orj360/006D4NLGgy1fr1uc745jaj322v34a1ky.jpg" />
+<a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1fr1uc745jaj322v34a1ky.jpg">
+  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006D4NLGgy1fr1uc745jaj322v34a1ky.jpg" />
 </a>
 
 ---
@@ -104,8 +104,8 @@ No. 4 in the school-level team is [@YiAnMusicClub-ChiYi](https://weibo.com/u/611
 [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The rank of the first competition released!  
 No. 5 in the school-level team is [@YiAnMusicClub-HeLuoLuo](https://weibo.com/u/6117570574), our leader forever. Congratlations!
 
-<a href="//wx2.sinaimg.cn/mw690/006D4NLGgy1fr1uawnou9j32403621ky.jpg">
-  <img class="weibo-pic-preview" src="//wx2.sinaimg.cn/orj360/006D4NLGgy1fr1uawnou9j32403621ky.jpg" />
+<a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1fr1uawnou9j32403621ky.jpg">
+  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006D4NLGgy1fr1uawnou9j32403621ky.jpg" />
 </a>
 
 ---
@@ -118,8 +118,8 @@ No. 5 in the school-level team is [@YiAnMusicClub-HeLuoLuo](https://weibo.com/u/
 [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The rank of the first competition released!  
 No. 6 in the school-level team is [@YiAnMusicClub-FangXiangRui](https://weibo.com/u/6117583008), the boy practising hard and progressing always. Congratlations!
 
-<a href="//wx3.sinaimg.cn/mw690/006D4NLGgy1fr1u8xqotoj32iq3s4e83.jpg">
-  <img class="weibo-pic-preview" src="//wx3.sinaimg.cn/orj360/006D4NLGgy1fr1u8xqotoj32iq3s4e83.jpg" />
+<a href="http://wx3.sinaimg.cn/mw690/006D4NLGgy1fr1u8xqotoj32iq3s4e83.jpg">
+  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006D4NLGgy1fr1u8xqotoj32iq3s4e83.jpg" />
 </a>
 
 ---
@@ -132,8 +132,8 @@ No. 6 in the school-level team is [@YiAnMusicClub-FangXiangRui](https://weibo.co
 [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The rank of the first competition released!  
 No. 7 in the grade-level team is [@YiAnMiddleSchool-EnHao](https://weibo.com/u/6346318257), the boy hoping to show you the true self. Congratlations!
 
-<a href="//wx3.sinaimg.cn/mw690/006D4NLGgy1fr1u58md7gj329g3e6e82.jpg">
-  <img class="weibo-pic-preview" src="//wx3.sinaimg.cn/orj360/006D4NLGgy1fr1u58md7gj329g3e6e82.jpg" />
+<a href="http://wx3.sinaimg.cn/mw690/006D4NLGgy1fr1u58md7gj329g3e6e82.jpg">
+  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006D4NLGgy1fr1u58md7gj329g3e6e82.jpg" />
 </a>
 
 ---
@@ -146,8 +146,8 @@ No. 7 in the grade-level team is [@YiAnMiddleSchool-EnHao](https://weibo.com/u/6
 [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The rank of the first competition released!  
 No. 8 in the grade-level team is [@YiAnMiddleSchool-XiaTianYi](https://weibo.com/6286030291), the limbs monster. Congratlations!
 
-<a href="//wx3.sinaimg.cn/mw690/006D4NLGgy1fr1u446887j329k3eeqv6.jpg">
-  <img class="weibo-pic-preview" src="//wx3.sinaimg.cn/orj360/006D4NLGgy1fr1u446887j329k3eeqv6.jpg" />
+<a href="http://wx3.sinaimg.cn/mw690/006D4NLGgy1fr1u446887j329k3eeqv6.jpg">
+  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006D4NLGgy1fr1u446887j329k3eeqv6.jpg" />
 </a>
 
 ---
@@ -160,8 +160,8 @@ No. 8 in the grade-level team is [@YiAnMiddleSchool-XiaTianYi](https://weibo.com
 [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The rank of the first competition released!  
 No. 9 in the grade-level team is [@YiAnMiddleSchool-ShenYiSheng](https://weibo.com/u/6507103706), the boy hoping to give the best performance. Congratlations!
 
-<a href="//wx1.sinaimg.cn/mw690/006D4NLGgy1fr1u039wgej327u39ehdu.jpg">
-  <img class="weibo-pic-preview" src="//wx1.sinaimg.cn/orj360/006D4NLGgy1fr1u039wgej327u39ehdu.jpg" />
+<a href="http://wx1.sinaimg.cn/mw690/006D4NLGgy1fr1u039wgej327u39ehdu.jpg">
+  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/006D4NLGgy1fr1u039wgej327u39ehdu.jpg" />
 </a>
 
 ---
@@ -174,8 +174,8 @@ No. 9 in the grade-level team is [@YiAnMiddleSchool-ShenYiSheng](https://weibo.c
 [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The rank of the first competition released!  
 No. 10 in the grade-level team is [@YiAnMiddleSchool-YanKe](https://weibo.com/u/6505423304) *didi* with super sweet voice. Congratlations!
 
-<a href="//wx2.sinaimg.cn/mw690/006D4NLGgy1fr1ty8gq2wj325m38g1ky.jpg">
-  <img class="weibo-pic-preview" src="//wx2.sinaimg.cn/orj360/006D4NLGgy1fr1ty8gq2wj325m38g1ky.jpg" />
+<a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1fr1ty8gq2wj325m38g1ky.jpg">
+  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006D4NLGgy1fr1ty8gq2wj325m38g1ky.jpg" />
 </a>
 
 ---
@@ -188,8 +188,8 @@ No. 10 in the grade-level team is [@YiAnMiddleSchool-YanKe](https://weibo.com/u/
 [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The rank of the first competition released!  
 No. 11 in the grade-level team is [@YiAnMiddleSchool-FuYunZhe](https://weibo.com/u/6505655408), the most modest among the freshers. Congratlations!
 
-<a href="//wx2.sinaimg.cn/mw690/006D4NLGgy1fr1tum6yx8j321k33kx6p.jpg">
-  <img class="weibo-pic-preview" src="//wx2.sinaimg.cn/orj360/006D4NLGgy1fr1tum6yx8j321k33kx6p.jpg" />
+<a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1fr1tum6yx8j321k33kx6p.jpg">
+  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006D4NLGgy1fr1tum6yx8j321k33kx6p.jpg" />
 </a>
 
 ---
@@ -202,8 +202,8 @@ No. 11 in the grade-level team is [@YiAnMiddleSchool-FuYunZhe](https://weibo.com
 [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The rank of the first competition released!  
 No. 12 in the grade-level team is [@YiAnMiddleSchool-YuMuYang](https://weibo.com/u/6505651747), the locking prince. Congratlations!
 
-<a href="//wx2.sinaimg.cn/mw690/006D4NLGgy1fr1trfwa8yj328c36u7wi.jpg">
-  <img class="weibo-pic-preview" src="//wx2.sinaimg.cn/orj360/006D4NLGgy1fr1trfwa8yj328c36u7wi.jpg" />
+<a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1fr1trfwa8yj328c36u7wi.jpg">
+  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006D4NLGgy1fr1trfwa8yj328c36u7wi.jpg" />
 </a>
 
 ---
@@ -216,8 +216,8 @@ No. 12 in the grade-level team is [@YiAnMiddleSchool-YuMuYang](https://weibo.com
 [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) The rank of the first competition released!  
 No. 13 in the grade-level team is the cute [@YiAnMiddleSchool-LinJiaHao](https://weibo.com/6210352257) *didi*. Congratlations!
 
-<a href="//wx2.sinaimg.cn/mw690/006D4NLGgy1fr1tqfshb7j31vm2uanpd.jpg">
-  <img class="weibo-pic-preview" src="//wx2.sinaimg.cn/orj360/006D4NLGgy1fr1tqfshb7j31vm2uanpd.jpg" />
+<a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1fr1tqfshb7j31vm2uanpd.jpg">
+  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006D4NLGgy1fr1tqfshb7j31vm2uanpd.jpg" />
 </a>
 
 ---
@@ -236,8 +236,8 @@ No. 17: [@YiAnMiddleSchool-WenYi](https://weibo.com/u/6507106244)
 No. 18: [@YiAnMiddleSchool-FangJiaCheng](https://weibo.com/u/6505661195)  
 Boys, the future is right ahead. Go for it!
 
-<a href="//wx2.sinaimg.cn/mw690/006D4NLGgy1fr1thifgubj31400qogrm.jpg">
-  <img class="weibo-pic-preview" src="//wx2.sinaimg.cn/orj360/006D4NLGgy1fr1thifgubj31400qogrm.jpg" />
+<a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1fr1thifgubj31400qogrm.jpg">
+  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006D4NLGgy1fr1thifgubj31400qogrm.jpg" />
 </a>
 
 ---

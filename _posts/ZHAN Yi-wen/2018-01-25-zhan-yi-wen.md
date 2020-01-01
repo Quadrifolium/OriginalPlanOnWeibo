@@ -13,8 +13,8 @@ Good night.
 
 <!-- more -->
 
-<a href="//wx2.sinaimg.cn/mw690/006FmVn8ly1fnt9cv79ksj31400qo460.jpg">
-  <img class="weibo-pic-preview-h" src="//wx2.sinaimg.cn/orj360/006FmVn8ly1fnt9cv79ksj31400qo460.jpg" />
+<a href="http://wx2.sinaimg.cn/mw690/006FmVn8ly1fnt9cv79ksj31400qo460.jpg">
+  <img class="weibo-pic-preview-h" src="http://wx2.sinaimg.cn/orj360/006FmVn8ly1fnt9cv79ksj31400qo460.jpg" />
 </a>
 
 ---
@@ -25,8 +25,8 @@ Good night.
 
 I've never thought of giving up. The intensive training in winter vacation is to start.
 
-<a href="//wx3.sinaimg.cn/mw690/006FmVn8ly1fnt0j4304mj32kw3vcnpi.jpg">
-  <img class="weibo-pic-preview" src="//wx3.sinaimg.cn/orj360/006FmVn8ly1fnt0j4304mj32kw3vcnpi.jpg" />
+<a href="http://wx3.sinaimg.cn/mw690/006FmVn8ly1fnt0j4304mj32kw3vcnpi.jpg">
+  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006FmVn8ly1fnt0j4304mj32kw3vcnpi.jpg" />
 </a>
 
 *Comments*

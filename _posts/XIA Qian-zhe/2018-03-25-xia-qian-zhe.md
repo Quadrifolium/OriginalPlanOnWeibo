@@ -13,6 +13,6 @@ It's my turn to clean the board today ![very happy](https://img.t.sinajs.cn/t4/a
 
 <!-- more -->
 
-<a href="//wx1.sinaimg.cn/mw690/0076g4Wmgy1fpp6n4kqh0j30qo0zkq7v.jpg">
-  <img class="weibo-pic-preview" src="//wx1.sinaimg.cn/orj360/0076g4Wmgy1fpp6n4kqh0j30qo0zkq7v.jpg" />
+<a href="http://wx1.sinaimg.cn/mw690/0076g4Wmgy1fpp6n4kqh0j30qo0zkq7v.jpg">
+  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/0076g4Wmgy1fpp6n4kqh0j30qo0zkq7v.jpg" />
 </a>

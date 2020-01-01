@@ -15,13 +15,13 @@ Good night. :zzz::zzz::zzz:
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006G0KNGgy1fpob4vahzmj30qo0qok0e.jpg"><img src="//wx3.sinaimg.cn/thumb150/006G0KNGgy1fpob4vahzmj30qo0qok0e.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006G0KNGgy1fpob4vahzmj30qo0qok0e.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006G0KNGgy1fpob4vahzmj30qo0qok0e.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006G0KNGgy1fpob4xf0egj30qo0qothf.jpg"><img src="//wx2.sinaimg.cn/thumb150/006G0KNGgy1fpob4xf0egj30qo0qothf.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006G0KNGgy1fpob4xf0egj30qo0qothf.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006G0KNGgy1fpob4xf0egj30qo0qothf.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006G0KNGgy1fpob4z732ej30qo0qon6p.jpg"><img src="//wx1.sinaimg.cn/thumb150/006G0KNGgy1fpob4z732ej30qo0qon6p.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006G0KNGgy1fpob4z732ej30qo0qon6p.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006G0KNGgy1fpob4z732ej30qo0qon6p.jpg"/></a>
   </li>
 </ul>
 

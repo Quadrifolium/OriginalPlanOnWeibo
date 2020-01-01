@@ -17,13 +17,13 @@ It is time for *Triple Kill* to say goodbye. Thank you for your concern during t
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006Es64Agy1fjsaze5ocmj31hc280awe.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Agy1fjsaze5ocmj31hc280awe.jpg" /></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006Es64Agy1fjsaze5ocmj31hc280awe.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Agy1fjsaze5ocmj31hc280awe.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/006Es64Agy1fjsaznrvm3j30jr0zxqgb.jpg"><img src="//wx2.sinaimg.cn/thumb150/006Es64Agy1fjsaznrvm3j30jr0zxqgb.jpg" /></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006Es64Agy1fjsaznrvm3j30jr0zxqgb.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Agy1fjsaznrvm3j30jr0zxqgb.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006Es64Agy1fjsb08w3s4j31yd1w0x6r.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Agy1fjsb08w3s4j31yd1w0x6r.jpg" /></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006Es64Agy1fjsb08w3s4j31yd1w0x6r.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Agy1fjsb08w3s4j31yd1w0x6r.jpg" /></a>
   </li>
 </ul>
 

@@ -13,6 +13,6 @@ The gums are swollen. It's suffering. :persevere:
 
 <!-- more -->
 
-<a href="//wx4.sinaimg.cn/mw690/0076h6Aygy1fpv8axfdt6j32yo1o0e88.jpg">
-  <img class="weibo-pic-preview-h" src="//wx4.sinaimg.cn/orj360/0076h6Aygy1fpv8axfdt6j32yo1o0e88.jpg" />
+<a href="http://wx4.sinaimg.cn/mw690/0076h6Aygy1fpv8axfdt6j32yo1o0e88.jpg">
+  <img class="weibo-pic-preview-h" src="http://wx4.sinaimg.cn/orj360/0076h6Aygy1fpv8axfdt6j32yo1o0e88.jpg" />
 </a>

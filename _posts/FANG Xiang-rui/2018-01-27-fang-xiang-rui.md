@@ -15,10 +15,10 @@ Passing by Anhui (安徽) ❄️
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006G0KNGly1fnvb5rlg8qj32bc1jk7wi.jpg"><img src="//wx1.sinaimg.cn/thumb150/006G0KNGly1fnvb5rlg8qj32bc1jk7wi.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006G0KNGly1fnvb5rlg8qj32bc1jk7wi.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006G0KNGly1fnvb5rlg8qj32bc1jk7wi.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006G0KNGly1fnvb5yz5ohj31jk2bckjm.jpg"><img src="//wx3.sinaimg.cn/thumb150/006G0KNGly1fnvb5yz5ohj31jk2bckjm.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006G0KNGly1fnvb5yz5ohj31jk2bckjm.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006G0KNGly1fnvb5yz5ohj31jk2bckjm.jpg"/></a>
   </li>
 </ul>
 

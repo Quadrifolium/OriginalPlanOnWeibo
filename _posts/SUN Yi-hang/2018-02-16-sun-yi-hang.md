@@ -15,10 +15,10 @@ Happy New Year. :tada: My greetings! I wish you be healthy and rich in the year.
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/98e534a3gy1foi6g8z0xaj22kw3vckjn.jpg"><img src="//wx4.sinaimg.cn/thumb150/98e534a3gy1foi6g8z0xaj22kw3vckjn.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/98e534a3gy1foi6g8z0xaj22kw3vckjn.jpg"><img src="http://wx4.sinaimg.cn/thumb150/98e534a3gy1foi6g8z0xaj22kw3vckjn.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/98e534a3gy1foi6g0x6krj21p12jkkjl.jpg"><img src="//wx2.sinaimg.cn/thumb150/98e534a3gy1foi6g0x6krj21p12jkkjl.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/98e534a3gy1foi6g0x6krj21p12jkkjl.jpg"><img src="http://wx2.sinaimg.cn/thumb150/98e534a3gy1foi6g0x6krj21p12jkkjl.jpg"/></a>
   </li>
 </ul>
 

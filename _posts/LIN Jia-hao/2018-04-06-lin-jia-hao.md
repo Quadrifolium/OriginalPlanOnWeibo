@@ -13,6 +13,6 @@ Ah :sob:, the hair cut made it bad! How long will it grow longer? ![bitter joy](
 
 <!-- more -->
 
-<a href="//wx3.sinaimg.cn/mw690/006Mi0jTgy1fq2semjbndj31w02ioqv6.jpg">
-  <img class="weibo-pic-preview" src="//wx3.sinaimg.cn/orj360/006Mi0jTgy1fq2semjbndj31w02ioqv6.jpg" />
+<a href="http://wx3.sinaimg.cn/mw690/006Mi0jTgy1fq2semjbndj31w02ioqv6.jpg">
+  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006Mi0jTgy1fq2semjbndj31w02ioqv6.jpg" />
 </a>

@@ -15,10 +15,10 @@ Bye. :grin:
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/98e534a3gy1fkbqz9vh5uj20qo0zk78z.jpg"><img src="//wx3.sinaimg.cn/thumb150/98e534a3gy1fkbqz9vh5uj20qo0zk78z.jpg" /></a>
+    <a href="http://wx3.sinaimg.cn/mw690/98e534a3gy1fkbqz9vh5uj20qo0zk78z.jpg"><img src="http://wx3.sinaimg.cn/thumb150/98e534a3gy1fkbqz9vh5uj20qo0zk78z.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/98e534a3gy1fkbqz7jh5xj20qo0qogpw.jpg"><img src="//wx3.sinaimg.cn/thumb150/98e534a3gy1fkbqz7jh5xj20qo0qogpw.jpg" /></a>
+    <a href="http://wx3.sinaimg.cn/mw690/98e534a3gy1fkbqz7jh5xj20qo0qogpw.jpg"><img src="http://wx3.sinaimg.cn/thumb150/98e534a3gy1fkbqz7jh5xj20qo0qogpw.jpg" /></a>
   </li>
 </ul>
 

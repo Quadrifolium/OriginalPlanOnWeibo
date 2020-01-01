@@ -15,10 +15,10 @@ It's hard to have spicy food. ![bitter joy](https://img.t.sinajs.cn/t4/appstyle/
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006RpxDlly1focsi76m7bj31sg2dsx6t.jpg"><img src="//wx3.sinaimg.cn/thumb150/006RpxDlly1focsi76m7bj31sg2dsx6t.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006RpxDlly1focsi76m7bj31sg2dsx6t.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006RpxDlly1focsi76m7bj31sg2dsx6t.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006RpxDlly1focsj25lsvj32c0340qv9.jpg"><img src="//wx1.sinaimg.cn/thumb150/006RpxDlly1focsj25lsvj32c0340qv9.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006RpxDlly1focsj25lsvj32c0340qv9.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006RpxDlly1focsj25lsvj32c0340qv9.jpg"/></a>
   </li>
 </ul>
 

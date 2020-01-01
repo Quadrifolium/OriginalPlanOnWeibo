@@ -15,10 +15,10 @@ Hey :smirk:
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="https://g.us.sinaimg.cn/000VPyLJlx07iacxs4cE0104020005wR0k010.mp4?Expires=1518607106&amp;ssig=JUmiluZx4c&amp;KID=unistore,video"><img src="//wx2.sinaimg.cn/thumb150/98e534a3ly1fofv5gvtajg206o06oqo2.gif"/></a>
+    <a href="https://g.us.sinaimg.cn/000VPyLJlx07iacxs4cE0104020005wR0k010.mp4?Expires=1518607106&amp;ssig=JUmiluZx4c&amp;KID=unistore,video"><img src="http://wx2.sinaimg.cn/thumb150/98e534a3ly1fofv5gvtajg206o06oqo2.gif"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://g.us.sinaimg.cn/00395sVRlx07iacxrSeI0104020007lR0k010.mp4?Expires=1518607106&amp;ssig=oox4ZOmWn2&amp;KID=unistore,video"><img src="//wx4.sinaimg.cn/thumb150/98e534a3ly1fofv5fnt9gg206o06oe0q.gif"/></a>
+    <a href="https://g.us.sinaimg.cn/00395sVRlx07iacxrSeI0104020007lR0k010.mp4?Expires=1518607106&amp;ssig=oox4ZOmWn2&amp;KID=unistore,video"><img src="http://wx4.sinaimg.cn/thumb150/98e534a3ly1fofv5fnt9gg206o06oe0q.gif"/></a>
   </li>
 </ul>
 

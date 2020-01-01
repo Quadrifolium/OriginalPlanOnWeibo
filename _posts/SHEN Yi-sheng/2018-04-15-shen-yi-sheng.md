@@ -15,12 +15,12 @@ Why is there a line in the best selfie?
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/0076n8VAgy1fqdhnkc8acj31bf0qon6b.jpg"><img src="//wx2.sinaimg.cn/thumb150/0076n8VAgy1fqdhnkc8acj31bf0qon6b.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/0076n8VAgy1fqdhnkc8acj31bf0qon6b.jpg"><img src="http://wx2.sinaimg.cn/thumb150/0076n8VAgy1fqdhnkc8acj31bf0qon6b.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/0076n8VAgy1fqdhnm9utyj30qo1bfk0v.jpg"><img src="//wx3.sinaimg.cn/thumb150/0076n8VAgy1fqdhnm9utyj30qo1bfk0v.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/0076n8VAgy1fqdhnm9utyj30qo1bfk0v.jpg"><img src="http://wx3.sinaimg.cn/thumb150/0076n8VAgy1fqdhnm9utyj30qo1bfk0v.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/0076n8VAgy1fqdhni37juj31bf0qotgr.jpg"><img src="//wx3.sinaimg.cn/thumb150/0076n8VAgy1fqdhni37juj31bf0qotgr.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/0076n8VAgy1fqdhni37juj31bf0qotgr.jpg"><img src="http://wx3.sinaimg.cn/thumb150/0076n8VAgy1fqdhni37juj31bf0qotgr.jpg"/></a>
   </li>
 </ul>

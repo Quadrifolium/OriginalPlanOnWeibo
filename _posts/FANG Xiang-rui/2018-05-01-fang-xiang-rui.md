@@ -15,19 +15,19 @@ Should I consider to keep a Corgi? ![OK](https://img.t.sinajs.cn/t4/appstyle/exp
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006G0KNGly1fqvn2iznfij31s02dc7wh.jpg"><img src="//wx1.sinaimg.cn/thumb150/006G0KNGly1fqvn2iznfij31s02dc7wh.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006G0KNGly1fqvn2iznfij31s02dc7wh.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006G0KNGly1fqvn2iznfij31s02dc7wh.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006G0KNGly1fqvn2fe5cyj31hc1z44qp.jpg"><img src="//wx4.sinaimg.cn/thumb150/006G0KNGly1fqvn2fe5cyj31hc1z44qp.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006G0KNGly1fqvn2fe5cyj31hc1z44qp.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006G0KNGly1fqvn2fe5cyj31hc1z44qp.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006G0KNGly1fqvn2bl566j31hc1z47wh.jpg"><img src="//wx2.sinaimg.cn/thumb150/006G0KNGly1fqvn2bl566j31hc1z47wh.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006G0KNGly1fqvn2bl566j31hc1z47wh.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006G0KNGly1fqvn2bl566j31hc1z47wh.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006G0KNGly1fqvn2e0u6kj31hc1z41kx.jpg"><img src="//wx3.sinaimg.cn/thumb150/006G0KNGly1fqvn2e0u6kj31hc1z41kx.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006G0KNGly1fqvn2e0u6kj31hc1z41kx.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006G0KNGly1fqvn2e0u6kj31hc1z41kx.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006G0KNGly1fqvn2hgan2j31hc1z47wh.jpg"><img src="//wx3.sinaimg.cn/thumb150/006G0KNGly1fqvn2hgan2j31hc1z47wh.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006G0KNGly1fqvn2hgan2j31hc1z47wh.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006G0KNGly1fqvn2hgan2j31hc1z47wh.jpg"/></a>
   </li>
 </ul>
 

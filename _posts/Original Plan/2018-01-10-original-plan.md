@@ -13,8 +13,8 @@ For the students and parents holding Yi An Middle School ID card and planning to
 
 <!-- more -->
 
-<a href="//wx1.sinaimg.cn/mw690/0068MnXXgy1fnbfwu3wctj31kw2dbu0y.jpg">
-  <img class="weibo-pic-preview" src="//wx1.sinaimg.cn/orj360/0068MnXXgy1fnbfwu3wctj31kw2dbu0y.jpg" />
+<a href="http://wx1.sinaimg.cn/mw690/0068MnXXgy1fnbfwu3wctj31kw2dbu0y.jpg">
+  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/0068MnXXgy1fnbfwu3wctj31kw2dbu0y.jpg" />
 </a>
 
 *Words in image:*

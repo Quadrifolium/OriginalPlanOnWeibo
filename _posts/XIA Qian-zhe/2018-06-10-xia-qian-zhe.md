@@ -13,6 +13,6 @@ It is the end of term. I wish you be successful in the exam! ![wink](https://img
 
 <!-- more -->
 
-<a href="//wx2.sinaimg.cn/mw690/0076g4Wmgy1fs6ajjpgfmj30u01hc0wh.jpg">
-  <img class="weibo-pic-preview" src="//wx2.sinaimg.cn/orj360/0076g4Wmgy1fs6ajjpgfmj30u01hc0wh.jpg" />
+<a href="http://wx2.sinaimg.cn/mw690/0076g4Wmgy1fs6ajjpgfmj30u01hc0wh.jpg">
+  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/0076g4Wmgy1fs6ajjpgfmj30u01hc0wh.jpg" />
 </a>

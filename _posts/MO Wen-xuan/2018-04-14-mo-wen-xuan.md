@@ -15,9 +15,9 @@ The first recording of *Yi An After School*. ![cool](https://img.t.sinajs.cn/t4/
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/0076g4wkgy1fqcklkni63j30qo0zkdkk.jpg"><img src="//wx3.sinaimg.cn/thumb150/0076g4wkgy1fqcklkni63j30qo0zkdkk.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/0076g4wkgy1fqcklkni63j30qo0zkdkk.jpg"><img src="http://wx3.sinaimg.cn/thumb150/0076g4wkgy1fqcklkni63j30qo0zkdkk.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/0076g4wkgy1fqcklja4c3j30qo0zktgn.jpg"><img src="//wx2.sinaimg.cn/thumb150/0076g4wkgy1fqcklja4c3j30qo0zktgn.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/0076g4wkgy1fqcklja4c3j30qo0zktgn.jpg"><img src="http://wx2.sinaimg.cn/thumb150/0076g4wkgy1fqcklja4c3j30qo0zktgn.jpg"/></a>
   </li>
 </ul>

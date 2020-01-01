@@ -15,12 +15,12 @@ To the cinema. :v:×4
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006FmVn8ly1fonams1ky7j30qo0zjjyq.jpg"><img src="//wx1.sinaimg.cn/thumb150/006FmVn8ly1fonams1ky7j30qo0zjjyq.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006FmVn8ly1fonams1ky7j30qo0zjjyq.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006FmVn8ly1fonams1ky7j30qo0zjjyq.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006FmVn8ly1fonamsrrcxj30qo0zk45i.jpg"><img src="//wx2.sinaimg.cn/thumb150/006FmVn8ly1fonamsrrcxj30qo0zk45i.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006FmVn8ly1fonamsrrcxj30qo0zk45i.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006FmVn8ly1fonamsrrcxj30qo0zk45i.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006FmVn8ly1fonamtihhqj30qo0zjdmo.jpg"><img src="//wx1.sinaimg.cn/thumb150/006FmVn8ly1fonamtihhqj30qo0zjdmo.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006FmVn8ly1fonamtihhqj30qo0zjdmo.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006FmVn8ly1fonamtihhqj30qo0zjdmo.jpg"/></a>
   </li>
 </ul>

@@ -15,15 +15,15 @@ It is Father's Day. Only looked throught the album do I find that there are very
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/0076g4wkgy1fsehamyfocj30u0140x2n.jpg"><img src="//wx4.sinaimg.cn/thumb150/0076g4wkgy1fsehamyfocj30u0140x2n.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/0076g4wkgy1fsehamyfocj30u0140x2n.jpg"><img src="http://wx4.sinaimg.cn/thumb150/0076g4wkgy1fsehamyfocj30u0140x2n.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/0076g4wkgy1fsehew5prpj30tr1sgnpd.jpg"><img src="//wx3.sinaimg.cn/thumb150/0076g4wkgy1fsehew5prpj30tr1sgnpd.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/0076g4wkgy1fsehew5prpj30tr1sgnpd.jpg"><img src="http://wx3.sinaimg.cn/thumb150/0076g4wkgy1fsehew5prpj30tr1sgnpd.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/0076g4wkgy1fsehez16w8j30ts1sgqv5.jpg"><img src="//wx4.sinaimg.cn/thumb150/0076g4wkgy1fsehez16w8j30ts1sgqv5.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/0076g4wkgy1fsehez16w8j30ts1sgqv5.jpg"><img src="http://wx4.sinaimg.cn/thumb150/0076g4wkgy1fsehez16w8j30ts1sgqv5.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/0076g4wkgy1fsehes392xj30tr1sgu0x.jpg"><img src="//wx1.sinaimg.cn/thumb150/0076g4wkgy1fsehes392xj30tr1sgu0x.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/0076g4wkgy1fsehes392xj30tr1sgu0x.jpg"><img src="http://wx1.sinaimg.cn/thumb150/0076g4wkgy1fsehes392xj30tr1sgu0x.jpg"/></a>
   </li>
 </ul>

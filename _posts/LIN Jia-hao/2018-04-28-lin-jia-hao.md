@@ -15,9 +15,9 @@ Practise martial arts in the spare time. ![pleased](https://img.t.sinajs.cn/t4/a
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006Mi0jTgy1fqso9504yoj30hs0kitaz.jpg"><img src="//wx2.sinaimg.cn/thumb150/006Mi0jTgy1fqso9504yoj30hs0kitaz.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006Mi0jTgy1fqso9504yoj30hs0kitaz.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Mi0jTgy1fqso9504yoj30hs0kitaz.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006Mi0jTgy1fqso964yqkj30hs0npacl.jpg"><img src="//wx2.sinaimg.cn/thumb150/006Mi0jTgy1fqso964yqkj30hs0npacl.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006Mi0jTgy1fqso964yqkj30hs0npacl.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Mi0jTgy1fqso964yqkj30hs0npacl.jpg"/></a>
   </li>
 </ul>

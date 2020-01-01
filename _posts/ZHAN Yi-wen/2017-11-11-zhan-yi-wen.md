@@ -15,9 +15,9 @@ I watched the film *Thor: Ragnarok* today. It's a very good one. :v:×2 I recomm
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="https://wx1.sinaimg.cn/mw690/006FmVn8ly1flegczbz3mj30qp0wn0xj.jpg"><img src="//wx1.sinaimg.cn/thumb150/006FmVn8ly1flegczbz3mj30qp0wn0xj.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006FmVn8ly1flegczbz3mj30qp0wn0xj.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006FmVn8ly1flegczbz3mj30qp0wn0xj.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx3.sinaimg.cn/mw690/006FmVn8ly1flegcy371qj30qo0zkwmf.jpg"><img src="//wx3.sinaimg.cn/thumb150/006FmVn8ly1flegcy371qj30qo0zkwmf.jpg" /></a>
+    <a href="https://wx3.sinaimg.cn/mw690/006FmVn8ly1flegcy371qj30qo0zkwmf.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006FmVn8ly1flegcy371qj30qo0zkwmf.jpg" /></a>
   </li>
 </ul>

@@ -13,8 +13,8 @@ I just came back, and didn't see any snow. ☹️ But it seems I'm fatter. What 
 
 <!-- more -->
 
-<a href="//wx3.sinaimg.cn/mw690/006RpxDlly1fnzz5tlw5uj31291w01kz.jpg">
-  <img class="weibo-pic-preview" src="//wx3.sinaimg.cn/orj360/006RpxDlly1fnzz5tlw5uj31291w01kz.jpg" />
+<a href="http://wx3.sinaimg.cn/mw690/006RpxDlly1fnzz5tlw5uj31291w01kz.jpg">
+  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006RpxDlly1fnzz5tlw5uj31291w01kz.jpg" />
 </a>
 
 *Comments*

@@ -15,13 +15,13 @@ The first signing session ended. Though the hand's sore, I'm grateful for your c
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="https://wx4.sinaimg.cn/mw690/006FmVn8ly1fmr0lpsqfbj30qo1bfwnu.jpg"><img src="//wx4.sinaimg.cn/thumb150/006FmVn8ly1fmr0lpsqfbj30qo1bfwnu.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006FmVn8ly1fmr0lpsqfbj30qo1bfwnu.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006FmVn8ly1fmr0lpsqfbj30qo1bfwnu.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx4.sinaimg.cn/mw690/006FmVn8ly1fmr0lrbhgaj30qo1bf7dp.jpg"><img src="//wx4.sinaimg.cn/thumb150/006FmVn8ly1fmr0lrbhgaj30qo1bf7dp.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006FmVn8ly1fmr0lrbhgaj30qo1bf7dp.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006FmVn8ly1fmr0lrbhgaj30qo1bf7dp.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx2.sinaimg.cn/mw690/006FmVn8ly1fmr0lt0q5cj31bf0qogw7.jpg"><img src="//wx2.sinaimg.cn/thumb150/006FmVn8ly1fmr0lt0q5cj31bf0qogw7.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006FmVn8ly1fmr0lt0q5cj31bf0qogw7.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006FmVn8ly1fmr0lt0q5cj31bf0qogw7.jpg" /></a>
   </li>
 </ul>
 

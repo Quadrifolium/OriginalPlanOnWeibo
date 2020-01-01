@@ -26,25 +26,25 @@ The new team – school team – is ready!
 
 <ul class="weibo-pic-list-3">
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006D4NLGgy1fr2y00kgwvj30qo13zn3p.jpg"><img src="//wx2.sinaimg.cn/thumb150/006D4NLGgy1fr2y00kgwvj30qo13zn3p.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1fr2y00kgwvj30qo13zn3p.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006D4NLGgy1fr2y00kgwvj30qo13zn3p.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1fr2y034jrpj30qo13zjx6.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGgy1fr2y034jrpj30qo13zjx6.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1fr2y034jrpj30qo13zjx6.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGgy1fr2y034jrpj30qo13zjx6.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006D4NLGgy1fr2y05muu6j30qo140jws.jpg"><img src="//wx2.sinaimg.cn/thumb150/006D4NLGgy1fr2y05muu6j30qo140jws.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1fr2y05muu6j30qo140jws.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006D4NLGgy1fr2y05muu6j30qo140jws.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1fr2y0f1p8ij329o3ggqv9.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGgy1fr2y0f1p8ij329o3ggqv9.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1fr2y0f1p8ij329o3ggqv9.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGgy1fr2y0f1p8ij329o3ggqv9.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006D4NLGgy1fr2y07sgywj30qo13zagc.jpg"><img src="//wx1.sinaimg.cn/thumb150/006D4NLGgy1fr2y07sgywj30qo13zagc.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006D4NLGgy1fr2y07sgywj30qo13zagc.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006D4NLGgy1fr2y07sgywj30qo13zagc.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006D4NLGgy1fr2y0oerjcj32kw3vcx6w.jpg"><img src="//wx1.sinaimg.cn/thumb150/006D4NLGgy1fr2y0oerjcj32kw3vcx6w.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006D4NLGgy1fr2y0oerjcj32kw3vcx6w.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006D4NLGgy1fr2y0oerjcj32kw3vcx6w.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006D4NLGgy1fr2y0rdvw1j31400qogry.jpg"><img src="//wx3.sinaimg.cn/thumb150/006D4NLGgy1fr2y0rdvw1j31400qogry.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006D4NLGgy1fr2y0rdvw1j31400qogry.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006D4NLGgy1fr2y0rdvw1j31400qogry.jpg"/></a>
   </li>
 </ul>
 
@@ -59,28 +59,28 @@ The new team – grade team – is ready!
 
 <ul class="weibo-pic-list-3">
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1fr2xyelmmjj30qo140wka.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGgy1fr2xyelmmjj30qo140wka.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1fr2xyelmmjj30qo140wka.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGgy1fr2xyelmmjj30qo140wka.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006D4NLGgy1fr2xynw8kuj32403ggnph.jpg"><img src="//wx1.sinaimg.cn/thumb150/006D4NLGgy1fr2xynw8kuj32403ggnph.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006D4NLGgy1fr2xynw8kuj32403ggnph.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006D4NLGgy1fr2xynw8kuj32403ggnph.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1fr2xyxaz0zj326c39yx6t.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGgy1fr2xyxaz0zj326c39yx6t.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1fr2xyxaz0zj326c39yx6t.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGgy1fr2xyxaz0zj326c39yx6t.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006D4NLGgy1fr2xz5a1h8j32703ggkjp.jpg"><img src="//wx2.sinaimg.cn/thumb150/006D4NLGgy1fr2xz5a1h8j32703ggkjp.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1fr2xz5a1h8j32703ggkjp.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006D4NLGgy1fr2xz5a1h8j32703ggkjp.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006D4NLGgy1fr2xzdbmwaj327c3ggx6t.jpg"><img src="//wx2.sinaimg.cn/thumb150/006D4NLGgy1fr2xzdbmwaj327c3ggx6t.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1fr2xzdbmwaj327c3ggx6t.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006D4NLGgy1fr2xzdbmwaj327c3ggx6t.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006D4NLGgy1fr2xzmddahj31zo364b2e.jpg"><img src="//wx2.sinaimg.cn/thumb150/006D4NLGgy1fr2xzmddahj31zo364b2e.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1fr2xzmddahj31zo364b2e.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006D4NLGgy1fr2xzmddahj31zo364b2e.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006D4NLGgy1fr2xzuz3vgj326c3c4b2e.jpg"><img src="//wx1.sinaimg.cn/thumb150/006D4NLGgy1fr2xzuz3vgj326c3c4b2e.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006D4NLGgy1fr2xzuz3vgj326c3c4b2e.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006D4NLGgy1fr2xzuz3vgj326c3c4b2e.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006D4NLGgy1fr2xzy83n8j31400qon3u.jpg"><img src="//wx3.sinaimg.cn/thumb150/006D4NLGgy1fr2xzy83n8j31400qon3u.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006D4NLGgy1fr2xzy83n8j31400qon3u.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006D4NLGgy1fr2xzy83n8j31400qon3u.jpg"/></a>
   </li>
 </ul>
 
@@ -95,22 +95,22 @@ The new team – class team – is ready!
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006D4NLGgy1fr2xw9qntoj322s3ac4qv.jpg"><img src="//wx1.sinaimg.cn/thumb150/006D4NLGgy1fr2xw9qntoj322s3ac4qv.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006D4NLGgy1fr2xw9qntoj322s3ac4qv.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006D4NLGgy1fr2xw9qntoj322s3ac4qv.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1fr2xwibmpoj324c3gg1l2.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGgy1fr2xwibmpoj324c3gg1l2.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1fr2xwibmpoj324c3gg1l2.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGgy1fr2xwibmpoj324c3gg1l2.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1fr2xwr9p78j322o3847wm.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGgy1fr2xwr9p78j322o3847wm.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1fr2xwr9p78j322o3847wm.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGgy1fr2xwr9p78j322o3847wm.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006D4NLGgy1fr2xwzlgozj32663c4e86.jpg"><img src="//wx3.sinaimg.cn/thumb150/006D4NLGgy1fr2xwzlgozj32663c4e86.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006D4NLGgy1fr2xwzlgozj32663c4e86.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006D4NLGgy1fr2xwzlgozj32663c4e86.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006D4NLGgy1fr2xx76g04j32603c44qu.jpg"><img src="//wx2.sinaimg.cn/thumb150/006D4NLGgy1fr2xx76g04j32603c44qu.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1fr2xx76g04j32603c44qu.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006D4NLGgy1fr2xx76g04j32603c44qu.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006D4NLGgy1fr2xxabwdnj31400qodo3.jpg"><img src="//wx4.sinaimg.cn/thumb150/006D4NLGgy1fr2xxabwdnj31400qodo3.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1fr2xxabwdnj31400qodo3.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGgy1fr2xxabwdnj31400qodo3.jpg"/></a>
   </li>
 </ul>
 

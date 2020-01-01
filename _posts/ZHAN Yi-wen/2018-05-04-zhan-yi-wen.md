@@ -15,10 +15,10 @@ categories: [ 'zhan-yi-wen' ]
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006FmVn8ly1fqzo7hy7b0j30dc0hsdpd.jpg"><img src="//wx1.sinaimg.cn/thumb150/006FmVn8ly1fqzo7hy7b0j30dc0hsdpd.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006FmVn8ly1fqzo7hy7b0j30dc0hsdpd.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006FmVn8ly1fqzo7hy7b0j30dc0hsdpd.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006FmVn8ly1fqzo7fxt0wj30dc0hsgv3.jpg"><img src="//wx1.sinaimg.cn/thumb150/006FmVn8ly1fqzo7fxt0wj30dc0hsgv3.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006FmVn8ly1fqzo7fxt0wj30dc0hsgv3.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006FmVn8ly1fqzo7fxt0wj30dc0hsgv3.jpg"/></a>
   </li>
 </ul>
 

@@ -17,10 +17,10 @@ On 26th May, Yi An boys will record *Growth Plan in May · Growth*. Are you eage
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006D4NLGgy1frmlncw250j30rs2ti7wi.jpg"><img src="//wx2.sinaimg.cn/thumb150/006D4NLGgy1frmlncw250j30rs2ti7wi.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1frmlncw250j30rs2ti7wi.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006D4NLGgy1frmlncw250j30rs2ti7wi.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006D4NLGgy1frmlnf407kj30ku112qe2.jpg"><img src="//wx1.sinaimg.cn/thumb150/006D4NLGgy1frmlnf407kj30ku112qe2.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006D4NLGgy1frmlnf407kj30ku112qe2.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006D4NLGgy1frmlnf407kj30ku112qe2.jpg"/></a>
   </li>
 </ul>
 

@@ -15,16 +15,16 @@ Finished listening? It's time for a sleep. Good night.
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006G0KNGgy1fk7sv9nmvej30m80m8jud.jpg"><img src="//wx4.sinaimg.cn/thumb150/006G0KNGgy1fk7sv9nmvej30m80m8jud.jpg" /></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006G0KNGgy1fk7sv9nmvej30m80m8jud.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006G0KNGgy1fk7sv9nmvej30m80m8jud.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006G0KNGgy1fk7sva5wgtj30m80m8god.jpg"><img src="//wx4.sinaimg.cn/thumb150/006G0KNGgy1fk7sva5wgtj30m80m8god.jpg" /></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006G0KNGgy1fk7sva5wgtj30m80m8god.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006G0KNGgy1fk7sva5wgtj30m80m8god.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006G0KNGgy1fk7svbdnj3j30qo0qodmt.jpg"><img src="//wx1.sinaimg.cn/thumb150/006G0KNGgy1fk7svbdnj3j30qo0qodmt.jpg" /></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006G0KNGgy1fk7svbdnj3j30qo0qodmt.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006G0KNGgy1fk7svbdnj3j30qo0qodmt.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006G0KNGgy1fk7sv93n6aj30qo0qogra.jpg"><img src="//wx1.sinaimg.cn/thumb150/006G0KNGgy1fk7sv93n6aj30qo0qogra.jpg" /></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006G0KNGgy1fk7sv93n6aj30qo0qogra.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006G0KNGgy1fk7sv93n6aj30qo0qogra.jpg" /></a>
   </li>
 </ul>
 

@@ -13,6 +13,6 @@ Good evening, everybody. :city_sunrise::smiley:
 
 <!-- more -->
 
-<a href="//wx3.sinaimg.cn/mw690/006FmVn8ly1foyn1rr6lxj30qo0qon0m.jpg">
-  <img class="weibo-pic-preview" src="//wx3.sinaimg.cn/orj360/006FmVn8ly1foyn1rr6lxj30qo0qon0m.jpg" />
+<a href="http://wx3.sinaimg.cn/mw690/006FmVn8ly1foyn1rr6lxj30qo0qon0m.jpg">
+  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006FmVn8ly1foyn1rr6lxj30qo0qon0m.jpg" />
 </a>

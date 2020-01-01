@@ -15,9 +15,9 @@ Good morning. ![cloud](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006G0KNGgy1fqk0otqkeuj30u00u049c.jpg"><img src="//wx2.sinaimg.cn/thumb150/006G0KNGgy1fqk0otqkeuj30u00u049c.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006G0KNGgy1fqk0otqkeuj30u00u049c.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006G0KNGgy1fqk0otqkeuj30u00u049c.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006G0KNGgy1fqk0of0aiej30u00u07ef.jpg"><img src="//wx4.sinaimg.cn/thumb150/006G0KNGgy1fqk0of0aiej30u00u07ef.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006G0KNGgy1fqk0of0aiej30u00u07ef.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006G0KNGgy1fqk0of0aiej30u00u07ef.jpg"/></a>
   </li>
 </ul>

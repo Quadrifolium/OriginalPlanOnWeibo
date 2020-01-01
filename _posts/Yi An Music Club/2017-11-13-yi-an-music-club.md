@@ -22,5 +22,5 @@ categories: [ 'yi-an-music-club' ]
 [#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) Our story has just begun. Get into the *nijigen* (二次元) world and read the journey of the boys in manga with the members of the Music Club and *tutu* on [@MicroManga](https://weibo.com/comicbook)~~
 
 <a href="https://wx1.sinaimg.cn/mw690/006Es64Agy1flgj2c4bu9j31kw11xe85.jpg">
-  <img class="weibo-pic-preview-h" src="//wx1.sinaimg.cn/orj360/006Es64Agy1flgj2c4bu9j31kw11xe85.jpg" />
+  <img class="weibo-pic-preview-h" src="http://wx1.sinaimg.cn/orj360/006Es64Agy1flgj2c4bu9j31kw11xe85.jpg" />
 </a>

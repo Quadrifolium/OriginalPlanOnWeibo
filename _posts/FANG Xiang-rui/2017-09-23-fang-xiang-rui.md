@@ -15,9 +15,9 @@ Shared pictures
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006G0KNGgy1fjtq3rfxj1j30qo141guv.jpg"><img src="//wx4.sinaimg.cn/thumb150/006G0KNGgy1fjtq3rfxj1j30qo141guv.jpg" /></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006G0KNGgy1fjtq3rfxj1j30qo141guv.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006G0KNGgy1fjtq3rfxj1j30qo141guv.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/006G0KNGgy1fjtq3ryzj0j30m80cudh7.jpg"><img src="//wx2.sinaimg.cn/thumb150/006G0KNGgy1fjtq3ryzj0j30m80cudh7.jpg" /></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006G0KNGgy1fjtq3ryzj0j30m80cudh7.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006G0KNGgy1fjtq3ryzj0j30m80cudh7.jpg" /></a>
   </li>
 </ul>

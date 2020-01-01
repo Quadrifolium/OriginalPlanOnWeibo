@@ -15,9 +15,9 @@ Are you scared? ![titter](https://img.t.sinajs.cn/t4/appstyle/expression/ext/nor
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/0076n8VAgy1fpx8zv0vt4j31o02yo7wn.jpg"><img src="//wx2.sinaimg.cn/thumb150/0076n8VAgy1fpx8zv0vt4j31o02yo7wn.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/0076n8VAgy1fpx8zv0vt4j31o02yo7wn.jpg"><img src="http://wx2.sinaimg.cn/thumb150/0076n8VAgy1fpx8zv0vt4j31o02yo7wn.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/0076n8VAgy1fpx8zrbxqxj31o02yoe87.jpg"><img src="//wx4.sinaimg.cn/thumb150/0076n8VAgy1fpx8zrbxqxj31o02yoe87.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/0076n8VAgy1fpx8zrbxqxj31o02yoe87.jpg"><img src="http://wx4.sinaimg.cn/thumb150/0076n8VAgy1fpx8zrbxqxj31o02yoe87.jpg"/></a>
   </li>
 </ul>

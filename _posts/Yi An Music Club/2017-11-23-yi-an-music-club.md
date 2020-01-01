@@ -15,19 +15,19 @@ About [#GoOnStrike!Painters](https://weibo.com/p/100808ad2ad3cf7e06a459fb351ed63
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="https://wx2.sinaimg.cn/mw690/006Es64Agy1flsc1medxcj30u01hce81.jpg"><img src="//wx2.sinaimg.cn/thumb150/006Es64Agy1flsc1medxcj30u01hce81.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006Es64Agy1flsc1medxcj30u01hce81.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Agy1flsc1medxcj30u01hce81.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx3.sinaimg.cn/mw690/006Es64Agy1flsc26s74pj30u01hcb29.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Agy1flsc26s74pj30u01hcb29.jpg" /></a>
+    <a href="https://wx3.sinaimg.cn/mw690/006Es64Agy1flsc26s74pj30u01hcb29.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Agy1flsc26s74pj30u01hcb29.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx2.sinaimg.cn/mw690/006Es64Agy1flsc2svm8ij30u01hc4qp.jpg"><img src="//wx2.sinaimg.cn/thumb150/006Es64Agy1flsc2svm8ij30u01hc4qp.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006Es64Agy1flsc2svm8ij30u01hc4qp.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Agy1flsc2svm8ij30u01hc4qp.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx4.sinaimg.cn/mw690/006Es64Agy1flsc3ggqinj30u01hchdt.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Agy1flsc3ggqinj30u01hchdt.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006Es64Agy1flsc3ggqinj30u01hchdt.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Agy1flsc3ggqinj30u01hchdt.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx1.sinaimg.cn/mw690/006Es64Agy1flsc41hyqbj30u01hcb29.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Agy1flsc41hyqbj30u01hcb29.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Es64Agy1flsc41hyqbj30u01hcb29.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Agy1flsc41hyqbj30u01hcb29.jpg" /></a>
   </li>
 </ul>
 
@@ -97,22 +97,22 @@ After watching the video, they cannot find any word to praise [#GoOnStrike!Paint
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="https://wx2.sinaimg.cn/mw690/006Es64Agy1fls8cquhyij30u01hchdt.jpg"><img src="//wx2.sinaimg.cn/thumb150/006Es64Agy1fls8cquhyij30u01hchdt.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006Es64Agy1fls8cquhyij30u01hchdt.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Agy1fls8cquhyij30u01hchdt.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx3.sinaimg.cn/mw690/006Es64Agy1fls8def0xjj30u01hckjl.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Agy1fls8def0xjj30u01hckjl.jpg" /></a>
+    <a href="https://wx3.sinaimg.cn/mw690/006Es64Agy1fls8def0xjj30u01hckjl.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Agy1fls8def0xjj30u01hckjl.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx4.sinaimg.cn/mw690/006Es64Agy1fls8dz6rpgj30u01hcb29.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Agy1fls8dz6rpgj30u01hcb29.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006Es64Agy1fls8dz6rpgj30u01hcb29.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Agy1fls8dz6rpgj30u01hcb29.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx2.sinaimg.cn/mw690/006Es64Agy1fls8c4cx8xj30u01hce81.jpg"><img src="//wx2.sinaimg.cn/thumb150/006Es64Agy1fls8c4cx8xj30u01hce81.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006Es64Agy1fls8c4cx8xj30u01hce81.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Agy1fls8c4cx8xj30u01hce81.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx4.sinaimg.cn/mw690/006Es64Agy1fls8ekxkh9j30u01hce81.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Agy1fls8ekxkh9j30u01hce81.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006Es64Agy1fls8ekxkh9j30u01hce81.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Agy1fls8ekxkh9j30u01hce81.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx4.sinaimg.cn/mw690/006Es64Agy1fls8f6a6yzj30u01hce81.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Agy1fls8f6a6yzj30u01hce81.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006Es64Agy1fls8f6a6yzj30u01hce81.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Agy1fls8f6a6yzj30u01hce81.jpg" /></a>
   </li>
 </ul>
 

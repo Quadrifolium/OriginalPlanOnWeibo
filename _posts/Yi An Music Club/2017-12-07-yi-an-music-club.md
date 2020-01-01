@@ -14,5 +14,5 @@ categories: [ 'yi-an-music-club' ]
 <!-- more -->
 
 <a href="https://wx3.sinaimg.cn/mw690/006Es64Aly1fm8emqf4mzj30dw0m8tb7.jpg">
-  <img class="weibo-pic-preview" src="//wx3.sinaimg.cn/orj360/006Es64Aly1fm8emqf4mzj30dw0m8tb7.jpg" />
+  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006Es64Aly1fm8emqf4mzj30dw0m8tb7.jpg" />
 </a>

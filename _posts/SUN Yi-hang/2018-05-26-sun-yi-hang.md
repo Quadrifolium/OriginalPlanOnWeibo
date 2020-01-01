@@ -17,15 +17,15 @@ Here are some styles of SUN Yi-hang for you~
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/98e534a3gy1frp2dyr8kvj21901o01kx.jpg"><img src="//wx1.sinaimg.cn/thumb150/98e534a3gy1frp2dyr8kvj21901o01kx.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/98e534a3gy1frp2dyr8kvj21901o01kx.jpg"><img src="http://wx1.sinaimg.cn/thumb150/98e534a3gy1frp2dyr8kvj21901o01kx.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/98e534a3gy1frp2e10sc5j21901o0qun.jpg"><img src="//wx2.sinaimg.cn/thumb150/98e534a3gy1frp2e10sc5j21901o0qun.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/98e534a3gy1frp2e10sc5j21901o0qun.jpg"><img src="http://wx2.sinaimg.cn/thumb150/98e534a3gy1frp2e10sc5j21901o0qun.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/98e534a3gy1frp2dwpbn8j20b91o07cy.jpg"><img src="//wx2.sinaimg.cn/thumb150/98e534a3gy1frp2dwpbn8j20b91o07cy.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/98e534a3gy1frp2dwpbn8j20b91o07cy.jpg"><img src="http://wx2.sinaimg.cn/thumb150/98e534a3gy1frp2dwpbn8j20b91o07cy.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/98e534a3gy1frp2e41sxsj23402c0u0x.jpg"><img src="//wx4.sinaimg.cn/thumb150/98e534a3gy1frp2e41sxsj23402c0u0x.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/98e534a3gy1frp2e41sxsj23402c0u0x.jpg"><img src="http://wx4.sinaimg.cn/thumb150/98e534a3gy1frp2e41sxsj23402c0u0x.jpg"/></a>
   </li>
 </ul>

@@ -15,9 +15,9 @@ Yesterday's photos with werid light ![Husky](https://img.t.sinajs.cn/t4/appstyle
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006RpxDlgy1frgtordk5aj31sg2dse87.jpg"><img src="//wx4.sinaimg.cn/thumb150/006RpxDlgy1frgtordk5aj31sg2dse87.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006RpxDlgy1frgtordk5aj31sg2dse87.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006RpxDlgy1frgtordk5aj31sg2dse87.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006RpxDlgy1frgto4wp99j31sg2ds7wn.jpg"><img src="//wx4.sinaimg.cn/thumb150/006RpxDlgy1frgto4wp99j31sg2ds7wn.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006RpxDlgy1frgto4wp99j31sg2ds7wn.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006RpxDlgy1frgto4wp99j31sg2ds7wn.jpg"/></a>
   </li>
 </ul>

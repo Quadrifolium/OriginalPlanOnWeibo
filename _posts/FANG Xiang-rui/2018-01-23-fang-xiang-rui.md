@@ -15,9 +15,9 @@ It's cold again. Please keep warm, don't get cold. :mask:
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006G0KNGgy1fnqs03rxrwj31hr1hr4qr.jpg"><img src="//wx4.sinaimg.cn/thumb150/006G0KNGgy1fnqs03rxrwj31hr1hr4qr.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006G0KNGgy1fnqs03rxrwj31hr1hr4qr.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006G0KNGgy1fnqs03rxrwj31hr1hr4qr.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006G0KNGgy1fnqs00jfmoj31hr1hr1kz.jpg"><img src="//wx3.sinaimg.cn/thumb150/006G0KNGgy1fnqs00jfmoj31hr1hr1kz.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006G0KNGgy1fnqs00jfmoj31hr1hr1kz.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006G0KNGgy1fnqs00jfmoj31hr1hr1kz.jpg"/></a>
   </li>
 </ul>

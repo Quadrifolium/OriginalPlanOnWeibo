@@ -15,10 +15,10 @@ categories: [ 'lin-jia-hao' ]
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/006Mi0jTgy1fkpmotmh08j30hb0hedi4.jpg"><img src="//wx2.sinaimg.cn/thumb150/006Mi0jTgy1fkpmotmh08j30hb0hedi4.jpg" /></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006Mi0jTgy1fkpmotmh08j30hb0hedi4.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Mi0jTgy1fkpmotmh08j30hb0hedi4.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/006Mi0jTgy1fkpmou6mzjj30hs0fpt98.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Mi0jTgy1fkpmou6mzjj30hs0fpt98.jpg" /></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Mi0jTgy1fkpmou6mzjj30hs0fpt98.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Mi0jTgy1fkpmou6mzjj30hs0fpt98.jpg" /></a>
   </li>
 </ul>
 

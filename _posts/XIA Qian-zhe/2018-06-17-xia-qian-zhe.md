@@ -15,12 +15,12 @@ The holiday for the Gragon Boat Festival is with Father's Day. I wish my father 
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/0076g4Wmgy1fseg7fu5nvj30m80goqcd.jpg"><img src="//wx1.sinaimg.cn/thumb150/0076g4Wmgy1fseg7fu5nvj30m80goqcd.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/0076g4Wmgy1fseg7fu5nvj30m80goqcd.jpg"><img src="http://wx1.sinaimg.cn/thumb150/0076g4Wmgy1fseg7fu5nvj30m80goqcd.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/0076g4Wmgy1fseg7efdsxj30u0140gmt.jpg"><img src="//wx3.sinaimg.cn/thumb150/0076g4Wmgy1fseg7efdsxj30u0140gmt.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/0076g4Wmgy1fseg7efdsxj30u0140gmt.jpg"><img src="http://wx3.sinaimg.cn/thumb150/0076g4Wmgy1fseg7efdsxj30u0140gmt.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/0076g4Wmgy1fseg7gn15wj30u0140q4l.jpg"><img src="//wx1.sinaimg.cn/thumb150/0076g4Wmgy1fseg7gn15wj30u0140q4l.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/0076g4Wmgy1fseg7gn15wj30u0140q4l.jpg"><img src="http://wx1.sinaimg.cn/thumb150/0076g4Wmgy1fseg7gn15wj30u0140q4l.jpg"/></a>
   </li>
 </ul>

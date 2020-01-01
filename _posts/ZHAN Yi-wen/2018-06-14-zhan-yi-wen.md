@@ -15,12 +15,12 @@ It is a nice and bright afternoon. Good afternoon, everyone. ![love you](https:/
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006FmVn8ly1fsatzn2omkj33402c0u0x.jpg"><img src="//wx1.sinaimg.cn/thumb150/006FmVn8ly1fsatzn2omkj33402c0u0x.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006FmVn8ly1fsatzn2omkj33402c0u0x.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006FmVn8ly1fsatzn2omkj33402c0u0x.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006FmVn8ly1fsatzwug8ij31hf1z4ndc.jpg"><img src="//wx2.sinaimg.cn/thumb150/006FmVn8ly1fsatzwug8ij31hf1z4ndc.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006FmVn8ly1fsatzwug8ij31hf1z4ndc.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006FmVn8ly1fsatzwug8ij31hf1z4ndc.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006FmVn8ly1fsatzypbusj33402c04qp.jpg"><img src="//wx1.sinaimg.cn/thumb150/006FmVn8ly1fsatzypbusj33402c04qp.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006FmVn8ly1fsatzypbusj33402c04qp.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006FmVn8ly1fsatzypbusj33402c04qp.jpg"/></a>
   </li>
 </ul>

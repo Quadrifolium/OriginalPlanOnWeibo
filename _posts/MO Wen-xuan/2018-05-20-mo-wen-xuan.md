@@ -13,6 +13,6 @@ Special thanks to the photographer [@YiAnMiddleSchool-ShenYiSheng](https://weibo
 
 <!-- more -->
 
-<a href="//wx2.sinaimg.cn/mw690/0076g4wkgy1fri680wgfej31o02yokjr.jpg">
-  <img class="weibo-pic-preview" src="//wx2.sinaimg.cn/orj360/0076g4wkgy1fri680wgfej31o02yokjr.jpg" />
+<a href="http://wx2.sinaimg.cn/mw690/0076g4wkgy1fri680wgfej31o02yokjr.jpg">
+  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/0076g4wkgy1fri680wgfej31o02yokjr.jpg" />
 </a>

@@ -17,16 +17,16 @@ Why am I feeling dizzy?
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/98e534a3gy1frx097gdd4j21o00miqfr.jpg"><img src="//wx2.sinaimg.cn/thumb150/98e534a3gy1frx097gdd4j21o00miqfr.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/98e534a3gy1frx097gdd4j21o00miqfr.jpg"><img src="http://wx2.sinaimg.cn/thumb150/98e534a3gy1frx097gdd4j21o00miqfr.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/98e534a3gy1frx09a5p5vj22c0340kay.jpg"><img src="//wx2.sinaimg.cn/thumb150/98e534a3gy1frx09a5p5vj22c0340kay.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/98e534a3gy1frx09a5p5vj22c0340kay.jpg"><img src="http://wx2.sinaimg.cn/thumb150/98e534a3gy1frx09a5p5vj22c0340kay.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/98e534a3gy1frx094p8tyj22c0340hdt.jpg"><img src="//wx1.sinaimg.cn/thumb150/98e534a3gy1frx094p8tyj22c0340hdt.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/98e534a3gy1frx094p8tyj22c0340hdt.jpg"><img src="http://wx1.sinaimg.cn/thumb150/98e534a3gy1frx094p8tyj22c0340hdt.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/98e534a3gy1frx09exxjjj22c0340e81.jpg"><img src="//wx2.sinaimg.cn/thumb150/98e534a3gy1frx09exxjjj22c0340e81.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/98e534a3gy1frx09exxjjj22c0340e81.jpg"><img src="http://wx2.sinaimg.cn/thumb150/98e534a3gy1frx09exxjjj22c0340e81.jpg"/></a>
   </li>
 </ul>
 

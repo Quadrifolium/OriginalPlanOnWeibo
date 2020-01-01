@@ -13,8 +13,8 @@ This time, pass by my hometown Chongqing. :heart:×3
 
 <!-- more -->
 
-<a href="//wx1.sinaimg.cn/mw690/006G0KNGgy1fop6q7ir3hj31sg1scx6r.jpg">
-  <img class="weibo-pic-preview" src="//wx1.sinaimg.cn/orj360/006G0KNGgy1fop6q7ir3hj31sg1scx6r.jpg" />
+<a href="http://wx1.sinaimg.cn/mw690/006G0KNGgy1fop6q7ir3hj31sg1scx6r.jpg">
+  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/006G0KNGgy1fop6q7ir3hj31sg1scx6r.jpg" />
 </a>
 
 *Comments*

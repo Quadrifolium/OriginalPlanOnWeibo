@@ -15,9 +15,9 @@ My image stands tall and upright. ![crafty](http://img.t.sinajs.cn/t4/appstyle/e
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="https://wx2.sinaimg.cn/mw690/006RpxDlgy1fmjr22aynuj30m80gojsh.jpg"><img src="//wx2.sinaimg.cn/thumb150/006RpxDlgy1fmjr22aynuj30m80gojsh.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006RpxDlgy1fmjr22aynuj30m80gojsh.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006RpxDlgy1fmjr22aynuj30m80gojsh.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx1.sinaimg.cn/mw690/006RpxDlgy1fmjr256rd9j32c03404qx.jpg"><img src="//wx1.sinaimg.cn/thumb150/006RpxDlgy1fmjr256rd9j32c03404qx.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006RpxDlgy1fmjr256rd9j32c03404qx.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006RpxDlgy1fmjr256rd9j32c03404qx.jpg" /></a>
   </li>
 </ul>

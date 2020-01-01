@@ -14,7 +14,7 @@ Charismatic LIN Mo, happy birthday. :heart:×3 LIN Mo, you are the most handsome
 <!-- more -->
 
 <a href="https://wx4.sinaimg.cn/mw690/006RpxDlgy1fmorkbl4luj31zk1hrnpf.jpg">
-  <img class="weibo-pic-preview-h" src="//wx4.sinaimg.cn/orj360/006RpxDlgy1fmorkbl4luj31zk1hrnpf.jpg" />
+  <img class="weibo-pic-preview-h" src="http://wx4.sinaimg.cn/orj360/006RpxDlgy1fmorkbl4luj31zk1hrnpf.jpg" />
 </a>
 
 *Comments*

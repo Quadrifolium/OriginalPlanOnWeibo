@@ -23,6 +23,6 @@ PS: Benefit for the vacation: Tomorrow! Tomorrow! Listen to the trailer in the l
 
 [#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) Facing the thrilling “ghost dormitory”, how will Yi An boys respond? Today's adorable daily life is ready, take a look~ :stuck_out_tongue_winking_eye:×3
 
-<a href="//wx2.sinaimg.cn/mw690/006Es64Aly1fq1y5is8xlj30gfcn2qv6.jpg">
-  <img class="weibo-pic-preview" src="//wx2.sinaimg.cn/orj360/006Es64Aly1fq1y5is8xlj30gfcn2qv6.jpg" />
+<a href="http://wx2.sinaimg.cn/mw690/006Es64Aly1fq1y5is8xlj30gfcn2qv6.jpg">
+  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006Es64Aly1fq1y5is8xlj30gfcn2qv6.jpg" />
 </a>

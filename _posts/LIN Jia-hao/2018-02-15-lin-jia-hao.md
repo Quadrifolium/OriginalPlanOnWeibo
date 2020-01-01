@@ -15,15 +15,15 @@ Happy New Year. :tada::fireworks:🎊:balloon:🍾️ On this day of the last ye
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006Mi0jTgy1foh4rbdz2pj32qj3nd4qr.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Mi0jTgy1foh4rbdz2pj32qj3nd4qr.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Mi0jTgy1foh4rbdz2pj32qj3nd4qr.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Mi0jTgy1foh4rbdz2pj32qj3nd4qr.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006Mi0jTgy1foh4rfniikj32nm3rcu0x.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Mi0jTgy1foh4rfniikj32nm3rcu0x.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Mi0jTgy1foh4rfniikj32nm3rcu0x.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Mi0jTgy1foh4rfniikj32nm3rcu0x.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006Mi0jTgy1foh4rno5pkj32c0340u10.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Mi0jTgy1foh4rno5pkj32c0340u10.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006Mi0jTgy1foh4rno5pkj32c0340u10.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Mi0jTgy1foh4rno5pkj32c0340u10.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006Mi0jTgy1foh4r68m9pj30np0hsdml.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Mi0jTgy1foh4r68m9pj30np0hsdml.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006Mi0jTgy1foh4r68m9pj30np0hsdml.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Mi0jTgy1foh4r68m9pj30np0hsdml.jpg"/></a>
   </li>
 </ul>

@@ -13,8 +13,8 @@ Good night. 😴×3
 
 <!-- more -->
 
-<a href="//wx2.sinaimg.cn/mw690/006FmVn8gy1fnpq821uz4j30qo0qotc6.jpg">
-  <img class="weibo-pic-preview" src="//wx2.sinaimg.cn/orj360/006FmVn8gy1fnpq821uz4j30qo0qotc6.jpg" />
+<a href="http://wx2.sinaimg.cn/mw690/006FmVn8gy1fnpq821uz4j30qo0qotc6.jpg">
+  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006FmVn8gy1fnpq821uz4j30qo0qotc6.jpg" />
 </a>
 
 *Comments*

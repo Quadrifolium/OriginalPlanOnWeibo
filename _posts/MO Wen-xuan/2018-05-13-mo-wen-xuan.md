@@ -16,12 +16,12 @@ Mum, I miss you very much. I have less time to stay with you, but I hope you can
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/0076g4wkgy1fr9v5c2vfej34532etnpf.jpg"><img src="//wx4.sinaimg.cn/thumb150/0076g4wkgy1fr9v5c2vfej34532etnpf.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/0076g4wkgy1fr9v5c2vfej34532etnpf.jpg"><img src="http://wx4.sinaimg.cn/thumb150/0076g4wkgy1fr9v5c2vfej34532etnpf.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/0076g4wkgy1fr9v5dffwhj30qo141gqf.jpg"><img src="//wx3.sinaimg.cn/thumb150/0076g4wkgy1fr9v5dffwhj30qo141gqf.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/0076g4wkgy1fr9v5dffwhj30qo141gqf.jpg"><img src="http://wx3.sinaimg.cn/thumb150/0076g4wkgy1fr9v5dffwhj30qo141gqf.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/0076g4wkgy1fr9v58i0zgj30qo140n1j.jpg"><img src="//wx4.sinaimg.cn/thumb150/0076g4wkgy1fr9v58i0zgj30qo140n1j.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/0076g4wkgy1fr9v58i0zgj30qo140n1j.jpg"><img src="http://wx4.sinaimg.cn/thumb150/0076g4wkgy1fr9v58i0zgj30qo140n1j.jpg"/></a>
   </li>
 </ul>

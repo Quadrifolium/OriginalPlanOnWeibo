@@ -15,10 +15,10 @@ Happy birthday to [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008) :
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="https://wx1.sinaimg.cn/mw690/006FmVn8gy1flra2su8w3j30qo0zj7ci.jpg"><img src="//wx1.sinaimg.cn/thumb150/006FmVn8gy1flra2su8w3j30qo0zj7ci.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006FmVn8gy1flra2su8w3j30qo0zj7ci.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006FmVn8gy1flra2su8w3j30qo0zj7ci.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx2.sinaimg.cn/mw690/006FmVn8gy1flra2s5euzj30qo0zj7ci.jpg"><img src="//wx2.sinaimg.cn/thumb150/006FmVn8gy1flra2s5euzj30qo0zj7ci.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006FmVn8gy1flra2s5euzj30qo0zj7ci.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006FmVn8gy1flra2s5euzj30qo0zj7ci.jpg" /></a>
   </li>
 </ul>
 

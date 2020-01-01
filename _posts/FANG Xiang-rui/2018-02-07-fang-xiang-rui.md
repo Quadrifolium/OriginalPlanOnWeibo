@@ -13,6 +13,6 @@ Shared a photo
 
 <!-- more -->
 
-<a href="//wx4.sinaimg.cn/mw690/006G0KNGgy1fo7yfxj3t1j31sg1sgwot.jpg">
-  <img class="weibo-pic-preview" src="//wx4.sinaimg.cn/orj360/006G0KNGgy1fo7yfxj3t1j31sg1sgwot.jpg" />
+<a href="http://wx4.sinaimg.cn/mw690/006G0KNGgy1fo7yfxj3t1j31sg1sgwot.jpg">
+  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006G0KNGgy1fo7yfxj3t1j31sg1sgwot.jpg" />
 </a>

@@ -15,12 +15,12 @@ Even my mum didn't know I have this skill!
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="https://wx2.sinaimg.cn/mw690/006RpxDlgy1fn3p0wodnuj32802yob2h.jpg"><img src="//wx2.sinaimg.cn/thumb150/006RpxDlgy1fn3p0wodnuj32802yob2h.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006RpxDlgy1fn3p0wodnuj32802yob2h.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006RpxDlgy1fn3p0wodnuj32802yob2h.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx2.sinaimg.cn/mw690/006RpxDlgy1fn3p0o3qauj32802yoqvd.jpg"><img src="//wx2.sinaimg.cn/thumb150/006RpxDlgy1fn3p0o3qauj32802yoqvd.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006RpxDlgy1fn3p0o3qauj32802yoqvd.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006RpxDlgy1fn3p0o3qauj32802yoqvd.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx4.sinaimg.cn/mw690/006RpxDlgy1fn3p1do00cj32802yox6x.jpg"><img src="//wx4.sinaimg.cn/thumb150/006RpxDlgy1fn3p1do00cj32802yox6x.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006RpxDlgy1fn3p1do00cj32802yox6x.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006RpxDlgy1fn3p1do00cj32802yox6x.jpg" /></a>
   </li>
 </ul>

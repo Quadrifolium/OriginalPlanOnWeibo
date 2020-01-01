@@ -14,8 +14,8 @@ Good night. ![moon](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b9
 
 <!-- more -->
 
-<a href="//wx1.sinaimg.cn/mw690/006G0KNGgy1fokypik1xvj30v91vo1ky.jpg">
-  <img class="weibo-pic-preview" src="//wx1.sinaimg.cn/orj360/006G0KNGgy1fokypik1xvj30v91vo1ky.jpg" />
+<a href="http://wx1.sinaimg.cn/mw690/006G0KNGgy1fokypik1xvj30v91vo1ky.jpg">
+  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/006G0KNGgy1fokypik1xvj30v91vo1ky.jpg" />
 </a>
 
 Note:

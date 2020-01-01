@@ -15,12 +15,12 @@ Can you catch the ball?
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/0076g4wkgy1fr1pf9f26ij30qo0zkdm6.jpg"><img src="//wx3.sinaimg.cn/thumb150/0076g4wkgy1fr1pf9f26ij30qo0zkdm6.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/0076g4wkgy1fr1pf9f26ij30qo0zkdm6.jpg"><img src="http://wx3.sinaimg.cn/thumb150/0076g4wkgy1fr1pf9f26ij30qo0zkdm6.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/0076g4wkgy1fr1pfao8ypj30qo0zk7c2.jpg"><img src="//wx1.sinaimg.cn/thumb150/0076g4wkgy1fr1pfao8ypj30qo0zk7c2.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/0076g4wkgy1fr1pfao8ypj30qo0zk7c2.jpg"><img src="http://wx1.sinaimg.cn/thumb150/0076g4wkgy1fr1pfao8ypj30qo0zk7c2.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/0076g4wkgy1fr1pfc6uubj30qo0zkgsc.jpg"><img src="//wx4.sinaimg.cn/thumb150/0076g4wkgy1fr1pfc6uubj30qo0zkgsc.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/0076g4wkgy1fr1pfc6uubj30qo0zkgsc.jpg"><img src="http://wx4.sinaimg.cn/thumb150/0076g4wkgy1fr1pfc6uubj30qo0zkgsc.jpg"/></a>
   </li>
 </ul>

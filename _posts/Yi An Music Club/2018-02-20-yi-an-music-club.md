@@ -16,16 +16,16 @@ MV sidelight photos in black and white is on-line~ Please wait for the boys' nex
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006Es64Aly1fomv12s2lnj32kw3vcu0z.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Aly1fomv12s2lnj32kw3vcu0z.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006Es64Aly1fomv12s2lnj32kw3vcu0z.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Aly1fomv12s2lnj32kw3vcu0z.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006Es64Aly1fomv1712cxj32kw3vcqv7.jpg"><img src="//wx2.sinaimg.cn/thumb150/006Es64Aly1fomv1712cxj32kw3vcqv7.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006Es64Aly1fomv1712cxj32kw3vcqv7.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Aly1fomv1712cxj32kw3vcqv7.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006Es64Aly1fomuzvkuygj32ao3g0qv5.jpg"><img src="//wx2.sinaimg.cn/thumb150/006Es64Aly1fomuzvkuygj32ao3g0qv5.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006Es64Aly1fomuzvkuygj32ao3g0qv5.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Aly1fomuzvkuygj32ao3g0qv5.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx1.sinaimg.cn/mw690/006Es64Aly1fomv1um0n2j32kw3vc7wk.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Aly1fomv1um0n2j32kw3vc7wk.jpg"/></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006Es64Aly1fomv1um0n2j32kw3vc7wk.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Aly1fomv1um0n2j32kw3vc7wk.jpg"/></a>
   </li>
 </ul>
 
@@ -39,8 +39,8 @@ MV sidelight photos in black and white is on-line~ Please wait for the boys' nex
 
 <!-- more -->
 
-<a href="//wx2.sinaimg.cn/mw690/006Es64Aly1fomohshqurj31ww2pfkjn.jpg">
-  <img class="weibo-pic-preview" src="//wx2.sinaimg.cn/orj360/006Es64Aly1fomohshqurj31ww2pfkjn.jpg" />
+<a href="http://wx2.sinaimg.cn/mw690/006Es64Aly1fomohshqurj31ww2pfkjn.jpg">
+  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006Es64Aly1fomohshqurj31ww2pfkjn.jpg" />
 </a>
 
 Note:

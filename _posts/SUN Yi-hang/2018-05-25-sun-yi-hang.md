@@ -15,6 +15,6 @@ A greeting to you in the break of the rehearsal.
 
 <!-- more -->
 
-<a href="//wx1.sinaimg.cn/mw690/98e534a3gy1frnrzvlfqjj21o0190ts6.jpg">
-  <img class="weibo-pic-preview" src="//wx1.sinaimg.cn/orj360/98e534a3gy1frnrzvlfqjj21o0190ts6.jpg" />
+<a href="http://wx1.sinaimg.cn/mw690/98e534a3gy1frnrzvlfqjj21o0190ts6.jpg">
+  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/98e534a3gy1frnrzvlfqjj21o0190ts6.jpg" />
 </a>

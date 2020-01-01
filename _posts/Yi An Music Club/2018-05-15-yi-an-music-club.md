@@ -16,9 +16,9 @@ The rules for the party in Guangzhou is as follows. Please read carefully~ Do yo
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006Es64Aly1frc46lbr87j31ds77sb2b.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Aly1frc46lbr87j31ds77sb2b.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Es64Aly1frc46lbr87j31ds77sb2b.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Aly1frc46lbr87j31ds77sb2b.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx4.sinaimg.cn/mw690/006Es64Aly1frc46mlw4nj30p0265x6p.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Aly1frc46mlw4nj30p0265x6p.jpg"/></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006Es64Aly1frc46mlw4nj30p0265x6p.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Aly1frc46mlw4nj30p0265x6p.jpg"/></a>
   </li>
 </ul>

@@ -15,9 +15,9 @@ categories: [ 'yi-an-music-club' ]
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/006Es64Aly1fs89cgvv4sj31ds77shdw.jpg"><img src="//wx2.sinaimg.cn/thumb150/006Es64Aly1fs89cgvv4sj31ds77shdw.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/006Es64Aly1fs89cgvv4sj31ds77shdw.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Aly1fs89cgvv4sj31ds77shdw.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/006Es64Aly1fs89cictggj30p0265npd.jpg"><img src="//wx3.sinaimg.cn/thumb150/006Es64Aly1fs89cictggj30p0265npd.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/006Es64Aly1fs89cictggj30p0265npd.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Es64Aly1fs89cictggj30p0265npd.jpg"/></a>
   </li>
 </ul>

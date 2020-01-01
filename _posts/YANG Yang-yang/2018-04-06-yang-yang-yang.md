@@ -14,6 +14,6 @@ I should be a cool man. 😎
 
 <!-- more -->
 
-<a href="//wx4.sinaimg.cn/mw690/0076h6Aygy1fq2ttjbyarj30qo0zk1kx.jpg">
-  <img class="weibo-pic-preview" src="//wx4.sinaimg.cn/orj360/0076h6Aygy1fq2ttjbyarj30qo0zk1kx.jpg" />
+<a href="http://wx4.sinaimg.cn/mw690/0076h6Aygy1fq2ttjbyarj30qo0zk1kx.jpg">
+  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/0076h6Aygy1fq2ttjbyarj30qo0zk1kx.jpg" />
 </a>

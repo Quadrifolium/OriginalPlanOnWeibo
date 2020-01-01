@@ -15,22 +15,22 @@ categories: [ 'yi-an-music-club' ]
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Es64Agy1fk0v258aa2j31400qogv9.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Agy1fk0v258aa2j31400qogv9.jpg" /></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006Es64Agy1fk0v258aa2j31400qogv9.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Agy1fk0v258aa2j31400qogv9.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Es64Agy1fk0v2422alj30qo140jz9.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Agy1fk0v2422alj30qo140jz9.jpg" /></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006Es64Agy1fk0v2422alj30qo140jz9.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Agy1fk0v2422alj30qo140jz9.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Es64Agy1fk0v25xlt3j31400qojuk.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Agy1fk0v25xlt3j31400qojuk.jpg" /></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006Es64Agy1fk0v25xlt3j31400qojuk.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Agy1fk0v25xlt3j31400qojuk.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006Es64Agy1fk0v26z9evj31400qon6v.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Agy1fk0v26z9evj31400qon6v.jpg" /></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006Es64Agy1fk0v26z9evj31400qon6v.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Agy1fk0v26z9evj31400qon6v.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006Es64Agy1fk0v282qlij31400qon5f.jpg"><img src="//wx4.sinaimg.cn/thumb150/006Es64Agy1fk0v282qlij31400qon5f.jpg" /></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006Es64Agy1fk0v282qlij31400qon5f.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Agy1fk0v282qlij31400qon5f.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Es64Agy1fk0v29hrl0j31400qoal4.jpg"><img src="//wx1.sinaimg.cn/thumb150/006Es64Agy1fk0v29hrl0j31400qoal4.jpg" /></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006Es64Agy1fk0v29hrl0j31400qoal4.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Agy1fk0v29hrl0j31400qoal4.jpg" /></a>
   </li>
 </ul>
 

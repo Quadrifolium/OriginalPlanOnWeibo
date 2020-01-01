@@ -15,8 +15,8 @@ You are the cutest, with the lightest skin, and the most handsome, today! [doge 
 
 <!-- more -->
 
-<a href="//wx1.sinaimg.cn/mw690/006G0KNGgy1fn70xxkusyj30gn0owgnj.jpg">
-  <img class="weibo-pic-preview" src="//wx1.sinaimg.cn/orj360/006G0KNGgy1fn70xxkusyj30gn0owgnj.jpg" />
+<a href="http://wx1.sinaimg.cn/mw690/006G0KNGgy1fn70xxkusyj30gn0owgnj.jpg">
+  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/006G0KNGgy1fn70xxkusyj30gn0owgnj.jpg" />
 </a>
 
 *Comments*

@@ -15,9 +15,9 @@ Did you eat carrot today? ![cute](https://img.t.sinajs.cn/t4/appstyle/expression
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="//wx3.sinaimg.cn/mw690/0076n8VAgy1fpnuhjvon5j30u01hce81.jpg"><img src="//wx3.sinaimg.cn/thumb150/0076n8VAgy1fpnuhjvon5j30u01hce81.jpg"/></a>
+    <a href="http://wx3.sinaimg.cn/mw690/0076n8VAgy1fpnuhjvon5j30u01hce81.jpg"><img src="http://wx3.sinaimg.cn/thumb150/0076n8VAgy1fpnuhjvon5j30u01hce81.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="//wx2.sinaimg.cn/mw690/0076n8VAgy1fpnuhimfz6j30u01hce81.jpg"><img src="//wx2.sinaimg.cn/thumb150/0076n8VAgy1fpnuhimfz6j30u01hce81.jpg"/></a>
+    <a href="http://wx2.sinaimg.cn/mw690/0076n8VAgy1fpnuhimfz6j30u01hce81.jpg"><img src="http://wx2.sinaimg.cn/thumb150/0076n8VAgy1fpnuhimfz6j30u01hce81.jpg"/></a>
   </li>
 </ul>

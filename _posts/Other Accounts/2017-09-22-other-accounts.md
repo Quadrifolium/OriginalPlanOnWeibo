@@ -18,10 +18,10 @@ TPK gets to the successful close! :thumbsup:×2 I am grateful to the platform an
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006eaIq2gy1fjsrkvb2ztg30a906ddk7.gif"><img src="//wx1.sinaimg.cn/thumb150/006eaIq2gy1fjsrkvb2ztg30a906ddk7.gif" /></a>
+    <a href="http://wx1.sinaimg.cn/mw690/006eaIq2gy1fjsrkvb2ztg30a906ddk7.gif"><img src="http://wx1.sinaimg.cn/thumb150/006eaIq2gy1fjsrkvb2ztg30a906ddk7.gif" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006eaIq2gy1fjsrqbj68xj30qo0zk7dt.jpg"><img src="//wx4.sinaimg.cn/thumb150/006eaIq2gy1fjsrqbj68xj30qo0zk7dt.jpg" /></a>
+    <a href="http://wx4.sinaimg.cn/mw690/006eaIq2gy1fjsrqbj68xj30qo0zk7dt.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006eaIq2gy1fjsrqbj68xj30qo0zk7dt.jpg" /></a>
   </li>
 </ul>
 
@@ -38,7 +38,7 @@ TPK gets to the successful close! :thumbsup:×2 I am grateful to the platform an
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/8b7bc5d5ly1fjsppq3idpj20qo0zkn26.jpg"><img src="//wx4.sinaimg.cn/thumb150/8b7bc5d5ly1fjsppq3idpj20qo0zkn26.jpg" /></a>
+    <a href="http://wx4.sinaimg.cn/mw690/8b7bc5d5ly1fjsppq3idpj20qo0zkn26.jpg"><img src="http://wx4.sinaimg.cn/thumb150/8b7bc5d5ly1fjsppq3idpj20qo0zkn26.jpg" /></a>
   </li>
 </ul>
 
@@ -62,10 +62,10 @@ Closing time, so happy! To thank you for your support, I decide to post another 
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/97628667ly1fjshwfi9yaj20q00q0tjk.jpg"><img src="//wx1.sinaimg.cn/thumb150/97628667ly1fjshwfi9yaj20q00q0tjk.jpg" /></a>
+    <a href="http://wx1.sinaimg.cn/mw690/97628667ly1fjshwfi9yaj20q00q0tjk.jpg"><img src="http://wx1.sinaimg.cn/thumb150/97628667ly1fjshwfi9yaj20q00q0tjk.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/97628667ly1fjshwldcf7j20j60rxn7g.jpg"><img src="//wx1.sinaimg.cn/thumb150/97628667ly1fjshwldcf7j20j60rxn7g.jpg" /></a>
+    <a href="http://wx1.sinaimg.cn/mw690/97628667ly1fjshwldcf7j20j60rxn7g.jpg"><img src="http://wx1.sinaimg.cn/thumb150/97628667ly1fjshwldcf7j20j60rxn7g.jpg" /></a>
   </li>
 </ul>
 
@@ -103,6 +103,6 @@ Another vigorous day begins! (It's Friday, haha) ![Minion happy](http://img.t.si
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/97628667ly1fjs3hzhm6zj20b20b2acu.jpg"><img src="//wx4.sinaimg.cn/thumb150/97628667ly1fjs3hzhm6zj20b20b2acu.jpg" /></a>
+    <a href="http://wx4.sinaimg.cn/mw690/97628667ly1fjs3hzhm6zj20b20b2acu.jpg"><img src="http://wx4.sinaimg.cn/thumb150/97628667ly1fjs3hzhm6zj20b20b2acu.jpg" /></a>
   </li>
 </ul>

@@ -13,8 +13,8 @@ This is FANG Jia-cheng (方加成). My elder brother has the surname “Fang”,
 
 <!-- more -->
 
-<a href="//wx3.sinaimg.cn/mw690/0076h5Fhgy1fph1yn593mj31sg2ds4qu.jpg">
-  <img class="weibo-pic-preview" src="//wx3.sinaimg.cn/orj360/0076h5Fhgy1fph1yn593mj31sg2ds4qu.jpg" />
+<a href="http://wx3.sinaimg.cn/mw690/0076h5Fhgy1fph1yn593mj31sg2ds4qu.jpg">
+  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/0076h5Fhgy1fph1yn593mj31sg2ds4qu.jpg" />
 </a>
 
 Note:
