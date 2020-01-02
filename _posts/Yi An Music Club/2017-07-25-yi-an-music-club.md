@@ -13,7 +13,7 @@ Finished reading it … The first two paragraphs are just making up the number o
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006Es64Agy1fhwhrnb5tvj30s3137qgu.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/006Es64Agy1fhwhrnb5tvj30s3137qgu.jpg)
 
 *Words in image:*
 

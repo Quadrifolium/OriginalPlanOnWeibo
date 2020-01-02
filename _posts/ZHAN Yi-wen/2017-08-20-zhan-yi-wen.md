@@ -13,7 +13,7 @@ First day of the vacation, share a photo which I think is nice. [@YiAnMusicClub-
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006FmVn8ly1fiqhinw5khj30ku0rsn2p.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006FmVn8ly1fiqhinw5khj30ku0rsn2p.jpg)
 
 *Comments*
 

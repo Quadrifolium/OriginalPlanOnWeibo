@@ -13,7 +13,7 @@ categories: [ 'yi-an-music-club' ]
 <!-- more -->
 
 *Image*  
-![Image](http://wx2.sinaimg.cn/mw690/006Es64Agy1fck1sn8g4hj31kw1cq4qq.jpg)  
+![Image](https://wx2.sinaimg.cn/mw690/006Es64Agy1fck1sn8g4hj31kw1cq4qq.jpg)  
 *Words in image:*  
 Yi An Middle School  
 CHI Yi (Student in Class 2, Junior Grade 1)  

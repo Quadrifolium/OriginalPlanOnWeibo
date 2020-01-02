@@ -13,7 +13,7 @@ Silver Horned King today. :grin:×2
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006FmVn8gy1ffvibjblmzj30qo14079o.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/006FmVn8gy1ffvibjblmzj30qo14079o.jpg)
 
 Note:
 1. Silver Horned King (银角大王) is a character in *Journey to the West* (西游记).

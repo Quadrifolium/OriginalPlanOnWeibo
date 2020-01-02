@@ -18,8 +18,8 @@ categories: [ 'yi-an-music-club' ]
 3\. The verification message will be sent today. Please keep the message in your phone and bring your ID card with you. (If you don't receive the message in 24 hours, please send a mail to yianmusic@163.com .)  
 4\. If the true name, ID card number, phone number, or address you provided when purchasing is wrong, please PM “Yi An Music Club official account on Owhat” for modification. If you can't attend the event on the day, please inform yianmusic@163.com no later than 7th June.
 
-<a href="http://wx4.sinaimg.cn/mw690/006Es64Aly1frk64sp1adj30kncmq1l5.jpg">
-  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006Es64Aly1frk64sp1adj30kncmq1l5.jpg" />
+<a href="https://wx4.sinaimg.cn/mw690/006Es64Aly1frk64sp1adj30kncmq1l5.jpg">
+  <img class="weibo-pic-preview" src="https://wx4.sinaimg.cn/orj360/006Es64Aly1frk64sp1adj30kncmq1l5.jpg" />
 </a>
 
 ---

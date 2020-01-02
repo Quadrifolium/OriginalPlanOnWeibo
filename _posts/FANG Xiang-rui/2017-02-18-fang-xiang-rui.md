@@ -13,7 +13,7 @@ Tomorrow is another new day. Good night.
 <!-- more -->
 
 *Image*  
-![Image](http://wx2.sinaimg.cn/mw690/006G0KNGgy1fcv0rcjo8lj30ku0kugoa.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006G0KNGgy1fcv0rcjo8lj30ku0kugoa.jpg)
 
 ---
 
@@ -23,4 +23,4 @@ Tomorrow is another new day. Good night.
 Have to jog again …
 
 *Image*  
-![Image](http://wx4.sinaimg.cn/mw690/006G0KNGgy1fcut1r55zzj30fq0j3td0.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/006G0KNGgy1fcut1r55zzj30fq0j3td0.jpg)

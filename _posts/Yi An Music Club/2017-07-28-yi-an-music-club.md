@@ -13,7 +13,7 @@ Today, are you still rising in great vigour, learning hard, and working in earne
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/006Es64Agy1fhzyug1ia3j320y2tob2a.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/006Es64Agy1fhzyug1ia3j320y2tob2a.jpg)
 
 *Words in image:*
 
@@ -43,7 +43,7 @@ Note:
 
 This Saturday, [#IGotABrother](http://weibo.com/p/10080861f662f85120fee304ac320a7735365a) continues to present the journey for *gege* and *didi*. Tomorrow, *gege* (HE Luo-luo) will take *didi* (CHI Yi) to Shanghai Haiwan Forest Park (上海海湾国家森林公园), to discover the secrets of the nature. Sleeping in tent, having barbecue, … How many secrets in the forest park are waiting for the brothers?
 
-![Image](http://wx1.sinaimg.cn/mw690/006Es64Agy1fhzs9c1dwej31kw2dchdw.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006Es64Agy1fhzs9c1dwej31kw2dchdw.jpg)
 
 ---
 

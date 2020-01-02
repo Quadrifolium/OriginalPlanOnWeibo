@@ -13,7 +13,7 @@ categories: [ 'original-plan' ]
 <!-- more -->
 
 *Image*  
-![Image](http://wx2.sinaimg.cn/mw690/0068MnXXgy1fcmhbkxij4j31hc19odoe.jpg)  
+![Image](https://wx2.sinaimg.cn/mw690/0068MnXXgy1fcmhbkxij4j31hc19odoe.jpg)  
 *Words in image:*  
 Yi An Middle School  
 ZHAN Yi-wen (Top student in Class 2, Junior Grade 1)  

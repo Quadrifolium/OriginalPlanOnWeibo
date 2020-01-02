@@ -13,9 +13,9 @@ A big dog I met in Japan. A blurred selfie, because the dog was moving, it's har
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006FmVn8gy1ffe5sa7zmuj30qo0v7jyh.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/006FmVn8gy1ffe5sa7zmuj30qo0v7jyh.jpg)
 
-![Image](http://wx2.sinaimg.cn/mw690/006FmVn8gy1ffe5s8aj1jj30zk0qo4a3.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006FmVn8gy1ffe5s8aj1jj30zk0qo4a3.jpg)
 
 **Comments**
 

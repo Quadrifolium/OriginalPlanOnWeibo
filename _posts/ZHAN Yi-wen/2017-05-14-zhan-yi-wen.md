@@ -13,4 +13,4 @@ Mum thought my selfie's too blur, and took this one stealthily. Here I wish my m
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006FmVn8ly1ffkzph246bj31bf0qo7fl.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/006FmVn8ly1ffkzph246bj31bf0qo7fl.jpg)

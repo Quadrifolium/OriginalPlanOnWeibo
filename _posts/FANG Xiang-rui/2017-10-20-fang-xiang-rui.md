@@ -40,13 +40,13 @@ This one is for LIN Mo. He found his mobile is broken today … LIN Mo said: My 
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006G0KNGgy1fkp49uj2nkj31sg23vu0z.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006G0KNGgy1fkp49uj2nkj31sg23vu0z.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006G0KNGgy1fkp49uj2nkj31sg23vu0z.jpg"><img src="https://wx4.sinaimg.cn/thumb150/006G0KNGgy1fkp49uj2nkj31sg23vu0z.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/006G0KNGgy1fkp49wtp7gj32c02c04qp.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006G0KNGgy1fkp49wtp7gj32c02c04qp.jpg" /></a>
+    <a href="https://wx3.sinaimg.cn/mw690/006G0KNGgy1fkp49wtp7gj32c02c04qp.jpg"><img src="https://wx3.sinaimg.cn/thumb150/006G0KNGgy1fkp49wtp7gj32c02c04qp.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006G0KNGgy1fkp49s92u4j30ku112jv8.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006G0KNGgy1fkp49s92u4j30ku112jv8.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006G0KNGgy1fkp49s92u4j30ku112jv8.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006G0KNGgy1fkp49s92u4j30ku112jv8.jpg" /></a>
   </li>
 </ul>
 
@@ -68,10 +68,10 @@ Note:
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/006G0KNGgy1fkp45ut1i0j30ku0vztg1.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006G0KNGgy1fkp45ut1i0j30ku0vztg1.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006G0KNGgy1fkp45ut1i0j30ku0vztg1.jpg"><img src="https://wx2.sinaimg.cn/thumb150/006G0KNGgy1fkp45ut1i0j30ku0vztg1.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006G0KNGgy1fkp46wgdw0j313a0qojxe.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006G0KNGgy1fkp46wgdw0j313a0qojxe.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006G0KNGgy1fkp46wgdw0j313a0qojxe.jpg"><img src="https://wx4.sinaimg.cn/thumb150/006G0KNGgy1fkp46wgdw0j313a0qojxe.jpg" /></a>
   </li>
 </ul>
 

@@ -29,9 +29,9 @@ Let me be the Seer, and I'll seize the victory. :v::yum:
 
 Hope I won't be killed in the first vote. ![smile](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif)
 
-![Image](http://wx1.sinaimg.cn/mw690/006G0KNGgy1feuiqnkxp4j30qo0zkwk8.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006G0KNGgy1feuiqnkxp4j30qo0zkwk8.jpg)
 
-![Image](http://wx2.sinaimg.cn/mw690/006G0KNGgy1feuiqfapg2j30qo0zjgpo.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006G0KNGgy1feuiqfapg2j30qo0zjgpo.jpg)
 
 ---
 

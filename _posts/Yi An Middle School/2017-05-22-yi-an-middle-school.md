@@ -13,7 +13,7 @@ Yesterday, at the invitation of the People's Government of Fengxian District, Sh
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006D4NLGgy1ffuanxuruaj30zk0qowlh.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006D4NLGgy1ffuanxuruaj30zk0qowlh.jpg)
 
 ---
 
@@ -23,7 +23,7 @@ Yesterday, at the invitation of the People's Government of Fengxian District, Sh
 
 It's cloudy. This week, the Speech Under the National Flag was hosted by Class 6 Senior Grade 3, with the topic “Friendship”. “The poor sleeping in downtown has nobody to care for, the rich living in remote mountain has distant relatives visit. Wine and meat may gather fraternal friends, but has any of such friend appeared when you are in difficulty?” They hope the students set up healthy perception in friendship. Besides, the Students' Union asks the clubs in request of new activity rooms to submit their applications as quickly as possible. The reception ends this Wednesday. (The image below shows the friendship in the staff's office.)
 
-![Image](http://wx4.sinaimg.cn/mw690/006D4NLGgy1fftejl4hz2j30f00u141w.jpg)  
+![Image](https://wx4.sinaimg.cn/mw690/006D4NLGgy1fftejl4hz2j30f00u141w.jpg)  
 *Words in image:*  
 Love you.  
 Just a joke.

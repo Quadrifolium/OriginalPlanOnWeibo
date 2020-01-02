@@ -13,7 +13,7 @@ Don't like the bright sunny day? Don't worry, it will reach below 36 degrees nex
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006Es64Agy1fhysg7a488j32a1340npe.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006Es64Agy1fhysg7a488j32a1340npe.jpg)
 
 *Words in image:*
 

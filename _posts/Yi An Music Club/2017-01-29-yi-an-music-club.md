@@ -13,7 +13,7 @@ The Music Club members are too dawdling. Just the greeting were lagged from the 
 <!-- more -->
 
 *Image*  
-![Image](http://wx2.sinaimg.cn/mw690/006Es64Agy1fc6s1d8angj31501lwgwc.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006Es64Agy1fc6s1d8angj31501lwgwc.jpg)
 
 Note:
 1. The Chinese New Year in 2017 starts from 28th Jan.

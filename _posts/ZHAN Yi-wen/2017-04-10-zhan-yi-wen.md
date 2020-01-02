@@ -13,7 +13,7 @@ No selfie this time. Guess what it is.
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006FmVn8ly1feho6tnihjj30ku112jur.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006FmVn8ly1feho6tnihjj30ku112jur.jpg)
 
 **Comments**
 

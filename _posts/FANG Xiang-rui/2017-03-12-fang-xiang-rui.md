@@ -13,7 +13,7 @@ Overcast ![umbrella](http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee818
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006G0KNGgy1fdk23nr2ycj30qo0qoagy.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006G0KNGgy1fdk23nr2ycj30qo0qoagy.jpg)
 
 Note:
 1. The character written on the window is his surname “Fang”.

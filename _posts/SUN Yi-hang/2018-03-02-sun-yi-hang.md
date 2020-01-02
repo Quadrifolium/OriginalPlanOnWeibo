@@ -13,8 +13,8 @@ Happy Lantern Festi~val~ ![pleased](https://img.t.sinajs.cn/t4/appstyle/expressi
 
 <!-- more -->
 
-<a href="http://wx4.sinaimg.cn/mw690/98e534a3gy1foynb0035nj21o02yoe88.jpg">
-  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/98e534a3gy1foynb0035nj21o02yoe88.jpg" />
+<a href="https://wx4.sinaimg.cn/mw690/98e534a3gy1foynb0035nj21o02yoe88.jpg">
+  <img class="weibo-pic-preview" src="https://wx4.sinaimg.cn/orj360/98e534a3gy1foynb0035nj21o02yoe88.jpg" />
 </a>
 
 <small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>

@@ -13,7 +13,7 @@ Hi, this is SUN Yi-hang. The road ahead, let's walk together. ![love you](http:/
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006FnS5mly1fe56wh439uj30qo13zdjv.jpg)  
+![Image](https://wx1.sinaimg.cn/mw690/006FnS5mly1fe56wh439uj30qo13zdjv.jpg)  
 
 **Comments**
 

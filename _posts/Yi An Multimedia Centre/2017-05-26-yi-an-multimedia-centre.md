@@ -13,8 +13,8 @@ categories: [ 'yi-an-multimedia-centre' ]
 
 <!-- more -->
 
-<a href="http://wx4.sinaimg.cn/mw690/006Lnfkogy1ffz3au2fq8j31kw1axjzl.jpg">
-  <img class="weibo-pic-preview-h" src="http://wx4.sinaimg.cn/orj360/006Lnfkogy1ffz3au2fq8j31kw1axjzl.jpg" />
+<a href="https://wx4.sinaimg.cn/mw690/006Lnfkogy1ffz3au2fq8j31kw1axjzl.jpg">
+  <img class="weibo-pic-preview-h" src="https://wx4.sinaimg.cn/orj360/006Lnfkogy1ffz3au2fq8j31kw1axjzl.jpg" />
 </a>
 
 ---
@@ -25,8 +25,8 @@ categories: [ 'yi-an-multimedia-centre' ]
 
 [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) The last round started! SUN Yi-hang, LIN Mo, ZHAN Yi-wen, and MU Zi are vying for the Sheriff. Who will be the winner? The werewolves or the villagers?
 
-<a href="http://wx4.sinaimg.cn/mw690/006Lnfkogy1ffz2hcz7lnj31kw21g143.jpg">
-  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006Lnfkogy1ffz2hcz7lnj31kw21g143.jpg" />
+<a href="https://wx4.sinaimg.cn/mw690/006Lnfkogy1ffz2hcz7lnj31kw21g143.jpg">
+  <img class="weibo-pic-preview" src="https://wx4.sinaimg.cn/orj360/006Lnfkogy1ffz2hcz7lnj31kw21g143.jpg" />
 </a>
 
 ---
@@ -37,8 +37,8 @@ categories: [ 'yi-an-multimedia-centre' ]
 
 [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) The villagers win again! Have you made the correct guess? :blush: LIN Mo sighed: “I can't play as a werewolf!” Looks adorable. Haha!
 
-<a href="http://wx2.sinaimg.cn/mw690/006Lnfkogy1ffz2alptm5j31kw11x105.jpg">
-  <img class="weibo-pic-preview-h" src="http://wx2.sinaimg.cn/orj360/006Lnfkogy1ffz2alptm5j31kw11x105.jpg" />
+<a href="https://wx2.sinaimg.cn/mw690/006Lnfkogy1ffz2alptm5j31kw11x105.jpg">
+  <img class="weibo-pic-preview-h" src="https://wx2.sinaimg.cn/orj360/006Lnfkogy1ffz2alptm5j31kw11x105.jpg" />
 </a>
 
 ---
@@ -51,13 +51,13 @@ categories: [ 'yi-an-multimedia-centre' ]
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1ffz1xk368oj31kw2dck1c.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Lnfkogy1ffz1xk368oj31kw2dck1c.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Lnfkogy1ffz1xk368oj31kw2dck1c.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006Lnfkogy1ffz1xk368oj31kw2dck1c.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/006Lnfkogy1ffz1xnml3mj31kw11xjym.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Lnfkogy1ffz1xnml3mj31kw11xjym.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006Lnfkogy1ffz1xnml3mj31kw11xjym.jpg"><img src="https://wx2.sinaimg.cn/thumb150/006Lnfkogy1ffz1xnml3mj31kw11xjym.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/006Lnfkogy1ffz1xt92olj31kw11x45m.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Lnfkogy1ffz1xt92olj31kw11x45m.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006Lnfkogy1ffz1xt92olj31kw11x45m.jpg"><img src="https://wx2.sinaimg.cn/thumb150/006Lnfkogy1ffz1xt92olj31kw11x45m.jpg" /></a>
   </li>
 </ul>
 
@@ -77,8 +77,8 @@ categories: [ 'yi-an-multimedia-centre' ]
 
 Being doubted as a “hidden werewolf”, CHI Yi self-exposed to cover his partners. Haha. Is CHI Yi always acting so obvious when being a werewolf? :laughing:×3 [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac)
 
-<a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1ffz1jf3g7gj31kw11xahf.jpg">
-  <img class="weibo-pic-preview-h" src="http://wx1.sinaimg.cn/orj360/006Lnfkogy1ffz1jf3g7gj31kw11xahf.jpg" />
+<a href="https://wx1.sinaimg.cn/mw690/006Lnfkogy1ffz1jf3g7gj31kw11xahf.jpg">
+  <img class="weibo-pic-preview-h" src="https://wx1.sinaimg.cn/orj360/006Lnfkogy1ffz1jf3g7gj31kw11xahf.jpg" />
 </a>
 
 ---
@@ -89,8 +89,8 @@ Being doubted as a “hidden werewolf”, CHI Yi self-exposed to cover his partn
 
 [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) The Seer LIN Jia-hao was ousted by the villagers! They are getting more dangerous!
 
-<a href="http://wx4.sinaimg.cn/mw690/006Lnfkogy1ffz16xamkzj31kw2dcalr.jpg">
-  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006Lnfkogy1ffz16xamkzj31kw2dcalr.jpg" />
+<a href="https://wx4.sinaimg.cn/mw690/006Lnfkogy1ffz16xamkzj31kw2dcalr.jpg">
+  <img class="weibo-pic-preview" src="https://wx4.sinaimg.cn/orj360/006Lnfkogy1ffz16xamkzj31kw2dcalr.jpg" />
 </a>
 
 ---
@@ -103,13 +103,13 @@ Being doubted as a “hidden werewolf”, CHI Yi self-exposed to cover his partn
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006Lnfkogy1ffz0xrgu0vj31kw11xjya.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Lnfkogy1ffz0xrgu0vj31kw11xjya.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006Lnfkogy1ffz0xrgu0vj31kw11xjya.jpg"><img src="https://wx4.sinaimg.cn/thumb150/006Lnfkogy1ffz0xrgu0vj31kw11xjya.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006Lnfkogy1ffz0y0cha1j31kw2dcn9o.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Lnfkogy1ffz0y0cha1j31kw2dcn9o.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006Lnfkogy1ffz0y0cha1j31kw2dcn9o.jpg"><img src="https://wx4.sinaimg.cn/thumb150/006Lnfkogy1ffz0y0cha1j31kw2dcn9o.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006Lnfkogy1ffz0yd0nvaj31kw11xq9w.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Lnfkogy1ffz0yd0nvaj31kw11xq9w.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006Lnfkogy1ffz0yd0nvaj31kw11xq9w.jpg"><img src="https://wx4.sinaimg.cn/thumb150/006Lnfkogy1ffz0yd0nvaj31kw11xq9w.jpg" /></a>
   </li>
 </ul>
 

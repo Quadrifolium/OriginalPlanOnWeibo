@@ -13,6 +13,6 @@ I bought a new hat!
 
 <!-- more -->
 
-<a href="http://wx1.sinaimg.cn/mw690/0076h5Fhgy1fq440heko0j30qo1bedls.jpg">
-  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/0076h5Fhgy1fq440heko0j30qo1bedls.jpg" />
+<a href="https://wx1.sinaimg.cn/mw690/0076h5Fhgy1fq440heko0j30qo1bedls.jpg">
+  <img class="weibo-pic-preview" src="https://wx1.sinaimg.cn/orj360/0076h5Fhgy1fq440heko0j30qo1bedls.jpg" />
 </a>

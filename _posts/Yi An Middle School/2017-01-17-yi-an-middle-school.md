@@ -13,4 +13,4 @@ The teaching seminar held by Shanghai Education Commission is just on the day fo
 <!-- more -->
 
 *Image*  
-![Image](http://wx1.sinaimg.cn/mw690/006D4NLGgy1fbtkdgn5d6j31kw1004ld.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006D4NLGgy1fbtkdgn5d6j31kw1004ld.jpg)

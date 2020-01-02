@@ -13,7 +13,7 @@ I made an expression sticker for you.
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006G0KNGgy1fd3387s5fnj30i00g9jte.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/006G0KNGgy1fd3387s5fnj30i00g9jte.jpg)
 
 Note:
 1. The picture is clipped from the manga *Yi An Music Club* Episode 1 (released on 24th Feb., 2017), with the words changed to “Good night”.

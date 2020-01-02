@@ -13,6 +13,6 @@ categories: [ 'xia-tian-yi' ]
 
 <!-- more -->
 
-<a href="http://wx2.sinaimg.cn/mw690/006RpxDlgy1fpp6wscq5tj315o0v8114.jpg">
-  <img class="weibo-pic-preview-h" src="http://wx2.sinaimg.cn/orj360/006RpxDlgy1fpp6wscq5tj315o0v8114.jpg" />
+<a href="https://wx2.sinaimg.cn/mw690/006RpxDlgy1fpp6wscq5tj315o0v8114.jpg">
+  <img class="weibo-pic-preview-h" src="https://wx2.sinaimg.cn/orj360/006RpxDlgy1fpp6wscq5tj315o0v8114.jpg" />
 </a>

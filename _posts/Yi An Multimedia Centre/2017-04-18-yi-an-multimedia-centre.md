@@ -13,7 +13,7 @@ categories: [ 'yi-an-multimedia-centre' ]
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006Lnfkoly1feqilk4qk9j31kw0k0q89.jpg)  
+![Image](https://wx2.sinaimg.cn/mw690/006Lnfkoly1feqilk4qk9j31kw0k0q89.jpg)  
 *Words in image:*  
 Don't expect hurting words to get soft.  
 Don't expose a spoiled film is not good.  

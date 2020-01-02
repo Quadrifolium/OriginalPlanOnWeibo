@@ -13,7 +13,7 @@ Japan's beautiful. :cherry_blossom: [⊕ Japan](http://weibo.com/p/1001018008100
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006G0KNGly1ff2p48df05j30qo140wm8.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/006G0KNGly1ff2p48df05j30qo140wm8.jpg)
 
 **Comments**
 
@@ -28,4 +28,4 @@ Japan's beautiful. :cherry_blossom: [⊕ Japan](http://weibo.com/p/1001018008100
 
 Having lunch. :yum: [⊕ New Chitose Airport, Japan](http://weibo.com/p/1001018008100000000000011)
 
-![Image](http://wx1.sinaimg.cn/mw690/006G0KNGly1ff2bi6ly5pj30zk0qo12r.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006G0KNGly1ff2bi6ly5pj30zk0qo12r.jpg)

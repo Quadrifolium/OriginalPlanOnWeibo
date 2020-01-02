@@ -13,4 +13,4 @@ Having hot pot in Beijing … ![feeling awkward](http://img.t.sinajs.cn/t4/appst
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/006Es64Agy1fe566g6ymej31hc0vykjm.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/006Es64Agy1fe566g6ymej31hc0vykjm.jpg)

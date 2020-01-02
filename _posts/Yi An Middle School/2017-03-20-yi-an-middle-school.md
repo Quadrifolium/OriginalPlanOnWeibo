@@ -13,4 +13,4 @@ Like the last week, the morning assembly was canceled due to the weather. This w
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006D4NLGgy1fdt7vkl6h4j306w083jrk.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006D4NLGgy1fdt7vkl6h4j306w083jrk.jpg)

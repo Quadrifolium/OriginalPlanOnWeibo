@@ -13,7 +13,7 @@ Happy Qixi Festival. ![hush](http://img.t.sinajs.cn/t4/appstyle/expression/ext/n
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006G0KNGgy1fizoqnbrt7j30ku0v9q5j.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006G0KNGgy1fizoqnbrt7j30ku0v9q5j.jpg)
 
 Note:
 1. Qixi Festival (七夕) is on the seventh day of the seventh month in the Chinese calendar.

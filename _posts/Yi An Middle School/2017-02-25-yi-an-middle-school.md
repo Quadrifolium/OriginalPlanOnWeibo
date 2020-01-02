@@ -13,7 +13,7 @@ Look at the ad! Very correct!
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006D4NLGgy1fd1md0ret9j30l812rtk7.jpg)  
+![Image](https://wx4.sinaimg.cn/mw690/006D4NLGgy1fd1md0ret9j30l812rtk7.jpg)  
 *Words in image:*  
 <div style="text-align:center">
 <span style="color:black;background-color:khaki">The most powerful</span><br />

@@ -26,7 +26,7 @@ One more post before sleep. Thank you, [@LOLUniversalBigCousin](http://weibo.com
 
 Remember to watch *Triple Kill*, see how I carry the whole game.
 
-![Image](http://wx2.sinaimg.cn/mw690/006FmVn8ly1feuj5432ndj30qo0zkqaa.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006FmVn8ly1feuj5432ndj30qo0zkqaa.jpg)
 
 **Comments**
 

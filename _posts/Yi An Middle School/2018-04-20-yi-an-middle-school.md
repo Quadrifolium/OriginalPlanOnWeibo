@@ -19,15 +19,15 @@ Yi An Middle School
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1fqjjc3n69uj33vc2kwnpi.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006D4NLGgy1fqjjc3n69uj33vc2kwnpi.jpg"/></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006D4NLGgy1fqjjc3n69uj33vc2kwnpi.jpg"><img src="https://wx2.sinaimg.cn/thumb150/006D4NLGgy1fqjjc3n69uj33vc2kwnpi.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1fqjjc6p4ccj33vc2kwnpk.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006D4NLGgy1fqjjc6p4ccj33vc2kwnpk.jpg"/></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006D4NLGgy1fqjjc6p4ccj33vc2kwnpk.jpg"><img src="https://wx4.sinaimg.cn/thumb150/006D4NLGgy1fqjjc6p4ccj33vc2kwnpk.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1fqjjca3wltj32kw3vc7wo.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006D4NLGgy1fqjjca3wltj32kw3vc7wo.jpg"/></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006D4NLGgy1fqjjca3wltj32kw3vc7wo.jpg"><img src="https://wx2.sinaimg.cn/thumb150/006D4NLGgy1fqjjca3wltj32kw3vc7wo.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/006D4NLGgy1fqjjcd0sopj33vd2kvnpj.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006D4NLGgy1fqjjcd0sopj33vd2kvnpj.jpg"/></a>
+    <a href="https://wx3.sinaimg.cn/mw690/006D4NLGgy1fqjjcd0sopj33vd2kvnpj.jpg"><img src="https://wx3.sinaimg.cn/thumb150/006D4NLGgy1fqjjcd0sopj33vd2kvnpj.jpg"/></a>
   </li>
 </ul>

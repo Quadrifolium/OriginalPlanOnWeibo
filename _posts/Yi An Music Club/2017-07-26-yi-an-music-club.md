@@ -15,16 +15,16 @@ categories: [ 'yi-an-music-club' ]
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/006Es64Agy1fhxn1kilmuj326v31qx6r.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Agy1fhxn1kilmuj326v31qx6r.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006Es64Agy1fhxn1kilmuj326v31qx6r.jpg"><img src="https://wx2.sinaimg.cn/thumb150/006Es64Agy1fhxn1kilmuj326v31qx6r.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/006Es64Agy1fhxn1a2d7cj328x2z6hdv.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Agy1fhxn1a2d7cj328x2z6hdv.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006Es64Agy1fhxn1a2d7cj328x2z6hdv.jpg"><img src="https://wx2.sinaimg.cn/thumb150/006Es64Agy1fhxn1a2d7cj328x2z6hdv.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/006Es64Agy1fhxn1p5m6bj324w2yikjn.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Es64Agy1fhxn1p5m6bj324w2yikjn.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006Es64Agy1fhxn1p5m6bj324w2yikjn.jpg"><img src="https://wx2.sinaimg.cn/thumb150/006Es64Agy1fhxn1p5m6bj324w2yikjn.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Es64Agy1fhxn1eq9ptj328h30fkjn.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Agy1fhxn1eq9ptj328h30fkjn.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Es64Agy1fhxn1eq9ptj328h30fkjn.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006Es64Agy1fhxn1eq9ptj328h30fkjn.jpg" /></a>
   </li>
 </ul>
 
@@ -68,7 +68,7 @@ Watermelon, air-con, Wi-Fi – With the standard config for summer, lying on sof
 
 [#YiAnSummerFestival](http://weibo.com/p/100808584ecb6c041592aa973c9a8aa9b6bd18) will be held at 19:30, on 19th August (Saturday), in Shanghai Luwan Gymnasium (上海卢湾体育馆). Besides the featured performance of songs and dances from Yi An Music Club, more students of Yi An will give their excellent show in the Summer Festival. Every student from another school or parent attending the Festival will receive a lucky bag when entering the stadium. :grin: About detailed information on ticket, lucky bag, and notices, please stay tuned for further announcements.
 
-![Image](http://wx1.sinaimg.cn/mw690/006Es64Agy1fhxfog3frzj31kw28he84.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006Es64Agy1fhxfog3frzj31kw28he84.jpg)
 
 *Words in image:*
 

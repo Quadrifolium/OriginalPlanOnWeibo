@@ -13,7 +13,7 @@ categories: [ 'original-plan' ]
 <!-- more -->
 
 *Image*  
-![Image](http://wx3.sinaimg.cn/mw690/0068MnXXgy1fcizj1bbhtj31kw1cqqv5.jpg)  
+![Image](https://wx3.sinaimg.cn/mw690/0068MnXXgy1fcizj1bbhtj31kw1cqqv5.jpg)  
 *Words in image:*  
 Yi An Middle School  
 LIN Mo (Student in Class 7, Junior Grade 2)  

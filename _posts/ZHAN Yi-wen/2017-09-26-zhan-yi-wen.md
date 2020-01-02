@@ -13,6 +13,6 @@ So hot … ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006FmVn8gy1fjwqjw93czj30qo0qo44g.jpg)  
+![Image](https://wx1.sinaimg.cn/mw690/006FmVn8gy1fjwqjw93czj30qo0qo44g.jpg)  
 *Words in image:*  
 Keep smiling

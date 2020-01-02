@@ -15,16 +15,16 @@ categories: [ 'yi-an-multimedia-centre' ]
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006Lnfkogy1fgf8mofdjzj31kw2jqk3m.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Lnfkogy1fgf8mofdjzj31kw2jqk3m.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006Lnfkogy1fgf8mofdjzj31kw2jqk3m.jpg"><img src="https://wx4.sinaimg.cn/thumb150/006Lnfkogy1fgf8mofdjzj31kw2jqk3m.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1fgf8mriumyj31kw2ca7ft.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Lnfkogy1fgf8mriumyj31kw2ca7ft.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Lnfkogy1fgf8mriumyj31kw2ca7ft.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006Lnfkogy1fgf8mriumyj31kw2ca7ft.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006Lnfkogy1fgf8mwlazpj31kw2dck2r.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Lnfkogy1fgf8mwlazpj31kw2dck2r.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006Lnfkogy1fgf8mwlazpj31kw2dck2r.jpg"><img src="https://wx4.sinaimg.cn/thumb150/006Lnfkogy1fgf8mwlazpj31kw2dck2r.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/006Lnfkogy1fgf93f0dykj30r719a7wh.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Lnfkogy1fgf93f0dykj30r719a7wh.jpg" /></a>
+    <a href="https://wx3.sinaimg.cn/mw690/006Lnfkogy1fgf93f0dykj30r719a7wh.jpg"><img src="https://wx3.sinaimg.cn/thumb150/006Lnfkogy1fgf93f0dykj30r719a7wh.jpg" /></a>
   </li>
 </ul>
 
@@ -36,8 +36,8 @@ categories: [ 'yi-an-multimedia-centre' ]
 
 [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) Crazy Pup praised ZHAN Yi-wen as progressing rapidly, but probed him evil. Do you think ZHAN Yi-wen is a werewolf? :satisfied:
 
-<a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1fgf8fxz0xdj31kw297qfb.jpg">
-  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/006Lnfkogy1fgf8fxz0xdj31kw297qfb.jpg" />
+<a href="https://wx1.sinaimg.cn/mw690/006Lnfkogy1fgf8fxz0xdj31kw297qfb.jpg">
+  <img class="weibo-pic-preview" src="https://wx1.sinaimg.cn/orj360/006Lnfkogy1fgf8fxz0xdj31kw297qfb.jpg" />
 </a>
 
 ---
@@ -58,10 +58,10 @@ categories: [ 'yi-an-multimedia-centre' ]
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1fgf87lv3wpj31kw2buk22.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Lnfkogy1fgf87lv3wpj31kw2buk22.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Lnfkogy1fgf87lv3wpj31kw2buk22.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006Lnfkogy1fgf87lv3wpj31kw2buk22.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1fgf87pgfxjj31kw2dcwpf.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Lnfkogy1fgf87pgfxjj31kw2dcwpf.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Lnfkogy1fgf87pgfxjj31kw2dcwpf.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006Lnfkogy1fgf87pgfxjj31kw2dcwpf.jpg" /></a>
   </li>
 </ul>
 
@@ -73,8 +73,8 @@ categories: [ 'yi-an-multimedia-centre' ]
 
 [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) The second round kicked off! After the first night, SUN Yi-hang is out. With the speeches they made, can you figure out the other werewolves?
 
-<a href="http://wx2.sinaimg.cn/mw690/006Lnfkogy1fgf82fbftaj31kw2dcwpp.jpg">
-  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006Lnfkogy1fgf82fbftaj31kw2dcwpp.jpg" />
+<a href="https://wx2.sinaimg.cn/mw690/006Lnfkogy1fgf82fbftaj31kw2dcwpp.jpg">
+  <img class="weibo-pic-preview" src="https://wx2.sinaimg.cn/orj360/006Lnfkogy1fgf82fbftaj31kw2dcwpp.jpg" />
 </a>
 
 ---
@@ -95,10 +95,10 @@ The villagers win in the first round! The speculation section is about to start!
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1fgf7lkms63j31kw2dcn8x.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Lnfkogy1fgf7lkms63j31kw2dcn8x.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Lnfkogy1fgf7lkms63j31kw2dcn8x.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006Lnfkogy1fgf7lkms63j31kw2dcn8x.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/006Lnfkogy1fgf7ljvr5uj31kw2dcqee.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Lnfkogy1fgf7ljvr5uj31kw2dcqee.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006Lnfkogy1fgf7ljvr5uj31kw2dcqee.jpg"><img src="https://wx2.sinaimg.cn/thumb150/006Lnfkogy1fgf7ljvr5uj31kw2dcqee.jpg" /></a>
   </li>
 </ul>
 
@@ -112,15 +112,15 @@ The villagers win in the first round! The speculation section is about to start!
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1fgf762idb1j31kw29hnbz.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Lnfkogy1fgf762idb1j31kw29hnbz.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Lnfkogy1fgf762idb1j31kw29hnbz.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006Lnfkogy1fgf762idb1j31kw29hnbz.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1fgf7c3zn40j31kw2db146.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Lnfkogy1fgf7c3zn40j31kw2db146.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Lnfkogy1fgf7c3zn40j31kw2db146.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006Lnfkogy1fgf7c3zn40j31kw2db146.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1fgf7calco2j31kw2dnn94.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Lnfkogy1fgf7calco2j31kw2dnn94.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Lnfkogy1fgf7calco2j31kw2dnn94.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006Lnfkogy1fgf7calco2j31kw2dnn94.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1fgf7cgu7y6j31kw2ayk1h.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Lnfkogy1fgf7cgu7y6j31kw2ayk1h.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Lnfkogy1fgf7cgu7y6j31kw2ayk1h.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006Lnfkogy1fgf7cgu7y6j31kw2ayk1h.jpg" /></a>
   </li>
 </ul>

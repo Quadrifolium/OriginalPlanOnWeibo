@@ -13,8 +13,8 @@ Today, in yellow … *I like bright, sunshine colors! It gives me happy feeling!
 
 <!-- more -->
 
-<a href="http://wx2.sinaimg.cn/mw690/0076h5Fhly1fqdn3oqglqj31hc0u0ql8.jpg">
-  <img class="weibo-pic-preview-h" src="http://wx2.sinaimg.cn/orj360/0076h5Fhly1fqdn3oqglqj31hc0u0ql8.jpg" />
+<a href="https://wx2.sinaimg.cn/mw690/0076h5Fhly1fqdn3oqglqj31hc0u0ql8.jpg">
+  <img class="weibo-pic-preview-h" src="https://wx2.sinaimg.cn/orj360/0076h5Fhly1fqdn3oqglqj31hc0u0ql8.jpg" />
 </a>
 
 Note:

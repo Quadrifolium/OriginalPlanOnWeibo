@@ -28,7 +28,7 @@ categories: [ 'yi-an-music-club' ]
 [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008), enchanting countless girls outside school, looks like a cool guy hard to get close to. Though often mistakenly regarded as a bad guy, he is actually hoping to gain recognition from companions. Though taciturn, the foolish side exposes once he has mouth open. He is also an actionist with one-track mind. The first six members assembled. Yi An Music Club will be open on 14th Feb.!
 
 *Image*  
-![Image](http://wx2.sinaimg.cn/mw690/006Es64Agy1fcnir98abij31kw1cpakz.jpg)  
+![Image](https://wx2.sinaimg.cn/mw690/006Es64Agy1fcnir98abij31kw1cpakz.jpg)  
 *Words in image:*  
 Yi An Middle School  
 FANG Xiang-rui (Student in Class 8, Junior Grade 3)  

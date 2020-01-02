@@ -13,7 +13,7 @@ Sugar painting, barbeque, shopping, riding horse are nothing. Labour is glorious
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006G0KNGgy1fh9dwkdwraj30qo10ztdt.jpg)  
+![Image](https://wx2.sinaimg.cn/mw690/006G0KNGgy1fh9dwkdwraj30qo10ztdt.jpg)  
 *Words in image:*  
 (No special meaning, just holding the place.)
 

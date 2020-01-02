@@ -13,7 +13,7 @@ Happy weekend. Maybe we can encounter. [⊕ Hangzhou](http://weibo.com/p/1001018
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006Lnfkoly1ffjso6y8elj30rs0kun0d.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006Lnfkoly1ffjso6y8elj30rs0kun0d.jpg)
 
 **Comments**
 

@@ -13,8 +13,8 @@ Notice: From the morning tomorrow, the school will hold a meeting for newcomers.
 
 <!-- more -->
 
-<a href="http://wx4.sinaimg.cn/mw690/006D4NLGly1fpclxnyx2kj31qy0oqqip.jpg">
-  <img class="weibo-pic-preview-h" src="http://wx4.sinaimg.cn/orj360/006D4NLGly1fpclxnyx2kj31qy0oqqip.jpg" />
+<a href="https://wx4.sinaimg.cn/mw690/006D4NLGly1fpclxnyx2kj31qy0oqqip.jpg">
+  <img class="weibo-pic-preview-h" src="https://wx4.sinaimg.cn/orj360/006D4NLGly1fpclxnyx2kj31qy0oqqip.jpg" />
 </a>
 
 ---

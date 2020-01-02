@@ -13,7 +13,7 @@ It's cloudy today, the Speech Under the National Flag resumed. ZHAN Yi-wen from 
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/006D4NLGgy1fgpwu26j5aj309d095aac.jpg)  
+![Image](https://wx3.sinaimg.cn/mw690/006D4NLGgy1fgpwu26j5aj309d095aac.jpg)  
 *Words in image:*  
 Oh.
 

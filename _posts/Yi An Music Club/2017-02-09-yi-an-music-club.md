@@ -13,7 +13,7 @@ categories: [ 'yi-an-music-club' ]
 <!-- more -->
 
 *Image*  
-![Image](http://wx3.sinaimg.cn/mw690/006Es64Agy1fcht77lfkij31kw1cqx6p.jpg)  
+![Image](https://wx3.sinaimg.cn/mw690/006Es64Agy1fcht77lfkij31kw1cqx6p.jpg)  
 *Words in image:*  
 Yi An Middle School  
 SUN Yi-hang (Student in Class 7, Junior Grade 2)  

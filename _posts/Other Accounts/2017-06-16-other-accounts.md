@@ -18,10 +18,10 @@ categories: [ 'other-accounts' ]
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/006eaIq2gy1fgncudyeb9j30qo0zkqac.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006eaIq2gy1fgncudyeb9j30qo0zkqac.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006eaIq2gy1fgncudyeb9j30qo0zkqac.jpg"><img src="https://wx2.sinaimg.cn/thumb150/006eaIq2gy1fgncudyeb9j30qo0zkqac.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006eaIq2gy1fgncua84csj30qo0zktga.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006eaIq2gy1fgncua84csj30qo0zktga.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006eaIq2gy1fgncua84csj30qo0zktga.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006eaIq2gy1fgncua84csj30qo0zktga.jpg" /></a>
   </li>
 </ul>
 

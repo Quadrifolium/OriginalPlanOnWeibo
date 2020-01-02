@@ -13,7 +13,7 @@ categories: [ 'original-plan' ]
 <!-- more -->
 
 *Image*  
-![Image](http://wx4.sinaimg.cn/mw690/0068MnXXgy1fchun0km9vj31kw1cqnpd.jpg)  
+![Image](https://wx4.sinaimg.cn/mw690/0068MnXXgy1fchun0km9vj31kw1cqnpd.jpg)  
 *Words in image:*  
 Yi An Middle School  
 HE Luo-luo (Student in Class 7, Junior Grade 2)  

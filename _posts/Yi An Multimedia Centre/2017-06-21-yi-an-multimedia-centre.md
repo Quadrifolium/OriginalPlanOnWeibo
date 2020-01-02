@@ -13,4 +13,4 @@ The teens in Yi An are able to behave well both in the Hall and the Kitchen, how
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/006Lnfkogy1fgt31bphddj31jk2bchdv.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/006Lnfkogy1fgt31bphddj31jk2bchdv.jpg)

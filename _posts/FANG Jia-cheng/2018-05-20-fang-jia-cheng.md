@@ -13,6 +13,6 @@ I did the splits today. It hurts, and the legs are limp.
 
 <!-- more -->
 
-<a href="http://wx1.sinaimg.cn/mw690/0076h5Fhgy1fri62e84p8j30k00zkn4z.jpg">
-  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/0076h5Fhgy1fri62e84p8j30k00zkn4z.jpg" />
+<a href="https://wx1.sinaimg.cn/mw690/0076h5Fhgy1fri62e84p8j30k00zkn4z.jpg">
+  <img class="weibo-pic-preview" src="https://wx1.sinaimg.cn/orj360/0076h5Fhgy1fri62e84p8j30k00zkn4z.jpg" />
 </a>

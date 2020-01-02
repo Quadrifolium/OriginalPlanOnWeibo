@@ -13,4 +13,4 @@ Guess who I am.
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006G0KNGgy1fk5gx5fkycj31w02iob2f.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/006G0KNGgy1fk5gx5fkycj31w02iob2f.jpg)

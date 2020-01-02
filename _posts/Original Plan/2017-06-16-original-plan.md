@@ -15,9 +15,9 @@ Exciting announcement comes again! The winner list for the last episode of [#Tri
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/0068MnXXgy1fgn8ktdinrj31hc280awe.jpg"><img src="http://wx2.sinaimg.cn/thumb150/0068MnXXgy1fgn8ktdinrj31hc280awe.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/0068MnXXgy1fgn8ktdinrj31hc280awe.jpg"><img src="https://wx2.sinaimg.cn/thumb150/0068MnXXgy1fgn8ktdinrj31hc280awe.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/0068MnXXgy1fgn8ky37i9j32c02c0qv5.jpg"><img src="http://wx2.sinaimg.cn/thumb150/0068MnXXgy1fgn8ky37i9j32c02c0qv5.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/0068MnXXgy1fgn8ky37i9j32c02c0qv5.jpg"><img src="https://wx2.sinaimg.cn/thumb150/0068MnXXgy1fgn8ky37i9j32c02c0qv5.jpg" /></a>
   </li>
 </ul>

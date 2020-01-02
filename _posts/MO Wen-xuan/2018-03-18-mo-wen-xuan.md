@@ -13,6 +13,6 @@ Taking candid photos when asking us to take selfies ![bye](https://img.t.sinajs.
 
 <!-- more -->
 
-<a href="http://wx4.sinaimg.cn/mw690/0076g4wkgy1fph9vm2bxgj30v21fawwu.jpg">
-  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/0076g4wkgy1fph9vm2bxgj30v21fawwu.jpg" />
+<a href="https://wx4.sinaimg.cn/mw690/0076g4wkgy1fph9vm2bxgj30v21fawwu.jpg">
+  <img class="weibo-pic-preview" src="https://wx4.sinaimg.cn/orj360/0076g4wkgy1fph9vm2bxgj30v21fawwu.jpg" />
 </a>

@@ -13,7 +13,7 @@ Bang Bang Bang~ New Easter Egg! Besides excellent variety shows with real images
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/0068MnXXgy1fed8buq04pj31sn5gvhdz.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/0068MnXXgy1fed8buq04pj31sn5gvhdz.jpg)
 
 *Words in image:*
 
@@ -56,4 +56,4 @@ Guangzhou · CICF
 
 [#TransdimensionalIdol](http://weibo.com/p/100808fab985aab0bfb2724bf4d29856cf6ee7) The radio show of [@YiAnMusicClub](http://weibo.com/u/6094546964) [#YiAnGoodNight](http://weibo.com/p/10080892b104a59bff303ca883e7931b5b916e) will land on Ximalaya FM exclusively from 12th April, on Wednesdays, at 20:00. Poster of [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526) released.
 
-![Image](http://wx3.sinaimg.cn/mw690/0068MnXXly1fectvs45c4j31jk10xqv7.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/0068MnXXly1fectvs45c4j31jk10xqv7.jpg)

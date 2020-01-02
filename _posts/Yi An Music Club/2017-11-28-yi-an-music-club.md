@@ -37,5 +37,5 @@ make progress and be the best self every day.
 Happy birthday. :kissing_heart:
 
 <a href="https://wx4.sinaimg.cn/mw690/006Es64Aly1flxupb9zqcj31kw2dce8a.jpg">
-  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006Es64Aly1flxupb9zqcj31kw2dce8a.jpg" />
+  <img class="weibo-pic-preview" src="https://wx4.sinaimg.cn/orj360/006Es64Aly1flxupb9zqcj31kw2dce8a.jpg" />
 </a>

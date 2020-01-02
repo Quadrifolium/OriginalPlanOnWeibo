@@ -15,7 +15,7 @@ Let's attend the refreshing summer festival with the brothers in Yi An. ![pray](
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/0068MnXXgy1fiaxy0f27uj30qo0uq46x.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/0068MnXXgy1fiaxy0f27uj30qo0uq46x.jpg)
 
 *Words in image:*
 

@@ -13,7 +13,7 @@ categories: [ 'original-plan' ]
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/0068MnXXly1feoo0nnz5wj31jk2bcb2g.jpg)  
+![Image](https://wx1.sinaimg.cn/mw690/0068MnXXly1feoo0nnz5wj31jk2bcb2g.jpg)  
 *Words in image:*  
 **Triple Kill**  
 At 8 p.m. Fridays, from 21st April  

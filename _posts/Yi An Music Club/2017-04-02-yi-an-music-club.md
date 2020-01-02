@@ -13,7 +13,7 @@ I strongly suggested the dreamlike Disneyland … Why did you choose the wildern
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/006Es64Agy1fe8q2qud9wj31hc0ze7wh.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/006Es64Agy1fe8q2qud9wj31hc0ze7wh.jpg)
 
 **Comments**
 

@@ -13,6 +13,6 @@ I'm coming. ![yeah](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/29
 
 <!-- more -->
 
-<a href="http://wx2.sinaimg.cn/mw690/0076g4wkgy1fs56vgdp9uj31st2p8qv6.jpg">
-  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/0076g4wkgy1fs56vgdp9uj31st2p8qv6.jpg" />
+<a href="https://wx2.sinaimg.cn/mw690/0076g4wkgy1fs56vgdp9uj31st2p8qv6.jpg">
+  <img class="weibo-pic-preview" src="https://wx2.sinaimg.cn/orj360/0076g4wkgy1fs56vgdp9uj31st2p8qv6.jpg" />
 </a>

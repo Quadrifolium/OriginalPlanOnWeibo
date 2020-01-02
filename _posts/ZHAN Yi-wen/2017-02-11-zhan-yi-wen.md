@@ -13,7 +13,7 @@ Happy Lantern Festival 🏮
 <!-- more -->
 
 *Image*  
-![Image](http://wx3.sinaimg.cn/mw690/006FmVn8gy1fcmsi31r9jj30ef0jy400.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/006FmVn8gy1fcmsi31r9jj30ef0jy400.jpg)
 
 ---
 

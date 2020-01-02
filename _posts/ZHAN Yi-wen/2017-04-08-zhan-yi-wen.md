@@ -13,7 +13,7 @@ This is absolutely not a candid photo. [@YiAnMusicClub-SunYiHang](http://weibo.c
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006FmVn8ly1fefao7x16lj30qo0zkjzp.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006FmVn8ly1fefao7x16lj30qo0zkjzp.jpg)
 
 **Comments**
 

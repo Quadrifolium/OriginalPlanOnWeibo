@@ -13,6 +13,6 @@ Ordinary cat photos.
 
 <!-- more -->
 
-![Image 1](http://wx4.sinaimg.cn/mw690/006FmVn8ly1fdsfhlc4ahj30ku0rsjvx.jpg)
+![Image 1](https://wx4.sinaimg.cn/mw690/006FmVn8ly1fdsfhlc4ahj30ku0rsjvx.jpg)
 
-![Image 2](http://wx1.sinaimg.cn/mw690/006FmVn8ly1fdsfhmwagnj30rs0kugpm.jpg)
+![Image 2](https://wx1.sinaimg.cn/mw690/006FmVn8ly1fdsfhmwagnj30rs0kugpm.jpg)

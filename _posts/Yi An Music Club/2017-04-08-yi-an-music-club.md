@@ -13,7 +13,7 @@ The daily life of a student cannot be only the study~ Especially in Yi An! Besid
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006Es64Agy1feecc4upwhj31jk10xnpd.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006Es64Agy1feecc4upwhj31jk10xnpd.jpg)
 
 ---
 

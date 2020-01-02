@@ -40,7 +40,7 @@ Note:
 
 [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) At 20:00 from 21st April, who are the werewolves? Point them out on Panda TV!
 
-![Image](http://wx4.sinaimg.cn/mw690/006Es64Agy1fenel8uw59j31jk2bcqv9.jpg)  
+![Image](https://wx4.sinaimg.cn/mw690/006Es64Agy1fenel8uw59j31jk2bcqv9.jpg)  
 *Words in image:*  
 **Triple Kill**  
 At 8 p.m. Fridays, from 21st April  

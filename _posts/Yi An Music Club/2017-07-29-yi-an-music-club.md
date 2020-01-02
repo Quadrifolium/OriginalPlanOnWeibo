@@ -13,7 +13,7 @@ Full marks for the school badge. ![pick nose](http://img.t.sinajs.cn/t4/appstyle
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/006Es64Agy1fi13x8plvmj321g2xs1ky.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/006Es64Agy1fi13x8plvmj321g2xs1ky.jpg)
 
 *Words in image:*
 

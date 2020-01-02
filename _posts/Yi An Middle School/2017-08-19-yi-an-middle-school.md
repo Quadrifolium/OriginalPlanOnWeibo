@@ -15,9 +15,9 @@ One hour left. Yi An Middle School in coordination with the Club Association wis
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/006D4NLGgy1fip82zidd2j30rs0kuagl.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006D4NLGgy1fip82zidd2j30rs0kuagl.jpg" /></a>
+    <a href="https://wx3.sinaimg.cn/mw690/006D4NLGgy1fip82zidd2j30rs0kuagl.jpg"><img src="https://wx3.sinaimg.cn/thumb150/006D4NLGgy1fip82zidd2j30rs0kuagl.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1fip82x9jf5j30rs0kudi2.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006D4NLGgy1fip82x9jf5j30rs0kudi2.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006D4NLGgy1fip82x9jf5j30rs0kudi2.jpg"><img src="https://wx2.sinaimg.cn/thumb150/006D4NLGgy1fip82x9jf5j30rs0kudi2.jpg" /></a>
   </li>
 </ul>

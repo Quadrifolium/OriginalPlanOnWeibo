@@ -12,9 +12,9 @@ Why you like to sit near me when I'm doing homework?
 
 <!-- more -->
 
-![Image 1](http://wx3.sinaimg.cn/mw690/006FmVn8ly1fcx9wo7v3hj30qo0zk0zf.jpg)
+![Image 1](https://wx3.sinaimg.cn/mw690/006FmVn8ly1fcx9wo7v3hj30qo0zk0zf.jpg)
 
-![Image 2](http://wx2.sinaimg.cn/mw690/006FmVn8ly1fcx9wmd2ruj30qo0zk0zb.jpg)
+![Image 2](https://wx2.sinaimg.cn/mw690/006FmVn8ly1fcx9wmd2ruj30qo0zk0zb.jpg)
 
 **Comments**
 

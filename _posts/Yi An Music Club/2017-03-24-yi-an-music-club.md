@@ -26,6 +26,6 @@ Note:
 
 I gradually find out that the dream is close to you and me – 6 days left till the Open Day of Yi An Music Club.
 
-![Image](http://wx2.sinaimg.cn/mw690/006Es64Agy1fdxqvcxubyj30u01hcb17.jpg)  
+![Image](https://wx2.sinaimg.cn/mw690/006Es64Agy1fdxqvcxubyj30u01hcb17.jpg)  
 *Words in image:*  
 I gradually find out that the dream is close to you and me.

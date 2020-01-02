@@ -13,6 +13,6 @@ Dad, happy Father's Day. Don't worry about me, your son's grown up. Please be ha
 
 <!-- more -->
 
-<a href="http://wx3.sinaimg.cn/mw690/006FmVn8ly1fsecbndu5rj30qo0zkdpp.jpg">
-  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006FmVn8ly1fsecbndu5rj30qo0zkdpp.jpg" />
+<a href="https://wx3.sinaimg.cn/mw690/006FmVn8ly1fsecbndu5rj30qo0zkdpp.jpg">
+  <img class="weibo-pic-preview" src="https://wx3.sinaimg.cn/orj360/006FmVn8ly1fsecbndu5rj30qo0zkdpp.jpg" />
 </a>

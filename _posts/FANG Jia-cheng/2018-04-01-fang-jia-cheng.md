@@ -13,8 +13,8 @@ New haircut. It reminds me of that in my childhood~ *My new haircut makes me fee
 
 <!-- more -->
 
-<a href="http://wx2.sinaimg.cn/mw690/0076h5Fhgy1fpxcklyrgoj30u01hcb29.jpg">
-  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/0076h5Fhgy1fpxcklyrgoj30u01hcb29.jpg" />
+<a href="https://wx2.sinaimg.cn/mw690/0076h5Fhgy1fpxcklyrgoj30u01hcb29.jpg">
+  <img class="weibo-pic-preview" src="https://wx2.sinaimg.cn/orj360/0076h5Fhgy1fpxcklyrgoj30u01hcb29.jpg" />
 </a>
 
 Note:

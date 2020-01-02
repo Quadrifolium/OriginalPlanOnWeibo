@@ -13,7 +13,7 @@ Can they recover? :disappointed:
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/98e534a3gy1fkvjwvdv9qj20qo0qoqc7.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/98e534a3gy1fkvjwvdv9qj20qo0qoqc7.jpg)
 
 <small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>
 

@@ -13,7 +13,7 @@ categories: [ 'original-plan' ]
 <!-- more -->
 
 *Image*  
-![Image](http://wx2.sinaimg.cn/mw690/0068MnXXgy1fcnm8k6bngj31kw1cqx52.jpg)  
+![Image](https://wx2.sinaimg.cn/mw690/0068MnXXgy1fcnm8k6bngj31kw1cqx52.jpg)  
 *Words in image:*  
 Yi An Middle School  
 FANG Xiang-rui (Student in Class 8, Junior Grade 3)  

@@ -15,10 +15,10 @@ With a friend in the training room.
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="https://wx1.sinaimg.cn/mw690/98e534a3gy1fmxz5rrfjej22kw3vcqv6.jpg"><img src="http://wx1.sinaimg.cn/thumb150/98e534a3gy1fmxz5rrfjej22kw3vcqv6.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/98e534a3gy1fmxz5rrfjej22kw3vcqv6.jpg"><img src="https://wx1.sinaimg.cn/thumb150/98e534a3gy1fmxz5rrfjej22kw3vcqv6.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="https://wx3.sinaimg.cn/mw690/98e534a3gy1fmxz5jttrhj22kw3vcnpg.jpg"><img src="http://wx3.sinaimg.cn/thumb150/98e534a3gy1fmxz5jttrhj22kw3vcnpg.jpg" /></a>
+    <a href="https://wx3.sinaimg.cn/mw690/98e534a3gy1fmxz5jttrhj22kw3vcnpg.jpg"><img src="https://wx3.sinaimg.cn/thumb150/98e534a3gy1fmxz5jttrhj22kw3vcnpg.jpg" /></a>
   </li>
 </ul>
 

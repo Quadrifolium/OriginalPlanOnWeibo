@@ -13,4 +13,4 @@ It gets cold in a sudden. I was shivering when jogging this morning.
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/006FmVn8gy1fj4bsibmf1j30qo0qoaed.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/006FmVn8gy1fj4bsibmf1j30qo0qoaed.jpg)

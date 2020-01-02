@@ -13,4 +13,4 @@ A group photo with ZHAN Yi-wen in another dimension.
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006FmVn8ly1ffqva0uoa2j30ku0rsq69.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006FmVn8ly1ffqva0uoa2j30ku0rsq69.jpg)

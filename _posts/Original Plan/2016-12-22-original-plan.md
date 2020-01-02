@@ -13,7 +13,7 @@ categories: [ 'original-plan' ]
 <!-- more -->
 
 *Image*  
-![Image](http://wx2.sinaimg.cn/mw690/0068MnXXly1faznxmpolrj32fh62qkjm0.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/0068MnXXly1faznxmpolrj32fh62qkjm0.jpg)
 
 *Words in image:*
 

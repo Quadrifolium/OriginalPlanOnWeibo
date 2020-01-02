@@ -16,7 +16,7 @@ categories: [ 'other-accounts' ]
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/53b0510dgy1fipft4fzcmj21be0qogsh.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/53b0510dgy1fipft4fzcmj21be0qogsh.jpg)
 
 Note:
 1. GAN Shi-jia (甘世佳) is a lyricist. He wrote the lyrics of *Reply, the Growth* (长大请回答).

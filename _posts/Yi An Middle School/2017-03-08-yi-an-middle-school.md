@@ -13,7 +13,7 @@ To dress neatly and decently is Article Two of the School Regulation of Yi An. T
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/006D4NLGgy1fdfe6d5vxuj31kw23vkjl.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/006D4NLGgy1fdfe6d5vxuj31kw23vkjl.jpg)
 
 Note:
 1. “An Yi Yang De” (安以养德) is the school motto which means “cultivate virtue via peace and comfortable environment”.

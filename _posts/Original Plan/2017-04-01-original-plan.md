@@ -13,7 +13,7 @@ Yes, this is the old image. I admit there's no one to remake one. The animation 
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/0068MnXXly1fe78tmlhk0j31ww2pf4qp.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/0068MnXXly1fe78tmlhk0j31ww2pf4qp.jpg)
 
 Note:
 1. The words on the image are about the jobs and the requirements.

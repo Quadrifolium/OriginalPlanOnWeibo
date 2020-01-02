@@ -13,8 +13,8 @@ Time to sleep. Good night. :crescent_moon:
 
 <!-- more -->
 
-<a href="http://wx2.sinaimg.cn/mw690/98e534a3ly1fnt8i695vsj21400qogs2.jpg">
-  <img class="weibo-pic-preview-h" src="http://wx2.sinaimg.cn/orj360/98e534a3ly1fnt8i695vsj21400qogs2.jpg" />
+<a href="https://wx2.sinaimg.cn/mw690/98e534a3ly1fnt8i695vsj21400qogs2.jpg">
+  <img class="weibo-pic-preview-h" src="https://wx2.sinaimg.cn/orj360/98e534a3ly1fnt8i695vsj21400qogs2.jpg" />
 </a>
 
 <small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>

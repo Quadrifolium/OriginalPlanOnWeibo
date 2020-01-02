@@ -13,4 +13,4 @@ It is Wednesday tomorrow. That's right~ [#YiAnGoodNight](http://weibo.com/p/1008
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006Es64Agy1fehontebocj31jk10x4qq.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/006Es64Agy1fehontebocj31jk10x4qq.jpg)

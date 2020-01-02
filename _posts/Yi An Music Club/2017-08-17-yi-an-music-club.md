@@ -13,4 +13,4 @@ At 20:00 this evening, in special programme *Summer Festival Information* in [#Y
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/006Es64Aly1fimxflepscj30hs0hsabn.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/006Es64Aly1fimxflepscj30hs0hsabn.jpg)

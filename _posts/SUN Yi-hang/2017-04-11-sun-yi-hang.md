@@ -13,4 +13,4 @@ Mum hasn't taken photos of mine for long. Still good in skill, right?
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006FnS5mly1fej1ihxdr2j30qo0zkke7.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/006FnS5mly1fej1ihxdr2j30qo0zkke7.jpg)

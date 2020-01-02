@@ -13,7 +13,7 @@ An adorkable *gege* and a quick-witted *didi* experienced a hard day in the agri
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006Es64Agy1fhjhtwote6j31jk2bc1kz.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006Es64Agy1fhjhtwote6j31jk2bc1kz.jpg)
 
 Note:
 1. *Gege* (哥哥), elder brother; *didi* (弟弟), younger brother.

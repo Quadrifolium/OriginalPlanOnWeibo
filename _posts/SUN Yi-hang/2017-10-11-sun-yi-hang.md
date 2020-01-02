@@ -13,7 +13,7 @@ Going home. :imp:
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/98e534a3gy1fkeojsce4zj20zl0qogpj.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/98e534a3gy1fkeojsce4zj20zl0qogpj.jpg)
 
 <small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>
 

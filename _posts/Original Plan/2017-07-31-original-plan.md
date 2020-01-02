@@ -13,6 +13,6 @@ categories: [ 'original-plan' ]
 
 <!-- more -->
 
-<a href="http://wx2.sinaimg.cn/mw690/0068MnXXgy1fi346b64loj30mx3iukio.jpg">
-  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/0068MnXXgy1fi346b64loj30mx3iukio.jpg" />
+<a href="https://wx2.sinaimg.cn/mw690/0068MnXXgy1fi346b64loj30mx3iukio.jpg">
+  <img class="weibo-pic-preview" src="https://wx2.sinaimg.cn/orj360/0068MnXXgy1fi346b64loj30mx3iukio.jpg" />
 </a>

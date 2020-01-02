@@ -13,4 +13,4 @@ categories: [ 'yi-an-multimedia-centre' ]
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006Lnfkogy1fgo654yag1j30u21fdnj5.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006Lnfkogy1fgo654yag1j30u21fdnj5.jpg)

@@ -13,6 +13,6 @@ In my mind, my mum is always in apron and busy for me. It is Mother's Day, I wis
 
 <!-- more -->
 
-<a href="http://wx2.sinaimg.cn/mw690/0076g4Wmgy1fr9vll972fj30u01hc7pj.jpg">
-  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/0076g4Wmgy1fr9vll972fj30u01hc7pj.jpg" />
+<a href="https://wx2.sinaimg.cn/mw690/0076g4Wmgy1fr9vll972fj30u01hc7pj.jpg">
+  <img class="weibo-pic-preview" src="https://wx2.sinaimg.cn/orj360/0076g4Wmgy1fr9vll972fj30u01hc7pj.jpg" />
 </a>

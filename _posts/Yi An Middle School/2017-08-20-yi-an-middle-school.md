@@ -15,9 +15,9 @@ Deleted a post by mistake. We will make persistent efforts, see you in the Festi
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006D4NLGgy1fipjde8ga5j30zk0qogpc.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006D4NLGgy1fipjde8ga5j30zk0qogpc.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006D4NLGgy1fipjde8ga5j30zk0qogpc.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006D4NLGgy1fipjde8ga5j30zk0qogpc.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1fipjde8qrrj30zk0nq41y.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006D4NLGgy1fipjde8qrrj30zk0nq41y.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006D4NLGgy1fipjde8qrrj30zk0nq41y.jpg"><img src="https://wx2.sinaimg.cn/thumb150/006D4NLGgy1fipjde8qrrj30zk0nq41y.jpg" /></a>
   </li>
 </ul>

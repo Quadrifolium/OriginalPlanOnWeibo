@@ -13,7 +13,7 @@ Hi, this is SUN Yi-hang. I won't post anything for a year. :smiley:
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006FnS5mgy1fe72s7f56yj30k00zkad2.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/006FnS5mgy1fe72s7f56yj30k00zkad2.jpg)
 
 **Comments**
 

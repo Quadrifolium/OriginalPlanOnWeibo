@@ -21,8 +21,8 @@ Ha~ It's time to remind you of [#YiAnGoodNight](https://weibo.com/p/10080892b104
 
 [#YiAnMiddleSchool](https://weibo.com/p/100808e5c67e0668537d4caddefd946dcff208/super_index) [#GrowthPlan](https://weibo.com/p/100808fe7264e4339c41df171df3260846e152) *Growth Plan* in May will be recorded on 26th May! The exchange rules for the tickets are ready~ The boys are waiting for you! ![heart](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/8a/2018new_xin_org.png){:.emoticon}
 
-<a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1frd3vr8nzmj30h80rv0zg.jpg">
-  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006D4NLGgy1frd3vr8nzmj30h80rv0zg.jpg" />
+<a href="https://wx2.sinaimg.cn/mw690/006D4NLGgy1frd3vr8nzmj30h80rv0zg.jpg">
+  <img class="weibo-pic-preview" src="https://wx2.sinaimg.cn/orj360/006D4NLGgy1frd3vr8nzmj30h80rv0zg.jpg" />
 </a>
 
 ---

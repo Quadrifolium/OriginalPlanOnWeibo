@@ -14,4 +14,4 @@ The 23rd and 24th of the twelfth month in Chinese calendar are the days for hono
 <!-- more -->
 
 *Image*  
-![Image](http://wx4.sinaimg.cn/mw690/006D4NLGgy1fbwz1v75ztj30j60cvgpl.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/006D4NLGgy1fbwz1v75ztj30j60cvgpl.jpg)

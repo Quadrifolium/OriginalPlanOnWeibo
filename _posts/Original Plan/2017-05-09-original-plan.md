@@ -29,4 +29,4 @@ We are grateful for your companionship on the road. More wonderful moments will 
 
 Exciting moment! Here we announce the six prize-winners of *Triple Kill* last week! (In two rounds, 3 winners for each.) Their IDs on Panda TV are: <small>(Omitted)</small> Congratulations! We will contact you soon. Don't lose your heart if you are not among them, great prizes are still in the next episode of *Triple Kill*. We are waiting for you at Friday 8 p.m. on Panda TV (Room 943033)!
 
-![Image](http://wx3.sinaimg.cn/mw690/0068MnXXgy1fffbdvdb5jj31hc280awe.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/0068MnXXgy1fffbdvdb5jj31hc280awe.jpg)

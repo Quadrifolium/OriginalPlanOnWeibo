@@ -13,6 +13,6 @@ Thank you for your support. ![heart](https://img.t.sinajs.cn/t4/appstyle/express
 
 <!-- more -->
 
-<a href="http://wx2.sinaimg.cn/mw690/006RpxDlgy1fr1vmvdctlj31sg2dsb2c.jpg">
-  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006RpxDlgy1fr1vmvdctlj31sg2dsb2c.jpg" />
+<a href="https://wx2.sinaimg.cn/mw690/006RpxDlgy1fr1vmvdctlj31sg2dsb2c.jpg">
+  <img class="weibo-pic-preview" src="https://wx2.sinaimg.cn/orj360/006RpxDlgy1fr1vmvdctlj31sg2dsb2c.jpg" />
 </a>

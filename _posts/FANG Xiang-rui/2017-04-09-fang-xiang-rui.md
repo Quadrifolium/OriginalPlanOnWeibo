@@ -13,7 +13,7 @@ Except the sense of direction, everything else went quite well today. Thank you 
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006G0KNGgy1fegujf307mj30zk0qo47m.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006G0KNGgy1fegujf307mj30zk0qo47m.jpg)
 
 ---
 

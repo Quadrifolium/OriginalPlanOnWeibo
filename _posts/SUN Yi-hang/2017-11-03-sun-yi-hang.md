@@ -13,6 +13,6 @@ Charming night!
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/98e534a3gy1fl4yjgik6aj20zk0qo7ez.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/98e534a3gy1fl4yjgik6aj20zk0qo7ez.jpg)
 
 <small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>

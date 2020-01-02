@@ -13,7 +13,7 @@ Many parents PMed me at night, saying that there's someone swindling using the n
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006D4NLGgy1fdrfvtunlqj30ku0n042e.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006D4NLGgy1fdrfvtunlqj30ku0n042e.jpg)
 
 Note:
 1. The picture is the screeshot of an article in the app of “Original Plan”. The translation of the complete article is as follows:

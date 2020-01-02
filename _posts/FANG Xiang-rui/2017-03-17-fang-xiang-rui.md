@@ -13,7 +13,7 @@ Found this toy from a big shot painter. ![hush](http://img.t.sinajs.cn/t4/appsty
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006G0KNGgy1fdq8bymlvqj30qo0zkjwn.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006G0KNGgy1fdq8bymlvqj30qo0zkjwn.jpg)
 
 ---
 

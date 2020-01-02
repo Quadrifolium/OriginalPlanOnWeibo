@@ -15,9 +15,9 @@ All the staff and workers of Yi An Middle School wish every student a happy New 
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/006D4NLGgy1foh75totdaj30qo11rthr.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006D4NLGgy1foh75totdaj30qo11rthr.jpg"/></a>
+    <a href="https://wx3.sinaimg.cn/mw690/006D4NLGgy1foh75totdaj30qo11rthr.jpg"><img src="https://wx3.sinaimg.cn/thumb150/006D4NLGgy1foh75totdaj30qo11rthr.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/006D4NLGgy1foh75u8qbxj305f05c74c.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006D4NLGgy1foh75u8qbxj305f05c74c.jpg"/></a>
+    <a href="https://wx3.sinaimg.cn/mw690/006D4NLGgy1foh75u8qbxj305f05c74c.jpg"><img src="https://wx3.sinaimg.cn/thumb150/006D4NLGgy1foh75u8qbxj305f05c74c.jpg"/></a>
   </li>
 </ul>

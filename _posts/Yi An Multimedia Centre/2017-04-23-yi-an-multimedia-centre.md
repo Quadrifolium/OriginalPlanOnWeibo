@@ -13,7 +13,7 @@ categories: [ 'yi-an-multimedia-centre' ]
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006Lnfkoly1fewjyey95ej30qo0zk7cm.jpg)  
+![Image](https://wx1.sinaimg.cn/mw690/006Lnfkoly1fewjyey95ej30qo0zk7cm.jpg)  
 *Words in image:*  
 “gate gate pāragate pārasaṃgate bodhi svāhā”
 

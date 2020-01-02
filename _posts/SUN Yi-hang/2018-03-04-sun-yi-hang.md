@@ -13,8 +13,8 @@ Like the warm sunlight in an ancient city.
 
 <!-- more -->
 
-<a href="http://wx4.sinaimg.cn/mw690/98e534a3gy1fp0pdsgl68j20qo0qok07.jpg">
-  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/98e534a3gy1fp0pdsgl68j20qo0qok07.jpg" />
+<a href="https://wx4.sinaimg.cn/mw690/98e534a3gy1fp0pdsgl68j20qo0qok07.jpg">
+  <img class="weibo-pic-preview" src="https://wx4.sinaimg.cn/orj360/98e534a3gy1fp0pdsgl68j20qo0qok07.jpg" />
 </a>
 
 <small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>

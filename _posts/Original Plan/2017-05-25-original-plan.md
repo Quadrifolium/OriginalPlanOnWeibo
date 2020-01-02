@@ -15,10 +15,10 @@ Come here! The winner list for the last *Triple Kill* is here. Their IDs on Pand
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/0068MnXXgy1ffxnwoyyv2j30qo14046u.jpg"><img src="http://wx4.sinaimg.cn/thumb150/0068MnXXgy1ffxnwoyyv2j30qo14046u.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/0068MnXXgy1ffxnwoyyv2j30qo14046u.jpg"><img src="https://wx4.sinaimg.cn/thumb150/0068MnXXgy1ffxnwoyyv2j30qo14046u.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/0068MnXXgy1ffxnwqptf2j30qo0qo7aa.jpg"><img src="http://wx4.sinaimg.cn/thumb150/0068MnXXgy1ffxnwqptf2j30qo0qo7aa.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/0068MnXXgy1ffxnwqptf2j30qo0qo7aa.jpg"><img src="https://wx4.sinaimg.cn/thumb150/0068MnXXgy1ffxnwqptf2j30qo0qo7aa.jpg" /></a>
   </li>
 </ul>
 

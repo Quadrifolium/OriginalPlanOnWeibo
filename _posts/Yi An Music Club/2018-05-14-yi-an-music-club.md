@@ -26,8 +26,8 @@ categories: [ 'yi-an-music-club' ]
 3\. In order to ensure the overall effect of the performance, please do not bring light broad which may block out the sight of the others. Every guest will get a glow stick.  
 The time and rules of the party in Guangzhou will be announced tomorrow. See you there. ![metal gesture](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/1d/2018new_hahashoushi_org.png){:.emoticon}
 
-<a href="http://wx1.sinaimg.cn/mw690/006Es64Aly1frb11llkk9j30nhbz74qu.jpg">
-  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/006Es64Aly1frb11llkk9j30nhbz74qu.jpg" />
+<a href="https://wx1.sinaimg.cn/mw690/006Es64Aly1frb11llkk9j30nhbz74qu.jpg">
+  <img class="weibo-pic-preview" src="https://wx1.sinaimg.cn/orj360/006Es64Aly1frb11llkk9j30nhbz74qu.jpg" />
 </a>
 
 ---

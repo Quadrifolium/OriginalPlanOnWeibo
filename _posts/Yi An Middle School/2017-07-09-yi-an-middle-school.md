@@ -13,4 +13,4 @@ It's summer vacation, but the regulations should not be broken. Because of the v
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006D4NLGgy1fhdhnphyiqj30rs0kuq5p.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006D4NLGgy1fhdhnphyiqj30rs0kuq5p.jpg)

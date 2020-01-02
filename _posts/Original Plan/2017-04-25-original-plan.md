@@ -13,6 +13,6 @@ The 13th China International Cartoon & Animation Festival (CICAF) will raise the
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/0068MnXXgy1fez6tcoa4zj30zk0qoh3p.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/0068MnXXgy1fez6tcoa4zj30zk0qoh3p.jpg)
 
-![Image](http://wx1.sinaimg.cn/mw690/0068MnXXgy1fez6te1l26j30zk0lcwu7.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/0068MnXXgy1fez6te1l26j30zk0lcwu7.jpg)

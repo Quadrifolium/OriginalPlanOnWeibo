@@ -13,4 +13,4 @@ Got a super red packet today.
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006G0KNGgy1fdd1mogs7ej30qo0zkwne.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006G0KNGgy1fdd1mogs7ej30qo0zkwne.jpg)

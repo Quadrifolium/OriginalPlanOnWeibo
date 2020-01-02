@@ -13,9 +13,9 @@ For the students filled in the school admission card in Xiamen, don't rush, now 
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/0068MnXXgy1ffhdji4pphj30m80m8jti.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/0068MnXXgy1ffhdji4pphj30m80m8jti.jpg)
 
-![Image](http://wx3.sinaimg.cn/mw690/0068MnXXgy1ffhdk1gstbj31w02ionpd.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/0068MnXXgy1ffhdk1gstbj31w02ionpd.jpg)
 
 **Comments**
 

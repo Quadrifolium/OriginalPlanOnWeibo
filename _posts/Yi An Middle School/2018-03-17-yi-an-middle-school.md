@@ -14,8 +14,8 @@ At 14:00 of this Sunday, the students applied for *Growth Plan* should gather in
 
 <!-- more -->
 
-<a href="http://wx1.sinaimg.cn/mw690/006D4NLGly1fpfuf947vyj30sg0jc1ee.jpg">
-  <img class="weibo-pic-preview-h" src="http://wx1.sinaimg.cn/orj360/006D4NLGly1fpfuf947vyj30sg0jc1ee.jpg" />
+<a href="https://wx1.sinaimg.cn/mw690/006D4NLGly1fpfuf947vyj30sg0jc1ee.jpg">
+  <img class="weibo-pic-preview-h" src="https://wx1.sinaimg.cn/orj360/006D4NLGly1fpfuf947vyj30sg0jc1ee.jpg" />
 </a>
 
 ---

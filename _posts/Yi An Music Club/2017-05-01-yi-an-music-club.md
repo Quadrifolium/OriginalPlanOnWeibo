@@ -13,5 +13,5 @@ They say, barbecue is always better than sashimi.
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/006Es64Aly1ff66wbywdzj32io1w0npd.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/006Es64Aly1ff66wbywdzj32io1w0npd.jpg)
 

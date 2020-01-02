@@ -27,6 +27,6 @@ Backstage story of the recording of the *Growth Plan* in May.
 What did the boys do in the waiting room?  
 Click the link to watch whose tooth is loosing: [◉ Yi An 5-minute Break E03](https://www.bilibili.com/video/av24333113/)
 
-<a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1fry67igfnrj31fa0u0b29.jpg">
-  <img class="weibo-pic-preview-h" src="http://wx4.sinaimg.cn/orj360/006D4NLGgy1fry67igfnrj31fa0u0b29.jpg" />
+<a href="https://wx4.sinaimg.cn/mw690/006D4NLGgy1fry67igfnrj31fa0u0b29.jpg">
+  <img class="weibo-pic-preview-h" src="https://wx4.sinaimg.cn/orj360/006D4NLGgy1fry67igfnrj31fa0u0b29.jpg" />
 </a>

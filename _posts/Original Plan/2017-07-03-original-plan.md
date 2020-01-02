@@ -23,7 +23,7 @@ Seal collection is still on, who will win the prizes?
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/0068MnXXgy1fh6wbnd4vwj30x21vaaut.jpg)  
+![Image](https://wx4.sinaimg.cn/mw690/0068MnXXgy1fh6wbnd4vwj30x21vaaut.jpg)  
 *Words in image:*  
 · 15th – 18th July, Guangzhou FFACG Expo (Firefly ACG International Expo)  
 A11, Hall 6, Poly World Trade Center Exhibition Hall  

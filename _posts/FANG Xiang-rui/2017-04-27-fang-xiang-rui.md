@@ -13,4 +13,4 @@ After school, the other five walked their own way, with me left behind ![smile](
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006G0KNGgy1ff1dai2vpnj30qo140tgu.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006G0KNGgy1ff1dai2vpnj30qo140tgu.jpg)

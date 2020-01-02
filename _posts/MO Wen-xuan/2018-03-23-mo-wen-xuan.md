@@ -13,8 +13,8 @@ This *gege* looks interesting. When seeing some Alumnus Huang “bullying” his
 
 <!-- more -->
 
-<a href="http://wx1.sinaimg.cn/mw690/0076g4wkgy1fpn32t028oj32c01r0b2b.jpg">
-  <img class="weibo-pic-preview-h" src="http://wx1.sinaimg.cn/orj360/0076g4wkgy1fpn32t028oj32c01r0b2b.jpg" />
+<a href="https://wx1.sinaimg.cn/mw690/0076g4wkgy1fpn32t028oj32c01r0b2b.jpg">
+  <img class="weibo-pic-preview-h" src="https://wx1.sinaimg.cn/orj360/0076g4wkgy1fpn32t028oj32c01r0b2b.jpg" />
 </a>
 
 *Comments*

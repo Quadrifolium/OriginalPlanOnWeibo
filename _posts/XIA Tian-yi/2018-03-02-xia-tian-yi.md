@@ -13,8 +13,8 @@ After having rice balls in the morning, I am now a round ball~ coming to greet y
 
 <!-- more -->
 
-<a href="http://wx2.sinaimg.cn/mw690/006RpxDlgy1foyq25yhymj31sg2dskjl.jpg">
-  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006RpxDlgy1foyq25yhymj31sg2dskjl.jpg" />
+<a href="https://wx2.sinaimg.cn/mw690/006RpxDlgy1foyq25yhymj31sg2dskjl.jpg">
+  <img class="weibo-pic-preview" src="https://wx2.sinaimg.cn/orj360/006RpxDlgy1foyq25yhymj31sg2dskjl.jpg" />
 </a>
 
 *Comments*

@@ -13,7 +13,7 @@ Raining in the morning, shining bright in the afternoon. [⊕ Japan](http://weib
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006G0KNGly1ff3gflxmxaj30qo0zkwy6.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006G0KNGly1ff3gflxmxaj30qo0zkwy6.jpg)
 
 **Comments**
 

@@ -13,6 +13,6 @@ categories: [ 'sun-yi-hang' ]
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/98e534a3gy1fkjzeadug5j22c0340qv8.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/98e534a3gy1fkjzeadug5j22c0340qv8.jpg)
 
 <small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>

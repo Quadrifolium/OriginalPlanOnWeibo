@@ -13,7 +13,7 @@ HE Luo-luo in Class 7, Junior Grade 2, courageous and quick-witted. Following th
 <!-- more -->
 
 *Image*  
-![Image](http://wx1.sinaimg.cn/mw690/006Es64Agy1fchrnvk3h6j31kw1cqqv5.jpg)  
+![Image](https://wx1.sinaimg.cn/mw690/006Es64Agy1fchrnvk3h6j31kw1cqqv5.jpg)  
 *Words in image:*  
 Yi An Middle School  
 HE Luo-luo (Student in Class 7, Junior Grade 2)  

@@ -13,8 +13,8 @@ To candidates for the entrance exam: All things in their being are good for some
 
 <!-- more -->
 
-<a href="http://wx1.sinaimg.cn/mw690/006D4NLGgy1fgvmz01ba5j30hs3uwwmr.jpg">
-  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/006D4NLGgy1fgvmz01ba5j30hs3uwwmr.jpg" />
+<a href="https://wx1.sinaimg.cn/mw690/006D4NLGgy1fgvmz01ba5j30hs3uwwmr.jpg">
+  <img class="weibo-pic-preview" src="https://wx1.sinaimg.cn/orj360/006D4NLGgy1fgvmz01ba5j30hs3uwwmr.jpg" />
 </a>  
 *Words in image:*  
 Usually, there's only one correct answer for the question in the entrance exam.  

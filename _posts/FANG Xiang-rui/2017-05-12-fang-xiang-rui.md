@@ -13,7 +13,7 @@ Get the champion finally. :sob:×11 ![longing for money](http://img.t.sinajs.cn/
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006G0KNGgy1ffixa9xxp4j30zk0qon20.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/006G0KNGgy1ffixa9xxp4j30zk0qon20.jpg)
 
 **Comments**
 

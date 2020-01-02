@@ -13,7 +13,7 @@ Happy Teachers' Day. Thank you, teachers, for your hard work for the stage play 
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006D4NLGgy1fjejc5dfyvj30jg0pwdiq.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006D4NLGgy1fjejc5dfyvj30jg0pwdiq.jpg)
 
 *Comments*
 

@@ -14,5 +14,5 @@ How I wish to sleep a little longer. :sleepy:
 <!-- more -->
 
 <a href="https://wx1.sinaimg.cn/mw690/006G0KNGgy1fm09o7gejpj30qo0qoq63.jpg">
-  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/006G0KNGgy1fm09o7gejpj30qo0qoq63.jpg" />
+  <img class="weibo-pic-preview" src="https://wx1.sinaimg.cn/orj360/006G0KNGgy1fm09o7gejpj30qo0qoq63.jpg" />
 </a>

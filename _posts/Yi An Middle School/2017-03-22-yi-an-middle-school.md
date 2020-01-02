@@ -13,7 +13,7 @@ Yi An Arts Club submitted an exquisite poster after school, and made a revision 
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006D4NLGgy1fdvruz8z7wj31hc0p0nbv.jpg)  
+![Image](https://wx2.sinaimg.cn/mw690/006D4NLGgy1fdvruz8z7wj31hc0p0nbv.jpg)  
 *Words in image:*  
 **Only the most mighty historic school**  
 **dares to hold a press conference for student club event!!!**  

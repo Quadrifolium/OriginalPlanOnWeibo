@@ -13,4 +13,4 @@ Due to the weather, the Speech Under the National Flag this week was made throug
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006D4NLGgy1feh25yrcb1j30zk0nkq4u.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/006D4NLGgy1feh25yrcb1j30zk0nkq4u.jpg)

@@ -30,7 +30,7 @@ Everyday urging from the boss. ![smile](http://img.t.sinajs.cn/t4/appstyle/expre
 
 Nnna, jogged 50 laps on rooftop.
 
-![Image](http://wx2.sinaimg.cn/mw690/006FnS5mgy1fd9i62z2ydj30qo0zkqcn.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006FnS5mgy1fd9i62z2ydj30qo0zkqcn.jpg)
 
 **Comments**
 

@@ -13,7 +13,7 @@ categories: [ 'yi-an-music-club' ]
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006Es64Aly1ffiqx59b5uj31kw1yxkjt.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006Es64Aly1ffiqx59b5uj31kw1yxkjt.jpg)
 
 ---
 

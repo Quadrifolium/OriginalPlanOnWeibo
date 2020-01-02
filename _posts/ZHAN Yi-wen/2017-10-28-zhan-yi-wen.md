@@ -13,7 +13,7 @@ Er … No photo these days, here's an old one. ![Husky](http://img.t.sinajs.cn/t
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006FmVn8gy1fkxoc9804cj30qo0zidn3.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006FmVn8gy1fkxoc9804cj30qo0zidn3.jpg)
 
 *Comments*
 

@@ -41,5 +41,5 @@ We wish our lovely boy [@YiAnMusicClub-LinMo](http://weibo.com/u/6108312042)
 a happy 16th birthday!
 
 <a href="https://wx2.sinaimg.cn/mw690/006Es64Agy1fmo71uwq2qj30qo140agz.jpg">
-  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006Es64Agy1fmo71uwq2qj30qo140agz.jpg" />
+  <img class="weibo-pic-preview" src="https://wx2.sinaimg.cn/orj360/006Es64Agy1fmo71uwq2qj30qo140agz.jpg" />
 </a>

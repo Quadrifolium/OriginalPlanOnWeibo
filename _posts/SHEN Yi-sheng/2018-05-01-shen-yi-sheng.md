@@ -13,6 +13,6 @@ I learnt several cute dances in the week. 🤗
 
 <!-- more -->
 
-<a href="http://wx3.sinaimg.cn/mw690/0076n8VAgy1fqvyolh7cuj31se2p8x6s.jpg">
-  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/0076n8VAgy1fqvyolh7cuj31se2p8x6s.jpg" />
+<a href="https://wx3.sinaimg.cn/mw690/0076n8VAgy1fqvyolh7cuj31se2p8x6s.jpg">
+  <img class="weibo-pic-preview" src="https://wx3.sinaimg.cn/orj360/0076n8VAgy1fqvyolh7cuj31se2p8x6s.jpg" />
 </a>

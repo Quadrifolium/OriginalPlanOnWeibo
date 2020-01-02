@@ -15,7 +15,7 @@ As the warm-up
 <!-- more -->
 
 <a href="https://wx1.sinaimg.cn/mw690/98e534a3gy1flzy1hxtp6j20ku112gpp.jpg">
-  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/98e534a3gy1flzy1hxtp6j20ku112gpp.jpg" />
+  <img class="weibo-pic-preview" src="https://wx1.sinaimg.cn/orj360/98e534a3gy1flzy1hxtp6j20ku112gpp.jpg" />
 </a>
 
 <small>(This post is from [@YXZHty](http://weibo.com/2565158051).)</small>

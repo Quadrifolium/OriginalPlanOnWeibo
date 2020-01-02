@@ -13,4 +13,4 @@ categories: [ 'fang-xiang-rui' ]
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006G0KNGgy1fdx4zgl8t3j30g4092glp.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006G0KNGgy1fdx4zgl8t3j30g4092glp.jpg)

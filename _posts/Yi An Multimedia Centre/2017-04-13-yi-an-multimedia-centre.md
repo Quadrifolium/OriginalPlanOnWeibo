@@ -13,7 +13,7 @@ categories: [ 'yi-an-multimedia-centre' ]
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/006Lnfkoly1feks0bf0p7j30j60x4q4a.jpg)  
+![Image](https://wx3.sinaimg.cn/mw690/006Lnfkoly1feks0bf0p7j30j60x4q4a.jpg)  
 *Words in image:*  
 I am such a man, I have such a nature, I am such an emperor. As ministers, if you don't let me down, I won't make you disappointed. This is my encouragement.  
 (This is an imperial comment made by Yongzheng Emperor (1678 – 1735).)

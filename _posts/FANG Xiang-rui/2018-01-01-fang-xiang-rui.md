@@ -14,7 +14,7 @@ Happy New Year. ![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/norm
 <!-- more -->
 
 <a href="https://wx4.sinaimg.cn/mw690/006G0KNGgy1fn11j7xj0wj30qo0zktdp.jpg">
-  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006G0KNGgy1fn11j7xj0wj30qo0zktdp.jpg" />
+  <img class="weibo-pic-preview" src="https://wx4.sinaimg.cn/orj360/006G0KNGgy1fn11j7xj0wj30qo0zktdp.jpg" />
 </a>
 
 *Comments*

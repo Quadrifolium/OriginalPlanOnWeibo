@@ -13,6 +13,6 @@ It's Friday again, the teachers and students usher in the weekend after the clea
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006D4NLGgy1fdq7tndlq4j30c80c874w.jpg)  
+![Image](https://wx4.sinaimg.cn/mw690/006D4NLGgy1fdq7tndlq4j30c80c874w.jpg)  
 *Words in image:*  
 Keep fighting today.

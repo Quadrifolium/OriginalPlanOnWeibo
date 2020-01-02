@@ -13,7 +13,7 @@ categories: [ 'original-plan' ]
 <!-- more -->
 
 *Image*  
-![Image](http://wx2.sinaimg.cn/mw690/0068MnXXgy1fck52eppuaj31kw1cqx6p.jpg)  
+![Image](https://wx2.sinaimg.cn/mw690/0068MnXXgy1fck52eppuaj31kw1cqx6p.jpg)  
 *Words in image:*  
 Yi An Middle School  
 SUN Yi-hang (Student in Class 7, Junior Grade 2)  

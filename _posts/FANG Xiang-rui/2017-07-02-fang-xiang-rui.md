@@ -13,4 +13,4 @@ Pick up a kitty in storm.
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006G0KNGgy1fh5th499rbj30zk0qo0z1.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/006G0KNGgy1fh5th499rbj30zk0qo0z1.jpg)

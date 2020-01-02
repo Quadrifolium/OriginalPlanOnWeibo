@@ -13,6 +13,6 @@ I should learn from XIA Tian-yi *gege*. :fist:
 
 <!-- more -->
 
-<a href="http://wx2.sinaimg.cn/mw690/0076g4wkgy1fppddhwbpuj31e00xc122.jpg">
-  <img class="weibo-pic-preview-h" src="http://wx2.sinaimg.cn/orj360/0076g4wkgy1fppddhwbpuj31e00xc122.jpg" />
+<a href="https://wx2.sinaimg.cn/mw690/0076g4wkgy1fppddhwbpuj31e00xc122.jpg">
+  <img class="weibo-pic-preview-h" src="https://wx2.sinaimg.cn/orj360/0076g4wkgy1fppddhwbpuj31e00xc122.jpg" />
 </a>

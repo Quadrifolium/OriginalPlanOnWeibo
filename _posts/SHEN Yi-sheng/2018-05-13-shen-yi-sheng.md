@@ -13,6 +13,6 @@ Mum, this is the first time I am away from you for so long. I miss you every day
 
 <!-- more -->
 
-<a href="http://wx4.sinaimg.cn/mw690/0076n8VAgy1fr9utqmm5vj30qo0zj7bc.jpg">
-  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/0076n8VAgy1fr9utqmm5vj30qo0zj7bc.jpg" />
+<a href="https://wx4.sinaimg.cn/mw690/0076n8VAgy1fr9utqmm5vj30qo0zj7bc.jpg">
+  <img class="weibo-pic-preview" src="https://wx4.sinaimg.cn/orj360/0076n8VAgy1fr9utqmm5vj30qo0zj7bc.jpg" />
 </a>

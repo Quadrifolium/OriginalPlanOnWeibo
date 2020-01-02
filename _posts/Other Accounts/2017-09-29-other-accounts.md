@@ -18,6 +18,6 @@ The National Day is counting down, only one day left before the vacation! What a
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/97628667ly1fk0kpd32d0j22pg1wwu0y.jpg"><img src="http://wx3.sinaimg.cn/thumb150/97628667ly1fk0kpd32d0j22pg1wwu0y.jpg" /></a>
+    <a href="https://wx3.sinaimg.cn/mw690/97628667ly1fk0kpd32d0j22pg1wwu0y.jpg"><img src="https://wx3.sinaimg.cn/thumb150/97628667ly1fk0kpd32d0j22pg1wwu0y.jpg" /></a>
   </li>
 </ul>

@@ -13,4 +13,4 @@ The follow-up matter: Without the lock, the door keeps open like this. It will o
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006FmVn8gy1fk1y1svwhnj30qo0zkdl8.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006FmVn8gy1fk1y1svwhnj30qo0zkdl8.jpg)

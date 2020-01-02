@@ -13,6 +13,6 @@ I wish to have a cute cat. 🐱
 
 <!-- more -->
 
-<a href="http://wx3.sinaimg.cn/mw690/0076n8VAgy1fr1pjj8al4j30qo1hcn2m.jpg">
-  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/0076n8VAgy1fr1pjj8al4j30qo1hcn2m.jpg" />
+<a href="https://wx3.sinaimg.cn/mw690/0076n8VAgy1fr1pjj8al4j30qo1hcn2m.jpg">
+  <img class="weibo-pic-preview" src="https://wx3.sinaimg.cn/orj360/0076n8VAgy1fr1pjj8al4j30qo1hcn2m.jpg" />
 </a>

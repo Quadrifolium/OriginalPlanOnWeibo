@@ -13,6 +13,6 @@ Senior-school-bound students, fight for the Entrance Exam. ![fighting](https://i
 
 <!-- more -->
 
-<a href="http://wx4.sinaimg.cn/mw690/006RpxDlgy1fs7nfdbsf9j31sg2dsk49.jpg">
-  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006RpxDlgy1fs7nfdbsf9j31sg2dsk49.jpg" />
+<a href="https://wx4.sinaimg.cn/mw690/006RpxDlgy1fs7nfdbsf9j31sg2dsk49.jpg">
+  <img class="weibo-pic-preview" src="https://wx4.sinaimg.cn/orj360/006RpxDlgy1fs7nfdbsf9j31sg2dsk49.jpg" />
 </a>

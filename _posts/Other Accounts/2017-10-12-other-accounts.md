@@ -18,7 +18,7 @@ It's getting cold these days. It's time to put on warm clothes and get winter dr
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/97628667ly1fkfm35eumlj20ve1b3wmu.jpg"><img src="http://wx4.sinaimg.cn/thumb150/97628667ly1fkfm35eumlj20ve1b3wmu.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/97628667ly1fkfm35eumlj20ve1b3wmu.jpg"><img src="https://wx4.sinaimg.cn/thumb150/97628667ly1fkfm35eumlj20ve1b3wmu.jpg" /></a>
   </li>
 </ul>
 

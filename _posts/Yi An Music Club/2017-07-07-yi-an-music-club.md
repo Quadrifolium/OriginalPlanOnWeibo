@@ -14,7 +14,7 @@ The member's daily life in school – Senior FANG Xiang-rui is _____.
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006Es64Agy1fhbgy7ghm8j319y19yb29.jpg)  
+![Image](https://wx4.sinaimg.cn/mw690/006Es64Agy1fhbgy7ghm8j319y19yb29.jpg)  
 *Words in image:*  
 · Give me your mobile.  
 Snap  

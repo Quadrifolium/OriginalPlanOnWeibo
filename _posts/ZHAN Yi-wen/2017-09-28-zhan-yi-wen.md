@@ -13,8 +13,8 @@ Wondering how did I get out yesterday? Look at the photo.
 
 <!-- more -->
 
-<a href="http://wx4.sinaimg.cn/mw690/006FmVn8gy1fjyxt74wpbj30qo0zk0yk.jpg">
-  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006FmVn8gy1fjyxt74wpbj30qo0zk0yk.jpg" />
+<a href="https://wx4.sinaimg.cn/mw690/006FmVn8gy1fjyxt74wpbj30qo0zk0yk.jpg">
+  <img class="weibo-pic-preview" src="https://wx4.sinaimg.cn/orj360/006FmVn8gy1fjyxt74wpbj30qo0zk0yk.jpg" />
 </a>
 
 ---
@@ -27,9 +27,9 @@ It seems a heavy rain is coming.
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/006FmVn8gy1fjyxpd003ej30qo0qoaew.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006FmVn8gy1fjyxpd003ej30qo0qoaew.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006FmVn8gy1fjyxpd003ej30qo0qoaew.jpg"><img src="https://wx2.sinaimg.cn/thumb150/006FmVn8gy1fjyxpd003ej30qo0qoaew.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/006FmVn8gy1fjyxpjajx6j30qo0zk46d.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006FmVn8gy1fjyxpjajx6j30qo0zk46d.jpg" /></a>
+    <a href="https://wx3.sinaimg.cn/mw690/006FmVn8gy1fjyxpjajx6j30qo0zk46d.jpg"><img src="https://wx3.sinaimg.cn/thumb150/006FmVn8gy1fjyxpjajx6j30qo0zk46d.jpg" /></a>
   </li>
 </ul>

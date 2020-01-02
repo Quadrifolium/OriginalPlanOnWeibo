@@ -13,7 +13,7 @@ categories: [ 'original-plan' ]
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/0068MnXXgy1fdpr8de5wwj30m80vghap.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/0068MnXXgy1fdpr8de5wwj30m80vghap.jpg)
 
 Note:
 1. Home Return Permit or Home Visit Permit (回乡证) is the Mainland Travel Permit for Hong Kong and Macao Residents, while there is also Taiwan Compatriot Permit (台胞证), which is the Mainland Travel Permit for Taiwan Residents.

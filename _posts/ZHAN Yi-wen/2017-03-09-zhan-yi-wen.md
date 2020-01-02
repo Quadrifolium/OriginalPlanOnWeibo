@@ -21,6 +21,6 @@ Another post. Hilarious. :grin:×2 [◉ Flash Show Video](http://www.miaopai.com
 
 Why are you always asking for selfie? Take it.
 
-![Image](http://wx2.sinaimg.cn/mw690/006FmVn8ly1fdgyuvy13lj30ku112aal.jpg)  
+![Image](https://wx2.sinaimg.cn/mw690/006FmVn8ly1fdgyuvy13lj30ku112aal.jpg)  
 *Words in image:*  
 Unable to load the image.

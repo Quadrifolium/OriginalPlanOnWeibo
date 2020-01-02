@@ -18,10 +18,10 @@ It's Friday, I just can't help getting excited. What's your plan for the weekend
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/97628667ly1fkgl0lerd3j21hc0j149s.jpg"><img src="http://wx3.sinaimg.cn/thumb150/97628667ly1fkgl0lerd3j21hc0j149s.jpg" /></a>
+    <a href="https://wx3.sinaimg.cn/mw690/97628667ly1fkgl0lerd3j21hc0j149s.jpg"><img src="https://wx3.sinaimg.cn/thumb150/97628667ly1fkgl0lerd3j21hc0j149s.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/97628667ly1fkglfl2r10j21kw1p6kjo.jpg"><img src="http://wx2.sinaimg.cn/thumb150/97628667ly1fkglfl2r10j21kw1p6kjo.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/97628667ly1fkglfl2r10j21kw1p6kjo.jpg"><img src="https://wx2.sinaimg.cn/thumb150/97628667ly1fkglfl2r10j21kw1p6kjo.jpg" /></a>
   </li>
 </ul>
 

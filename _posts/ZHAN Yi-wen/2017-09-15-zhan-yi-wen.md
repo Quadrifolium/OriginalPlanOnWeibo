@@ -13,7 +13,7 @@ I re-watched *Spider-Man* in 1994 today. It's the memory in my childhood. The fi
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006FmVn8gy1fjk02cdsugj30zk0qomzl.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006FmVn8gy1fjk02cdsugj30zk0qomzl.jpg)
 
 *Comments*
 

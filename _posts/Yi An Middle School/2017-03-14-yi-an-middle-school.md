@@ -13,4 +13,4 @@ categories: [ 'yi-an-middle-school' ]
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006D4NLGgy1fdmb8psypnj31kw0rfwuw.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006D4NLGgy1fdmb8psypnj31kw0rfwuw.jpg)

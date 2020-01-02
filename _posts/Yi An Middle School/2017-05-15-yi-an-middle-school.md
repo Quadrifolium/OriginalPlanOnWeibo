@@ -13,7 +13,7 @@ It's cloudy in the morning, the Speech Under the National Flag from Class 5 Seni
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006D4NLGgy1ffle0i4corj30fj0argwi.jpg)  
+![Image](https://wx4.sinaimg.cn/mw690/006D4NLGgy1ffle0i4corj30fj0argwi.jpg)  
 
 Note:
 1. The character in the image is “陽” (yáng; bright), while the shadow shows another character – “陰” (yīn; dark). “Yin and yang” is a concept in Chinese philosophy which expresses duality.

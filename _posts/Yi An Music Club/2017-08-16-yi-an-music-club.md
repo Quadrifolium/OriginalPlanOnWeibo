@@ -13,8 +13,8 @@ Happy 13th birthday to ZHAN Yi-wen. A good appetite is a good fortune, and you w
 
 <!-- more -->
 
-<a href="http://wx3.sinaimg.cn/mw690/006Es64Agy1fily2ir1eqj31w02io1l2.jpg">
-  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006Es64Agy1fily2ir1eqj31w02io1l2.jpg" />
+<a href="https://wx3.sinaimg.cn/mw690/006Es64Agy1fily2ir1eqj31w02io1l2.jpg">
+  <img class="weibo-pic-preview" src="https://wx3.sinaimg.cn/orj360/006Es64Agy1fily2ir1eqj31w02io1l2.jpg" />
 </a>
 
 ---
@@ -25,8 +25,8 @@ Happy 13th birthday to ZHAN Yi-wen. A good appetite is a good fortune, and you w
 
 Happy 13th birthday to my *didi*. Please be happy every day. I can accede to anything you ask. And I have read what FANG Xiang-rui posted. Refuse him. (SUN Yi-hang)
 
-<a href="http://wx1.sinaimg.cn/mw690/006Es64Agy1filwze8ncpj31w02ionpg.jpg">
-  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/006Es64Agy1filwze8ncpj31w02ionpg.jpg" />
+<a href="https://wx1.sinaimg.cn/mw690/006Es64Agy1filwze8ncpj31w02ionpg.jpg">
+  <img class="weibo-pic-preview" src="https://wx1.sinaimg.cn/orj360/006Es64Agy1filwze8ncpj31w02ionpg.jpg" />
 </a>
 
 ---
@@ -37,8 +37,8 @@ Happy 13th birthday to my *didi*. Please be happy every day. I can accede to any
 
 Happy birthday to [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526), my fellow, my roommate nowadays, my buddy till the future. The mobile will be handed over after this post, it's not good for the eyes. :blush: (CHI Yi)
 
-<a href="http://wx3.sinaimg.cn/mw690/006Es64Agy1filwa317bfj31w02iohdx.jpg">
-  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006Es64Agy1filwa317bfj31w02iohdx.jpg" />
+<a href="https://wx3.sinaimg.cn/mw690/006Es64Agy1filwa317bfj31w02iohdx.jpg">
+  <img class="weibo-pic-preview" src="https://wx3.sinaimg.cn/orj360/006Es64Agy1filwa317bfj31w02iohdx.jpg" />
 </a>
 
 ---
@@ -49,8 +49,8 @@ Happy birthday to [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526), my 
 
 Happy birthday ^\_^ Happy birthday ^\_^ Happy birthday A×56 ^\_^ (LIN Mo)
 
-<a href="http://wx2.sinaimg.cn/mw690/006Es64Agy1filvrmpxsij31w02io4qs.jpg">
-  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006Es64Agy1filvrmpxsij31w02io4qs.jpg" />
+<a href="https://wx2.sinaimg.cn/mw690/006Es64Agy1filvrmpxsij31w02io4qs.jpg">
+  <img class="weibo-pic-preview" src="https://wx2.sinaimg.cn/orj360/006Es64Agy1filvrmpxsij31w02io4qs.jpg" />
 </a>
 
 ---
@@ -77,8 +77,8 @@ An insertion of their blessings. They will post later. ![Husky](http://img.t.sin
 
 Happy 13th birthday to adorable Wen-wen. May you be happy every day. In fact, I wish I could record *I Got a Brother* with you next time. Please agree with it. (From FANG Xiang-rui)
 
-<a href="http://wx4.sinaimg.cn/mw690/006Es64Agy1filqwngg9wj31w02ioe84.jpg">
-  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006Es64Agy1filqwngg9wj31w02ioe84.jpg" />
+<a href="https://wx4.sinaimg.cn/mw690/006Es64Agy1filqwngg9wj31w02ioe84.jpg">
+  <img class="weibo-pic-preview" src="https://wx4.sinaimg.cn/orj360/006Es64Agy1filqwngg9wj31w02ioe84.jpg" />
 </a>
 
 ---
@@ -91,16 +91,16 @@ Happy birthday to 13-year-old ZHAN Yi-wen. Sorry for the clumsy performance due 
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Es64Agy1filqjdy6akj32p81stnpf.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Agy1filqjdy6akj32p81stnpf.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Es64Agy1filqjdy6akj32p81stnpf.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006Es64Agy1filqjdy6akj32p81stnpf.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Es64Agy1filqja7omfj32p81stkjn.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Es64Agy1filqja7omfj32p81stkjn.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Es64Agy1filqja7omfj32p81stkjn.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006Es64Agy1filqja7omfj32p81stkjn.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006Es64Agy1filqji00j9j32p81qp7wk.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Agy1filqji00j9j32p81qp7wk.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006Es64Agy1filqji00j9j32p81qp7wk.jpg"><img src="https://wx4.sinaimg.cn/thumb150/006Es64Agy1filqji00j9j32p81qp7wk.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006Es64Agy1filqjldav4j32p81sue84.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Es64Agy1filqjldav4j32p81sue84.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006Es64Agy1filqjldav4j32p81sue84.jpg"><img src="https://wx4.sinaimg.cn/thumb150/006Es64Agy1filqjldav4j32p81sue84.jpg" /></a>
   </li>
 </ul>
 
@@ -134,8 +134,8 @@ Bring your passion,
 let's meet on this Saturday.  
 We are waiting to see everyone of you. (✧◡✧)
 
-<a href="http://wx1.sinaimg.cn/mw690/006Es64Agy1filk69mwm1j31pm5txu10.jpg">
-  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/006Es64Agy1filk69mwm1j31pm5txu10.jpg" />
+<a href="https://wx1.sinaimg.cn/mw690/006Es64Agy1filk69mwm1j31pm5txu10.jpg">
+  <img class="weibo-pic-preview" src="https://wx1.sinaimg.cn/orj360/006Es64Agy1filk69mwm1j31pm5txu10.jpg" />
 </a>
 
 *Words in image:*

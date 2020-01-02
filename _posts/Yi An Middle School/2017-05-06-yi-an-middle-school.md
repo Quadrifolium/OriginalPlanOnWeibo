@@ -33,4 +33,4 @@ Note:
 
 The official account seems fake, the fake ones seem official. When seeing the fake accounts trying so hard to swindle every day, this official one being absorbed in reposting *People's Daily* feels a little ashamed suddenly.
 
-![Image](http://wx3.sinaimg.cn/mw690/006D4NLGgy1ffbozq5jb0j304x05imxd.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/006D4NLGgy1ffbozq5jb0j304x05imxd.jpg)

@@ -13,6 +13,6 @@ I don't want to leave! ![bitter joy](https://img.t.sinajs.cn/t4/appstyle/express
 
 <!-- more -->
 
-<a href="http://wx3.sinaimg.cn/mw690/006RpxDlly1fopfzly8ryj30rv11213u.jpg">
-  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006RpxDlly1fopfzly8ryj30rv11213u.jpg" />
+<a href="https://wx3.sinaimg.cn/mw690/006RpxDlly1fopfzly8ryj30rv11213u.jpg">
+  <img class="weibo-pic-preview" src="https://wx3.sinaimg.cn/orj360/006RpxDlly1fopfzly8ryj30rv11213u.jpg" />
 </a>

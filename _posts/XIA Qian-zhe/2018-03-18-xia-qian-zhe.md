@@ -13,6 +13,6 @@ I'll try my best! Now for training. :stuck_out_tongue_winking_eye:
 
 <!-- more -->
 
-<a href="http://wx2.sinaimg.cn/mw690/0076g4Wmgy1fph57hd22oj31401hcqg0.jpg">
-  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/0076g4Wmgy1fph57hd22oj31401hcqg0.jpg" />
+<a href="https://wx2.sinaimg.cn/mw690/0076g4Wmgy1fph57hd22oj31401hcqg0.jpg">
+  <img class="weibo-pic-preview" src="https://wx2.sinaimg.cn/orj360/0076g4Wmgy1fph57hd22oj31401hcqg0.jpg" />
 </a>

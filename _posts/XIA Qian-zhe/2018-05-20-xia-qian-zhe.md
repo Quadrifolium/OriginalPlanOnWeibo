@@ -13,6 +13,6 @@ It's intended to be a selfie, then the cutie came. ![titter](https://img.t.sinaj
 
 <!-- more -->
 
-<a href="http://wx1.sinaimg.cn/mw690/0076g4Wmgy1fri5zqcr3aj30u01hcqg5.jpg">
-  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/0076g4Wmgy1fri5zqcr3aj30u01hcqg5.jpg" />
+<a href="https://wx1.sinaimg.cn/mw690/0076g4Wmgy1fri5zqcr3aj30u01hcqg5.jpg">
+  <img class="weibo-pic-preview" src="https://wx1.sinaimg.cn/orj360/0076g4Wmgy1fri5zqcr3aj30u01hcqg5.jpg" />
 </a>

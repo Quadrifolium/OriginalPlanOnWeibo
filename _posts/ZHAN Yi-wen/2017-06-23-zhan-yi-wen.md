@@ -13,4 +13,4 @@ Exam's over. Post an old photo. :grin:×4
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006FmVn8ly1fgvee5wkxaj30qo0zktfz.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006FmVn8ly1fgvee5wkxaj30qo0zktfz.jpg)

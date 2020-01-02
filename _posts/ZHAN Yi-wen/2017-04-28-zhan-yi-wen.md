@@ -24,4 +24,4 @@ Note:
 
 I should post this, we are watching this episode of *Triple Kill*.
 
-![Image](http://wx3.sinaimg.cn/mw690/006FmVn8ly1ff2nhkppcnj30qo0qowks.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/006FmVn8ly1ff2nhkppcnj30qo0qowks.jpg)

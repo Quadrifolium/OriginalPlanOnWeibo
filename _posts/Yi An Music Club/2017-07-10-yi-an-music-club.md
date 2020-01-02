@@ -13,7 +13,7 @@ Reading makes a person happy. Writing makes one thing meaningful.
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006Es64Agy1fhf4bfng6wj32c03404qr.jpg)  
+![Image](https://wx4.sinaimg.cn/mw690/006Es64Agy1fhf4bfng6wj32c03404qr.jpg)  
 *Words in image:*
 
 Diary　　HE Luo-luo  
@@ -47,7 +47,7 @@ In fact, CHI Yi may take one bath in ten days. (Please keep it secret 😊)
 
 The member's daily life in school – The football superman unwilling to give a concert in the universe cannot be a good baby.
 
-![Image](http://wx3.sinaimg.cn/mw690/006Es64Agy1fhexf5dx7lj319y19yb29.jpg)  
+![Image](https://wx3.sinaimg.cn/mw690/006Es64Agy1fhexf5dx7lj319y19yb29.jpg)  
 *Words in image:*  
 If I become a football superman,  
 I can give a concert in the universe!
@@ -60,4 +60,4 @@ I can give a concert in the universe!
 
 Wake up! It's time to take physical fitness training! :rage:×3
 
-![Image](http://wx1.sinaimg.cn/mw690/006Es64Agy1fheq3kutc3j33402c0e82.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006Es64Agy1fheq3kutc3j33402c0e82.jpg)

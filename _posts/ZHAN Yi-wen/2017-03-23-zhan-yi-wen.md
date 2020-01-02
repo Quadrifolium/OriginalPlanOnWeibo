@@ -13,4 +13,4 @@ Hoo. Won't buy such cover any more. Too hard to mount.
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006FmVn8ly1fdx3x8gsc2j30qo0zkted.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/006FmVn8ly1fdx3x8gsc2j30qo0zkted.jpg)

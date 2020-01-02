@@ -33,8 +33,8 @@ Note:
 
 [#YiAnSummerFestival](http://weibo.com/p/100808584ecb6c041592aa973c9a8aa9b6bd18) is getting closer. In order to fit the security rules and present a festival perfect in performance and visual effect with the alumni and parents, please make sure you read and abide by the notices below! Meanwhile, if you feel too many words are doring, the Security Section of Yi An also produced a video about the notices. Please click and watch. ![yeah](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/ye_org.gif) [❏ Link](https://www.bilibili.com/video/av13077357/)
 
-<a href="http://wx4.sinaimg.cn/mw690/006Es64Agy1fic9zfk4gyj30m81jsx4z.jpg">
-  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006Es64Agy1fic9zfk4gyj30m81jsx4z.jpg" />
+<a href="https://wx4.sinaimg.cn/mw690/006Es64Agy1fic9zfk4gyj30m81jsx4z.jpg">
+  <img class="weibo-pic-preview" src="https://wx4.sinaimg.cn/orj360/006Es64Agy1fic9zfk4gyj30m81jsx4z.jpg" />
 </a>
 
 *Words in image:*

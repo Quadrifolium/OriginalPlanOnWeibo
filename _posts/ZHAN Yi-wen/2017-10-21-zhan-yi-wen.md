@@ -13,7 +13,7 @@ categories: [ 'zhan-yi-wen' ]
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006FmVn8ly1fkpihd6ggvj30ku0ku416.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006FmVn8ly1fkpihd6ggvj30ku0ku416.jpg)
 
 *Comments*
 

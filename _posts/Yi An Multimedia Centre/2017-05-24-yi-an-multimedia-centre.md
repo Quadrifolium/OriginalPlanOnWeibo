@@ -13,7 +13,7 @@ Many people are asking for [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006Lnfkogy1ffwqx8ltpcj30qo14010o.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006Lnfkogy1ffwqx8ltpcj30qo14010o.jpg)
 
 **Comments**
 
@@ -28,4 +28,4 @@ Many people are asking for [@YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090
 
 8 p.m. today, it is the time staying with [@YiAnMusicClub](http://weibo.com/u/6094546964) on the air. What events will the school arrange? What is their first impression of each other? Let the anchor on duty [@YiAnMusicClub-FangXiangRui](http://weibo.com/u/6117583008) and his fellows tell you! As to the reason it's posted ahead of time, it is to tell you: the school anthem will be released in the show! All right, please listen to the radio and sleep early. ![titter](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif)×3
 
-![Image](http://wx4.sinaimg.cn/mw690/006Lnfkoly1ffwocs0j1ij30qo140dls.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/006Lnfkoly1ffwocs0j1ij30qo140dls.jpg)

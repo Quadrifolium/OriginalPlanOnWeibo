@@ -13,4 +13,4 @@ Sleeping. ![wink](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/c3/zy
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006FmVn8ly1fd32x5xzvlj30qo0zkk18.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006FmVn8ly1fd32x5xzvlj30qo0zkk18.jpg)

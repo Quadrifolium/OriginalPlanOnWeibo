@@ -13,4 +13,4 @@ As calculated, the anchor on duty was preparing for the final exam. Luckily, I a
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006Lnfkoly1fh1629lmhdj31jk111e81.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006Lnfkoly1fh1629lmhdj31jk111e81.jpg)

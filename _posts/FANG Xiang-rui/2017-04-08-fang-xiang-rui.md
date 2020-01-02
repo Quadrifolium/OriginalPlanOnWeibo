@@ -13,7 +13,7 @@ Tomorrow, let's guru guru guru!
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006G0KNGgy1fefmdnjn2aj30qo0zkq9g.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/006G0KNGgy1fefmdnjn2aj30qo0zkq9g.jpg)
 
 ---
 
@@ -23,4 +23,4 @@ Tomorrow, let's guru guru guru!
 
 See you in Shenzhen. :ok_hand:
 
-![Image](http://wx2.sinaimg.cn/mw690/006G0KNGgy1fefbmpezwzj30qo0qowhk.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006G0KNGgy1fefbmpezwzj30qo0qowhk.jpg)

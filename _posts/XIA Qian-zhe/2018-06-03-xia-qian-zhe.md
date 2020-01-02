@@ -13,6 +13,6 @@ The naughty cat often comes to the agency recently. 😝 Guess whose cat it is. 
 
 <!-- more -->
 
-<a href="http://wx1.sinaimg.cn/mw690/0076g4Wmgy1frxvifwr0jj30s51e17wh.jpg">
-  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/0076g4Wmgy1frxvifwr0jj30s51e17wh.jpg" />
+<a href="https://wx1.sinaimg.cn/mw690/0076g4Wmgy1frxvifwr0jj30s51e17wh.jpg">
+  <img class="weibo-pic-preview" src="https://wx1.sinaimg.cn/orj360/0076g4Wmgy1frxvifwr0jj30s51e17wh.jpg" />
 </a>

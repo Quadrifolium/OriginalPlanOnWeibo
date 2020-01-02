@@ -13,10 +13,10 @@ Awkward, just made a typo. Post this again.
 <!-- more -->
 
 *Image 1*  
-![Image 1](http://wx4.sinaimg.cn/mw690/006FmVn8gy1fcuszbkid1j30qo1bf13o.jpg)
+![Image 1](https://wx4.sinaimg.cn/mw690/006FmVn8gy1fcuszbkid1j30qo1bf13o.jpg)
 
 *Image 2*  
-![Image 2](http://wx3.sinaimg.cn/mw690/006FmVn8gy1fcusza76zmj30qo1bfwrs.jpg)
+![Image 2](https://wx3.sinaimg.cn/mw690/006FmVn8gy1fcusza76zmj30qo1bfwrs.jpg)
 
 **Comments**
 

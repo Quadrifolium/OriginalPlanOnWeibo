@@ -13,7 +13,7 @@ categories: [ 'yi-an-middle-school' ]
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006D4NLGgy1fedadwxtm8j31450qojwz.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006D4NLGgy1fedadwxtm8j31450qojwz.jpg)
 
 **Comments**
 

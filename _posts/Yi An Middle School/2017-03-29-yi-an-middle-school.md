@@ -13,6 +13,6 @@ Tomorrow is the Open Day, we would like to thank all the teachers involved in fo
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006D4NLGgy1fe3n2pcnxyj315o0ngqc1.jpg)  
+![Image](https://wx4.sinaimg.cn/mw690/006D4NLGgy1fe3n2pcnxyj315o0ngqc1.jpg)  
 *Words in image:*  
 Open Day of Yi An Music Club

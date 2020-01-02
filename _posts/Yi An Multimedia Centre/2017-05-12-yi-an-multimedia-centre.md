@@ -15,23 +15,23 @@ categories: [ 'yi-an-multimedia-centre' ]
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006Lnfkogy1ffix6js02kj31kw11xn5j.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Lnfkogy1ffix6js02kj31kw11xn5j.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006Lnfkogy1ffix6js02kj31kw11xn5j.jpg"><img src="https://wx4.sinaimg.cn/thumb150/006Lnfkogy1ffix6js02kj31kw11xn5j.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx4.sinaimg.cn/mw690/006Lnfkogy1ffix6ui67yj31kw11x7du.jpg"><img src="http://wx4.sinaimg.cn/thumb150/006Lnfkogy1ffix6ui67yj31kw11x7du.jpg" /></a>
+    <a href="https://wx4.sinaimg.cn/mw690/006Lnfkogy1ffix6ui67yj31kw11x7du.jpg"><img src="https://wx4.sinaimg.cn/thumb150/006Lnfkogy1ffix6ui67yj31kw11x7du.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1ffix7b9bbaj31kw2dcn8i.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Lnfkogy1ffix7b9bbaj31kw2dcn8i.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Lnfkogy1ffix7b9bbaj31kw2dcn8i.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006Lnfkogy1ffix7b9bbaj31kw2dcn8i.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1ffix7es7pbj31kw11xwjt.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Lnfkogy1ffix7es7pbj31kw11xwjt.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Lnfkogy1ffix7es7pbj31kw11xwjt.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006Lnfkogy1ffix7es7pbj31kw11xwjt.jpg" /></a>
   </li>
 </ul>
 
 **Comments**
 
 <div class="weibo-info">2017-05-12 21:59</div>
-易安中学教务处主任: Brother Pup's so sleepy. [▨ Image](http://wx1.sinaimg.cn/mw690/006CvnV1ly1ffixckgkyfj30fa0ce0u5.jpg)
+易安中学教务处主任: Brother Pup's so sleepy. [▨ Image](https://wx1.sinaimg.cn/mw690/006CvnV1ly1ffixckgkyfj30fa0ce0u5.jpg)
 > <div class="weibo-info">2017-05-12 22:24</div>
 > [YiAnMultimediaCentre](http://weibo.com/u/6196825252): [@WittyCrazyPup](http://weibo.com/u/5706219726) ![pick nose](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif)×3
 > <div class="weibo-info">2017-05-12 22:30</div>
@@ -47,10 +47,10 @@ categories: [ 'yi-an-multimedia-centre' ]
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1ffiwa1zdszj31kw2f44e2.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Lnfkogy1ffiwa1zdszj31kw2f44e2.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Lnfkogy1ffiwa1zdszj31kw2f44e2.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006Lnfkogy1ffiwa1zdszj31kw2f44e2.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/006Lnfkogy1ffiwahnbdbj31kw2dcqf6.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Lnfkogy1ffiwahnbdbj31kw2dcqf6.jpg" /></a>
+    <a href="https://wx3.sinaimg.cn/mw690/006Lnfkogy1ffiwahnbdbj31kw2dcqf6.jpg"><img src="https://wx3.sinaimg.cn/thumb150/006Lnfkogy1ffiwahnbdbj31kw2dcqf6.jpg" /></a>
   </li>
 </ul>
 
@@ -62,8 +62,8 @@ categories: [ 'yi-an-multimedia-centre' ]
 
 LIN Jia-hao did great in acting, led the werewolves to the victory with a lone hand! Awesome! [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac)
 
-<a href="http://wx2.sinaimg.cn/mw690/006Lnfkogy1ffivnhxwkoj31kw2dcn8j.jpg">
-  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006Lnfkogy1ffivnhxwkoj31kw2dcn8j.jpg" />
+<a href="https://wx2.sinaimg.cn/mw690/006Lnfkogy1ffivnhxwkoj31kw2dcn8j.jpg">
+  <img class="weibo-pic-preview" src="https://wx2.sinaimg.cn/orj360/006Lnfkogy1ffivnhxwkoj31kw2dcn8j.jpg" />
 </a>
 
 ---
@@ -76,13 +76,13 @@ LIN Jia-hao did great in acting, led the werewolves to the victory with a lone h
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/006Lnfkogy1ffivkuw24ej31kw2dcajv.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Lnfkogy1ffivkuw24ej31kw2dcajv.jpg" /></a>
+    <a href="https://wx3.sinaimg.cn/mw690/006Lnfkogy1ffivkuw24ej31kw2dcajv.jpg"><img src="https://wx3.sinaimg.cn/thumb150/006Lnfkogy1ffivkuw24ej31kw2dcajv.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1ffivkzixr0j31kw2dcqep.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Lnfkogy1ffivkzixr0j31kw2dcqep.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Lnfkogy1ffivkzixr0j31kw2dcqep.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006Lnfkogy1ffivkzixr0j31kw2dcqep.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1ffivl7yazyj31kw2dbqea.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Lnfkogy1ffivl7yazyj31kw2dbqea.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Lnfkogy1ffivl7yazyj31kw2dbqea.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006Lnfkogy1ffivl7yazyj31kw2dbqea.jpg" /></a>
   </li>
 </ul>
 
@@ -94,8 +94,8 @@ LIN Jia-hao did great in acting, led the werewolves to the victory with a lone h
 
 [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) The tricky LIN Mo exposed his identity by accident when speaking, had no choice but to self-expose. :laughing:×3
 
-<a href="http://wx2.sinaimg.cn/mw690/006Lnfkogy1ffiup3yftpj31kw11xgqx.jpg">
-  <img class="weibo-pic-preview-h" src="http://wx2.sinaimg.cn/orj360/006Lnfkogy1ffiup3yftpj31kw11xgqx.jpg" />
+<a href="https://wx2.sinaimg.cn/mw690/006Lnfkogy1ffiup3yftpj31kw11xgqx.jpg">
+  <img class="weibo-pic-preview-h" src="https://wx2.sinaimg.cn/orj360/006Lnfkogy1ffiup3yftpj31kw11xgqx.jpg" />
 </a>
 
 ---
@@ -106,8 +106,8 @@ LIN Jia-hao did great in acting, led the werewolves to the victory with a lone h
 
 Brother Pup praised ZHAN Yi-wen as progressing rapidly, and passed on skills of the game of *Werewolf*. Thank you, [@WittyCrazyPup](http://weibo.com/u/5706219726) and [@LOLUniversalBigCousin](http://weibo.com/yuzhoujieshuo) for the earnest instruction to the members of Yi An Music Club! [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac)
 
-<a href="http://wx2.sinaimg.cn/mw690/006Lnfkogy1ffitigh11yj31kw11xjxm.jpg">
-  <img class="weibo-pic-preview-h" src="http://wx2.sinaimg.cn/orj360/006Lnfkogy1ffitigh11yj31kw11xjxm.jpg" />
+<a href="https://wx2.sinaimg.cn/mw690/006Lnfkogy1ffitigh11yj31kw11xjxm.jpg">
+  <img class="weibo-pic-preview-h" src="https://wx2.sinaimg.cn/orj360/006Lnfkogy1ffitigh11yj31kw11xjxm.jpg" />
 </a>
 
 ---
@@ -120,16 +120,16 @@ Brother Pup praised ZHAN Yi-wen as progressing rapidly, and passed on skills of 
 
 <ul class="weibo-pic-list-2">
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1ffit3vvki3j31kw2dc13a.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Lnfkogy1ffit3vvki3j31kw2dc13a.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Lnfkogy1ffit3vvki3j31kw2dc13a.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006Lnfkogy1ffit3vvki3j31kw2dc13a.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/006Lnfkogy1ffit3q3iqjj31kw2dck44.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006Lnfkogy1ffit3q3iqjj31kw2dck44.jpg" /></a>
+    <a href="https://wx3.sinaimg.cn/mw690/006Lnfkogy1ffit3q3iqjj31kw2dck44.jpg"><img src="https://wx3.sinaimg.cn/thumb150/006Lnfkogy1ffit3q3iqjj31kw2dck44.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/006Lnfkogy1ffit3wpabvj31kw2dctka.jpg"><img src="http://wx1.sinaimg.cn/thumb150/006Lnfkogy1ffit3wpabvj31kw2dctka.jpg" /></a>
+    <a href="https://wx1.sinaimg.cn/mw690/006Lnfkogy1ffit3wpabvj31kw2dctka.jpg"><img src="https://wx1.sinaimg.cn/thumb150/006Lnfkogy1ffit3wpabvj31kw2dctka.jpg" /></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/006Lnfkogy1ffit9sex7xj31kw22u7g0.jpg"><img src="http://wx2.sinaimg.cn/thumb150/006Lnfkogy1ffit9sex7xj31kw22u7g0.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/006Lnfkogy1ffit9sex7xj31kw22u7g0.jpg"><img src="https://wx2.sinaimg.cn/thumb150/006Lnfkogy1ffit9sex7xj31kw22u7g0.jpg" /></a>
   </li>
 </ul>
 
@@ -148,8 +148,8 @@ Brother Pup praised ZHAN Yi-wen as progressing rapidly, and passed on skills of 
 
 CHI Yi: “Stammering or not, I am always a good one.” Hahaha! Adorable! Let's wait to see the wonderful performance of the little angel. [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac)
 
-<a href="http://wx3.sinaimg.cn/mw690/006Lnfkogy1ffiszyzo7gj31kw2dctjk.jpg">
-  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006Lnfkogy1ffiszyzo7gj31kw2dctjk.jpg" />
+<a href="https://wx3.sinaimg.cn/mw690/006Lnfkogy1ffiszyzo7gj31kw2dctjk.jpg">
+  <img class="weibo-pic-preview" src="https://wx3.sinaimg.cn/orj360/006Lnfkogy1ffiszyzo7gj31kw2dctjk.jpg" />
 </a>
 
 ---
@@ -160,8 +160,8 @@ CHI Yi: “Stammering or not, I am always a good one.” Hahaha! Adorable! Let's
 
 [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) [#TripleKill](http://weibo.com/p/100808d614267acb9089db17679bfac43299ac) Episode 4 is live! New contestant [@MouZi_soso](http://weibo.com/sosomu) joined the game. Please applaud and welcome!
 
-<a href="http://wx4.sinaimg.cn/mw690/006Lnfkogy1ffisu4b4gsj31kw2dcanx.jpg">
-  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006Lnfkogy1ffisu4b4gsj31kw2dcanx.jpg" />
+<a href="https://wx4.sinaimg.cn/mw690/006Lnfkogy1ffisu4b4gsj31kw2dcanx.jpg">
+  <img class="weibo-pic-preview" src="https://wx4.sinaimg.cn/orj360/006Lnfkogy1ffisu4b4gsj31kw2dcanx.jpg" />
 </a>
 
 **Comments**

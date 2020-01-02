@@ -13,7 +13,7 @@ It's a long time since the last post. Are you sleeping? ![sleep](http://img.t.si
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006FmVn8gy1fjsy0zq9jkj30qo0qo426.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006FmVn8gy1fjsy0zq9jkj30qo0qo426.jpg)
 
 *Comments*
 

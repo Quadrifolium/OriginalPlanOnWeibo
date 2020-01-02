@@ -13,7 +13,7 @@ A selfie with my companion – cello. :yum:×2
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/006G0KNGgy1ffoibr2jszj30zk0qoq5r.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/006G0KNGgy1ffoibr2jszj30zk0qoq5r.jpg)
 
 **Comments**
 

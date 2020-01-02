@@ -13,4 +13,4 @@ Another peaceful day. Shall I repost *People's Daily*, or something else? ![doge
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006D4NLGgy1ff9vb98m5mj30bi0biaao.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006D4NLGgy1ff9vb98m5mj30bi0biaao.jpg)

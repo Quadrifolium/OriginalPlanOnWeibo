@@ -15,9 +15,9 @@ Today's puppet is a dragon. My father brought it from Canada. [Joyful][Joyful]
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx1.sinaimg.cn/mw690/0076h5Fhgy1frq99rrk1vj30k00zk75h.jpg"><img src="http://wx1.sinaimg.cn/thumb150/0076h5Fhgy1frq99rrk1vj30k00zk75h.jpg"/></a>
+    <a href="https://wx1.sinaimg.cn/mw690/0076h5Fhgy1frq99rrk1vj30k00zk75h.jpg"><img src="https://wx1.sinaimg.cn/thumb150/0076h5Fhgy1frq99rrk1vj30k00zk75h.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx2.sinaimg.cn/mw690/0076h5Fhgy1frq99qzsnej30k00zkmy5.jpg"><img src="http://wx2.sinaimg.cn/thumb150/0076h5Fhgy1frq99qzsnej30k00zkmy5.jpg"/></a>
+    <a href="https://wx2.sinaimg.cn/mw690/0076h5Fhgy1frq99qzsnej30k00zkmy5.jpg"><img src="https://wx2.sinaimg.cn/thumb150/0076h5Fhgy1frq99qzsnej30k00zkmy5.jpg"/></a>
   </li>
 </ul>

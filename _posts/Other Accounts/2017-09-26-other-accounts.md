@@ -16,8 +16,8 @@ categories: [ 'other-accounts' ]
 
 <!-- more -->
 
-<a href="http://wx1.sinaimg.cn/mw690/80fad899gy1fjx1dbrr6rj23vc2kw1ky.jpg">
-  <img class="weibo-pic-preview-h" src="http://wx1.sinaimg.cn/orj360/80fad899gy1fjx1dbrr6rj23vc2kw1ky.jpg" />
+<a href="https://wx1.sinaimg.cn/mw690/80fad899gy1fjx1dbrr6rj23vc2kw1ky.jpg">
+  <img class="weibo-pic-preview-h" src="https://wx1.sinaimg.cn/orj360/80fad899gy1fjx1dbrr6rj23vc2kw1ky.jpg" />
 </a>
 
 ---

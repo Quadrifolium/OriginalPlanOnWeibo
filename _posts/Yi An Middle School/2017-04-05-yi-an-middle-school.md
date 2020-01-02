@@ -13,4 +13,4 @@ Urgent: According to the decision of the board of Yi An Middle School, the old b
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006D4NLGgy1fec8d5iaexj3074074glk.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006D4NLGgy1fec8d5iaexj3074074glk.jpg)

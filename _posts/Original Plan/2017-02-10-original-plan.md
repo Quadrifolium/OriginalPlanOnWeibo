@@ -13,7 +13,7 @@ categories: [ 'original-plan' ]
 <!-- more -->
 
 *Image*  
-![Image](http://wx1.sinaimg.cn/mw690/0068MnXXgy1fclb31zzc1j31kw1cq4qq.jpg)  
+![Image](https://wx1.sinaimg.cn/mw690/0068MnXXgy1fclb31zzc1j31kw1cq4qq.jpg)  
 *Words in image:*  
 Yi An Middle School  
 CHI Yi (Student in Class 2, Junior Grade 1)  

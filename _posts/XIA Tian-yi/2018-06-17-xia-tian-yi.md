@@ -13,6 +13,6 @@ The cooler and smarter dad, happy holiday. ![cool](https://img.t.sinajs.cn/t4/ap
 
 <!-- more -->
 
-<a href="http://wx2.sinaimg.cn/mw690/006RpxDlly1fse55psuv9j32ba2fjb29.jpg">
-  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006RpxDlly1fse55psuv9j32ba2fjb29.jpg" />
+<a href="https://wx2.sinaimg.cn/mw690/006RpxDlly1fse55psuv9j32ba2fjb29.jpg">
+  <img class="weibo-pic-preview" src="https://wx2.sinaimg.cn/orj360/006RpxDlly1fse55psuv9j32ba2fjb29.jpg" />
 </a>

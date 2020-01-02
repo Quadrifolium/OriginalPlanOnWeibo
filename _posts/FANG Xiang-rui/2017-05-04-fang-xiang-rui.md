@@ -13,9 +13,9 @@ Adorable Luo-luo, happy birthday. Surprised? All right, after having the cake, i
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/006G0KNGgy1ff9j7a31koj30zj0qoaim.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/006G0KNGgy1ff9j7a31koj30zj0qoaim.jpg)
 
-![Image](http://wx1.sinaimg.cn/mw690/006G0KNGgy1ff9j78169zj30zj0qo49d.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006G0KNGgy1ff9j78169zj30zj0qo49d.jpg)
 
 **Comments**
 

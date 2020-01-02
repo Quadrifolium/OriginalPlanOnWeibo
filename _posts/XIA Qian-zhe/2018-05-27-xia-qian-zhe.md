@@ -13,6 +13,6 @@ Tomorrow is a brave new day. Let's keep striving!
 
 <!-- more -->
 
-<a href="http://wx4.sinaimg.cn/mw690/0076g4Wmgy1frq97kaj6fj30ku112kjl.jpg">
-  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/0076g4Wmgy1frq97kaj6fj30ku112kjl.jpg" />
+<a href="https://wx4.sinaimg.cn/mw690/0076g4Wmgy1frq97kaj6fj30ku112kjl.jpg">
+  <img class="weibo-pic-preview" src="https://wx4.sinaimg.cn/orj360/0076g4Wmgy1frq97kaj6fj30ku112kjl.jpg" />
 </a>

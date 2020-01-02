@@ -14,8 +14,8 @@ Parents and friends, do you know how to keep fit after having two birthday cakes
 
 <!-- more -->
 
-<a href="http://wx2.sinaimg.cn/mw690/006D4NLGgy1fr9v81dy5yj30u01hc7wh.jpg">
-  <img class="weibo-pic-preview" src="http://wx2.sinaimg.cn/orj360/006D4NLGgy1fr9v81dy5yj30u01hc7wh.jpg" />
+<a href="https://wx2.sinaimg.cn/mw690/006D4NLGgy1fr9v81dy5yj30u01hc7wh.jpg">
+  <img class="weibo-pic-preview" src="https://wx2.sinaimg.cn/orj360/006D4NLGgy1fr9v81dy5yj30u01hc7wh.jpg" />
 </a>
 
 ---

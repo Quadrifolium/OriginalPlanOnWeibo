@@ -13,7 +13,7 @@ categories: [ 'yi-an-music-club' ]
 <!-- more -->
 
 *Image*  
-![Image](http://wx2.sinaimg.cn/mw690/006Es64Agy1fchsxqma7dj31kw1cqnpd.jpg)  
+![Image](https://wx2.sinaimg.cn/mw690/006Es64Agy1fchsxqma7dj31kw1cqnpd.jpg)  
 *Words in image:*  
 Yi An Middle School  
 LIN Mo (Student in Class 7, Junior Grade 2)  

@@ -13,9 +13,9 @@ This was the first time I stood on such a big stage. Compared with being nervous
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006FnS5mgy1fehbhepubqj30k00zkjto.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/006FnS5mgy1fehbhepubqj30k00zkjto.jpg)
 
-![Image](http://wx1.sinaimg.cn/mw690/006FnS5mgy1fehbhfipyfj30k00zkq72.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006FnS5mgy1fehbhfipyfj30k00zkq72.jpg)
 
 **Comments**
 

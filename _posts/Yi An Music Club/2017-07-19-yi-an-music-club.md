@@ -13,7 +13,7 @@ A load of big news. [#YiAnGoodNight](http://weibo.com/p/10080892b104a59bff303ca8
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/006Es64Agy1fhpkxnwbbgj328h33ihdv.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/006Es64Agy1fhpkxnwbbgj328h33ihdv.jpg)
 
 *Words in image:*
 

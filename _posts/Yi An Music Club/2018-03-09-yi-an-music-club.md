@@ -26,6 +26,6 @@ Note:
 
 [#YiAnMusicClub](https://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2/super_index) The new school uniform's handed out, but the leader's looks not quite suitable.
 
-<a href="http://wx4.sinaimg.cn/mw690/006Es64Agy1fp6e3evxasj30m8b28b2c.jpg">
-  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006Es64Agy1fp6e3evxasj30m8b28b2c.jpg" />
+<a href="https://wx4.sinaimg.cn/mw690/006Es64Agy1fp6e3evxasj30m8b28b2c.jpg">
+  <img class="weibo-pic-preview" src="https://wx4.sinaimg.cn/orj360/006Es64Agy1fp6e3evxasj30m8b28b2c.jpg" />
 </a>

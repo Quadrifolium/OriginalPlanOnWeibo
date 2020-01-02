@@ -15,9 +15,9 @@ The recording finished today. Thank you for coming. Thank you, all the staff at 
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/006FmVn8ly1frozd3ea8dj30qo0zitdo.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006FmVn8ly1frozd3ea8dj30qo0zitdo.jpg"/></a>
+    <a href="https://wx3.sinaimg.cn/mw690/006FmVn8ly1frozd3ea8dj30qo0zitdo.jpg"><img src="https://wx3.sinaimg.cn/thumb150/006FmVn8ly1frozd3ea8dj30qo0zitdo.jpg"/></a>
   </li>
   <li class="weibo-pic">
-    <a href="http://wx3.sinaimg.cn/mw690/006FmVn8ly1frozd1i8y0j30qo0zigr2.jpg"><img src="http://wx3.sinaimg.cn/thumb150/006FmVn8ly1frozd1i8y0j30qo0zigr2.jpg"/></a>
+    <a href="https://wx3.sinaimg.cn/mw690/006FmVn8ly1frozd1i8y0j30qo0zigr2.jpg"><img src="https://wx3.sinaimg.cn/thumb150/006FmVn8ly1frozd1i8y0j30qo0zigr2.jpg"/></a>
   </li>
 </ul>

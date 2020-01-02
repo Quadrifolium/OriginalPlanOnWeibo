@@ -13,7 +13,7 @@ Throwing myself into study these days. :v:
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006FnS5mgy1ffgdmgivfej30m80ckt9z.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006FnS5mgy1ffgdmgivfej30m80ckt9z.jpg)
 
 Note:
 1. This post is probably about the senior middle school entrance examination.

@@ -18,7 +18,7 @@ It's weekend time! This week is passing so fast. Do you have the same feeling? T
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="https://wx2.sinaimg.cn/mw690/97628667gy1fl51zp2enoj20ku0v9gn8.jpg"><img src="http://wx2.sinaimg.cn/thumb150/97628667gy1fl51zp2enoj20ku0v9gn8.jpg" /></a>
+    <a href="https://wx2.sinaimg.cn/mw690/97628667gy1fl51zp2enoj20ku0v9gn8.jpg"><img src="https://wx2.sinaimg.cn/thumb150/97628667gy1fl51zp2enoj20ku0v9gn8.jpg" /></a>
   </li>
 </ul>
 
@@ -35,6 +35,6 @@ Buddies, JVC official account on WeChat will have photos of the boys in Yi An Mu
 
 <ul class="weibo-pic-list-1">
   <li class="weibo-pic">
-    <a href="https://wx3.sinaimg.cn/mw690/97628667gy1fl4tzqhyetj20rs0kutj3.jpg"><img src="http://wx3.sinaimg.cn/thumb150/97628667gy1fl4tzqhyetj20rs0kutj3.jpg" /></a>
+    <a href="https://wx3.sinaimg.cn/mw690/97628667gy1fl4tzqhyetj20rs0kutj3.jpg"><img src="https://wx3.sinaimg.cn/thumb150/97628667gy1fl4tzqhyetj20rs0kutj3.jpg" /></a>
   </li>
 </ul>

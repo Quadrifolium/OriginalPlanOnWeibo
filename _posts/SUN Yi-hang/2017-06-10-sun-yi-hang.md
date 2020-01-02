@@ -13,4 +13,4 @@ Have you watched *Yi An Fun Time After School*? I've finished~
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/006FnS5mly1fgg6e2mk8jj30qo140445.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/006FnS5mly1fgg6e2mk8jj30qo140445.jpg)

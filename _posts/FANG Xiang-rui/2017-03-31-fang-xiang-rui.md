@@ -13,7 +13,7 @@ Xiao Huang Ge told me to post this. :ok_hand:
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006G0KNGgy1fe6cn8v74aj30zk0qotcs.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006G0KNGgy1fe6cn8v74aj30zk0qotcs.jpg)
 
 **Comments**
 
@@ -42,12 +42,12 @@ Note:
 
 I've said I won't let off your ugly photos.
 
-![Image](http://wx2.sinaimg.cn/mw690/006G0KNGgy1fe6bmjng72j30qo0zk76i.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006G0KNGgy1fe6bmjng72j30qo0zk76i.jpg)
 
 **Comments**
 
 <div class="weibo-post">2017-03-31 22:11</div>
-[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Look at the sticker. [▨ Image](http://wx4.sinaimg.cn/bmiddle/006FmVn8ly1fe6dobvl1ej30k00iz0tj.jpg)
+[YiAnMusicClub-ZhanYiWen](http://weibo.com/u/6108090526): Look at the sticker. [▨ Image](https://wx4.sinaimg.cn/bmiddle/006FmVn8ly1fe6dobvl1ej30k00iz0tj.jpg)
 
 Note:
 1. Words on the image in the comment of ZHAN Yi-wen: With genial smile.

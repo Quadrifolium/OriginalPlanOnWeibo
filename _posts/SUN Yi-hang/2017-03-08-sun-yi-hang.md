@@ -13,9 +13,9 @@ School emblem – GET ![greedy](http://img.t.sinajs.cn/t4/appstyle/expression/ex
 
 <!-- more -->
 
-![Image 1](http://wx3.sinaimg.cn/mw690/006FnS5mgy1fdfnu87t6oj30zk0qo0ud.jpg)
+![Image 1](https://wx3.sinaimg.cn/mw690/006FnS5mgy1fdfnu87t6oj30zk0qo0ud.jpg)
 
-![Image 2](http://wx4.sinaimg.cn/mw690/006FnS5mgy1fdfnu8nry1j30qo0zktem.jpg)  
+![Image 2](https://wx4.sinaimg.cn/mw690/006FnS5mgy1fdfnu8nry1j30qo0zktem.jpg)  
 
 **Comments**
 

@@ -13,4 +13,4 @@ Good night. Share a photo during recording. (No more photos!)
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006G0KNGly1felfzwy26gj30qo0zkagp.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006G0KNGly1felfzwy26gj30qo0zkagp.jpg)

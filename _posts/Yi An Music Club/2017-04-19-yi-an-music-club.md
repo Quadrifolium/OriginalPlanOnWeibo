@@ -13,7 +13,7 @@ categories: [ 'yi-an-music-club' ]
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/006Es64Aly1fes8dr743ej31jk17u7wj.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/006Es64Aly1fes8dr743ej31jk17u7wj.jpg)
 
 ---
 
@@ -23,7 +23,7 @@ categories: [ 'yi-an-music-club' ]
 
 People say that [#YiAnMusicClub](http://weibo.com/p/100808beae2e3e05b17b64f63ebedca39f19b2) is a club that only an idiot wants to join~ So, in *Triple Kill* … it is likely to have cases such as all the Ordinary Townsfolks vote for the Seer, the Witch poisoned the Seer, the Hunter takes the Seer away, the Seer provides golden liquid to a Werewolf, a Werewolf becomes the Sheriff … ![Husky](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png) But what the actual case will be? Do please watch the live on Panda TV, at 20:00 this Friday~
 
-![Image](http://wx3.sinaimg.cn/mw690/006Es64Aly1fer6cj1sxuj31jk2bcx6v.jpg)  
+![Image](https://wx3.sinaimg.cn/mw690/006Es64Aly1fer6cj1sxuj31jk2bcx6v.jpg)  
 *Words in image:*  
 **Triple Kill**  
 At 8 p.m. Fridays, from 21st April  

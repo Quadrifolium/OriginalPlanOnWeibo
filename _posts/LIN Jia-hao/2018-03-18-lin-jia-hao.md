@@ -13,6 +13,6 @@ I'm in the same team with LIN Mo *ge*~ but~ Hmhm~ ![cool](https://img.t.sinajs.c
 
 <!-- more -->
 
-<a href="http://wx1.sinaimg.cn/mw690/006Mi0jTgy1fph4yznktej30u01hcaej.jpg">
-  <img class="weibo-pic-preview" src="http://wx1.sinaimg.cn/orj360/006Mi0jTgy1fph4yznktej30u01hcaej.jpg" />
+<a href="https://wx1.sinaimg.cn/mw690/006Mi0jTgy1fph4yznktej30u01hcaej.jpg">
+  <img class="weibo-pic-preview" src="https://wx1.sinaimg.cn/orj360/006Mi0jTgy1fph4yznktej30u01hcaej.jpg" />
 </a>

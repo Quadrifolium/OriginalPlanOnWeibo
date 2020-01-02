@@ -13,7 +13,7 @@ categories: [ 'yi-an-middle-school' ]
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006D4NLGgy1fgig2y3hg0j30zk0qoq9q.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/006D4NLGgy1fgig2y3hg0j30zk0qoq9q.jpg)
 
 Note:
 1. The image shows self-criticism paper from FANG Xiang-rui.

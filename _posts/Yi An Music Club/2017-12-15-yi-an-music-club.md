@@ -51,7 +51,7 @@ categories: [ 'yi-an-music-club' ]
 ---
 
 <a href="https://wx3.sinaimg.cn/mw690/006Es64Aly1fmh840urblj31jk2i1u0x.jpg">
-  <img class="weibo-pic-preview" src="http://wx3.sinaimg.cn/orj360/006Es64Aly1fmh840urblj31jk2i1u0x.jpg" />
+  <img class="weibo-pic-preview" src="https://wx3.sinaimg.cn/orj360/006Es64Aly1fmh840urblj31jk2i1u0x.jpg" />
 </a>
 
 *Words in image:*

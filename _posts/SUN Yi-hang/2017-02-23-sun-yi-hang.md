@@ -12,7 +12,7 @@ Voila~ A selfie. ![sun](http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal
 
 <!-- more -->
 
-![Image](http://wx1.sinaimg.cn/mw690/006FnS5mgy1fd0a4rdc15j30kp0kxt8t.jpg)
+![Image](https://wx1.sinaimg.cn/mw690/006FnS5mgy1fd0a4rdc15j30kp0kxt8t.jpg)
 
 **Comments**
 

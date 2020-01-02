@@ -13,4 +13,4 @@ When I pass by the canteen at noon, some students raised a concern that the mobi
 
 <!-- more -->
 
-![Image](http://wx3.sinaimg.cn/mw690/006D4NLGgy1fhfu0j22qwj33402c0x6p.jpg)
+![Image](https://wx3.sinaimg.cn/mw690/006D4NLGgy1fhfu0j22qwj33402c0x6p.jpg)

@@ -13,7 +13,7 @@ categories: [ 'fang-xiang-rui' ]
 
 <!-- more -->
 
-![Image](http://wx4.sinaimg.cn/mw690/006G0KNGgy1fj5guk53ydj30k00zk79i.jpg)
+![Image](https://wx4.sinaimg.cn/mw690/006G0KNGgy1fj5guk53ydj30k00zk79i.jpg)
 
 *Comments*
 

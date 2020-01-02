@@ -13,6 +13,6 @@ The day with the fellows are very happy :smiley:!
 
 <!-- more -->
 
-<a href="http://wx1.sinaimg.cn/mw690/0076h6Aygy1fpo8d7mwmxj30v90fgtcg.jpg">
-  <img class="weibo-pic-preview-h" src="http://wx1.sinaimg.cn/orj360/0076h6Aygy1fpo8d7mwmxj30v90fgtcg.jpg" />
+<a href="https://wx1.sinaimg.cn/mw690/0076h6Aygy1fpo8d7mwmxj30v90fgtcg.jpg">
+  <img class="weibo-pic-preview-h" src="https://wx1.sinaimg.cn/orj360/0076h6Aygy1fpo8d7mwmxj30v90fgtcg.jpg" />
 </a>

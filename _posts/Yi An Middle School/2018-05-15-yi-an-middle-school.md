@@ -14,8 +14,8 @@ It is [@YiAnMiddleSchool-YeXiaoAo](https://weibo.com/u/6340485168)'s 12th birthd
 
 <!-- more -->
 
-<a href="http://wx4.sinaimg.cn/mw690/006D4NLGgy1frcdp9x5mej33402c01ky.jpg">
-  <img class="weibo-pic-preview" src="http://wx4.sinaimg.cn/orj360/006D4NLGgy1frcdp9x5mej33402c01ky.jpg" />
+<a href="https://wx4.sinaimg.cn/mw690/006D4NLGgy1frcdp9x5mej33402c01ky.jpg">
+  <img class="weibo-pic-preview" src="https://wx4.sinaimg.cn/orj360/006D4NLGgy1frcdp9x5mej33402c01ky.jpg" />
 </a>
 
 ---

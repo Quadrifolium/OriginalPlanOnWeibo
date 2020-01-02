@@ -13,4 +13,4 @@ Hello, this is FANG Xiang-rui. My mobile was taken away, so I use this account t
 
 <!-- more -->
 
-![Image](http://wx2.sinaimg.cn/mw690/006Es64Agy1fgp5py0bqxj30qo0zktfb.jpg)
+![Image](https://wx2.sinaimg.cn/mw690/006Es64Agy1fgp5py0bqxj30qo0zktfb.jpg)
